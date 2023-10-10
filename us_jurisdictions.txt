@@ -1,0 +1,131 @@
+=======================================
+================ Index ================
+=======================================
+
+0000 - 0100 - US States & Territories
+0101 - 0449 - Indian Reservations
+0450 - 0567 - Historical Reservations
+0600 - 3731 - Counties
+3800 - 3919 - Defunct Counties
+4000 - 9899 - Cities
+9900 - 9999 - Cities of Indefinite Identity
+
+=======================================
+================ Notes ================
+=======================================
+
+http://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code
+
+The state codes mostly make sense, but the county codes are a mess. They're only unique
+within a state, as opposed to being nationally unique, and furthermore they skip numbers.
+It's not as if we're going to be creating many new counties anytime soon.
+
+=======================================
+======= US States & Territories =======
+=======================================
+
+0000 - Alabama
+0001 - Alaska
+0002 - Arizona
+0003 - Arkansas
+0004 - California
+0005 - Colorado
+0006 - Connecticut
+0007 - Delaware
+0008 - Florida
+0009 - Georgia
+0010 - Hawaii
+0011 - Idaho
+0012 - Illinois
+0013 - Indiana
+0014 - Iowa
+0015 - Kansas
+0016 - Kentucky
+0017 - Lousiana
+0018 - Maine
+0019 - Maryland
+0020 - Massachusetts
+0021 - Michigan
+0022 - Minnesota
+0023 - Mississippi
+0024 - Missouri
+0025 - Montana
+0026 - Nebraska
+0027 - Nevada
+0028 - New Hampshire
+0029 - New Jersey
+0030 - New Mexico
+0031 - New York
+0032 - North Carolina
+0033 - North Dakota
+0034 - Ohio
+0035 - Oklahoma
+0036 - Oregon
+0037 - Pennsylvania
+0038 - Rhode Island
+0039 - South Carolina
+0040 - South Dakota
+0041 - Tennessee
+0042 - Texas
+0043 - Utah
+0044 - Vermont
+0045 - Virginia
+0046 - Washington
+0047 - West Virginia
+0048 - Wisconsin
+0049 - Wyoming
+    0050-0059 - [RESERVED FOR CREATION OF NEW US STATES]
+0060 - Guam
+0061 - Northern Mariana Islands
+0062 - Puerto Rico
+0063 - US Virgin Islands
+    0064-0097 - [RESERVED FOR CREATION OF NEW US TERRITORIES]
+0098 - Ambiguous or Undescribed State
+0099 - State Fabricated by Author
+
+=======================================
+========= Indian Reservations =========
+=======================================
+
+=======================================
+=== Historical Indian Reservations ====
+=======================================
+
+=======================================
+===     US Counties, Parishes,      ===
+=== Burroughs, & County Equivalents ===
+=======================================
+
+=======================================
+======    Defunct Counties &    =======
+======    County Equivalents    =======
+=======================================
+
+=======================================
+======= US Cities (Pop. 10,000+) ======
+=======================================
+
+Note: Some cities may have non-sequential codes since some are considered county-equivalents.
+
+
+
+    9500-9899 - [RESERVED FOR CITIES NEWLY POPULATED ABOVE 5,000]
+    
+=======================================
+============ Miscellaneous ============
+=======================================
+
+9900 - [RESERVED]
+9901 - Small City Not in List
+9902 - Large Town Not in List
+9903 - Small Town Not in List
+9904 - Village Not in List
+    9905-9909 - [RESERVED]
+9910 - 
+    9915-9919 - [RESERVED]
+9920 - Large City Fabricated by Author
+9921 - Small City Fabricated by Author
+9922 - Large Town Fabricated by Author
+9923 - Small Town Fabricated by Author
+9924 - Village Fabricated by Author
+    9925-9999 - [RESERVED]
