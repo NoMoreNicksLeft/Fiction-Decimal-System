@@ -2,8 +2,8 @@
 ================ Index ================
 =======================================
 
-0000 - 0100 - US States & Territories
-0101 - 0449 - Indian Reservations
+0000 - 0099 - US States & Territories
+0100 - 0449 - Indian Reservations
 0450 - 0567 - Historical Reservations
 0600 - 3731 - Counties
 3800 - 3919 - Defunct Counties
@@ -87,9 +87,439 @@ It's not as if we're going to be creating many new counties anytime soon.
 ========= Indian Reservations =========
 =======================================
 
+Note: Where two reservations were named identically, disambiguation by state/location in parenthesis.
+
+0100    Acoma Indian Reservation
+0101    Agua Caliente Indian Reservation
+0102    Alabama-Coushatta Indian Reservation
+0103    Allegany Reservation
+0104    Bad River Reservation
+0105    Barona Reservation
+0106    Battle Mountain Reservation
+0107    Bay Mills Indian Community
+0108    Benton Paiute Reservation
+0109    Berry Creek Rancheria
+0110    Big Bend Rancheria
+0111    Big Cypress Indian Reservation
+0112    Big Lagoon Rancheria
+0113    Big Pine Reservation
+0114    Big Valley Rancheria
+0115    Bishop Colony
+0116    Blackfeet Nation
+0117    Bridgeport Paiute Indian Colony
+0118    Brighton Indian Reservation
+0119    Burns Paiute Indian Colony
+0120    Cabazon Indian Reservation
+0121    Caddo Nation
+0122    Cahuilla Reservation
+0123    Campo Indian Reservation
+0124    Camp Verde Indian Reservation
+0125    Tohajiilee Indian Reservation
+0126    Capitan Grande Reservation
+0127    Carson Colony
+0128    Catawba Indian Nation
+0129    Cattaraugus Reservation
+0130    Cayuga Nation
+0131    Cedarville Rancheria
+0132    Chehalis Indian Reservation
+0133    Chemehuevi Reservation
+0134    Cherokee Nation
+0135    Cheyenne and Arapaho Indian Reservation
+0136    Cheyenne River Indian Reservation
+0137    Chickasaw Nation
+0138    Chitimacha Indian Reservation
+0139    Choctaw Indian Reservation
+0140    Citizen Potawatomi Nation
+0141    Pueblo de Cochiti
+0142    Coeur d'Alene Reservation
+0143    Cold Springs Rancheria
+0144    Colorado River Indian Reservation
+0145    Colville Indian Reservation
+0146    Coos, Lower Umpqua, and Siuslaw Indian Reservation
+0147    Coquille Indian Reservation
+0148    Cortina Indian Rancheria
+0149    Coushatta Indian Reservation
+0150    Cow Creek Indian Reservation
+0151    Creek TJA
+0152    Crow Indian Reservation
+0153    Crow Creek Indian Reservation
+0154    Ewiiaapaayp Indian Reservation
+0155    Deer Creek Indian Reservation
+0156    Devil's Lake Reservation
+0157    Dresslerville Colony
+0158    Dry Creek Rancheria
+0159    Duckwater Reservation
+0160    Duck Valley Indian Reservation
+0161    Eastern Shawnee TJA
+0162    Cocopah Indian Reservation
+0163    Ely Shoshone Indian Reservation
+0164    Enterprise Rancheria
+0165    Fallon Reservation
+0166    Flandreau Indian Reservation
+0167    Flathead Indian Reservation
+0168    Fond du Lac Indian Reservation
+0169    Fort Apache Indian Reservation
+0170    Fort Belknap Indian Reservation
+0171    Fort Berthold Indian Reservation
+0172    Fort Bidwell Reservation
+0173    Fort Hall Indian Reservation
+0174    Fort Independence Reservation
+0175    Fort McDermitt Indian Reservation
+0176    Fort McDowell Yavapai Nation
+0177    Fort Mojave Indian Reservation
+0178    Fort Peck Indian Reservation
+0179    Fort Yuma Indian Reservation
+0180    Ft. Sill Apache TJA
+0181    Gila Bend Reservation
+0182    Gila River Indian Community
+0183    Goshute Reservation
+0184    Grand Ronde Community
+0185    Grand Portage Indian Reservation
+0186    Grand Traverse Indian Reservation
+0187    Leech Lake Indian Reservation
+0188    Grindstone Rancheria
+0189    Hannahville Indian Community
+0190    Havasupai Indian Reservation
+0191    Hoh Indian Reservation
+0192    Hollywood Seminole Indian Reservation
+0193    Hoopa Valley Indian Reservation
+0194    Hopi Reservation
+0195    Houlton Maliseet Trust Land
+0196    Hualapai Indian Reservation
+0197    Inaja and Cosmit Reservation
+0198    Iowa Reservation
+0199    Isabella Indian Reservation
+0200    Isleta Pueblo
+0201    Jackson Rancheria
+0202    Jemez Pueblo
+0203    Jicarilla Apache Indian Reservation
+0204    Kaibab Indian Reservation
+0205    Kalispel Indian Reservation
+0206    Kaw Nation
+0207    Kialegee Tribal Town
+0208    Kickapoo Indian Reservation         (KS)
+0209    Kickapoo Indian Reservation         (TX)
+0210    Klamath Indian Reservation
+0211    Kootenai Reservation
+0212    L'Anse Indian Reservation
+0213    Lac Courte Oreilles Indian Reservation
+0214    Lac du Flambeau Indian Reservation
+0215    Lac Vieux Desert Indian Reservation
+0216    Laguna Pueblo
+0217    Las Vegas Indian Colony
+0218    Laytonville Rancheria
+0219    La Jolla Indian Reservation
+0220    La Posta Reservation
+0221    Likely Rancheria
+0222    Lone Pine Reservation
+0223    Lookout Rancheria
+0224    Los Coyotes Reservation
+0225    Lovelock Indian Colony
+0226    Lower Brul� Indian Reservation
+0227    Lower Elwah Reservation
+0228    Lower Sioux Indian Reservation
+0229    Lummi Indian Reservation
+0230    Makah Reservation
+0231    Manchester-Point Arena Rancheria
+0232    Manzanita Reservation
+0233    Ak-Chin Indian Community
+0234    Mashantucket Pequot Indian Reservation
+0235    Match-e-be-nash-she-wish Reservation
+0236    Mattaponi Indian Reservation
+0237    Menominee Indian Reservation
+0238    Mescalero Apache Reservation
+0239    Miami TJA
+0240    Miccosukee Indian Reservation
+0241    Middletown Rancheria
+0242    Mille Lacs Indian Reservation
+0243    MISSION
+0244    Moapa River Indian Reservation
+0245    Modoc TJA
+0246    Mole Lake Indian Reservation
+0247    Montgomery Creek Rancheria
+0248    Morongo Reservation
+0249    Muckleshoot Reservation
+0250    Nambe Pueblo
+0251    Narragansett Indian Reservation
+0252    Navajo Nation
+0253    Nett Lake Indian Reservation
+0254    Nez Perce Indian Reservation
+0255    Hassanamesit Reservation
+0256    Nisqually Indian Reservation
+0257    Nooksack Indian Reservation
+0258    Northern Cheyenne Indian Reservation
+0259    Northwestern Shoshone Indian Reservation
+0260    Oil Springs Reservation
+0261    Omaha Indian Reservation
+0262    Oneida Indian Nation
+0263    Onondaga Reservation
+0264    Ontonagon Indian Reservation
+0265    Osage Nation
+0266    Otoe-Missouria TJA
+0267    Ottawa TJA
+0268    Ozette Indian Reservation
+0269    Paiute Reservation
+0270    Pala Indian Reservation
+0271    Pamunkey Indian Reservation
+0272    Pascua Yaqui Indian Reservation
+0273    Passamaquoddy Pleasant Point Reservation
+0274    Pawnee TJA
+0275    Pechanga Indian Reservation
+0276    Penobscot Indian Island Reservation
+0277    Peoria TJA
+0278    Picuris Pueblo
+0279    Pine Ridge Indian Reservation
+0280    Poarch Creek Indian Reservation
+0281    Pojoaque Pueblo
+0282    Ponca Indian Reservation            (NE)
+0283    Poospatuck Reservation
+0284    Port Gamble Indian Reservation
+0285    Port Madison Indian Reservation
+0286    Prairie Band Potawatomi Indian Reservation
+0287    Prairie Island Indian Community
+0288    Alamo Navajo Indian Reservation
+0289    Puyallup Indian Reservation
+0290    Pyramid Lake Indian Reservation
+0291    Quapaw TJA
+0292    Quileute Indian Reservation
+0293    Quinault Indian Reservation
+0294    Ramah Navajo Indian Reservation
+0295    Ramona Indian Reservation
+0296    Red Cliff Indian Reservation
+0297    Red Lake Indian Reservation
+0298    Reno-Sparks Indian Colony
+0299    Rincon Indian Reservation
+0300    Roaring Creek Rancheria
+0301    Rocky Boy's Indian Reservation
+0302    Rosebud Indian Reservation
+0303    Round Valley Indian Reservation
+0304    Rumsey Rancheria
+0305    Sac and Fox Indian Reservation      (KS/NE)
+0306    Salt River Pima-Maricopa Indian Community
+0307    Sandia Pueblo
+0308    Sandy Lake Reservation
+0309    Santa Ana Pueblo
+0310    Santa Clara Indian Reservation
+0311    Kewa Pueblo
+0312    Santa Rosa Indian Reservation
+0313    Santa Rosa Rancheria
+0314    Santa Ynez Indian Reservation
+0315    Santa Ysabel Reservation
+0316    Santee Sioux Reservation
+0317    San Carlos Apache Indian Reservation
+0318    San Felipe Pueblo
+0319    San Ildefonso Pueblo
+0320    Ohkay Owingeh
+0321    San Manuel Indian Reservation
+0322    San Pasqual Reservation
+0323    San Xavier Indian Reservation
+0324    Sauk-Suiattle Indian Reservation
+0325    Seminole Nation of OK
+0326    Seneca-Cayuga OTSA
+0327    Sycuan Band reservation
+0328    Schaghticoke Indian Reservation
+0329    Shakopee Mdewakanton Sioux Community
+0330    Sheep Ranch Rancheria
+0331    Sherwood Valley Rancheria
+0332    Shingle Springs Rancheria
+0333    Shinnecock Reservation
+0334    Shoalwater Bay Indian Reservation
+0335    Elko Indian Colony
+0336    Siletz Reservation
+0337    Lake Traverse Indian Reservation
+0338    Skokomish Indian Reservation
+0339    Skull Valley Indian Reservation
+0340    Soboba Reservation
+0341    Southern Ute Indian Reservation
+0342    Spokane Indian Reservation
+0343    Squaxin Island Indian Reservation
+0344    St. Croix Indian Reservation
+0345    St. Regis Mohawk Reservation
+0346    Standing Rock Indian Reservation
+0347    Stewarts Point Rancheria
+0348    Stockbridge-Munsee Indian Reservation
+0349    Summit Lake Reservation
+0350    Susanville Indian Rancheria
+0351    Swinomish Reservation
+0352    Taos Pueblo
+0353    Tesuque Pueblo
+0354    Kickapoo Indian Reservation         (TX)
+0355    Tohono O'odham Indian Reservation
+0356    Tonawanda Indian Reservatio
+0357    Tonkawa Tribal Reserve
+0358    Torres-Martinez Indian Reservation
+0359    Tuolumne Rancheria
+0360    Trinidad Rancheria
+0361    Tulalip Reservation
+0362    Tule River Reservation
+0363    Tunica-Biloxi Indian Reservation
+0364    Turtle Mountain Indian Reservation
+0365    Tuscarora Reservation
+0366    Twenty-Nine Palms Reservation
+0367    Umatilla Indian Reservation
+0368    Uintah and Ouray Indian Reservation
+0369    Upper Sioux Indian Reservation
+0370    Upper Skagit Indian Reservation
+0371    Ute Mountain Ute Indian Reservation
+0372    Lake Vermilion Indian Reservation
+0373    Viejas Reservation
+0374    Walker River Indian Reservation
+0375    Warm Springs Indian Reservation
+0376    Washoe Ranch
+0377    Cocopah Indian Reservation
+0378    White Earth Indian Reservation
+0379    Wichita Indian Reservation
+0380    Wind River Indian Reservation
+0381    Winnebago Reservation
+0382    Winnemucca Indian Colony
+0383    Woodfords Indian Community
+0384    Wyandotte Nation
+0385    XL Ranch Rancheria
+0386    Yakama Indian Reservation
+0387    Yankton Indian Reservation
+0388    Yavapai-Prescott Indian Reservation
+0389    Yerington Colony
+0390    Yomba Reservation
+0391    Ysleta del Sur Pueblo
+0392    Yurok Reservation
+0394    Zia Pueblo
+0395    Zuni Indian Reservation
+    0396-0446 - RESERVED FOR CREATION OF NEW INDIAN RESERVATIONS
+    0447    Existing reservation not currently in list
+    0448    Ambiguous or undescribed Indian reservation
+    0449    Indian reservation fabricated by author
+
 =======================================
 === Historical Indian Reservations ====
 =======================================
+
+Note: Where two reservations were named identically, disambiguation by state/location in parenthesis.
+
+† - Smaller remnant exists under another name.
+‡ - Disestablished, but recognized as another current Indian Reservation
+
+0450    Amaknak Island Reserve
+0451    Ashkum Indian Reservation
+0452    Au Sable River Indian Reserve
+0453    Auglaize Reserve
+0454    Big Rock Indian Reserve
+0455    Black Bird Indian Community
+0456    Black Loon Indian Reservation
+0457    Blanchard's Fork Reserve
+0458    Buffalo Creek Reservation
+0459    Burnett Indian Reservation
+0460    Caddo-Wichita-Delaware Indian Reservation          ‡ Caddo-Wichita-DE OTSA
+0461    Cass Lake Indian Reservation
+0462    Chechaukkose Indian Reservation
+0463    Cherokee Indian Reservation         AR
+0464    Cherokee Indian Reservation         MO
+0465    Cheyenne-Arapaho Indian Reservation       ‡ Cheyenne-Arapaho OTSA
+0466    Chickasaw Indian Reservation
+0467    Chilkat Fisheries Reserve
+0468    Chinquaqua Indian Reservation
+0469    Chippewa Indian Reservation         KS
+0470    Chippewa Indian Reservation         MN
+0471    Choctaw Indian Reservation                ‡ Choctaw OTSA
+0472    Chopine Indian Reservation          (Allen County, IN)
+0473    Chopine Indian Reservation          (Whitley County, IN)
+0474    Citizen Potawatomi Nation-Absentee Shawnee Indian Reservation    ‡ Citizen Potawatomi Nation-Absentee Shawnee OTSA
+0475    Coastal Indian Reservation
+0476    Creek Indian Reservation
+0477    Delaware Indian Reservation
+0478    Des Moines Half-Breed Reservation
+0479    Eastern Shawnee Indian Reservation        ‡ Eastern Shawnee OTSA
+0480    Elim Reserve
+0481    Flat Belly Indian Reservation
+0482    Flint River Indian Reserve
+0483    Godfroy Reserve
+0484    Great Sioux Reservation
+0485    Gull Lake Indian Reservation
+0486    Gros Ventre, Piegan, Blood, Blackfeet and River Crow Reservation
+0487    Hole in the Days Indian Reservation
+0488    Kansa Indian Reservation
+0489    Karluk Fishing Reserve
+0490    Kaw Indian Reservation
+0491    Kawkawlin Indian Reserve
+0492    Keokuk's Reserve
+0493    Ketchewaundaugenick Indian Reserve
+0494    Kickapoo Indian Reservation         
+0495    Kiowa-Comanche-Apache-Fort Sill Apache Indian Reservation    ‡  KIA-Comanche-Apache-Fort Sill Apache OTSA
+0496    Klukwan Reservation
+0497    Lake Pepin Half-Breed Reservation
+0498    Lake Winnibigoshish Indian Reservation
+0499    Little Forks Indian Reserve
+0500    Machesaw Indian Reservation
+0501    Malheur Indian Reservation
+0502    Mazaqua Indian Reservation
+0503    Memotway Indian Reservation
+0504    Menominee Indian Reservation
+0505    Menoequet Indian Community
+0506    Meshingomeshia Indian Reservation
+0507    Mesquabuck Indian Reservation
+0508    Metlakatla Indian Reserve
+0509    Metosanyah Indian Reservation
+0510    Miami Indian Reservation            KS
+0511    Miami Indian Reservation            OK    ‡ Miami OTSA
+0512    Modoc Indian Reservation                  ‡ Modoc OTSA
+0513    Moose Dungs Indian Reservation
+0514    Mota Indian Reservation
+0515    Mukkose Indian Reservation
+0516    Nabobask Indian Reserve
+0517    Naswawkee Indian Reservation
+0518    Neahlongqua Indian Reservation
+0519    Nemaha Half-Breed Reservation
+0520    NY Indian Reservation
+0521    Neutrals Indian Reservation
+0522    Niobrara Indian Reservation
+0523    North Maumee River Reserve
+0524    Ogallala Sioux Indian Reservation
+0525    Okawmause Indian Reservation
+0526    Osage Indian Reservation
+0527    Otoe Indian Reservation
+0528    Otoe-Missouria Indian Reservation         ‡ Otoe-Missouria OTSA
+0529    Ottawa Indian Reservation                 ‡ Ottawa OTSA
+0530    Ottawas of Blanchard's Fork Indian Reservation
+0531    Ottawas of Roche de Boeuf and Wolf Rapids Indian Reservation
+0532    Otusson Indian Community
+0533    Pankishaw and Wia Indian Reservation
+0534    Pawnee Indian Reservation           NE
+0535    Pawnee Indian Reservation           OK    ‡ Pawnee OTSA
+0536    Peoria and Kaskaskia Indian Reservation
+0537    Peoria Indian Reservation                 ‡ Peoria OTSA
+0538    Point Au Gres Indian Reserve
+0539    Pokegama Lake Indian Reservation
+0540    Ponca Indian Reservation            SD/NE 
+0541    Ponca Indian Reservation            OK
+0542    Portsmouth Indian Reserve
+0543    Potawatomi Indian Reservation             † Prairie Band Potawatomi Indian Reservation
+0544    Quapaw Indian Reservation
+0545    Rabbit Lake Indian Reservation
+0546    Rifle River Indian Reserve
+0547    Roche de Boeuf Reserve
+0548    Sac and Fox Indian Reservation      NE
+0549    Sac and Fox Indian Reservation      OK
+0550    Saginaw Bay Indian Reservation
+0551    Saginaw River Indian Reserve
+0552    Sebastian Indian Reservation
+0553    Seminole Indian Reservation
+0554    Seneca-Cayuga Indian Reservation
+0555    South Maumee River Reserve
+0556    Stony Island Indian Reserve
+0557    Table Rock Indian Reservation
+0558    Tetlin Reserve
+0559    Tonkawa Indian Reservation
+0560    Topeah Indian Reservation
+0561    Upper Brulé Indian Reservation
+0562    Venetie Reserve
+0563    Wapasepah Indian Reservation
+0564    Wesaw Indian Reservation
+0565    White Oak Point Indian Reservation
+0566    Wolf Rapids Reserve
+0567    Wyandotte Indian Reservation
+    0568-0596 - RESERVED FOR HISTORICAL INDIAN RESERVATIONS
+0597    Historical Reservation Not Currently in List
+0598    Ambiguous or Undescribed Historical Indian Reservation
+0599    Historical Indian Reservation Fabricated by Author
 
 =======================================
 ===     US Counties, Parishes,      ===
