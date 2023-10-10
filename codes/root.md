@@ -1,6 +1,6 @@
 [0 - ]()  
 [1 - Military]()  
-[2 - Law Enforcement]()  
+[2 - Law Enforcement](/codes/2.md)  
 [3 - Criminals]()  
 [4 - Government]()  
 [5 - Royalty & Nobility]()  
