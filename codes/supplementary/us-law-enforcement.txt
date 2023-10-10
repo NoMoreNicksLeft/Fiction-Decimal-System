@@ -1,7 +1,123 @@
 =======================================
+=======================================
+
+Law enforcement in the United States has had, at various times, many different powers. A quick inventory of the powers that might be granted to any particular position independently of the other powers can be helpful to illustrate how complicated this might become.
+
+* Arrest
+* Detainment
+* Interruption of crime
+* Compulsion of cooperation
+* Request search warrants
+* Investigate crimes
+* Recommending to prosecutors
+* Confiscation of contrband
+* Seizure of fines
+* Incarceration
+* Hunting escapees
+* Execution
+* Deputization
+
+=======================================
 ========= Organization Styles =========
 =======================================
 
-[state] Highway Patrol
-[state] Bureau of Investigation
-[state] State Troopers
+Notes: 
+1. All occurrences of [state] can also substitute in a U.S. territory as appropriate.
+2. All occurrences of [federal] can substitute in a federal department, bureau, office,
+   division, or agency as appropriate.
+
+00 - [state] Bureau of Investigation
+01 - [state] Bureau of Narcotics, Bureau of Narcotics Enforcement
+02 - [state] Department of Law Enforcement
+03 - [state] Department of Public Safety
+04 - [state] Drug Enforcement Agency
+05 - [state] Highway Patrol
+06 - [state] Highway Police
+07 - [state] Mounted Police
+08 - Narcotics Enforcement Division
+09 - [state ]Park Police
+10 - [state] Police Department
+11 - [state] Rangers
+12 - [state] State Highway Patrol
+13 - Marine Patrol
+14 - State Marshal
+15 - State Park Rangers
+16 - [state] State Patrol
+17 - [state] State Police
+18 - [state] State Sheriff's Office/Department
+19 - [state] State Troopers
+
+50 - [federal] Criminal Investigation Division
+51 - [federal] Criminal Investigative Service
+52 - [federal] Office of Criminal Investigations
+53 - [federal] Office of Inspector General
+54 - [federal] Office of Law Enforcement
+54 - [federal] Office of Protective Services
+55 - [federal] Police
+56 - [federal] Protective Service Division
+
+=======================================
+======= Law Enforcenemtn Ranks ========
+=======================================
+
+# Military-style ranks
+
+00 - Cadet
+01 - Corporal
+02 - Sergeant
+03 - Lieutenant
+04 - Captain
+05 - Major
+06 - Commander
+07 - Lieutenant Colonel
+08 - Colonel
+
+# Police-style titles
+
+10 - Probationary Officer
+11 - Officer
+12 - Senior Officer
+13 - Detective
+14 - Inspector (Investigative)
+15 - Special Agent
+16 - Investigator
+17 - Deputy Inspector (Supervisory)
+18 - Inspector (Supervisory)
+19 - Chief Inspector
+20 - Deputy Chief
+21 - Executive Deputy Chief
+22 - Asst. Chief
+23 - Executive Asst. Chief
+24 - Chief
+25 - Bureau Chief
+26 - Dept. Chief
+27 - Asst. Deputy Superintendent
+28 - Deputy Superintendent
+29 - First Deputy Superintendent
+30 - Superintendent
+31 - Deputy Commissioner
+32 - First Deputy Commissioner
+33 - Commissioner
+
+# Sheriff, constable, & marshal-style titles
+
+40 - Deputy
+41 - Senior Deputy
+42 - Asst. Chief Deputy
+43 - Chief Deputy
+44 - Asst. Sheriff
+45 - Undersheriff
+46 - Sheriff
+47 - High Sheriff
+50 - Asst. Constable
+51 - Constable
+52 - Asst. Marshal
+53 - Marshal
+54 - Chief Deputy Jailer
+55 - Jailer
+
+# Federal-style titles
+
+=======================================
+============ Areas of Duty ============
+=======================================
