@@ -9360,7 +9360,11 @@ Note: Some cities may have non-sequential codes since some are considered county
 9903 - Small Town Not in List
 9904 - Village Not in List
     9905-9909 - [RESERVED]
-9910 - 
+9910 - Ambiguous or Undescribed Large City
+9911 - Ambiguous or Undescribed Small City
+9912 - Ambiguous or Undescribed Large Town
+9913 - Ambiguous or Undescribed Small Town
+9914 - Ambiguous or Undescribed Village
     9915-9919 - [RESERVED]
 9920 - Large City Fabricated by Author
 9921 - Small City Fabricated by Author
