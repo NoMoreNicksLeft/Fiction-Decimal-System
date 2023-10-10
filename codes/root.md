@@ -1,4 +1,4 @@
-[0 - ]()  
+<code>[0 - ]()  
 [1 - Military]()  
 [2 - Law Enforcement](/codes/2.md)  
 [3 - Criminals]()  
@@ -7,4 +7,5 @@
 [6 - Religion]()  
 [7 - The Fantastic]()  
 [8 - Animals & Organisms]()  
-[9 - ]()  
+[9 - ]()
+</code>
