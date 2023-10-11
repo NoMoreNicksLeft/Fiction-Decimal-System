@@ -26,35 +26,40 @@ Notes:
 2. All occurrences of [federal] can substitute in a federal department, bureau, office,
    division, or agency as appropriate.
 
-00 - [state] Bureau of Investigation
-01 - [state] Bureau of Narcotics, Bureau of Narcotics Enforcement
-02 - [state] Department of Law Enforcement
-03 - [state] Department of Public Safety
-04 - [state] Drug Enforcement Agency
-05 - [state] Highway Patrol
-06 - [state] Highway Police
-07 - [state] Mounted Police
-08 - Narcotics Enforcement Division
-09 - [state ]Park Police
-10 - [state] Police Department
-11 - [state] Rangers
-12 - [state] State Highway Patrol
-13 - Marine Patrol
-14 - State Marshal
-15 - State Park Rangers
-16 - [state] State Patrol
-17 - [state] State Police
-18 - [state] State Sheriff's Office/Department
-19 - [state] State Troopers
+00 - [federal] Criminal Investigation Division
+01 - [federal] Criminal Investigative Service
+02 - [federal] Office of Criminal Investigations
+03 - [federal] Office of Inspector General
+04 - [federal] Office of Law Enforcement
+04 - [federal] Office of Protective Services
+05 - [federal] Police
+06 - [federal] Protective Service Division
 
-50 - [federal] Criminal Investigation Division
-51 - [federal] Criminal Investigative Service
-52 - [federal] Office of Criminal Investigations
-53 - [federal] Office of Inspector General
-54 - [federal] Office of Law Enforcement
-54 - [federal] Office of Protective Services
-55 - [federal] Police
-56 - [federal] Protective Service Division
+30 - [state] Bureau of Investigation
+31 - [state] Bureau of Narcotics, Bureau of Narcotics Enforcement
+32 - [state] Department of Law Enforcement
+33 - [state] Department of Public Safety
+34 - [state] Drug Enforcement Agency
+35 - [state] Highway Patrol
+36 - [state] Highway Police
+37 - [state] Mounted Police
+38 - Narcotics Enforcement Division
+39 - [state ]Park Police
+40 - [state] Police Department
+41 - [state] Rangers
+42 - [state] State Highway Patrol
+43 - Marine Patrol
+44 - State Marshal
+45 - State Park Rangers
+46 - [state] State Patrol
+47 - [state] State Police
+48 - [state] State Sheriff's Office/Department
+49 - [state] State Troopers
+
+60 - [local] Sheriff's Office
+61 - [local] Police Department
+62 - [local] Constable's Office
+63 - [local] Marshal's Office
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
@@ -63,60 +68,81 @@ Notes:
 # Military-style ranks
 
 00 - Cadet
-01 - Corporal
-02 - Sergeant
-03 - Lieutenant
-04 - Captain
-05 - Major
-06 - Commander
-07 - Lieutenant Colonel
-08 - Colonel
+01 - Private
+02 - Lance Corporal
+03 - Corporal
+04 - Sergeant
+05 - First Sergeant
+06 - Staff Sergeant
+07 - Lieutenant
+08 - Captain
+09 - Major
+10 - Commander
+11 - Lieutenant Colonel
+12 - Colonel
 
 # Police-style titles
 
-10 - Probationary Officer
-11 - Officer
-12 - Senior Officer
-13 - Detective
-14 - Inspector (Investigative)
-15 - Special Agent
-16 - Investigator
-17 - Deputy Inspector (Supervisory)
-18 - Inspector (Supervisory)
-19 - Chief Inspector
-20 - Deputy Chief
-21 - Executive Deputy Chief
-22 - Asst. Chief
-23 - Executive Asst. Chief
-24 - Chief
-25 - Bureau Chief
-26 - Dept. Chief
-27 - Asst. Deputy Superintendent
-28 - Deputy Superintendent
-29 - First Deputy Superintendent
-30 - Superintendent
-31 - Deputy Commissioner
-32 - First Deputy Commissioner
-33 - Commissioner
+20 - Probationary Officer
+21 - Officer
+22 - Senior Officer
+23 - Detective
+24 - Inspector (Investigative)
+25 - Special Agent
+25 - Investigator
+26 - Deputy Inspector (Supervisory)
+27 - Inspector (Supervisory)
+28 - Chief Inspector
+29 - Deputy Chief
+30 - Executive Deputy Chief
+31 - Asst. Chief
+32 - Executive Asst. Chief
+33 - Chief
+34 - Bureau Chief
+35 - Dept. Chief
+36 - Asst. Deputy Superintendent
+37 - Deputy Superintendent
+38 - First Deputy Superintendent
+39 - Superintendent
+40 - Deputy Commissioner
+41 - First Deputy Commissioner
+42 - Commissioner
 
 # Sheriff, constable, & marshal-style titles
 
-40 - Deputy
-41 - Senior Deputy
-42 - Asst. Chief Deputy
-43 - Chief Deputy
-44 - Asst. Sheriff
-45 - Undersheriff
-46 - Sheriff
-47 - High Sheriff
-50 - Asst. Constable
-51 - Constable
-52 - Asst. Marshal
-53 - Marshal
-54 - Chief Deputy Jailer
-55 - Jailer
+50 - Deputy
+51 - Senior Deputy
+52 - Asst. Chief Deputy
+53 - Chief Deputy
+54 - Asst. Sheriff
+55 - Undersheriff
+56 - Sheriff
+57 - High Sheriff
+58 - Asst. Constable
+59 - Constable
+60 - Asst. Marshal
+61 - Marshal
+62 - Chief Deputy Jailer
+63 - Jailer
+
+# State trooper-style titles
+
+70 - Trooper
+71 - Trooper II
+72 - Trooper I
+73 - Senior Trooper
+74 - Master Trooper
+75 - Trooper First Class
 
 # Federal-style titles
+
+80 - Special Agent                               [GS 5+]
+81 - Supervisory Special Agent                   [GS 14]
+82 - RAC (Resident Agent in Charge)              [GS 14]
+83 - ASAC (Asst. Special Agent in Charge)        [GS 15]
+84 - DSAC (Deputy Asst. Special Agent in Charge) [GS 15]
+85 - SAC (Special Agent in Charge)               [GS 15]
+
 
 =======================================
 ============ Areas of Duty ============
