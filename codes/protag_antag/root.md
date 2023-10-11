@@ -1,11 +1,11 @@
 <code>[0 - ]()  
 [1 - Military]()  
-[2 - Law Enforcement](/codes/2.md)  
+[2 - Law Enforcement](/codes/protag_antag/2.md)  
 [3 - Criminals]()  
 [4 - Government]()  
 [5 - Royalty & Nobility]()  
 [6 - Religion]()  
 [7 - The Fantastic]()  
-[8 - Animals & Organisms]()  
+[8 - Animals & Organisms](/codes/protag_antag/8.md)  
 [9 - ]()
 </code>
