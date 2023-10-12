@@ -385,9 +385,9 @@ Note: Where two reservations were named identically, disambiguation by state/loc
 0394    Zia Pueblo
 0395    Zuni Indian Reservation
     0396-0446 - RESERVED FOR CREATION OF NEW INDIAN RESERVATIONS
-    0447    Existing reservation not currently in list
-    0448    Ambiguous or undescribed Indian reservation
-    0449    Indian reservation fabricated by author
+0447    Existing reservation not currently in list
+0448    Ambiguous or undescribed Indian reservation
+0449    Indian reservation fabricated by author
 
 =======================================
 === Historical Indian Reservations ====
@@ -3798,7 +3798,7 @@ Note: Arranged alphabetically by state, then county.
 3999    Historical County or County-equivalent Fabricated by Author
 
 =======================================
-======== Cities (Pop. 10,000+) ========
+======== Cities (Pop. 5,000+) =========
 =======================================
 
 Note: Some cities may have non-sequential codes since some are considered county-equivalents.
