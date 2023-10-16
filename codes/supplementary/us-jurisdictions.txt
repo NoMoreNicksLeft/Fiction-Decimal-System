@@ -24,64 +24,64 @@ It's not as if we're going to be creating many new counties anytime soon.
 ======= US States & Territories =======
 =======================================
 
-0000 - Alabama
-0001 - Alaska
-0002 - Arizona
-0003 - Arkansas
-0004 - California
-0005 - Colorado
-0006 - Connecticut
-0007 - Delaware
-0008 - Florida
-0009 - Georgia
-0010 - Hawaii
-0011 - Idaho
-0012 - Illinois
-0013 - Indiana
-0014 - Iowa
-0015 - Kansas
-0016 - Kentucky
-0017 - Lousiana
-0018 - Maine
-0019 - Maryland
-0020 - Massachusetts
-0021 - Michigan
-0022 - Minnesota
-0023 - Mississippi
-0024 - Missouri
-0025 - Montana
-0026 - Nebraska
-0027 - Nevada
-0028 - New Hampshire
-0029 - New Jersey
-0030 - New Mexico
-0031 - New York
-0032 - North Carolina
-0033 - North Dakota
-0034 - Ohio
-0035 - Oklahoma
-0036 - Oregon
-0037 - Pennsylvania
-0038 - Rhode Island
-0039 - South Carolina
-0040 - South Dakota
-0041 - Tennessee
-0042 - Texas
-0043 - Utah
-0044 - Vermont
-0045 - Virginia
-0046 - Washington
-0047 - West Virginia
-0048 - Wisconsin
-0049 - Wyoming
+0000    Alabama
+0001    Alaska
+0002    Arizona
+0003    Arkansas
+0004    California
+0005    Colorado
+0006    Connecticut
+0007    Delaware
+0008    Florida
+0009    Georgia
+0010    Hawaii
+0011    Idaho
+0012    Illinois
+0013    Indiana
+0014    Iowa
+0015    Kansas
+0016    Kentucky
+0017    Lousiana
+0018    Maine
+0019    Maryland
+0020    Massachusetts
+0021    Michigan
+0022    Minnesota
+0023    Mississippi
+0024    Missouri
+0025    Montana
+0026    Nebraska
+0027    Nevada
+0028    New Hampshire
+0029    New Jersey
+0030    New Mexico
+0031    New York
+0032    North Carolina
+0033    North Dakota
+0034    Ohio
+0035    Oklahoma
+0036    Oregon
+0037    Pennsylvania
+0038    Rhode Island
+0039    South Carolina
+0040    South Dakota
+0041    Tennessee
+0042    Texas
+0043    Utah
+0044    Vermont
+0045    Virginia
+0046    Washington
+0047    West Virginia
+0048    Wisconsin
+0049    Wyoming
     0050-0059 - [RESERVED FOR CREATION OF NEW US STATES]
-0060 - Guam
-0061 - Northern Mariana Islands
-0062 - Puerto Rico
-0063 - US Virgin Islands
+0060    Guam
+0061    Northern Mariana Islands
+0062    Puerto Rico
+0063    US Virgin Islands
     0064-0097 - [RESERVED FOR CREATION OF NEW US TERRITORIES]
-0098 - Ambiguous or Undescribed State
-0099 - State Fabricated by Author
+0098    Ambiguous or Undescribed State
+0099    State Fabricated by Author
 
 =======================================
 ========= Indian Reservations =========
