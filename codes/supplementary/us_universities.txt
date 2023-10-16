@@ -23,6 +23,76 @@ These were a mess. Part of that is due to the fact that American universities wi
 =========== US Universities ===========
 =======================================
 
+0000 Air University                                                  Montgomery, AL
+Alabama A&M University                                          Normal, AL
+Alabama College of Osteopathic Medicine                         Dothan, AL
+Alabama State University                                        Montgomery, AL
+Amridge University                                              Montgomery, AL
+Athens State University                                         Athens, AL
+Auburn University                                               Auburn, AL
+Auburn University at Montgomery                                 Montgomery, AL
+Bevill State Community College                                  Sumiton, AL
+Birmingham School of Law                                        Birmingham, AL
+Birmingham–Southern College                                     Birmingham, AL
+Bishop State Community College                                  Mobile, AL
+Calhoun Community College                                       Tanner, AL
+Central Alabama Community College                               Alexander City, AL
+Chattahoochee Valley Community College                          Phenix City, AL
+Coastal Alabama Community College                               Bay Minette, AL
+Columbia Southern University                                    Orange Beach, AL
+Community College of the Air Force                              Montgomery, AL
+Enterprise State Community College                              Enterprise, AL
+Faulkner University                                             Montgomery, AL
+Gadsden State Community College                                 Gadsden, AL
+H. Councill Trenholm State Community College                    Montgomery, AL
+Heritage Christian University                                   Florence, AL
+Highlands College                                               Birmingham, AL
+Huntingdon College                                              Montgomery, AL
+Huntsville Bible College                                        Huntsville, AL
+J. F. Drake State Community and Technical College               Huntsville, AL
+J. F. Ingram State Technical College                            Deatsville, AL
+Jacksonville State University                                   Jacksonville, AL
+Jefferson State Community College                               Birmingham, AL
+Lawson State Community College                                  Birmingham, AL
+Lurleen B. Wallace Community College                            Andalusia, AL
+Marion Military Institute                                       Marion, AL
+Miles College                                                   Fairfield, AL
+Miles Law School                                                Fairfield, AL
+Northeast Alabama Community College                             Rainsville, AL
+Northwest–Shoals Community College                              Muscle Shoals, AL
+Oakwood University                                              Huntsville, AL
+Reid State Technical College                                    Evergreen, AL
+Samford University                                              Birmingham, AL
+Selma University                                                Selma, AL
+Shelton State Community College                                 Tuscaloosa, AL
+Snead State Community College                                   Boaz, AL
+Southern Union State Community College                          Wadley, AL
+Spring Hill College                                             Mobile, AL
+Stillman College                                                Tuscaloosa, AL
+Talladega College                                               Talladega, AL
+Troy University                                                 Troy, AL
+Tuskegee University                                             Tuskegee, AL
+United States Sports Academy                                    Daphne, AL
+University of Alabama                                           Tuscaloosa, AL
+University of Mobile                                            Prichard, AL
+University of Montevallo                                        Montevallo, AL
+University of North Alabama                                     Florence, AL
+University of South Alabama                                     Mobile, AL
+University of West Alabama                                      Livingston, AL
+Wallace Community College                                       Dothan, AL
+Wallace State Community College                                 Hanceville, AL
+Alaska Bible College                                            Palmer, AK
+Alaska Career College                                           Anchorage, AK
+Alaska Pacific University                                       Anchorage, AK
+Charter College                                                 Anchorage, AK
+Iḷisaġvik College                                               Utqiaġvik, AK
+Kenai Peninsula College                                         Soldotna, AK
+Kodiak College                                                  Kodiak, AK
+Matanuska–Susitna College                                       Palmer, AK
+Prince William Sound College                                    Valdez, AK
+Saint Herman Theological Seminary                               Kodiak, AK
+University of Alaska                                            Fairbanks, AK
+
 =======================================
 ======= Defunct US Universities =======
 =======================================
