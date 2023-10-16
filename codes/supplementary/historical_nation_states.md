@@ -11,28 +11,28 @@ This supplementary table will endeavor to list all known historical countries, a
 
 |num-4|alpah-4|English|endonym|date|government|demise|
 |:--|:--|--|--|--|--|--:|
-||LATL|Latin League|||||
-||ROMK|Roman Kingdom|REGNVM ROMANVM||||
-||SPQR|Roman Republic|SENATVS POPVLVS QVE ROMANVS||||
-||ROME|Roman Empire|IMPERIVM ROMANUM||||
-||WROM|Western Roman Empire|||||
-||BYZA|Byzantine Empire|Βασιλεία Ῥωμαίων||||
-||NICE|Empire of Nicea|||||
-||DEPI|Despotate of Trebizond|Δεσποτάτο της Ηπείρου||||
-||TREB|Empire of Trebizond|Αυτοκρατορία της Τραπεζούντας||||
+||`LATL`|Latin League|||||
+||`ROMK`|Roman Kingdom|REGNVM ROMANVM||||
+||`SPQR`|Roman Republic|SENATVS POPVLVS QVE ROMANVS||||
+||`ROME`|Roman Empire|IMPERIVM ROMANUM||||
+||`WROM`|Western Roman Empire|||||
+||`BYZA`|Byzantine Empire|Βασιλεία Ῥωμαίων||||
+||`NICE`|Empire of Nicea|||||
+||`DEPI`|Despotate of Trebizond|Δεσποτάτο της Ηπείρου||||
+||`TREB`|Empire of Trebizond|Αυτοκρατορία της Τραπεζούντας||||
 
 *Ancient Greece*
 
 |num-4|alpah-4|English|endonym|date|government|demise|
 |:--|:--|--|--|--|--|--:|
-||MACE|Macedonia|Μακεδονία||||
-||PTOL|Ptolemaic Kingdom|Πτολεμαϊκὴ βασιλεία||||
-||KEPI|Kingdom of Epirus|||||
-||LEPI|Epirote League|||||
-||ODRY|Odrysian Kingdom|||||
-||DELL|Delian League|||||
-||FATH|Athenian Empire|||||
-||SATH|Second Athenian Empire|||||
-||CORL|League of Corinth|||||
+||`MACE`|Macedonia|Μακεδονία||||
+||`PTOL`|Ptolemaic Kingdom|Πτολεμαϊκὴ βασιλεία||||
+||`KEPI`|Kingdom of Epirus|||||
+||`LEPI`|Epirote League|||||
+||`ODRY`|Odrysian Kingdom|||||
+||`DELL`|Delian League|||||
+||`FATH`|Athenian Empire|||||
+||`SATH`|Second Athenian Empire|||||
+||`CORL`|League of Corinth|||||
 
 ||||||||
