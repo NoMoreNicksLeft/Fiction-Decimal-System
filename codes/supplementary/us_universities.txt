@@ -18,6 +18,7 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 
 These were a mess. Part of that is due to the fact that American universities will open many campuses in many cities, and call each the "University of Blahstate at Yaddatown" and "University at Blahstate at Foobarville", but occasionally one will just be named something like "Greebenfloo College" with a paranthetical notation that it's affiliated. In such cases, the latter is retained (it is named as if it is its own entity) unless it turns out that it is merely one of the units of the larger university system. In some of the Wikipedia lists, defunct institutions weren't separate from extant. Finally, University of Phoenix and the other diploma mills that try to open a location in every strip mall across the nation made it more than a little tedious.
 
+All higher education entities are sorted by state, then name.
 
 =======================================
 =========== US Universities ===========
@@ -92,6 +93,235 @@ These were a mess. Part of that is due to the fact that American universities wi
 0066    Prince William Sound College                                    Valdez, AK
 0067    Saint Herman Theological Seminary                               Kodiak, AK
 0068    University of Alaska                                            Fairbanks, AK
+0069    A.T. Still University                                           Phoenix, AZ
+0070    Arizona Christian University                                    Glendale, AZ
+0071    Arizona College of Nursing                                      Phoenix, AZ
+0072    Arizona State University                                        Tempe, AZ
+0073    Arizona Western College                                         Yuma, AZ
+0074    Benedictine University at Mesa                                  Mesa, AZ
+0075    Brookline College                                               Phoenix, AZ
+0076    Bryan University                                                Tempe, AZ
+0077    Carrington College                                              Phoenix, AZ
+0078    Central Arizona College                                         Coolidge, AZ
+0079    Chamberlain College of Nursing                                  Phoenix, AZ
+0080    Chandler-Gilbert Community College                              Chandler, AZ
+0081    Cochise College                                                 Sierra Vista, AZ
+0082    Coconino Community College                                      Flagstaff, AZ
+0083    Cummings Graduate Institute for Behavioral Health Studies       Phoenix, AZ
+0084    DeVry University                                                Phoenix, AZ
+0085    Diné College                                                    Tsaile, AZ
+0086    Eastern Arizona College                                         Thatcher, AZ
+0087    Embry-Riddle Aeronautical University                            Prescott, AZ
+0088    Estrella Mountain Community College                             Avondale, AZ
+0089    Fuller Theological Seminary                                     Phoenix, AZ
+0090    GateWay Community College                                       Phoenix, AZ
+0091    Glendale Community College                                      Glendale, AZ
+0092    Grand Canyon University                                         Phoenix, AZ
+0093    International Baptist College and Seminary                      Chandler, AZ
+0094    Mesa Community College                                          Mesa, AZ
+0095    Midwestern University                                           Glendale, AZ
+0096    Mohave Community College                                        Kingman, AZ
+0097    Northern Arizona University                                     Flagstaff, AZ
+0098    Northland Pioneer College                                       Show Low, AZ
+0099    Ottawa University                                               Surprise, AZ
+0100    Paradise Valley Community College                               Phoenix, AZ
+0101    Park University                                                 Glendale, AZ
+0102    Phoenix College                                                 Phoenix, AZ
+0103    Phoenix Seminary                                                Phoenix, AZ
+0104    Pima Community College                                          Tucson, AZ
+0105    Prescott College                                                Prescott, AZ
+0106    Rio Salado Community College                                    Tempe, AZ
+0107    School of Architecture, The                                     Paradise Valley, AZ
+0108    Scottsdale Community College                                    Scottsdale, AZ
+0109    Sessions College for Professional Design                        Tempe, AZ
+0110    South Mountain Community College                                Phoenix, AZ
+0111    Southwest College of Naturopathic Medicine                      Tempe, AZ
+0112    Tohono O'odham Community College                                Sells, AZ
+0113    Universal Technical Institute                                   Avondale, AZ
+0114    University of Advancing Technology                              Tempe, AZ
+0115    University of Arizona                                           Tucson, AZ
+0116    University of Phoenix                                           Phoenix, AZ
+0117    Yavapai College                                                 Prescott, AZ
+0118    Arkansas Baptist College                                        Little Rock, AR
+0119    Arkansas Northeastern College                                   Blytheville, AR
+0120    Arkansas State University                                       Jonesboro, AR
+0121    Arkansas Tech University                                        Russellville, AR
+0122    Black River Technical College                                   Pocahontas, AR
+0123    Blue Cliff College                                              Fayetteville, AR
+0124    Central Baptist College                                         Conway, AR
+0125    Cossatot Community College                                      De Queen, AR
+0126    Crowley's Ridge College                                         Paragould, AR
+0127    East Arkansas Community College                                 Forrest City, AR
+0128    Ecclesia College                                                Springdale, AR
+0129    Harding University                                              Searcy, AR
+0130    Henderson State University                                      Arkadelphia, AR
+0131    Hendrix College                                                 Conway, AR
+0132    John Brown University                                           Siloam Springs, AR
+0133    Lyon College                                                    Batesville, AR
+0134    National Park College                                           Hot Springs, AR
+0135    North Arkansas College                                          Harrison, AR
+0136    Northwest Arkansas Community College                            Bentonville, AR
+0137    Ouachita Baptist University                                     Arkadelphia, AR
+0138    Ozarka College                                                  Melbourne, AR
+0139    Philander Smith College                                         Little Rock, AR
+0140    Phillips Community College                                      Helena-West Helena, AR
+0141    Shorter College                                                 North Little Rock, AR
+0142    South Arkansas Community College                                El Dorado, AR
+0143    Southeast Arkansas College                                      Pine Bluff, AR
+0144    Southern Arkansas University                                    Magnolia, AR
+0145    Southern Arkansas University Tech                               Camden, AR
+0146    University of Arkansas                                          Fayetteville, AR
+0147    Pulaski Technical College                                       North Little Rock, AR
+0148    University of Central Arkansas                                  Conway, AR
+0149    University of the Ozarks                                        Clarksville, AR
+0150    Williams Baptist University                                     Walnut Ridge , AR
+0151    Academy of Art University                                       San Francisco, CA
+0152    Alliant International University                                San Diego, CA
+0153    American Heritage University of Southern California             Ontario, CA
+0154    American Jewish University                                      Los Angeles, CA
+0155    American Management University                                  West Covina, CA
+0156    Anaheim University                                              Anaheim, CA
+0157    ArtCenter College of Design                                     Pasadena, CA
+0158    Azusa Pacific University                                        Azusa, CA
+0159    Berean Bible College                                            Poway, CA
+0160    Biola University                                                La Mirada, CA
+0161    California Baptist University                                   Riverside, CA
+0162    California Coast University                                     Anaheim, CA
+0163    California Coast University                                     Santa Ana, CA
+0164    California College of the Arts                                  Oakland, CA
+0165    California College San Diego                                    San Diego, CA
+0166    California Health Sciences University                           Clovis, CA
+0167    California Institute of Integral Studies                        San Francisco, CA
+0168    California Institute of Technology                              Pasadena, CA
+0169    California Institute of the Arts                                Valencia, CA
+0170    California Lutheran University                                  Thousand Oaks, CA
+0171    California Metropolitan University                              Montclair, CA
+0172    California Miramar University                                   San Diego, CA
+0173    California Polytechnic State University                         San Luis Obispo , CA
+0174    California South Bay University                                 Sunnyvale, CA
+0175    California Southern University                                  Costa Mesa, CA
+0176    California State University                                     Long Beach, CA
+0177    California University of Management and Sciences                Anaheim, CA
+0178    California University of Management and Technology              San Jose, CA
+0179    Cambridge College                                               Rancho Cucamonga, CA
+0180    Chapman University                                              Orange, CA
+0181    Charles R. Drew University of Medicine and Science              Willowbrook, CA
+0182    Claremont Graduate University                                   Claremont, CA
+0183    Claremont Lincoln University                                    Claremont, CA
+0184    Claremont McKenna College                                       Claremont, CA
+0185    Concordia University Irvine                                     Irvine, CA
+0186    Deep Springs College                                            Deep Springs, CA
+0187    Defense Language Institute                                      Monterey, CA
+0188    Design Institute of San Diego                                   San Diego, CA
+0189    Dharma Realm Buddhist University                                Ukiah, CA
+0190    Dominican University of California                              San Rafael, CA
+0191    Emperor's College of Traditional Oriental Medicine              Santa Monica, CA
+0192    Epic Bible College                                              Sacramento, CA
+0193    Fashion Institute of Design & Merchandising                     Los Angeles, CA
+0194    Fielding Graduate University                                    Santa Barbara, CA
+0195    Frederick S. Pardee RAND Graduate School                        Santa Monica, CA
+0196    Fresno Pacific University                                       Fresno, CA
+0197    Fuller Theological Seminary                                     Pasadena, CA
+0198    Gateway Seminary                                                Ontario, CA
+0199    Golden Gate University                                          San Francisco, CA
+0200    Graduate Theological Union                                      Berkeley, CA
+0201    Gurnick Academy                                                 San Mateo, CA
+0202    Harvey Mudd College                                             Claremont, CA
+0203    Holy Names University                                           Oakland, CA
+0204    Hope International University                                   Fullerton, CA
+0205    Hult International Business School                              San Francisco, CA
+0206    Humphreys University                                            Stockton, CA
+0207    Imago Dei College                                               Oak Glen, CA
+0208    Institute of Buddhist Studies                                   Berkeley, CA
+0209    International Technological University                          San Jose, CA
+0210    Jessup University                                               Rocklin, CA
+0211    John Paul the Great Catholic University                         Escondido, CA
+0212    Keck Graduate Institute                                         Claremont, CA
+0213    La Sierra University                                            Riverside, CA
+0214    Laguna College of Art and Design                                Laguna Beach, CA
+0215    Life Pacific University                                         San Dimas, CA
+0216    Lincoln University                                              Oakland, CA
+0217    Loma Linda University                                           Loma Linda, CA
+0218    Los Angeles College of Music                                    Pasadena, CA
+0219    Loyola Marymount University                                     Los Angeles, CA
+0220    Make School                                                     San Francisco, CA
+0221    Menlo College                                                   Atherton, CA
+0222    Middlebury Institute of International Studies at Monterey       Monterey, CA
+0223    Minerva University                                              San Francisco, CA
+0224    Mount St. Mary's University                                     Los Angeles, CA
+0225    National University                                             La Jolla, CA
+0226    Naval Postgraduate School                                       Monterey, CA
+0227    New York Film Academy                                           Los Angeles, CA
+0228    NewSchool of Architecture and Design                            San Diego, CA
+0229    Northwestern Polytechnic University                             Fremont, CA
+0230    Notre Dame de Namur University                                  Belmont, CA
+0231    Oak Valley College                                              San Dimas, CA
+0232    Occidental College                                              Los Angeles, CA
+0233    Oikos University                                                Oakland, CA
+0234    Open Christian University                                       Laguna Beach, CA
+0235    Otis College of Art and Design                                  Westchester, CA
+0236    Pacific Lutheran Theological Seminary                           Berkeley, CA
+0237    Pacific Oaks College                                            Pasadena, CA
+0238    Pacific School of Religion                                      Berkeley, CA
+0239    Pacific Union College                                           Angwin, CA
+0240    Pacifica Graduate Institute                                     Santa Barbara, CA
+0241    Palmer College of Chiropractic                                  San Jose, CA
+0242    Palo Alto University                                            Palo Alto, CA
+0243    Patten University                                               Oakland, CA
+0244    Pepperdine University                                           Malibu, CA
+0245    Pitzer College                                                  Claremont, CA
+0246    Point Loma Nazarene University                                  San Diego, CA
+0247    Pomona College                                                  Claremont, CA
+0248    Providence Christian College                                    Pasadena, CA
+0249    Saint Mary's College of California                              Moraga, CA
+0250    Samuel Merritt University                                       Oakland, CA
+0251    San Diego Christian College                                     Santee, CA
+0252    San Diego State University                                      San Diego, CA
+0253    San Diego University for Integrative Studies                    San Diego, CA
+0254    San Francisco Institute of Architecture                         Berkeley, CA
+0255    San Francisco State University                                  San Francisco, CA
+0256    San Joaquin College of Law                                      Clovis, CA
+0257    San Jose State University                                       San Jose, CA
+0258    Santa Clara University                                          Santa Clara, CA
+0259    Saybrook University                                             Oakland, CA
+0260    Scripps College                                                 Claremont, CA
+0261    Simpson University                                              Redding, CA
+0262    Soka University of America                                      Aliso Viejo, CA
+0263    Sonoma State University                                         Rohnert Park , CA
+0264    Southern California Institute of Architecture                   Los Angeles, CA
+0265    Southern States University                                      San Diego, CA
+0266    Southwestern Law School                                         Los Angeles, CA
+0267    St. Photios Orthodox Theological Seminary                       Etna, CA
+0268    Stanford University                                             Stanford, CA
+0269    Starr King School for Ministry                                  Berkeley, CA
+0270    The Culinary Institute of America at Greystone                  St. Helena, CA
+0271    The Master's University                                         Santa Clarita, CA
+0272    Thomas Aquinas College                                          Santa Paula, CA
+0273    Touro University California                                     Vallejo, CA
+0274    Trident University International                                Cypress, CA
+0275    University of Antelope Valley                                   Lancaster, CA
+0276    University of California                                        Berkeley, CA
+0277    University of La Verne                                          La Verne, CA
+0278    University of Redlands                                          Redlands, CA
+0279    University of San Diego                                         San Diego, CA
+0280    University of San Francisco                                     San Francisco, CA
+0281    University of Silicon Valley                                    Sunnyvale, CA
+0282    University of Southern California                               Los Angeles, CA
+0283    University of the Pacific                                       Stockton, CA
+0284    University of the People                                        Pasadena, CA
+0285    University of the West                                          Rosemead, CA
+0286    University of West Los Angeles                                  Inglewood, CA
+0287    Vanguard University                                             Costa Mesa, CA
+0288    Westcliff University                                            Irvine, CA
+0289    Western Seminary, Sacramento Campus                             Sacramento, CA
+0290    Western Seminary, San Jose Campus                               Santa Clara, CA
+0291    Western State College of Law                                    Fullerton, CA
+0292    Western University of Health Sciences                           Pomona, CA
+0293    Westmont College                                                Montecito, CA
+0294    Whittier College                                                Whittier, CA
+0295    Woodbury University                                             Burbank, CA
+0296    Zaytuna College                                                 Berkeley , CA
+
 
 =======================================
 ======= Defunct US Universities =======
@@ -104,3 +334,45 @@ Judson College                                                  Marion, AL
 Southeastern Bible College                                      Birmingham, AL
 Southern Benedictine College                                    Cullman, AL
 Virginia College                                                Birmingham, AL
+Anthem Education Group                                          Glendale, AZ
+Arizona Summit Law School                                       Phoenix, AZ
+Art Institute of Phoenix, The                                   Phoenix, AZ
+Art Institute of Tucson, The                                    Tucson, AZ
+Brown Mackie College                                            Phoenix, AZ
+Le Cordon Bleu College of Culinary Arts Scottsdale              Scottsdale, AZ
+CollegeAmerica                                                  Phoenix, AZ
+Collins College                                                 Phoenix, AZ
+Southwest University of Visual Arts                             Tucson , AZ
+Judsonia University                                             Judsonia, AR
+Little Rock Commercial College and Telegraph Institute          Little Rock, AR
+Little Rock College                                             Little Rock, AR
+St. Johns' College                                              Little Rock, AR
+Southeast College of Technology                                 Little Rock, AR
+Bethany University                                              Scotts Valley, CA
+Bristol University                                              Anaheim, California, CA
+Brooks Institute                                                Ventura, CA
+California Pacific University                                   Pinole, CA
+California Southern Law School                                  Riverside, CA
+Coleman University                                              San Diego, CA
+Drexel University Sacramento                                    Sacramento, CA
+Eldorado College                                                Escondido, CA
+Herguan University                                              Sunnyvale, CA
+ICDC College                                                    Huntington Park, CA
+Immaculate Heart College                                        Los Angeles, CA
+John F. Kennedy University                                      Pleasant Hill, CA
+Marymount California University                                 Rancho Palos Verdes, CA
+Mills College                                                   Oakland, CA
+National Hispanic University                                    San Jose, CA
+San Luis Rey College                                            Oceanside, CA
+Shepherd University                                             Los Angeles, CA
+Silicon Valley University                                       San Jose, CA
+University of Beverly Hills                                     Beverly Hills, CA
+Colorado Heights University                                     Denver, CO
+Johnson & Wales University                                      Denver, CO
+Jones International University                                  Centennial, CO
+CollegeAmerica                                                  Denver, CO
+Lorenzo Patiño School of Law                                    Sacramento, CA
+University of Northern California                               Petaluma, CA
+Upland College                                                  Upland, CA
+Washington College of Science and Industry                      Irvington, CA
+Windsor University                                              Los Angeles , CA
