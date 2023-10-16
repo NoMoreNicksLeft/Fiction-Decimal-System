@@ -1,1 +1,36 @@
+=======================================
+================ Index ================
+=======================================
 
+0000 - 0099 - US Colleges & Universities
+x - x - Defunct US Colleges & Universities
+
+
+=======================================
+================ Notes ================
+=======================================
+
+This is a list of universities and colleges (where "college" refers to an institution of its own rather than a unit of a university). It strives to include historical, no-longer-extant universities as well. State/city are provided mainly to disambiguate names that are similar. It reserves space for newly created universities and other higher education entities, which apparently happens every year in some small number.
+
+The list was built from:
+
+https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
+
+These were a mess. Part of that is due to the fact that American universities will open many campuses in many cities, and call each the "University of Blahstate at Yaddatown" and "University at Blahstate at Foobarville", but occasionally one will just be named something like "Greebenfloo College" with a paranthetical notation that it's affiliated. In such cases, the latter is retained (it is named as if it is its own entity) unless it turns out that it is merely one of the units of the larger university system. In some of the Wikipedia lists, defunct institutions weren't separate from extant. Finally, University of Phoenix and the other diploma mills that try to open a location in every strip mall across the nation made it more than a little tedious.
+
+
+=======================================
+=========== US Universities ===========
+=======================================
+
+=======================================
+======= Defunct US Universities =======
+=======================================
+
+Alabama Presbyterian College                                    Anniston, AL
+Concordia College Alabama                                       Selma, AL
+Daniel Payne College                                            Birmingham, AL
+Judson College                                                  Marion, AL
+Southeastern Bible College                                      Birmingham, AL
+Southern Benedictine College                                    Cullman, AL
+Virginia College                                                Birmingham, AL
