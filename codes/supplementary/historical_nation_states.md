@@ -20,3 +20,19 @@ This supplementary table will endeavor to list all known historical countries, a
 ||NICE|Empire of Nicea|||||
 ||DEPI|Despotate of Trebizond|Δεσποτάτο της Ηπείρου||||
 ||TREB|Empire of Trebizond|Αυτοκρατορία της Τραπεζούντας||||
+
+*Ancient Greece*
+
+|num-4|alpah-4|English|endonym|date|government|demise|
+|:--|:--|--|--|--|--|--:|
+||MACE|Macedonia|Μακεδονία||||
+||PTOL|Ptolemaic Kingdom|Πτολεμαϊκὴ βασιλεία||||
+||KEPI|Kingdom of Epirus|||||
+||LEPI|Epirote League|||||
+||ODRY|Odrysian Kingdom|||||
+||DELL|Delian League|||||
+||FATH|Athenian Empire|||||
+||SATH|Second Athenian Empire|||||
+||CORL|League of Corinth|||||
+
+||||||||
