@@ -2,6 +2,8 @@
 ================ Index ================
 =======================================
 
+WARNING: New US universities and colleges are created every year, and previous universities become defunct every year. All code numbers must remain static as soon as they are issued. This will make the current institutions unsorted quickly as new institutions require higher, unused numbers to be added to the list, and defunct numbers will be all over the place. USE TEXT SEARCH TO FIND THE CORRECT UNIVERSITY OR COLLEGE.
+
 0000 - 0099 - US Colleges & Universities
 x - x - Defunct US Colleges & Universities
 
@@ -15,10 +17,6 @@ This is a list of universities and colleges (where "college" refers to an instit
 The list was built from:
 
 https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
-
-These were a mess. Part of that is due to the fact that American universities will open many campuses in many cities, and call each the "University of Blahstate at Yaddatown" and "University at Blahstate at Foobarville", but occasionally one will just be named something like "Greebenfloo College" with a paranthetical notation that it's affiliated. In such cases, the latter is retained (it is named as if it is its own entity) unless it turns out that it is merely one of the units of the larger university system. In some of the Wikipedia lists, defunct institutions weren't separate from extant. Finally, University of Phoenix and the other diploma mills that try to open a location in every strip mall across the nation made it more than a little tedious.
-
-All higher education entities are sorted by state, then name.
 
 =======================================
 =========== US Universities ===========
@@ -321,6 +319,344 @@ All higher education entities are sorted by state, then name.
 0294    Whittier College                                                Whittier, CA
 0295    Woodbury University                                             Burbank, CA
 0296    Zaytuna College                                                 Berkeley , CA
+0297    Adams State University                                          Alamosa, CO
+0298    Aims Community College                                          Greeley, CO
+0299    Arapahoe Community College                                      Littleton, CO
+0300    Colorado Christian University                                   Lakewood, CO
+0301    Colorado College                                                Colorado Springs, CO
+0302    Colorado Mesa University                                        Grand Junction, CO
+0303    Colorado Mountain College                                       Glenwood Springs, CO
+0304    Colorado Northwestern Community College                         Rangely, CO
+0305    Colorado School of Mines                                        Golden, CO
+0306    Colorado State University                                       Fort Collins, CO
+0307    Colorado Technical University                                   Colorado Springs, CO
+0308    Columbia College of Missouri                                    Centennial, CO
+0309    Community College of Aurora                                     Aurora, CO
+0310    Community College of Denver                                     Denver, CO
+0311    DeVry University                                                Westminster, CO
+0312    Fort Lewis College                                              Durango, CO
+0313    Front Range Community College                                   Westminster, CO
+0314    Lamar Community College                                         Lamar, CO
+0315    Metropolitan State University of Denver                         Denver, CO
+0316    Morgan Community College                                        Morgan, CO
+0317    Naropa University                                               Boulder, CO
+0318    Nazarene Bible College                                          Colorado Springs, CO
+0319    Northeastern Junior College                                     Sterling, CO
+0320    Otero College                                                   La Junta, CO
+0321    Pikes Peak State College                                        Colorado Springs, CO
+0322    Pikes Peak State College                                        Colorado Springs, CO
+0323    Pueblo Community College                                        Pueblo, CO
+0324    Red Rocks Community College                                     Lakewood, CO
+0325    Regis University                                                Denver, CO
+0326    Rocky Mountain College of Art + Design                          Denver, CO
+0327    Trinidad State College                                          Trinidad, CO
+0328    United States Air Force Academy                                 Colorado Springs, CO
+0329    University of Colorado                                          Denver, CO
+0330    University of Denver                                            Denver, CO
+0331    University of Northern Colorado                                 Greeley, CO
+0332    Western Colorado University                                     Gunnison, CO
+0333    William Howard Taft University                                  Denver, CO
+0334    Albertus Magnus College                                         New Haven, CT
+0335    Asnuntuck Community College                                     Enfield, CT
+0336    Capital Community College                                       Hartford, CT
+0337    Central Connecticut State University                            New Britain, CT
+0338    Charter Oak State College                                       New Britain, CT
+0339    Connecticut College                                             New London, CT
+0340    Eastern Connecticut State University                            Willimantic, CT
+0341    Fairfield University                                            Fairfield, CT
+0342    Gateway Community College                                       New Haven, CT
+0343    Goodwin University                                              East Hartford, CT
+0344    Hartford International University for Religion and Peace        Hartford, CT
+0345    Holy Apostles College and Seminary                              Cromwell, CT
+0346    Housatonic Community College                                    Bridgeport, CT
+0347    Legion of Christ College of Humanities                          Cheshire, CT
+0348    Manchester Community College                                    Manchester, CT
+0349    Middlesex Community College                                     Middletown, CT
+0350    Mitchell College                                                New London, CT
+0351    Naugatuck Valley Community College                              Waterbury, CT
+0352    Northwestern Connecticut Community College                      Winsted, CT
+0353    Norwalk Community College                                       Norwalk, CT
+0354    Paier College of Art                                            Hamden, CT
+0355    Post University                                                 Waterbury, CT
+0356    Quinebaug Valley Community College                              Danielson, CT
+0357    Quinnipiac University                                           Hamden, CT
+0358    Sacred Heart University                                         Fairfield, CT
+0359    Southern Connecticut State University                           New Haven, CT
+0360    The Graduate Institute                                          Bethany, CT
+0361    Three Rivers Community College                                  Norwich, CT
+0362    Trinity College                                                 Hartford, CT
+0363    Tunxis Community College                                        Farmington, CT
+0364    United States Coast Guard Academy                               New London, CT
+0365    University of Bridgeport                                        Bridgeport, CT
+0366    University of Connecticut                                       Storrs, CT
+0367    University of Hartford                                          West Hartford, CT
+0368    University of New Haven                                         West Haven, CT
+0369    University of Saint Joseph                                      West Hartford, CT
+0370    Wesleyan University                                             Middletown, CT
+0371    Western Connecticut State University                            Danbury, CT
+0372    Yale University                                                 New Haven , CT
+0373    Delaware College of Art and Design                              Wilmington, DE
+0374    Delaware State University                                       Dover, DE
+0375    Delaware Technical Community College                            Georgetown, DE
+0376    Goldey–Beacom College                                           Pike Creek Valley, DE
+0377    University of Delaware                                          Newark, DE
+0378    Widener University Delaware Law School                          Wilmington, DE
+0379    Wilmington University                                           New Castle, DE
+0380    American University                                             Washington, DC
+0381    Bay Atlantic University                                         Washington, DC
+0382    Catholic University of America                                  Washington, DC
+0383    Gallaudet University                                            Washington, DC
+0384    George Washington University                                    Washington, DC
+0385    Georgetown University                                           Washington, DC
+0386    Howard University                                               Washington, DC
+0387    Human Resources University                                      Washington, DC
+0388    Institute of World Politics                                     Washington, DC
+0389    Inter-American Defense College                                  Washington, DC
+0390    National Defense University                                     Washington, DC
+0391    National Intelligence University                                Washington, DC
+0392    NewU Universitys                                                Washington, DC
+0393    Quantic School of Business and Technology                       Washington, DC
+0394    St. Paul's College                                              Washington, DC
+0395    Trinity Washington University                                   Washington, DC
+0396    University of the District of Columbia                          Washington, DC
+0397    University of the Potomac                                       Washington, DC
+0398    Wesley Theological Seminary                                     Washington, DC
+0399    Acupuncture and Massage College                                 Miami, FL
+0400    AdventHealth University                                         Orlando, FL
+0401    AdventHealth University                                         Orlando, FL
+0402    Aerosim Flight Academy                                          Sanford, FL
+0403    American College for Medical Careers                            Orlando, FL
+0404    Argosy University                                               Tampa, FL
+0405    Atlantic Institute of Oriental Medicine                         Fort Lauderdale, FL
+0406    Atlantis University                                             Miami-Dade County, FL
+0407    Ave Maria University                                            Ave Maria, FL
+0408    Baptist College of Florida                                      Graceville, FL
+0409    Barry University                                                Miami Shores, FL
+0410    Beacon College                                                  Leesburg, FL
+0411    Bethune–Cookman University                                      Daytona Beach, FL
+0412    Broward College                                                 Davie, FL
+0413    Carlos Albizu University                                        Miami, FL
+0414    Chipola College                                                 Marianna, FL
+0415    City College                                                    Fort Lauderdale, FL
+0416    College of Business and Technology                              Miami, FL
+0417    College of Central Florida                                      Ocala, FL
+0418    College of the Florida Keys                                     Key West, FL
+0419    Columbia College                                                Jacksonville, FL
+0420    Covenant Life University                                        Fort Myers, FL
+0421    Daytona State College                                           Daytona Beach, FL
+0422    DeVry University                                                Orlando, FL
+0423    Digital Media Arts College                                      Boca Raton, FL
+0424    Dragon Rises College of Oriental Medicine                       Gainesville, FL
+0425    East West College of Natural Medicine                           Sarasota, FL
+0426    Eastern Florida State College                                   Cocoa, FL
+0427    Eckerd College                                                  St. Petersburg, FL
+0428    Edward Waters University                                        Jacksonville, FL
+0429    Embry–Riddle Aeronautical University                            Daytona Beach, FL
+0430    Emmaus Baptist College                                          Brandon, FL
+0431    Everest University                                              Pompano Beach, FL
+0432    Everglades University                                           Boca Raton, FL
+0433    Flagler College                                                 St. Augustine, FL
+0434    Florida A&M University                                          Tallahassee, FL
+0435    Florida Atlantic University                                     Boca Raton, FL
+0436    Florida Career College                                          Miami, FL
+0437    Florida College                                                 Temple Terrace, FL
+0438    Florida College of Integrative Medicine                         Orlando, FL
+0439    Florida Gateway College                                         Lake City, FL
+0440    Florida Gulf Coast University                                   Fort Myers, FL
+0441    Florida Institute of Technology                                 Melbourne, FL
+0442    Florida International University                                Miami, FL
+0443    Florida Memorial University                                     Miami Gardens, FL
+0444    Florida National University                                     Hialeah, FL
+0445    Florida Polytechnic University                                  Lakeland, FL
+0446    Florida Southern College                                        Lakeland, FL
+0447    Florida SouthWestern State College                              Fort Myers, FL
+0448    Florida State College at Jacksonville                           Jacksonville, FL
+0449    Florida State University                                        Tallahassee, FL
+0450    Florida Technical College                                       Orlando, FL
+0451    Full Sail University                                            Winter Park, FL
+0452    George Stone Technical Center                                   Pensacola, FL
+0453    Gordon–Conwell Theological Seminary                             Jacksonville, FL
+0454    Gulf Coast State College                                        Panama City, FL
+0455    Herzing University                                              Orlando, FL
+0456    Hillsborough Community College                                  Tampa, FL
+0457    Hobe Sound Bible College                                        Hobe Sound, FL
+0458    Hodges University                                               Fort Myers, FL
+0459    Indian River State College                                      Fort Pierce, FL
+0460    Jacksonville University                                         Jacksonville, FL
+0461    Johnson University Florida                                      Kissimmee, FL
+0462    Jose Maria Vargas University                                    Pembroke Pines, FL
+0463    Keiser University                                               Fort Lauderdale, FL
+0464    Lake Erie College of Osteopathic Medicine                       Bradenton, FL
+0465    Lake–Sumter State College                                       Leesburg, FL
+0466    Lynn University                                                 Boca Raton, FL
+0467    Miami Dade College                                              Miami, FL
+0468    Miami International University of Art & Design                  Miami, FL
+0469    Miami International University of Art & Design                  Miami, FL
+0470    Miami Regional University                                       Miami Springs, FL
+0471    Millennia Atlantic University                                   Doral, FL
+0472    National Louis University                                       Tampa, FL
+0473    National University of Medical Sciences                         Naples, FL
+0474    New College of Florida                                          Sarasota, FL
+0475    Nexus University                                                Miami, FL
+0476    North Florida College                                           Madison, FL
+0477    Northwest Florida State College                                 Niceville, FL
+0478    Northwest Lineman College                                       Edgewater, FL
+0479    Nova Southeastern University                                    Davie, FL
+0480    Okan International University                                   Dania Beach, FL
+0481    Orlando Culinary Academy                                        Orlando, FL
+0482    Palm Beach Atlantic University                                  West Palm Beach, FL
+0483    Palm Beach State College                                        Lake Worth, FL
+0484    Pasco–Hernando State College                                    New Port Richey, FL
+0485    Pensacola Christian College                                     Pensacola, FL
+0486    Pensacola State College                                         Pensacola, FL
+0487    Polk State College                                              Winter Haven, FL
+0488    Reformed Theological Seminary                                   Orlando, FL
+0489    Remington College                                               Tampa, FL
+0490    Ringling College of Art and Design                              Sarasota, FL
+0491    Rollins College                                                 Winter Park, FL
+0492    Saint Leo University                                            St. Leo, FL
+0493    San Ignacio University                                          Doral, FL
+0494    Santa Fe College                                                Gainesville, FL
+0495    Schiller International University                               Largo, FL
+0496    Seminole State College of Florida                               Sanford, FL
+0497    South Florida Bible College & Theological Seminary              Deerfield Beach, FL
+0498    South Florida State College                                     Avon Park, FL
+0499    Southeastern College                                            Miami Lakes, FL
+0500    Southeastern University                                         Lakeland, FL
+0501    Southern Technical College                                      Orlando, FL
+0502    Southern Technical College                                      Orlando, FL
+0503    Springfield College                                             Tampa, FL
+0504    St. John Vianney College Seminary                               Miami, FL
+0505    St. Johns River State College                                   Palatka, FL
+0506    St. Petersburg College                                          St. Petersburg, FL
+0507    St. Thomas University                                           Miami Gardens, FL
+0508    State College of Florida, Manatee–Sarasota                      Bradenton, FL
+0509    Stetson University                                              DeLand, FL
+0510    Tallahassee Community College                                   Tallahassee, FL
+0511    Talmudic University Yeshiva Bais Moshe Chaim                    Miami Beach, FL
+0512    Trinity Baptist College                                         Jacksonville, FL
+0513    Trinity College                                                 New Port Richey, FL
+0514    University of Central Florida                                   Orlando, FL
+0515    University of Florida                                           Gainesville, FL
+0516    University of Fort Lauderdale                                   Fort Lauderdale, FL
+0517    University of Miami                                             Coral Gables, FL
+0518    University of North Florida                                     Jacksonville, FL
+0519    University of Phoenix                                           Orlando, FL
+0520    University of South Florida                                     Tampa, FL
+0521    University of St. Augustine for Health Sciences                 St. Augustine, FL
+0522    University of Tampa                                             Tampa, FL
+0523    University of West Florida                                      Pensacola, FL
+0524    Valencia College                                                Orlando, FL
+0525    Warner University                                               Lake Wales, FL
+0526    Webber International University                                 Babson Park, FL
+0527    Western Michigan University Cooley Law School                   Tampa, FL
+0528    University of Georgia                                           Athens, GA
+0529    Georgia Institute of Technology                                 Atlanta, GA
+0530    Augusta University                                              Augusta, GA
+0531    Georgia State University                                        Atlanta, GA
+0532    Georgia Southern University                                     Statesboro, GA
+0533    Kennesaw State University                                       Kennesaw, GA
+0534    University of West Georgia                                      Carrollton, GA
+0535    Valdosta State University                                       Valdosta, GA
+0536    Albany State University                                         Albany, GA
+0537    Clayton State University                                        Morrow, GA
+0538    Columbus State University                                       Columbus, GA
+0539    Fort Valley State University                                    Fort Valley, GA
+0540    Georgia College & State University                              Milledgeville, GA
+0541    Georgia Southwestern State University                           Americus, GA
+0542    Middle Georgia State University                                 Macon, GA
+0543    Savannah State University                                       Savannah, GA
+0544    University of North Georgia                                     Dahlonega, GA
+0545    Abraham Baldwin Agricultural College                            Tifton, GA
+0546    Atlanta Metropolitan State C                                    ollege  Atlanta, GA
+0547    College of Coastal Georgia                                      Brunswick, GA
+0548    Dalton State College                                            Dalton, GA
+0549    East Georgia State College                                      Swainsboro, GA
+0550    Georgia Gwinnett College                                        Lawrenceville, GA
+0551    Georgia Highlands College                                       Rome, GA
+0552    Gordon State College                                            Barnesville, GA
+0553    South Georgia State College                                     Douglas , GA
+0554    Georgia Military College                                        Milledgeville, GA
+0555    Albany Technical College                                        Albany, GA
+0556    Athens Technical College                                        Athens, GA
+0557    Atlanta Technical College                                       Atlanta, GA
+0558    Augusta Technical College                                       Augusta, GA
+0559    Central Georgia Technical College                               Macon, GA
+0560    Chattahoochee Technical College                                 Marietta, GA
+0561    Coastal Pines Technical College                                 Waycross, GA
+0562    Columbus Technical College                                      Columbus, GA
+0563    Georgia Northwestern Technical College                          Rome, GA
+0564    Georgia Piedmont Technical College                              Clarkston, GA
+0565    Gwinnett Technical College                                      Lawrenceville, GA
+0566    Lanier Technical College                                        Oakwood, GA
+0567    North Georgia Technical College                                 Clarkesville, GA
+0568    Oconee Fall Line Technical College                              Sandersville, GA
+0569    Ogeechee Technical College                                      Statesboro, GA
+0570    Savannah Technical College                                      Savannah, GA
+0571    South Georgia Technical College                                 Americus, GA
+0572    Southeastern Technical College                                  Vidalia, GA
+0573    Southern Crescent Technical College                             Griffin, GA
+0574    Southern Regional Technical College                             Thomasville, GA
+0575    West Georgia Technical College                                  Waco, GA
+0576    Wiregrass Georgia Technical College                             Valdosta, GA
+0577    Emory University                                                Atlanta, GA
+0578    Mercer University                                               Macon, GA
+0579    Savannah College of Art and Design                              Savannah, GA
+0580    South University                                                Savannah , GA
+0581    Clark Atlanta University                                        Atlanta, GA
+0582    Morehouse College                                               Atlanta, GA
+0583    Morehouse School of Medicine                                    Atlanta, GA
+0584    Spelman College                                                 Atlanta, GA
+0585    Agnes Scott College                                             Decatur, GA
+0586    Berry College                                                   Mount Berry, GA
+0587    Brewton–Parker College                                          Mount Vernon, GA
+0588    Covenant College                                                Lookout Mountain, GA
+0589    Emmanuel College                                                Franklin Springs, GA
+0590    Morris Brown College                                            Atlanta, GA
+0591    Oglethorpe University                                           Brookhaven, GA
+0592    Piedmont University                                             Demorest, GA
+0593    Reinhardt University                                            Waleska, GA
+0594    Shorter University                                              Rome, GA
+0595    Wesleyan College                                                Macon, GA
+0596    Young Harris College                                            Young Harris , GA
+0597    Andersonville Theological Seminary                              Camilla, GA
+0598    Andrew College                                                  Cuthbert, GA
+0599    Art Institute of Atlanta                                        Atlanta, GA
+0600    Atlanta's John Marshall Law School                              Atlanta, GA
+0601    Brenau University                                               Gainesville, GA
+0602    Christian College of Georgia                                    Atlanta, GA
+0603    Columbia Theological Seminary                                   Decatur, GA
+0604    Evangeline Booth College                                        Atlanta, GA
+0605    Georgia Central University                                      Atlanta, GA
+0606    Herzing University                                              Atlanta, GA
+0607    Interdenominational Theological Center                          Atlanta, GA
+0608    LaGrange College                                                LaGrange, GA
+0609    Life University                                                 Marietta, GA
+0610    Luther Rice College & Seminary                                  Lithonia, GA
+0611    Paine College                                                   Augusta, GA
+0612    Point University                                                West Point, GA
+0613    Thomas University                                               Thomasville, GA
+0614    Toccoa Falls College                                            Toccoa, GA
+0615    Truett McConnell University                                     Cleveland, GA
+0616    Ashworth College                                                Norcross, GA
+0617    Beulah Heights University                                       Atlanta, GA
+0618    Bauder College                                                  Atlanta, GA
+0619    Gwinnett College                                                Lilburn, GA
+0620    Akamai University                                               Hilo, HI
+0621    Atlantic International University                               Honoluluv
+0622    Brigham Young University–Hawaii                                 Laie, HI
+0623    Chaminade University of Honolulu                                Honolulu, HI
+0624    Hawaii Pacific University                                       Honolulu, HI
+0625    Hawai‘i Community College                                       Hilo, HI
+0626    Hawaii Tokai International College                              Kapolei, HI
+0627    Honolulu Community College                                      Honolulu, HI
+0628    Institute for Clinical Acupuncture and Oriental Medicine        Honolulu, HI
+0629    Kapiolani Community College                                     Honolulu, HI
+0630    Kauai Community College                                         Lihue, HI
+0631    Leeward Community College                                       Pearl City, HI
+0632    University of Hawaiʻi                                           Honolulu, HI
+0633    Windward Community College                                      Kaneohe , HI
+0634    Hawaii Tokai International College                              Kapolei, HI
 
 
 =======================================
@@ -375,4 +711,56 @@ Lorenzo Patiño School of Law                                    Sacramento, CA
 University of Northern California                               Petaluma, CA
 Upland College                                                  Upland, CA
 Washington College of Science and Industry                      Irvington, CA
-Windsor University                                              Los Angeles , CA
+Windsor University                                              Los Angeles, CA
+CollegeAmerica                                                  Denver, CO
+Colorado Heights University                                     Denver, CO
+Johnson & Wales University                                      Denver, CO
+Jones International University                                  Centennial, CO
+National American University                                    Centennial, CO
+Annhurst College                                                South Woodstock, CT
+Bais Binyomin Academy                                           Stamford, CT
+Lincoln College of New England                                  Southington, CT
+Litchfield Law School                                           Litchfield, CT
+Longview College                                                Enfield, CT
+Mount Sacred Heart College                                      Hamden, CT
+College of Notre Dame                                           Wilton, CT
+Saint Alphonsus College                                         Suffield, CT
+St. Basil College Seminary                                      Stamford, CT
+St. Thomas Seminary                                             Bloomfield, CT
+St. Vincent's College                                           Bridgeport, CT
+Seat of Wisdom College                                          Litchfield, CT
+Silvermine College of Art                                       New Canaan, CT
+Wilcox College of Nursing                                       Middletown , CT
+Brandywine Junior College                                       Wilmington, DE
+St. Mary's College                                              Wilmington, DE
+Wesley College                                                  Dover, DE
+Wesleyan Female College                                         Wilmington, DE
+Women's College of Delaware                                     Newark, DE
+Benjamin Franklin University                                    Washington, DC
+Corcoran College of the Arts and Design                         Washington, DC
+Dunbarton College of the Holy Cross                             Washington, DC
+Graduate School USA                                             Washington, DC
+Mount Vernon Seminary and College                               Washington, DC
+Southeastern University                                         Washington, DC
+Art Institute of Fort Lauderdale, The                           Fort Lauderdale, Fl
+Art Institute of Jacksonville, The                              Jacksonville, FL
+Booker T. Washington Junior College                             Pensacola, Fl
+Carver Junior College                                           Cocoa, FL
+Clearwater Christian College                                    Clearwater, FL
+Collier-Blocker Junior College                                  Palatka, FL
+Gibbs Junior College                                            St. Petersburg, FL
+Hampton Junior College                                          Ocala, FL
+Jackson Junior College                                          Mariana, FL
+Johnson Junior College                                          Leesburg, FL
+Jones College                                                   Jacksonville, FL
+Lincoln Junior College                                          Fort Pierce, FL
+Roosevelt Junior College                                        West Palm Beach, FL
+Rosenwald Junior College                                        Panama City, FL
+Suwannee River Junior College                                   Madison, FL
+Volusia County Junior College                                   Daytona Beach, FL
+Atlanta College of Art                                          Atlanta, GA
+Laurus Technical Institute                                      Atlanta, GA
+Martin Institute                                                Jefferson, GA
+Southern Catholic College                                       Dawsonville, GA
+Tift College                                                    Forsyth, GA
+World Medicine Institute                                        Honolulu, HI
