@@ -4,7 +4,7 @@
 
 WARNING: New US universities and colleges are created every year, and previous universities become defunct every year. All code numbers must remain static as soon as they are issued. This will make the current institutions unsorted quickly as new institutions require higher, unused numbers to be added to the list, and defunct numbers will be all over the place. USE TEXT SEARCH TO FIND THE CORRECT UNIVERSITY OR COLLEGE.
 
-0000 - 0099 - US Colleges & Universities
+0000 - 1500 - US Colleges & Universities
 x - x - Defunct US Colleges & Universities
 
 
@@ -1074,6 +1074,311 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 1049    University of Southern Maine                                    Gorham, ME
 1050    Washington County Community College                             Calais, ME
 1051    York County Community College                                   Wells, ME
+1052    Allegany College of Maryland                                    Cumberland, MD
+1053    Anne Arundel Community College                                  Arnold, MD
+1054    Baltimore City Community College                                Baltimore, MD
+1055    Bowie State University                                          Bowie, MD
+1056    Breakthrough Bible College                                      National Harbor, MD
+1057    Capital Bible Seminary                                          Greenbelt, MD
+1058    Capitol Technology University                                   Laurel, MD
+1059    Carroll Community College                                       Westminster, MD
+1060    Cecil College                                                   North East, MD
+1061    Chesapeake College                                              Wye Mills, MD
+1062    College of Southern Maryland                                    La Plata, MD
+1063    Community College of Baltimore County                           Baltimore County, MD
+1064    Coppin State University                                         Baltimore, MD
+1065    Frederick Community College                                     Frederick, MD
+1066    Frostburg State University                                      Frostburg, MD
+1067    Garrett College                                                 McHenry, MD
+1068    Goucher College                                                 Towson, MD
+1069    Hagerstown Community College                                    Hagerstown, MD
+1070    Harford Community College                                       Bel Air, MD
+1071    Hood College                                                    Frederick, MD
+1072    Howard Community College                                        Columbia, MD
+1073    Johns Hopkins University                                        Baltimore, MD
+1074    Loyola University Maryland                                      Baltimore, MD
+1075    Maryland Institute College of Art                               Baltimore, MD
+1076    Maryland University of Integrative Health                       Laurel, MD
+1077    McDaniel College                                                Westminster, MD
+1078    Montgomery College                                              Montgomery County, MD
+1079    Morgan State University                                         Baltimore, MD
+1080    Mount St. Mary's University                                     Emmitsburg, MD
+1081    Notre Dame of Maryland University                               Baltimore, MD
+1082    Prince George's Community College                               Largo, MD
+1083    Salisbury University                                            Salisbury, MD
+1084    St. John's College                                              Annapolis, MD
+1085    St. Mary's Seminary and University                              Baltimore, MD
+1086    St. Mary’s College                                              St. Mary's City, MD
+1087    Stevenson University                                            Stevenson, MD
+1088    TESST College of Technology                                     Beltsville, MD
+1089    Towson University                                               Towson, MD
+1090    Uniformed Services University of the Health Sciences            Bethesda, MD
+1091    United States Naval Academy                                     Annapolis, MD
+1092    Universities at Shady Grove                                     Rockville, MD
+1093    University of Baltimore                                         Baltimore, MD
+1094    University of Maryland                                          Baltimore, MD
+1095    Washington Adventist University                                 Takoma Park, MD
+1096    Washington College                                              Chestertown, MD
+1097    Wor–Wic Community College                                       Salisbury, MD
+1098    Yeshiva College of The Nation's Capital                         Kemp Mill, MD
+1099    Yeshivas Ner Yisroel                                            Pikesville, MD
+1100    American International College                                  Springfield, MA
+1101    Amherst College                                                 Amherst, MA
+1102    Anna Maria College                                              Paxton, MA
+1103    Assumption University                                           Worcester, MA
+1104    Babson College                                                  Wellesley, MA
+1105    Bard College at Simon's Rock                                    Great Barrington, MA
+1106    Bay Path University                                             Longmeadow, MA
+1107    Bay State College                                               Boston, MA
+1108    Benjamin Franklin Institute of Technology                       Boston, MA
+1109    Bentley University                                              Waltham, MA
+1110    Berklee College of Music                                        Boston, MA
+1111    Berkshire Community College                                     Pittsfield, MA
+1112    Boston Architectural College                                    Boston, MA
+1113    Boston Baptist College                                          Milton, MA
+1114    Boston College                                                  Chestnut Hill, MA
+1115    Boston Graduate School of Psychoanalysis                        Brookline, MA
+1116    Boston University                                               Boston, MA
+1117    Brandeis University                                             Waltham, MA
+1118    Bridgewater State University                                    Bridgewater, MA
+1119    Bristol Community College                                       Fall River, MA
+1120    Bunker Hill Community College                                   Boston, MA
+1121    Cambridge College                                               Cambridge, MA
+1122    Cape Cod Community College                                      West Barnstable, MA
+1123    Clark University                                                Worcester, MA
+1124    College of the Holy Cross                                       Worcester, MA
+1125    Conway School of Landscape Design                               Northampton, MA
+1126    Curry College                                                   Milton, MA
+1127    Dean College                                                    Franklin, MA
+1128    Eastern Nazarene College                                        Quincy, MA
+1129    Elms College                                                    Chicopee, MA
+1130    Emerson College                                                 Boston, MA
+1131    Emmanuel College                                                Boston, MA
+1132    Endicott College                                                Beverly, MA
+1133    Fisher College                                                  Boston, MA
+1134    Fitchburg State University                                      Fitchburg, MA
+1135    Framingham State University                                     Framingham, MA
+1136    Gordon College                                                  Wenham, MA
+1137    Gordon–Conwell Theological Seminary                             South Hamilton, MA
+1138    Greenfield Community College                                    Greenfield, MA
+1139    Hampshire College                                               Amherst, MA
+1140    Harvard University                                              Cambridge, MA
+1141    Hebrew College                                                  Newton, MA
+1142    Hellenic College Holy Cross Greek Orthodox School of Theology   Brookline, MA
+1143    Holyoke Community College                                       Holyoke, MA
+1144    Hult International Business School                              Cambridge, MA
+1145    Labouré College                                                 Boston, MA
+1146    Lasell University                                               Newton, MA
+1147    Lesley University                                               Cambridge, MA
+1148    Longy School of Music of Bard College                           Cambridge, MA
+1149    Massachusetts Bay Community College                             Wellesley, MA
+1150    Massachusetts College of Art and Design                         Boston, MA
+1151    Massachusetts College of Liberal Arts                           North Adams, MA
+1152    Massachusetts College of Pharmacy and Health Sciences           Boston, MA
+1153    Massachusetts Institute of Technology                           Cambridge, MA
+1154    Massachusetts Maritime Academy                                  Bourne, MA
+1155    Massachusetts School of Law                                     Andover, MA
+1156    Massasoit Community College                                     Brockton, MA
+1157    Merrimack College                                               North Andover, MA
+1158    MGH Institute of Health Professions                             Boston, MA
+1159    Middlesex Community College                                     Lowell, MA
+1160    Montserrat College of Art                                       Beverly, MA
+1161    Mount Holyoke College                                           South Hadley, MA
+1162    Mount Wachusett Community College                               Gardner, MA
+1163    New England College of Optometry                                Boston, MA
+1164    New England Conservatory of Music                               Boston, MA
+1165    New England Law Boston                                          Boston, MA
+1166    Nichols College                                                 Dudley, MA
+1167    North Shore Community College                                   Danvers, MA
+1168    Northeastern University                                         Boston, MA
+1169    Northern Essex Community College                                Haverhill, MA
+1170    Northpoint Bible College                                        Haverhill, MA
+1171    Olin College                                                    Needham, MA
+1172    Pope St. John XXIII National Seminary                           Weston, MA
+1173    Quincy College                                                  Quincy, MA
+1174    Quinsigamond Community College                                  Worcester, MA
+1175    Regis College                                                   Weston, MA
+1176    Roxbury Community College                                       Roxbury, MA
+1177    Saint John's Seminary                                           Brighton, MA
+1178    Salem State University                                          Salem, MA
+1179    Simmons University                                              Boston, MA
+1180    Smith College                                                   Northampton, MA
+1181    Springfield College                                             Springfield, MA
+1182    Springfield Technical Community College                         Springfield, MA
+1183    Stonehill College                                               Easton, MA
+1184    Suffolk University                                              Boston, MA
+1185    Tufts University                                                Medford, MA
+1186    University of Massachusetts Boston                              Boston, MA
+1187    Urban College of Boston                                         Boston, MA
+1188    Wellesley College                                               Wellesley, MA
+1189    Wentworth Institute of Technology                               Boston, MA
+1190    Western New England University                                  Springfield, MA
+1191    Westfield State University                                      Westfield, MA
+1192    Wheaton College                                                 Norton, MA
+1193    William James College                                           Boston, MA
+1194    Williams College                                                Williamstown, MA
+1195    Worcester Polytechnic Institute                                 Worcester, MA
+1196    Worcester State University                                      Worcester, MA
+1197    Adrian College                                                  Adrian, MI
+1198    Albion College                                                  Albion, MI
+1199    Alma College                                                    Alma, MI
+1200    Alpena Community College                                        Alpena, MI
+1201    Andrews University                                              Berrien Springs, MI
+1202    Aquinas College                                                 Grand Rapids, MI
+1203    Baker College                                                   Flint, MI
+1204    Bay de Noc Community College                                    Escanaba, MI
+1205    Bay Mills Community College                                     Brimley, MI
+1206    Calvin Theological Seminary                                     Grand Rapids, MI
+1207    Calvin University                                               Grand Rapids, MI
+1208    Central Michigan University                                     Mount Pleasant, MI
+1209    Cleary University                                               Howell, MI
+1210    College for Creative Studies                                    Detroit, MI
+1211    Concordia University Ann Arbor                                  Ann Arbor, MI
+1212    Cornerstone University                                          Grand Rapids, MI
+1213    Cranbrook Academy of Art                                        Bloomfield Hills, MI
+1214    Davenport University                                            Grand Rapids, MI
+1215    Delta College                                                   University Center, MI
+1216    Eastern Michigan University                                     Ypsilanti, MI
+1217    Ecumenical Theological Seminary                                 Detroit, MI
+1218    Ferris State University                                         Big Rapids, MI
+1219    Glen Oaks Community College                                     Centreville, MI
+1220    Gogebic Community College                                       Ironwood, MI
+1221    Grace Christian University                                      Wyoming, MI
+1222    Grand Rapids Community College                                  Grand Rapids, MI
+1223    Grand Valley State University                                   Allendale, MI
+1224    Great Lakes Christian College                                   Lansing, MI
+1225    Henry Ford College                                              Dearborn, MI
+1226    Hillsdale College                                               Hillsdale, MI
+1227    Hope College                                                    Holland, MI
+1228    Jackson College                                                 Jackson, MI
+1229    Kalamazoo College                                               Kalamazoo, MI
+1230    Kalamazoo Valley Community College                              Kalamazoo, MI
+1231    Kellogg Community College                                       Battle Creek, MI
+1232    Kettering University                                            Flint, MI
+1233    Keweenaw Bay Ojibwa Community College                           Baraga, MI
+1234    Kirtland Community College                                      Roscommon, MI
+1235    Kuyper College                                                  Grand Rapids, MI
+1236    Lake Michigan College                                           Benton Harbor, MI
+1237    Lake Superior State University                                  Sault Ste. Marie, MI
+1238    Lansing Community College                                       Lansing, MI
+1239    Lawrence Technological University                               Southfield, MI
+1240    Macomb Community College                                        Warren, MI
+1241    Madonna University                                              Livonia, MI
+1242    Michigan School of Psychology                                   Farmington Hills, MI
+1243    Michigan State University                                       East Lansing, MI
+1244    Michigan Technological University                               Houghton, MI
+1245    Mid Michigan College                                            Harrison, MI
+1246    Monroe County Community College                                 Monroe, MI
+1247    Montcalm Community College                                      Sidney Township, MI
+1248    Moody Theological Seminary–Michigan                             Plymouth, MI
+1249    Mott Community College                                          Flint, MI
+1250    Muskegon Community College                                      Muskegon, MI
+1251    North Central Michigan College                                  Petoskey, MI
+1252    Northern Michigan University                                    Marquette, MI
+1253    Northwestern Michigan College                                   Traverse City, MI
+1254    Northwood University                                            Midland, MI
+1255    Oakland Community College                                       Bloomfield Hills, MI
+1256    Oakland University                                              Rochester Hills, MI
+1257    Olivet College                                                  Olivet, MI
+1258    Rochester University                                            Rochester Hills, MI
+1259    Sacred Heart Major Seminary                                     Detroit, MI
+1260    Saginaw Chippewa Tribal College                                 Mount Pleasant , MI
+1261    Saginaw Valley State University                                 University Center, MI
+1262    Schoolcraft College                                             Livonia, MI
+1263    Siena Heights University                                        Adrian, MI
+1264    Southwestern Michigan College                                   Dowagiac, MI
+1265    Spring Arbor University                                         Spring Arbor, MI
+1266    St. Clair County Community College                              Port Huron, MI
+1267    University of Detroit Mercy                                     Detroit, MI
+1268    University of Michigan                                          Ann Arbor, MI
+1269    Walsh College of Accountancy and Business                       Troy, MI
+1270    Washtenaw Community College                                     Ann Arbor, MI
+1271    Wayne County Community College District                         Detroit, MI
+1272    Wayne State University                                          Detroit, MI
+1273    West Shore Community College                                    Scottville, MI
+1274    Western Michigan University                                     Kalamazoo, MI
+1275    Western Michigan University Cooley Law School                   Lansing, MI
+1276    Western Theological Seminary                                    Holland, MI
+1277    Yeshiva Gedolah of Greater Detroit                              Oak Park, MI
+1278    Academy College                                                 Minneapolis, MN
+1279    Adler Graduate School                                           Minnetonka, MN
+1280    Alexandria Technical and Community College                      Alexandria, MN
+1281    American Academy of Acupuncture and Oriental Medicine           Roseville, MN
+1282    Anoka Technical College                                         Anoka, MN
+1283    Anoka-Ramsey Community College                                  Cambridge, MN
+1284    Art Institutes International Minnesota, The                     Minneapolis, MN
+1285    Augsburg University                                             Minneapolis, MN
+1286    Bemidji State University                                        Bemidji, MN
+1287    Bethany Global University                                       Bloomington, MN
+1288    Bethany Lutheran College                                        Mankato, MN
+1289    Bethel University                                               Arden Hills, MN
+1290    Capella University                                              Minneapolis, MN
+1291    Carleton College                                                Northfield, MN
+1292    Central Lakes College                                           Brainerd, Staples, MN
+1293    Century College                                                 White Bear Lake, MN
+1294    College of Saint Benedict and Saint John's University           St. Joseph, MN
+1295    College of St. Scholastica                                      Duluth, MN
+1296    Concordia College                                               Moorhead, MN
+1297    Concordia University                                            St. Paul, MN
+1298    Crown College                                                   St. Bonifacius, MN
+1299    Dakota County Technical College                                 Rosemount, MN
+1300    Dunwoody College of Technology                                  Minneapolis, MN
+1301    Fond du Lac Tribal and Community College                        Cloquet, MN
+1302    Gustavus Adolphus College                                       St. Peter, MN
+1303    Hamline University                                              St. Paul, MN
+1304    Hazelden Graduate School of Addiction Studies                   Center City, MN
+1305    Hennepin Technical College                                      Brooklyn Park, MN
+1306    Hibbing Community College                                       Hibbing, MN
+1307    Institute of Production and Recording                           Minneapolis, MN
+1308    Inver Hills Community College                                   Inver Grove Heights, MN
+1309    Itasca Community College                                        Grand Rapids, MN
+1310    Lake Superior College                                           Duluth, MN
+1311    Leech Lake Tribal College                                       Cass Lake, MN
+1312    Luther Seminary                                                 St. Paul, MN
+1313    Macalester College                                              St. Paul, MN
+1314    Martin Luther College                                           New Ulm, MN
+1315    Mayo Clinic College of Medicine and Science                     Rochester, MN
+1316    Mesabi Range College                                            Virginia, MN
+1317    Metropolitan State University                                   Minneapolis-St. Paul, MN
+1318    Minneapolis College of Art and Design                           Minneapolis, MN
+1319    Minneapolis Community and Technical College                     Minneapolis, MN
+1320    Minnesota North College – Vermilion                             Ely, MN
+1321    Minnesota State College Southeast                               Red Wing, MN
+1322    Minnesota State Community and Technical College                 Moorhead, MN
+1323    Minnesota State University Moorhead                             Moorhead, MN
+1324    Minnesota State University, Mankato                             Mankato, MN
+1325    Minnesota West Community and Technical College                  Canby, MN
+1326    Mitchell Hamline School of Law                                  St. Paul, MN
+1327    Normandale Community College                                    Bloomington, MN
+1328    North Central University                                        Minneapolis, MN
+1329    North Hennepin Community College                                Brooklyn Park, MN
+1330    Northland Community & Technical College                         Thief River Falls, MN
+1331    Northwest Technical College                                     Bemidji, MN
+1332    Northwest Technical Institute                                   Eagan, MN
+1333    Northwestern Health Sciences University                         Bloomington, MN
+1334    Oak Hills Christian College                                     Bemidji, MN
+1335    Pine Technical and Community College                            Pine City, MN
+1336    Rainy River Community College                                   International Falls, MN
+1337    Ridgewater College                                              Willmar, MN
+1338    Riverland Community College                                     Albert Lea, MN
+1339    Rochester Community and Technical College                       Rochester, MN
+1340    Saint Mary's University of Minnesota                            Winona, MN
+1341    Saint Paul College                                              St. Paul, MN
+1342    South Central College                                           Faribault, MN
+1343    Southwest Minnesota State University                            Marshall, MN
+1344    St. Catherine University                                        St. Paul-Minneapolis, MN
+1345    St. Cloud State University                                      St. Cloud, MN
+1346    St. Cloud Technical and Community College                       St. Cloud, MN
+1347    St. Olaf College                                                Northfield, MN
+1348    United Theological Seminary of the Twin Cities                  New Brighton, MN
+1349    University of Minnesota                                         St. Paul-Minneapolis, MN
+1350    University of Northwestern                                      Roseville, MN
+1351    University of St. Thomas                                        St. Paul-Minneapolis, MN
+1352    Walden University                                               Minneapolis, MN
+1353    Washington Technical Institute                                  Minneapolis, MN
+1354    White Earth Tribal and Community College                        Mahnomen, MN
+1355    Winona State University                                         Winona, MN
+
 
 =======================================
 ======= Defunct US Universities =======
@@ -1268,8 +1573,165 @@ Oblate College & Seminary                                       Bar Harbor, ME
 Ricker College                                                  Houlton, ME
 Salt Institute for Documentary Studies                          Portland, ME
 Westbrook College                                               Portland, ME
-
-
+Asbury College                                                  Baltimore, MD
+Baltimore College                                               Baltimore, MD
+Baltimore Female College                                        Baltimore, MD
+Baltimore Hebrew University                                     Baltimore, MD
+Blue Ridge College                                              Union Bridge, MD
+Borromeo College                                                Pikesville, MD
+Calvert College                                                 New Windsor, MD
+Cokesbury College                                               Abingdon, MD
+College of St. James                                            Hagerstown, MD
+Eastern Christian College                                       Bel Air, MD
+Irving College                                                  Manchester, MD
+Kee Mar College                                                 Hagerstown, MD
+Maryland Military and Naval Academy                             Oxford, MD
+Mount Hope College                                              Baltimore, MD
+Mount Saint Agnes College                                       Baltimore, MD
+Mount Washington Female College                                 Mount Washington, MD
+National Labor College                                          Silver Spring, MD
+New Windsor College                                             New Windsor, MD
+Newton University                                               Baltimore, MD
+Saint Joseph College                                            Emmitsburg, MD
+St. Mary's College                                              Baltimore, MD
+Sojourner–Douglass College                                      Baltimore, MD
+Woodstock College                                               Woodstock, MD
+Andover Institute of Business                                   Andover, MA
+Andover Junior College                                          Andover, MA
+Andover Newton Theological Seminary                             Newton, MA
+Andover Theological Seminary                                    Andover, MA
+Aquinas College                                                 Milton, Newton, MA
+ArsDigita University                                            Cambridge, MA
+Art Institute of Boston                                         Boston, MA
+Atlantic Union College                                          South Lancaster, MA
+Becker College                                                  Worcester, MA
+Berkshire Christian College                                     Lenox, MA
+Berkshire Medical College                                       Pittsfield, MA
+Boston Business School                                          Boston, MA
+Boston Female Medical School                                    Boston, MA
+Boston State College                                            Boston, MA
+Bouvé College                                                   Boston, MA
+Bradford College                                                Haverhill, MA
+Bradford Durfee College of Technology                           Fall River, MA
+Bryant & Stratton Business Institute                            Boston, MA
+Bryant McIntosh College                                         Lawrence, MA
+Burdett College                                                 Worcester, MA
+Bussey Institution                                              Jamaica Plain, MA
+Calvin Coolidge College                                         Boston, MA
+Cambridge Junior College                                        Cambridge, MA
+Campbell School                                                 MA
+Cape Cod Hospital School of Nursing                             Hyannis, MA
+Cardinal Cushing College                                        Brookline, MA
+Cardinal O'Connell Seminary                                     Jamaica Plain, MA
+Central New England College                                     Worcester, MA
+Chamberlayne Junior College                                     Boston, MA
+Chandler School for Women                                       Boston, MA
+College of Physicians and Surgeons                              Boston, MA
+College of Saint Joseph                                         Boston, MA
+Comers Commercial College                                       Boston, MA
+Coyne School of Technical Electricity                           Boston, MA
+Crane Theological School                                        Medford, MA
+Divine Providence Institute                                     MA
+Episcopal Divinity School                                       Cambridge, MA
+Garland Junior College                                          Boston, MA
+Grahm Junior College                                            Boston, MA
+Hallmark Institute of Photography                               Turners Falls, MA
+Hampden College of Pharmacy                                     Boston, MA
+Holliston Junior College                                        Holliston, MA
+Hyannis State Teachers College                                  Hyannis, MA
+Ipswich Female Seminary                                         Ipswich, MA
+Kinyon School                                                   MA
+Kinyon-Campbell Business School                                 New Bedford, MA
+LaFosse Teacher Training College                                MA
+Lay College                                                     Revere, MA
+Leicester Junior College                                        Leicester, MA
+Lowell State College                                            Lowell, MA
+Lowell Technological Institute                                  Lowell, MA
+Marian Court College                                            Swampscott, MA
+Marist College and Seminary                                     Framingham, MA
+Massachusetts College of Osteopathy                             Boston, MA
+Middlesex University                                            Waltham, MA
+Monroe College of Oratory                                       Boston, MA
+Mount Alvernia College                                          Newton, MA
+Mount Ida College                                               Newton, MA
+New Bedford Institute of Technology                             New Bedford, MA
+New England Female Medical College                              Boston, MA
+New England Institute of Applied Funeral Arts and Sciences      Boston, MA
+New England Institute of Art                                    Brookline, MA
+New England School of Photography                               Boston, MA
+Newbury College                                                 Brookline, MA
+Newton College of the Sacred Heart                              Newton Centre, MA
+Newton Junior College                                           Newtonville, MA
+Newton Theological Institution                                  Newton Centre, MA
+Northampton Junior College                                      Northampton, MA
+Oblate College & Seminary                                       Natick, MA
+Oread Institute                                                 Worcester, MA
+Our Lady of Sorrows                                             Sharon, MA
+Perry Normal School                                             Boston, MA
+Pine Manor College                                              Chestnut Hill, MA
+Queen of Apostles Seminary                                      Dedham, MA
+Radcliffe College                                               Cambridge, MA
+Regina Coeli College                                            MA
+Revere Lay College                                              Revere, MA
+Sacred Heart College for Teachers                               MA
+Saint Gabriel's Institute                                       MA
+Saint Hyacinth College & Seminary                               Granby, MA
+Saint Joseph Teacher Training Institute                         MA
+Saint Paul's House of Studies                                   MA
+Saint Stephen's College                                         Dover, MA
+School for Christian Workers                                    Springfield, MA
+School of the Museum of Fine Arts, Boston                       Boston, MA
+Southern New England School of Law                              Dartmouth, MA
+Staley School of the Spoken Word                                Brookline, MA
+Stanley College                                                 Brookline, MA
+Stevens College                                                 Hubbardston, MA
+Swain School of Design                                          New Bedford, MA
+Swedenborg School of Religion                                   Newton, MA
+Vesper George School of Art                                     Boston, MA
+Wang Institute of Graduate Studies                              Tyngsborough, MA
+Wheelock College                                                Boston, MA
+Winter Hill Business College                                    Boston, MA
+Worcester Junior College                                        Worcester, MA
+Worcester Medical Institute                                     Worcester, MA
+Worcester Technical Institute                                   Worcester, MA
+American Medical Missionary College                             Battle Creek, MI
+The Art Institute of Michigan                                   Novi, MI
+Detroit Institute of Technology                                 Detroit, MI
+DeVry University–Michigan                                       Southfield, MI
+Duns Scotus College                                             Southfield, MI
+Finlandia University                                            Hancock, MI
+Grand Rapids Theological Seminary                               Grand Rapids, MI
+Grand Traverse College                                          Benzonia, MI
+Highland Park Community College                                 Highland Park, MI
+International Academy of Design and Technology                  Troy, MI
+Jordan College                                                  Cedar Springs, MI
+Mackinac College                                                Mackinac Island, MI
+Maryglade College                                               Memphis, MI
+Marygrove College                                               Detroit, MI
+Michigan Jewish Institute                                       West Bloomfield Township, MI
+Nazareth College                                                Kalamazoo, MI
+Robert B. Miller College                                        Battle Creek, MI
+Saint Mary's College                                            Orchard Lake Village, MI
+William Tyndale College                                         Farmington Hills , MI
+Albert Lea College                                              Albert Lea, MN
+Argosy University                                               Eagan, MN
+College of Visual Arts                                          St. Paul, MN
+Duluth Business University                                      Duluth, MN
+Fairlakes State Junior College                                  Fairmont, MN
+Golden Valley Lutheran College                                  Golden Valley, MN
+International Center for Naturobioholistic Health and Medicine  Bemidji, MN
+Lea College                                                     Albert Lea, MN
+Pillsbury Baptist Bible College                                 Owatonna, MN
+College of Saint Teresa                                         Winona, MN
+Southern Minnesota Normal College                               Austin, MN
+Minnesota Central University                                    Hastings, MN
+University of Minnesota Waseca                                  Waseca, MN
+Brown College                                                   Mendota Heights, MN
+Crossroads College                                              Rochester, MN
+Globe University and Minnesota School of Business               Globe County, MN
+McNally Smith College of Music                                  St. Paul, MN
+Minneapolis Business College                                    Roseville, MN
+CenterPoint Massage & Shiatsu School & Clinic                   St. Louis Park, MN
 
 
 
