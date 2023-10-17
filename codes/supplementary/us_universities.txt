@@ -657,7 +657,21 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 0632    University of Hawaiʻi                                           Honolulu, HI
 0633    Windward Community College                                      Kaneohe , HI
 0634    Hawaii Tokai International College                              Kapolei, HI
-
+0635    Boise Bible College                                             Boise, ID
+0636    Boise State University                                          Boise, ID
+0637    Brigham Young University–Idaho                                  Rexburg, ID
+0638    College of Idaho                                                Caldwell, ID
+0639    Idaho College of Osteopathic Medicine                           Meridian, ID
+0640    College of Southern Idaho                                       Twin Falls, ID
+0641    College of Western Idaho                                        Nampa, ID
+0642    College of Eastern Idaho                                        Idaho Falls, ID
+0643    Idaho State University                                          Pocatello, ID
+0644    Lewis–Clark State College                                       Lewiston, ID
+0645    McCall College                                                  McCall, ID
+0646    New Saint Andrews College                                       Moscow, ID
+0647    North Idaho College                                             Coeur d'Alene, ID
+0648    Northwest Nazarene University                                   Nampa, ID
+0649    University of Idaho                                             Moscow, ID
 
 =======================================
 ======= Defunct US Universities =======
@@ -764,3 +778,7 @@ Martin Institute                                                Jefferson, GA
 Southern Catholic College                                       Dawsonville, GA
 Tift College                                                    Forsyth, GA
 World Medicine Institute                                        Honolulu, HI
+Albion State Normal School                                      Albion, ID
+Farragut College and Technical Institute                        Bayview, ID
+Gooding College                                                 Gooding, ID
+Magic Valley Christian College                                  Albion, ID
