@@ -672,6 +672,348 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 0647    North Idaho College                                             Coeur d'Alene, ID
 0648    Northwest Nazarene University                                   Nampa, ID
 0649    University of Idaho                                             Moscow, ID
+0650    Adler University                                                Chicago
+0651    American Islamic College                                        Chicago
+0652    Augustana College                                               Rock Island
+0653    Aurora University                                               Aurora
+0654    Benedictine University                                          Lisle
+0655    Black Hawk College                                              Moline, IL
+0656    Blackburn College                                               Carlinville
+0657    Bradley University                                              Peoria
+0658    Carl Sandburg College                                           Galesburg, IL
+0659    Chicago School of Professional Psychology, The                  Chicago
+0660    Chicago State University                                        Chicago
+0661    College of DuPage                                               Glen Ellyn, IL
+0662    College of Lake County                                          Grayslake, IL
+0663    Columbia College Chicago                                        Chicago
+0664    Concordia University Chicago                                    River Forest
+0665    Coyne College                                                   Chicago 
+0666    Danville Area Community College                                 Danville, IL
+0667    DePaul University                                               Chicago
+0668    Dominican University                                            River Forest
+0669    Eastern Illinois University                                     Charleston
+0670    East–West University                                            Chicago
+0671    Elgin Community College                                         Elgin, IL
+0672    Elmhurst University                                             Elmhurst
+0673    Erikson Institute                                               Chicago
+0674    Eureka College                                                  Eureka
+0675    Fox College                                                     Tinley Park
+0676    Frontier Community College                                      Fairfield, IL
+0677    Governors State University                                      University Park
+0678    Greenville University                                           Greenville
+0679    Harold Washington College                                       Chicago, IL
+0680    Harper College                                                  Palatine, IL
+0681    Heartland Community College                                     Normal, IL 
+0682    Highland Community College                                      Freeport, IL
+0683    Illinois Central College                                        East Peoria, IL
+0684    Illinois College                                                Jacksonville
+0685    Illinois Institute of Technology                                Chicago
+0686    Illinois Media School[1]                                        Chicago
+0687    Illinois State University                                       Normal
+0688    Illinois Valley Community College                               Oglesby, IL
+0689    Illinois Wesleyan University                                    Bloomington
+0690    John A. Logan College                                           Carterville, IL
+0691    John Wood Community College                                     Quincy, IL
+0692    Joliet Junior College                                           Joliet, IL
+0693    Judson University                                               Elgin
+0694    Kankakee Community College                                      Kankakee, IL
+0695    Kaskaskia College                                               Centralia, IL
+0696    Kennedy–King College                                            Chicago, IL
+0697    Kishwaukee College                                              Malta, IL
+0698    Knox College                                                    Galesburg
+0699    Lake Forest College                                             Lake Forest
+0700    Lake Land College                                               Mattoon, IL
+0701    Lakeview College of Nursing                                     Danville
+0702    Lewis and Clark Community College                               Godfrey, IL
+0703    Lewis University                                                Romeoville
+0704    Lincoln Christian University                                    Lincoln
+0705    Lincoln Land Community College                                  Springfield, IL
+0706    Lincoln Trail College                                           Robinson, IL
+0707    Loyola University                                               Chicago
+0708    Lutheran School of Theology                                     Chicago
+0709    MacCormac College                                               Chicago
+0710    Malcolm X College                                               Chicago, IL
+0711    McHenry County College                                          Crystal Lake, IL
+0712    McKendree University                                            Lebanon
+0713    Methodist College                                               Peoria
+0714    Midwest College of Oriental Medicine                            Evanston
+0715    Midwest Technical Institute                                     Springfield
+0716    Midwestern University                                           Downers Grove
+0717    Millikin University                                             Decatur
+0718    Monmouth College                                                Monmouth
+0719    Moody Bible Institute                                           Chicago
+0720    Moraine Valley Community College                                Palos Hills, IL
+0721    Morton College                                                  Cicero, IL
+0722    National Louis University                                       Chicago
+0723    National University of Health Sciences                          Lombard
+0724    North Central College                                           Naperville
+0725    North Park University                                           Chicago
+0726    Northeastern Illinois University                                Chicago
+0727    Northern Baptist Theological Seminary                           Lisle
+0728    Northern Illinois University                                    DeKalb
+0729    Northwestern College                                            Bridgeview
+0730    Northwestern University                                         Evanston
+0731    Oakton College                                                  Des Plaines
+0732    Olivet Nazarene University                                      Bourbonnais
+0733    Olive–Harvey College                                            Chicago, IL
+0734    Olney Central College.                                          Olney, IL
+0735    Pacific College of Oriental Medicine                            Chicago 
+0736    Parkland College                                                Champaign, IL
+0737    Prairie State College                                           Chicago Heights, IL
+0738    Principia College                                               Elsah
+0739    Quincy University                                               Quincy
+0740    Rend Lake College                                               Ina, IL
+0741    Richard J. Daley College                                        Chicago, IL
+0742    Richland Community College                                      Decatur, IL  
+0743    Rock Valley College                                             Rockford, IL
+0744    Rockford University                                             Rockford
+0745    Roosevelt University                                            Chicago
+0746    Rosalind Franklin University of Medicine and Science            North Chicago
+0747    Rush University                                                 Chicago
+0748    Saint Anthony College of Nursing                                Rockford
+0749    Saint Xavier University                                         Chicago
+0750    Sauk Valley Community College                                   Dixon, IL
+0751    School of the Art Institute of Chicago                          Chicago
+0752    Shawnee Community College                                       Ullin, IL
+0753    South Suburban College                                          South Holland, IL
+0754    Southeastern Illinois College                                   Harrisburg, IL
+0755    Southern Illinois University                                    Carbondale
+0756    Southwestern Illinois College                                   Belleville, IL
+0757    Spertus Institute for Jewish Learning and Leadership            Chicago
+0758    Spoon River College                                             Canton, IL
+0759    Taylor Business Institute                                       Chicago 
+0760    Toyota Technological Institute at Chicago                       Chicago
+0761    Trinity Christian College                                       Palos Heights
+0762    Trinity International University                                Deerfield
+0763    Triton College                                                  River Grove, IL
+0764    Truman College                                                  Chicago, IL
+0765    University of Chicago                                           Chicago
+0766    University of Illinois                                          Chicago
+0767    University of St. Francis                                       Joliet
+0768    VanderCook College of Music                                     Chicago
+0769    Wabash Valley College                                           Mount Carmel, IL
+0770    Waubonsee Community College                                     Sugar Grove, IL
+0771    Western Illinois University                                     Macomb 
+0772    Wheaton College                                                 Wheaton 
+0773    Wilbur Wright College                                           Chicago, IL
+0774    Anabaptist Mennonite Biblical Seminary                          Elkhart, IN
+0775    Ancilla College                                                 Donaldson, IN
+0776    Anderson University                                             Anderson, IN
+0777    Ball State University                                           Muncie, IN
+0778    Bethany Theological Seminary                                    Richmond, IN
+0779    Bethel University                                               Mishawaka, IN
+0780    Butler University                                               Indianapolis, IN
+0781    Calumet College of St. Joseph                                   Whiting, IN
+0782    Christian Theological Seminary                                  Indianapolis, IN
+0783    College of Court Reporting                                      Hobart, IN
+0784    Concordia Theological Seminary                                  Fort Wayne, IN
+0785    Crossroads Bible College                                        Indianapolis, IN
+0786    DePauw University                                               Greencastle, IN
+0787    DeVry University–Indiana                                        Indianapolis, IN
+0788    Earlham College                                                 Richmond, IN
+0789    Franklin College                                                Franklin, IN
+0790    Goshen College                                                  Goshen, IN
+0791    Grace College & Seminary                                        Winona Lake, IN
+0792    Hanover College                                                 Hanover, IN
+0793    Holy Cross College                                              Notre Dame, IN
+0794    Huntington University                                           Huntington, IN
+0795    Indiana Institute of Technology                                 Fort Wayne, IN
+0796    Indiana State University                                        Terre Haute, IN
+0797    Indiana University                                              Indianapolis, IN
+0798    Indiana Wesleyan University                                     Marion, IN
+0799    International Business College                                  Fort Wayne, IN
+0800    Manchester University                                           North Manchester, IN
+0801    Marian University                                               Indianapolis, IN
+0802    Martin University                                               Indianapolis, IN
+0803    Mid-America College of Funeral Service                          Jeffersonville, IN
+0804    Oakland City University                                         Oakland City, IN
+0805    Ottawa University–Jeffersonville                                Jeffersonville, IN
+0806    Purdue University                                               West Lafayette, IN
+0807    Rose-Hulman Institute of Technology                             Terre Haute, IN
+0808    Saint Mary's College                                            Notre Dame, IN
+0809    Saint Mary-of-the-Woods College                                 Saint Mary-Of-The-Woods, IN
+0810    Saint Meinrad Seminary and School of Theology                   Saint Meinrad, IN
+0811    Taylor University                                               Upland, IN
+0812    Trine University                                                Angola, IN
+0813    University of Evansville                                        Evansville, IN
+0814    University of Indianapolis                                      Indianapolis, IN
+0815    University of Notre Dame                                        Notre Dame, IN
+0816    University of Saint Francis                                     Fort Wayne, IN
+0817    University of Southern Indiana                                  Evansville, IN
+0818    Valparaiso University                                           Valparaiso, IN
+0819    Vincennes University                                            Vincennes, IN
+0820    Wabash College                                                  Crawfordsville, IN
+0821    Allen College                                                   Waterloo, IA
+0822    Briar Cliff University                                          Sioux City, IA
+0823    Buena Vista University                                          Storm Lake, IA
+0824    Central College                                                 Pella, IA
+0825    Clarke University                                               Dubuque, IA
+0826    Clinton Community College                                       Clinton, IA
+0827    Coe College                                                     Cedar Rapids, IA
+0828    Cornell College                                                 Mount Vernon, IA
+0829    Des Moines Area Community College                               Ankeny, IA
+0830    Des Moines University                                           Des Moines, IA
+0831    Divine Word College                                             Epworth, IA
+0832    Dordt University                                                Sioux Center, IA
+0833    Drake University                                                Des Moines, IA
+0834    Eastern Iowa Community Colleges                                 Davenport, IA
+0835    Ellsworth Community College                                     Iowa Falls, IA
+0836    Emmaus Bible College                                            Dubuque, IA
+0837    Faith Baptist Bible College and Theological Seminary            Ankeny, IA
+0838    Graceland University                                            Lamoni, IA
+0839    Grand View University                                           Des Moines, IA
+0840    Grinnell College                                                Grinnell, IA
+0841    Hamilton Technical College                                      Davenport, IA
+0842    Hawkeye Community College                                       Waterloo, IA
+0843    Indian Hills Community College                                  Ottumwa, IA
+0844    Iowa Central Community College                                  Fort Dodge, IA
+0845    Iowa Lakes Community College                                    Estherville, IA
+0846    Iowa State University                                           Ames, IA
+0847    Iowa Western Community College                                  Council Bluffs, IA
+0848    Kirkwood Community College                                      Cedar Rapids, IA
+0849    Loras College                                                   Dubuque, IA
+0850    Luther College                                                  Decorah, IA
+0851    Maharishi University of Management                              Fairfield, IA
+0852    Marshalltown Community College                                  Marshalltown, IA
+0853    Mercy College of Health Sciences                                Des Moines, IA
+0854    Morningside College                                             Sioux City, IA
+0855    Mount Mercy University                                          Cedar Rapids, IA
+0856    Muscatine Community College                                     Muscatine, IA
+0857    North Iowa Area Community College                               Mason City, IA
+0858    Northeast Iowa Community College                                Calmar, IA
+0859    Northwest Iowa Community College                                Sheldon, IA
+0860    Northwestern College                                            Orange City, IA
+0861    Palmer College of Chiropractic                                  Davenport, IA
+0862    Scott Community College                                         Bettendorf, IA
+0863    Simpson College                                                 Indianola, IA
+0864    Southeastern Community College                                  West Burlington, IA
+0865    Southwestern Community College                                  Creston, IA
+0866    St. Ambrose University                                          Davenport, IA
+0867    St. Luke's College                                              Sioux City, IA
+0868    University of Dubuque                                           Dubuque, IA
+0869    University of Iowa                                              Iowa City, IA
+0870    University of Northern Iowa                                     Cedar Falls, IA
+0871    Upper Iowa University                                           Fayette, IA
+0872    Waldorf University                                              Forest City , IA
+0873    Wartburg College                                                Waverly, IA
+0874    Wartburg Theological Seminary                                   Dubuque, IA
+0875    Western Iowa Tech Community College                             Sioux City, IA
+0876    William Penn University                                         Oskaloosa, IA
+0877    AIB International                                               Manhattan, KS
+0878    Allen Community College                                         Iola, KS
+0879    Baker University                                                Baldwin City, KS
+0880    Barclay College                                                 Haviland, KS
+0881    Barton Community College                                        Great Bend, KS
+0882    Benedictine College                                             Atchison, KS
+0883    Bethany College                                                 Lindsborg, KS
+0884    Bethel College                                                  North Newton, KS
+0885    Butler Community College                                        El Dorado, KS
+0886    Central Christian College                                       McPherson, KS
+0887    Cleveland University-Kansas City                                Overland Park, KS
+0888    Cloud County Community College                                  Concordia, KS
+0889    Coffeyville Community College                                   Coffeyville, KS
+0890    Colby Community College                                         Colby, KS
+0891    Cowley Community College                                        Arkansas City, KS
+0892    Dodge City Community College                                    Dodge City, KS
+0893    Donnelly College                                                Kansas City, KS
+0894    Emporia State University                                        Emporia, KS
+0895    Flint Hills Technical College                                   Emporia, KS
+0896    Fort Hays State University                                      Hays, KS
+0897    Fort Scott Community College                                    Fort Scott, KS
+0898    Friends University                                              Wichita, KS
+0899    Garden City Community College                                   Garden City, KS
+0900    Haskell Indian Nations University                               Lawrence, KS
+0901    Hesston College                                                 Hesston, KS
+0902    Highland Community College                                      Highland, KS
+0903    Hutchinson Community College                                    Hutchinson, KS
+0904    Independence Community College                                  Independence, KS
+0905    Johnson County Community College                                Overland Park, KS
+0906    Kansas Christian College                                        Overland Park, KS
+0907    Kansas City Kansas Community College                            Kansas City, KS
+0908    Kansas College of Osteopathic Medicine                          Wichita, KS
+0909    Kansas State University                                         Manhattan, KS
+0910    Kansas Wesleyan University                                      Salina, KS
+0911    Labette Community College                                       Parsons, KS
+0912    Manhattan Area Technical College                                Manhattan, KS
+0913    Manhattan Christian College                                     Manhattan, KS
+0914    McPherson College                                               McPherson, KS
+0915    MidAmerica Nazarene University                                  Olathe, KS
+0916    Neosho County Community College                                 Chanute, KS
+0917    Newman University                                               Wichita, KS
+0918    North Central Kansas Technical College                          Beloit, KS
+0919    Northwest Kansas Technical College                              Goodland, KS
+0920    Ottawa University                                               Ottawa, KS
+0921    Pittsburg State University                                      Pittsburg, KS
+0922    Pratt Community College                                         Pratt, KS
+0923    Saint Mary's Academy and College                                St. Marys, KS
+0924    Saint Paul School of Theology                                   Leawood, KS
+0925    Salina Area Technical College                                   Salina, KS
+0926    Seward County Community College                                 Liberal, KS
+0927    Southwestern College                                            Winfield, KS
+0928    Sterling College                                                Sterling, KS
+0929    Tabor College                                                   Hillsboro, KS
+0930    United States Army Command and General Staff College            Fort Leavenworth, KS
+0931    University of Kansas                                            Lawrence, KS
+0932    University of Saint Mary                                        Leavenworth, KS
+0933    Washburn Institute of Technology                                Washburn, KS
+0934    Washburn University                                             Topeka, KS
+0935    Wichita State University                                        Wichita, KS
+0936    WSU Tech                                                        Wichita, KS
+0937    Eastern Kentucky University                                     Richmond, KY
+0938    Kentucky State University                                       Frankfort, KY
+0939    Morehead State University                                       Morehead, KY
+0940    Murray State University                                         Murray, KY
+0941    Northern Kentucky University                                    Highland Heights, KY
+0942    University of Kentucky                                          Lexington, KY
+0943    University of Louisville                                        Louisville, KY
+0944    Western Kentucky University                                     Bowling Green, KY
+0945    Alice Lloyd College                                             Pippa Passes, KY
+0946    Asbury University                                               Wilmore, KY
+0947    Bellarmine University                                           Louisville, KY
+0948    Berea College                                                   Berea, KY
+0949    Campbellsville University                                       Campbellsville, KY
+0950    Centre College                                                  Danville, KY
+0951    Georgetown College                                              Georgetown, KY
+0952    Kentucky Wesleyan College                                       Owensboro, KY
+0953    Lindsey Wilson College                                          Columbia, KY
+0954    Midway University                                               Midway, KY
+0955    Spalding University                                             Louisville, KY
+0956    Thomas More University                                          Crestview Hills, KY
+0957    Transylvania University                                         Lexington, KY
+0958    Union College                                                   Barbourville, KY
+0959    University of the Cumberlands                                   Williamsburg, KY
+0960    University of Pikeville                                         Pikeville, KY
+0961    Asbury Theological Seminary                                     Wilmore, KY
+0962    Beckfield College                                               Florence, KY
+0963    Boyce College                                                   Louisville, KY
+0964    Brescia University                                              Owensboro, KY
+0965    Clear Creek Baptist Bible College                               Pineville, KY
+0966    Frontier Nursing University                                     Versailles, KY
+0967    Kentucky Christian University                                   Grayson, KY
+0968    Kentucky Mountain Bible College                                 Vancleve, KY
+0969    Lexington Theological Seminary                                  Lexington, KY
+0970    Louisville Bible College                                        Louisville, KY
+0971    Louisville Presbyterian Theological Seminary                    Louisville, KY
+0972    Simmons College of Kentucky                                     Louisville, KY
+0973    Southern Baptist Theological Seminary                           Louisville, KY
+0974    Sullivan University                                             Louisville, KY
+0975    Ashland Community and Technical College                         Ashland, KY
+0976    Big Sandy Community and Technical College                       Prestonsburg, KY
+0977    Bluegrass Community and Technical College                       Lexington, KY
+0978    Elizabethtown Community and Technical College                   Elizabethtown, KY
+0979    Gateway Community and Technical College                         Covington, KY
+0980    Hazard Community and Technical College                          Hazard, KY
+0981    Henderson Community College                                     Henderson, KY
+0982    Hopkinsville Community College                                  Hopkinsville, KY
+0983    Jefferson Community and Technical College                       Louisville, KY
+0984    Madisonville Community College                                  Madisonville, KY
+0985    Maysville Community and Technical College                       Maysville, KY
+0986    Owensboro Community and Technical College                       Owensboro, KY
+0987    Somerset Community College                                      Somerset, KY
+0988    Southcentral Kentucky Community and Technical College           Bowling Green, KY
+0989    Southeast Kentucky Community and Technical College              Cumberland, KY
+0990    West Kentucky Community and Technical College                   Paducah, KY
+
 
 =======================================
 ======= Defunct US Universities =======
@@ -782,3 +1124,58 @@ Albion State Normal School                                      Albion, ID
 Farragut College and Technical Institute                        Bayview, ID
 Gooding College                                                 Gooding, ID
 Magic Valley Christian College                                  Albion, ID
+Abingdon College                                                Abingdon, IL
+Barat College                                                   Lake Forest, IL
+Brown's Business College                                        Bloomington, IL
+Dixon College                                                   Dixon, IL
+Evanston College for Ladies                                     Evanston, IL
+Flashpoint Chicago                                              Chicago, IL
+Hedding College                                                 Abingdon, IL
+Hillsboro College                                               Hillsboro, IL
+Jubilee College                                                 Brimfield, IL
+Judson College                                                  Mount Palatine, IL
+Lexington College                                               Chicago, IL
+Lincoln College                                                 Lincoln, IL
+Lombard College                                                 Galesburg, IL
+MacMurray College                                               Jacksonville, IL
+Mallinckrodt College                                            Wilmette, IL
+Metropolitan Community College                                  East Saint Louis, IL
+Midstate College                                                Peoria, IL
+Midwest College of Engineering                                  Lombard, IL
+Morthland College                                               West Frankfort, IL
+Mount Morris College                                            Mount Morris, IL
+Oregon Bible College                                            Oregon, IL
+Robert Morris University Illinois                               Chicago, IL
+Shimer College                                                  Chicago, IL
+Shurtleff College                                               Alton, IL
+Solex College                                                   Chicago, IL
+Sparks College                                                  Shelbyville, IL
+St. Viator College                                              Bourbonnais, IL
+State Community College of East Saint Louis                     East Saint Louis, IL
+University of Nauvoo                                            Nauvoo, IL
+William & Vashti College                                        Aledo, IL
+Saint Joseph's College                                          Rensselaer, IN
+University of Indianapolis                                      Indianapolis, IN
+MedTech College                                                 Indianapolis, IN
+AIB College of Business                                         Des Moines, IA
+Algona College                                                  Algona, IA
+Ashford University                                              Clinton, IA
+Charles City College                                            Charles City, IA
+Des Moines University                                           Des Moines, IA
+Grundy College                                                  Grundy Center, IA
+Highland Park College                                           Des Moines, IA
+Iowa Wesleyan University                                        Mount Pleasant, IA
+Leander Clark College                                           Toledo, IA
+Lenox College                                                   Hopkinton, IA
+Marycrest International University                              Davenport, IA
+Midwestern College                                              Denison, IA
+Ottumwa Heights College                                         Ottumwa, IA
+Parsons College                                                 Fairfield, IA
+Sioux Empire College                                            Hawarden, IA
+Tabor College                                                   Tabor, IA
+Vatterott College                                               Des Moines, IA
+Vennard College                                                 University Park, IA
+Westmar University                                              Le Mars, IA
+Wilton German English College                                   Wilton, IA
+
+
