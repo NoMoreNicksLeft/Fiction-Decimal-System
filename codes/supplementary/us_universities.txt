@@ -1013,7 +1013,67 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 0988    Southcentral Kentucky Community and Technical College           Bowling Green, KY
 0989    Southeast Kentucky Community and Technical College              Cumberland, KY
 0990    West Kentucky Community and Technical College                   Paducah, KY
-
+0991    Baton Rouge Community College                                   Baton Rouge, LA
+0992    Bossier Parish Community College                                Bossier City, LA
+0993    Centenary College of Louisiana                                  Shreveport, LA
+0994    Central Louisiana Technical Community College                   Alexandria, LA
+0995    Delgado Community College                                       New Orleans, LA
+0996    Dillard University                                              New Orleans, LA
+0997    Fletcher Technical Community College                            Schriever, LA
+0998    Franciscan Missionaries of Our Lady University                  Baton Rouge, LA
+0999    Grambling State University                                      Grambling, LA
+1000    Louisiana Baptist University and Theological Seminary           Shreveport, LA
+1001    Louisiana Christian University                                  Pineville, LA
+1002    Louisiana Delta Community College                               Monroe, LA
+1003    Louisiana State University                                      Baton Rouge, LA
+1004    Louisiana Tech University                                       Ruston, LA
+1005    Loyola University New Orleans                                   New Orleans, LA
+1006    McNeese State University                                        Lake Charles, LA
+1007    New Orleans Baptist Theological Seminary                        New Orleans, LA
+1008    Nicholls State University                                       Thibodaux, LA
+1009    Northshore Technical Community College                          Lacombe, LA
+1010    Northwest Louisiana Technical Community College                 Minden, LA
+1011    Northwestern State University                                   Natchitoches, LA
+1012    Notre Dame Seminary                                             New Orleans, LA
+1013    Nunez Community College                                         Chalmette, LA
+1014    River Parishes Community College                                Gonzales, LA
+1015    Saint Joseph Seminary College                                   Covington, LA
+1016    South Louisiana Community College                               Lafayette, LA
+1017    Southeastern Louisiana University                               Hammond, LA
+1018    Southern University                                             Baton Rouge, LA
+1019    SOWELA Technical Community College                              Lake Charles, LA
+1020    Tulane University                                               New Orleans, LA
+1021    University of Holy Cross                                        New Orleans, LA
+1022    University of Louisiana at Lafayette                            Lafayette, LA
+1023    University of New Orleans                                       New Orleans, LA
+1024    Xavier University of Louisiana                                  New Orleans, LA
+1025    Bates College                                                   Lewiston, ME
+1026    Beal University                                                 Bangor, ME
+1027    Bowdoin College                                                 Brunswick, ME
+1028    Central Maine Community College                                 Auburn, ME
+1029    Colby College                                                   Waterville, ME
+1030    College of the Atlantic                                         Bar Harbor, ME
+1031    Eastern Maine Community College                                 Bangor, ME
+1032    Heartwood College of Art                                        Biddeford, ME
+1033    Husson University                                               Bangor, ME
+1034    Institute for Doctoral Studies in the Visual Arts               Portland, ME
+1035    Kennebec Valley Community College                               Fairfield, ME
+1036    Landing School, The                                             Arundel, ME
+1037    Maine College of Art                                            Portland, ME
+1038    Maine College of Health Professions                             Lewiston, ME
+1039    Maine Maritime Academy                                          Castine, ME
+1040    Maine Media College                                             Rockport, ME
+1041    New England Bible College and Seminary                          Bangor, ME
+1042    Northern Maine Community College                                Presque Isle, ME
+1043    Saint Joseph's College of Maine                                 Standish, ME
+1044    Southern Maine Community College                                South Portland, ME
+1045    Thomas College                                                  Waterville, ME
+1046    Unity Environmental University                                  New Gloucester, ME
+1047    University of Maine                                             Orono, ME
+1048    University of New England                                       Biddeford, ME
+1049    University of Southern Maine                                    Gorham, ME
+1050    Washington County Community College                             Calais, ME
+1051    York County Community College                                   Wells, ME
 
 =======================================
 ======= Defunct US Universities =======
@@ -1177,5 +1237,40 @@ Vatterott College                                               Des Moines, IA
 Vennard College                                                 University Park, IA
 Westmar University                                              Le Mars, IA
 Wilton German English College                                   Wilton, IA
+Mid-Continent University                                        Mayfield, KY
+St. Catharine College                                           Springfield, KY
+Spencerian College                                              Louisville, KY
+Sue Bennett College                                             London, KY
+Sullivan College of Technology and Design                       Louisville, KY
+Columbus University                                             New Orleans, LA
+Dodd College                                                    Shreveport, LA
+H. Sophie Newcomb Memorial College                              New Orleans, LA
+Jefferson College                                               Convent, 1LA
+Leland College                                                  Baker, LA
+Louisiana Technical College                                     New Orleans, LA
+Mount Lebanon University                                        Mount Lebanon, LA
+South Central Louisiana Technical College                       Lafayette, LA
+St. Charles College                                             Grand Coteau, LA
+St. Mary's Dominican College                                    New Orleans, LA
+Straight University                                             New Orleans, LA
+Bangor Theological Seminary                                     Bangor, ME
+Bliss College                                                   Lewiston, ME
+Casco Bay College                                               Portland, ME
+Eastern State Normal School                                     Castine, ME
+Gorham State College                                            Gorham, ME
+Immaculate Heart of Mary Institute                              Saco, ME
+John F. Kennedy College                                         Fort Kent, ME
+LaMennais College                                               Alfred, ME
+Mid-State College                                               Augusta, ME
+Nasson College                                                  Springvale, ME
+Northern Conservatory of Music                                  Bangor, ME
+Oblate College & Seminary                                       Bar Harbor, ME
+Ricker College                                                  Houlton, ME
+Salt Institute for Documentary Studies                          Portland, ME
+Westbrook College                                               Portland, ME
+
+
+
+
 
 
