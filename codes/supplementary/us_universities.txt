@@ -1484,7 +1484,31 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 1459    Westminster College                                             Fulton, MO
 1460    William Jewell College                                          Liberty, MO
 1461    William Woods University                                        Fulton, MO
-
+1462    Aaniiih Nakoda College                                          Harlem, MT
+1463    Apollos University                                              Great Falls, MT 
+1464    Bitterroot College                                              Hamilton, MT
+1465    Blackfeet Community College                                     Browning, MT
+1466    Carroll College                                                 Helena, MT
+1467    Chief Dull Knife College                                        Lame Deer, MT
+1468    City College                                                    Billings, MT
+1469    Dawson Community College                                        Glendive, MT
+1470    Flathead Valley Community College                               Kalispell, MT
+1471    Fort Peck Community College                                     Poplar, MT
+1472    Gallatin College                                                Bozeman, MT
+1473    Great Falls College                                             Great Falls, MT
+1474    Helena College                                                  Helena, MT
+1475    Highlands College                                               Butte, MT
+1476    Little Big Horn College                                         Crow Agency, MT
+1477    Miles Community College                                         Miles City, MT
+1478    Missoula College                                                Missoula, MT
+1479    Montana State University                                        Bozeman, MT
+1480    Montana Technological University                                Butte, MT
+1481    Rocky Mountain College                                          Billings, MT
+1482    Salish Kootenai College                                         Pablo, MT
+1483    Stone Child College                                             Box Elder, MT
+1484    University of Montana                                           Missoula, MT
+1495    University of Montana Western                                   Dillon, MT
+1496    University of Providence                                        Great Falls, MT
 
 =======================================
 ======= Defunct US Universities =======
