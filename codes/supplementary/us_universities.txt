@@ -1378,6 +1378,112 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 1353    Washington Technical Institute                                  Minneapolis, MN
 1354    White Earth Tribal and Community College                        Mahnomen, MN
 1355    Winona State University                                         Winona, MN
+1356    Alcorn State University                                         Lorman, MS
+1357    Belhaven University                                             Jackson, MS
+1358    Blue Cliff College                                              Gulfport, MS
+1359    Blue Mountain Christian University                              Blue Mountain
+1360    Coahoma Community College                                       Clarksdale, MS
+1361    Copiah–Lincoln Community College                                Wesson, MS
+1362    Delta State University                                          Cleveland, MS
+1363    East Central Community College                                  Decatur, MS
+1364    East Mississippi Community College                              Scooba, MS
+1365    Hinds Community College                                         Raymond, MS
+1366    Holmes Community College                                        Goodman, MS
+1367    Itawamba Community College                                      Fulton, MS
+1368    Jackson State University                                        Jackson, MS
+1369    Jones County Junior College                                     Ellisville, MS
+1370    Madison University                                              Gulfport, MS
+1371    Meridian Community College                                      Meridian, MS
+1372    Millsaps College                                                Jackson, MS
+1373    Mississippi College                                             Clinton, MS
+1374    Mississippi Delta Community College                             Moorhead, MS
+1375    Mississippi Gulf Coast Community College                        Perkinston, MS
+1376    Mississippi State University                                    Starkville, MS
+1377    Mississippi University for Women                                Columbus, MS
+1378    Mississippi Valley State University                             Mississippi Valley State, MS
+1379    Northeast Mississippi Community College                         Booneville, MS
+1380    Northwest Mississippi Community College                         Senatobia, MS
+1381    Pearl River Community College                                   Poplarville, MS
+1382    Reformed Theological Seminary                                   Jackson, MS
+1383    Rust College                                                    Holly Springs, MS
+1384    Southeastern Baptist College                                    Laurel, MS
+1385    Southwest Mississippi Community College                         Summit, MS
+1386    Tougaloo College                                                Tougaloo, MS
+1387    University of Mississippi                                       Oxford, MS
+1388    University of Southern Mississippi                              Hattiesburg, MS
+1389    Wesley Biblical Seminary                                        Jackson, MS
+1390    William Carey University                                        Hattiesburg, MS
+1391    A. T. Still University                                          Kirksville, MO
+1392    American Business and Technology University                     St. Joseph, MO
+1393    Assemblies of God Theological Seminary                          Springfield, MO
+1394    Avila University                                                Kansas City, MO
+1395    Baptist Bible College                                           Springfield, MO
+1396    Central Christian College of the Bible                          Moberly, MO
+1397    Central Methodist University                                    Fayette, MO
+1398    College of the Ozarks                                           Point Lookout, MO
+1399    Columbia College                                                Columbia, MO
+1400    Concordia Seminary                                              Clayton, MO
+1401    Cottey College                                                  Nevada, MO
+1402    Covenant Theological Seminary                                   Creve Coeur, MO
+1403    Cox College                                                     Springfield, MO
+1404    Crowder College                                                 Neosho, MO
+1405    Culver–Stockton College                                         Canton, MO
+1406    Drury University                                                Springfield, MO
+1407    East Central College                                            Union, MO
+1408    Eden Theological Seminary                                       Webster Groves, MO
+1409    Evangel University                                              Springfield, MO
+1410    Fontbonne University                                            Clayton, MO
+1411    Hannibal–LaGrange University                                    Hannibal, MO
+1412    Harris–Stowe State University                                   St. Louis, MO
+1413    Jefferson College                                               Jefferson County, MO
+1414    Kansas City Art Institute                                       Kansas City, MO
+1415    Kansas City University of Medicine and Biosciences              Kansas City, MO
+1416    Kenrick-Glennon Seminary                                        Shrewsbury, MO
+1417    Lincoln University                                              Jefferson City, MO
+1418    Lindenwood University                                           St. Charles, MO
+1419    Logan University                                                Chesterfield, MO
+1420    Maryville University                                            Town and Country, MO
+1421    Metropolitan Community College                                  Kansas City, MO
+1422    Midwest University                                              Wentzville, MO
+1423    Midwestern Baptist Theological Seminary                         Kansas City, MO
+1424    Mineral Area College                                            Park Hills, MO
+1425    Missouri Baptist University                                     St. Louis, MO
+1426    Missouri Southern State University                              Joplin, MO
+1427    Missouri State University                                       Springfield, MO
+1428    Missouri University of Science and Technology                   Rolla, MO
+1429    Missouri Valley College                                         Marshall, MO
+1430    Missouri Western State University                               St. Joseph, MO
+1431    Moberly Area Community College                                  Moberly, MO
+1432    Nazarene Theological Seminary                                   Kansas City, MO
+1433    North Central Missouri College                                  Trenton, MO
+1434    Northwest Missouri State University                             Maryville, MO
+1435    Ozark Christian College                                         Joplin, MO
+1436    Ozarks Technical Community College                              Springfield, MO
+1437    Park University                                                 Parkville, MO
+1438    Ranken Technical College                                        St. Louis, MO
+1439    Rockhurst University                                            Kansas City, MO
+1440    Saint Louis Christian College                                   Florissant, MO
+1441    Saint Louis University                                          St. Louis, MO
+1442    Saint Paul School of Theology                                   Leawood, MO
+1443    Southeast Missouri State University                             Cape Girardeau, MO
+1444    Southwest Baptist University                                    Bolivar, MO
+1445    St. Charles Community College                                   St. Charles, MO
+1446    St. Louis Community College                                     St. Louis, MO
+1447    State Fair Community College                                    Sedalia, MO
+1448    State Technical College of Missouri                             Linn, MO
+1449    Stephens College                                                Columbia, MO
+1450    Three Rivers Community College                                  Poplar Bluff, MO
+1451    Truman State University                                         Kirksville, MO
+1452    University of Central Missouri                                  Warrensburg, MO
+1453    University of Health Sciences and Pharmacy in St. Louis         St. Louis, MO
+1454    University of Missouri                                          Columbia, MO
+1455    Urshan College                                                  Wentzville, MO
+1456    Urshan Graduate School of Theology                              Wentzville, MO
+1457    Washington University in St. Louis                              St. Louis, MO
+1458    Webster University                                              Webster Groves, MO
+1459    Westminster College                                             Fulton, MO
+1460    William Jewell College                                          Liberty, MO
+1461    William Woods University                                        Fulton, MO
 
 
 =======================================
@@ -1732,7 +1838,9 @@ Globe University and Minnesota School of Business               Globe County, MN
 McNally Smith College of Music                                  St. Paul, MN
 Minneapolis Business College                                    Roseville, MN
 CenterPoint Massage & Shiatsu School & Clinic                   St. Louis Park, MN
-
+Central Bible College                                           Springfield, MO
+Marion College                                                  Philadelphia, MO
+Wentworth Military Academy and College                          Lexington, MO
 
 
 
