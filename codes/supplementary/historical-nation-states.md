@@ -35,4 +35,10 @@ This supplementary table will endeavor to list all known historical countries, a
 ||`SATH`|Second Athenian Empire|||||
 ||`CORL`|League of Corinth|||||
 
-||||||||
+**Greek Poleis (City-States)*
+
+Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
+
+|num-4|alpah-4|English|endonym|date|government|demise|Geo|
+|:--|:--|--|--|--|--|--:|--|
+|||||||||
