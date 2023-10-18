@@ -1,0 +1,707 @@
+=======================================
+================ Index ================
+=======================================
+
+0001 - 0099 - US Railroads
+0100 - 0449 - Defunct Railroads
+
+=======================================
+================ Notes ================
+=======================================
+
+http://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code
+
+
+
+
+=======================================
+============ US Railroads =============
+=======================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLFX    Brightline
+AA      Ann Arbor Railroad
+AB      Akron Barberton Cluster Railway
+ABS     Alabama Southern Railroad
+ABWR    Alabama Warrior Railway
+ACJR    Ashtabula, Carson and Jefferson Railroad
+ACWR    Aberdeen, Carolina and Western Railway
+ADBF    Adrian and Blissfield Rail Road
+AERC    Albany and Eastern Railroad
+AGCR    Alamo Gulf Coast Railroad
+AGR     Alabama and Gulf Coast Railway
+AIKR    Aiken Railway
+AKDN    Acadiana Railway
+AKMD    Arkansas Midland Railroad
+ALE     Alabama Export Railroad
+ALLN    Allentown and Auburn Railroad
+ALM     Arkansas, Louisiana and Mississippi Railroad
+ALS     Alton and Southern Railway
+AM      Arkansas and Missouri Railroad
+AMTK    Amtrak
+AN      AN Railway
+ANR     Angelina and Neches River Railroad
+ANTX    Alamo North Texas Railroad
+AO      Appalachian and Ohio Railroad
+AOK     Arkansas–Oklahoma Railroad
+AOR     Aliquippa and Ohio River Railroad
+APA     Apache Railway
+APD     Albany Port Railroad
+AR      Aberdeen and Rockfish Railroad
+ARA     Arcade and Attica Railroad
+ARC     Alexander Railroad
+ARR     Alaska Railroad
+ARS     Arkansas Southern Railroad
+ART     A&R Terminal Railroad
+ARZC    Arizona and California Railroad
+ASRY    Ashland Railway
+AT      Affton Terminal Services Railroad
+ATL     Atlantic Railways
+ATLT    AT&L Railroad
+ATN     Alabama and Tennessee River Railway
+ATW     Atlantic and Western Railway
+AUT     Autauga Northern Railroad
+AVR     Allegheny Valley Railroad
+AVRR    Ag Valley Railroad
+AWRR    Austin Western Railroad
+AWRY    Adams-Warnock Railway
+AZCR    Arizona Central Railroad
+AZER    Arizona Eastern Railway
+BAP     Butte, Anaconda and Pacific Railway
+BAWT    Bayway Terminal Switching Company
+BAYL    Bay Line Railroad
+BB      Buckingham Branch Railroad
+BCLR    Bay Colony Railroad
+BDRV    Belvidere and Delaware River Railway
+BDTL    Ballard Terminal Railroad
+BDW     Bighorn Divide and Wyoming Railroad
+BEEM    Beech Mountain Railroad
+BFT     Big 4 Terminal Railroad
+BGCM    BG&CM Railroad
+BH      B&H Rail Corporation
+BHRR    Birmingham Terminal Railway
+BHS     Burns Harbor Shortline Railroad
+BIP     Belpre Industrial Parkersburg Railroad
+BIR     Bucyrus Industrial Railroad
+BIRR    Bellingham International Railroad
+BJRR    Baja California Railroad
+BJRY    Burlington Junction Railway
+BKRR    Batten Kill Railroad
+BLE     Bessemer and Lake Erie Railroad
+BLEX    Bee Line Railroad
+BLOL    Bloomer Line
+BLR     Blacklands Railroad
+BLRR    Blue Rapids Railway
+BLU     Blue Ridge Southern Railroad
+BNG     Blackwell Northern Gateway Railroad
+BNR     Bogalusa & Northern Railway
+BNSF    BNSF Railway
+BOP     Border Pacific Railroad
+BPRR    Buffalo and Pittsburgh Railroad
+BPSC    Bridgeport Switching Company
+BRC     Belt Railway of Chicago
+BRFD    Branford Steam Railroad
+BRG     Brownsville and Rio Grande International Railroad
+BRS     Baton Rouge Southern Railroad
+BRW     Black River and Western Corporation
+BSOR    Buffalo Southern Railroad
+BSR     Big Spring Rail System
+BSVY    Boone and Scenic Valley Railroad
+BVRR    Boise Valley Railroad
+BVRY    Brandywine Valley Railroad
+BXN     Bauxite and Northern Railway
+CA      Chesapeake and Albemarle Railroad
+CAEG    Coffeen and Western Railroad
+CAGY    Columbus and Greenville Railway
+CAMY    Camp Chase Railway
+CBRL    Coos Bay Rail Link
+CBRW    Columbia Basin Railroad
+CBRY    Copper Basin Railway
+CCET    Cincinnati Eastern Railroad
+CCH     Columbus and Chattahoochee Railroad
+CCKY    Chattooga and Chickamauga Railway
+CCRL    Cleveland and Cuyahoga Railroad
+CCT     Central California Traction Company
+CCUO    Chicago–Chemung Railroad
+CECR    Cicero Central Railroad
+CEIW    Central Indiana and Western Railroad
+CER     Charlotte Western Railroad
+CERA    Central Railroad of Indianapolis
+CF      Cape Fear Railways
+CFE     Chicago, Fort Wayne and Eastern Railroad
+CFNR    California Northern Railroad
+CFWR    Caney Fork and Western Railroad
+CGR     CG Railway
+CGRX    CGB Shortline Railroad
+CHB     Cleveland Port Railroad
+CHR     Chestnut Ridge Railroad
+CHS     Charlotte Southern Railroad
+CIC     Cedar Rapids and Iowa City Railway
+CIRR    Chattahoochee Industrial Railroad
+CJRY    Chicago Junction Railway
+CKIN    Chesapeake and Indiana Railroad
+CLC     Columbia and Cowlitz Railway
+CLCY    Chessie Logistics
+CLNA    Carolina Coastal Railway
+CLP     Clarendon and Pittsford Railroad
+CM      Central Montana Rail, Inc.
+CMC     CMC Railroad
+CMPA    Madison Railroad
+CMSL    Cape May Seashore Lines
+CN      Canadian National Railway
+CNRR    Cornhusker Railroad
+CNYK    Central New York Railroad
+CNZR    Central New England Railroad
+COEH    Conecuh Valley Railroad
+COER    Crab Orchard and Egyptian Railway
+COP     City of Prineville Railway
+CORP    Central Oregon and Pacific Railroad
+CPC     Chicago Port Railroad
+CPDR    Carolina Piedmont Railroad
+CPKC    CPKC Railway
+CPMY    Coopersville and Marne Railway
+CPR     CaterParrott Railnet
+CPRL    Chicago Port & Rail
+CRL     Chicago Rail Link
+CSBP    Columbia Shipyards Railroad
+CSCD    Cascade and Columbia River Railroad
+CSOR    Connecticut Southern Railroad
+CSP     Chicago, St. Paul & Pacific Railroad
+CSR     Camden and Southern Railroad
+CSS     Chicago South Shore and South Bend Railroad
+CSXT    CSX Transportation
+CT      Columbia Terminal Railroad
+CTN     Canton Railroad
+CTR     Clinton Terminal Railroad
+CTRR    Cloquet Terminal Railroad
+CTV     Cleveland Terminal & Valley Railroad
+CUOH    Columbus and Ohio River Rail Road
+CVLY    Clackamas Valley Railroad
+CVR     Cimarron Valley Railroad
+CW      Colorado and Wyoming Railway
+CWCY    Caldwell County Railroad
+CWRO    Cleveland Works Railway
+CWRR    Central Washington Railroad
+CWRY    Commonwealth Railway
+CWW     Columbia-Walla Walla Railway
+CXR     Colorado Pacific Railroad
+CXRG    Colorado Pacific Rio Grande Railroad
+DAIR    D&I Railroad
+DC      Delray Connecting Railroad
+DCON    Detroit Connecting Railroad
+DCR     Delmarva Central Railroad
+DCRR    Dubois County Railroad
+DD      Dover and Delaware River Railroad
+DFWS    DFW & Southern Railway
+DGNO    Dallas, Garland and Northeastern Railroad
+DIR     Davenport Industrial Railroad
+DL      Delaware–Lackawanna Railroad
+DLWR    Depew, Lancaster and Western Railroad
+DMVW    Dakota, Missouri Valley and Western Railroad
+DN      Dakota Northern Railroad
+DPRW    Deseret Power Railroad
+DQE     De Queen and Eastern Railroad
+DR      Dardanelle and Russellville Railroad
+DREI    Decatur & Eastern Illinois Railroad
+DRIR    Denver Rock Island Railroad
+DRRR    Delaware and Raritan River Railroad
+DRRV    Dover & Rockaway River Railroad
+DSC     Drake Switching Company
+DSRC    Dakota Southern Railway
+DSRR    Delta Southern Railroad
+DT      Decatur Junction Railway
+DUSR    Dutchtown Southern Railroad
+DVS     Delta Valley and Southern Railway
+DWRV    D&W Railroad
+EACH    East Camden and Highland Railroad
+EARY    Eastern Alabama Railway
+EBSR    East Brookfield and Spencer Railroad
+ECBR    East Cooper and Berkeley Railroad
+ECRT    East Chicago Rail Terminal
+ECTR    East Terminal Railway
+EDW     El Dorado and Wesson Railway
+EE      Ellis and Eastern Company
+EEC     East Erie Commercial Railroad
+EFRR    Effingham Railroad
+EIRR    Eastern Idaho Railroad
+EJR     East Jersey Railroad
+EJSR    Elwood, Joliet & Southern Railroad
+EKRC    Eastern Kentucky Railway Company
+ELS     Escanaba and Lake Superior Railroad
+EMRY    Eastern Maine Railway
+EOVR    East Ohio Valley Railway
+ESPN    East Penn Railroad
+ETRY    East Tennessee Railway
+EV      Everett Railroad
+EVWR    Evansville Western Railway
+EWR     Elkhart and Western Railroad
+EZR     Elizabethtown Industrial Railroad
+FC      Fulton County Railroad
+FCEN    Florida Central Railroad
+FCR     Fulton County Railway
+FCRD    First Coast Railroad
+FEC     Florida East Coast Railway
+FFGC    FFG&C Railroad
+FGAR    Florida Gulf & Atlantic Railroad
+FGLK    Finger Lakes Railway
+FGLK    Midcoast Railservice
+FIR     Flats Industrial Railroad
+FMID    Florida Midland Railroad
+FMRC    Farmrail Corporation
+FNOR    Florida Northern Railroad
+FOXY    Fox Valley & Lake Superior Rail System
+FRR     Falls Road Railroad
+FRVT    Fore River Transportation Corporation
+FS      Fairfield Southern Company
+FSR     Fort Smith Railroad
+FVRR    Fredonia Valley Railroad
+FWWR    Fort Worth and Western Railroad
+GBN     Great Basin & Northern Railroad
+GC      Georgia Central Railway
+GCSX    Gulf Coast Switching
+GCW     Garden City Western Railway
+GDLK    Grand Elk Railroad
+GET     Gettysburg and Northern Railroad
+GFRR    Georgia and Florida Railway
+GGRR    GG Railroad
+GIRR    Gateway Industrial Railroad
+GITM    Golden Isles Terminal Railroad
+GLC     Great Lakes Central Railroad
+GLRY    Goose Lake Railway
+GMRC    Green Mountain Railroad
+GNBC    Grainbelt Corporation
+GNRR    Georgia Northeastern Railroad
+GOGR    Geaux Geaux Railroad
+GR      Grand Rapids Eastern Railroad
+GRD     Gardendale Railroad
+GRLW    Greenville and Western Railway
+GRNW    Great Northwest Railroad
+GRR     Georgetown Railroad
+GRRL    Grand River Railway
+GRW     Gary Railway
+GRWR    Great Walton Railroad
+GRYR    Grenada Railway
+GS      Georgia Southern Railway
+GSIR    Gulf & Ship Island Railroad
+GSWR    Georgia Southwestern Railroad
+GTRA    Golden Triangle Railroad
+GU      Grafton and Upton Railroad
+GVSR    Galveston Railroad
+GWR     Great Western Railway of Colorado
+GWRC    Georgia Woodlands Railroad
+GWRR    Central Railroad of Indiana (CIND)
+HAL     Hilton & Albany Railroad
+HB      Hampton and Branchville Railroad
+HESR    Huron and Eastern Railway
+HMCR    Huntsville and Madison County Railroad Authority
+HNW     Hamilton Northwestern Railroad
+HOG     Heart of Georgia Railroad
+HOS     Hoosier Southern Railroad
+HR      Heritage Railroad
+HRR     Hondo Railway
+HRRC    Housatonic Railroad
+HRRL    Herrin Railroad
+HRT     Hartwell Railroad
+HSCR    Hainesport Secondary Railroad
+HTRC    Hussey Terminal Railroad
+IAIS    Iowa Interstate Railroad
+IANR    Iowa Northern Railway
+IARR    Iowa River Railroad
+IATR    Iowa Traction Railroad
+IERR    Indiana Eastern Railroad
+IHB     Indiana Harbor Belt Railroad
+ILW     Illinois Western Railroad
+IMR     Itawamba Mississippian Railway
+IMRR    Illinois and Midland Railroad
+IN      Indiana Northeastern Railroad
+INPR    Idaho Northern and Pacific Railroad
+INRD    Indiana Rail Road
+IORY    Indiana and Ohio Railway
+IR      Illinois Railway
+ISRR    Indiana Southern Railroad
+ISRY    Iowa Southern Railway
+ISW     Indiana Southwestern Railway
+ITB     Illinois Terminal Belt Railroad
+ITHR    Ithaca Central Railroad
+JAIL    Jackson & Lansing Railroad
+JCAX    New Century AirCenter Railroad
+JE      Joppa and Eastern Railroad
+JVRR    Juniata Valley Railroad
+JXPT    Jacksonville Port Terminal Railroad
+KAW     Kaw River Railroad
+KBSR    Kankakee, Beaverville and Southern Railroad
+KCTL    Kansas City Transportation Lines
+KET     Kennewick Terminal Railroad
+KGTR    Kingman Terminal Railroad
+KJRY    Keokuk Junction Railway
+KM      KM Railways
+KNOR    Klamath Northern Railway
+KNWA    Kanawha River Railroad
+KO      Kansas and Oklahoma Railroad
+KR      Kinston Railroad
+KRR     Kiamichi Railroad
+KSRR    KS Railroad
+KT      Kentucky and Tennessee Railway
+KTR     Kendallville Terminal Railway
+KWT     KWT Railway
+KXCG    Knoxville and Cumberland Gap Railroad
+KXHR    Knoxville and Holston River Railroad
+KYLE    Kyle Railroad
+LAL     Livonia, Avon and Lakeville Railroad
+LAS     Louisiana Southern Railroad
+LBWR    Lubbock and Western Railway
+LC      Lancaster and Chester Railway
+LDRR    Louisiana and Delta Railroad
+LIRC    Louisville and Indiana Railroad
+LIRR    Lapeer Industrial Railroad
+LKRR    Little Kanawha River Railroad
+LMIC    Lake Michigan and Indiana Railroad
+LNW     Louisiana and North West Railroad
+LOR     Live Oak Railroad
+LORL    Lucas Oil Rail Lines
+LRPA    Little Rock Port Authority Railroad
+LRS     Laurinburg and Southern Railroad
+LRWN    Little Rock and Western Railway
+LRWY    R.J. Corman Railroad/Lehigh Line
+LS      R.J. Corman Railroad/Luzerne & Susquehanna Line
+LSI     Lake Superior and Ishpeming Railroad
+LSRC    Lake State Railway
+LSRY    LaSalle Railway
+LT      Lake Terminal Railroad
+LVR     LVR Railroad
+LVRM    Lehigh Valley Rail Management
+LVRR    Lycoming Valley Railroad
+LVSW    Longview Switching Company
+LXVR    Luxapalila Valley Railroad
+MANN    Manning Rail
+MBRX    Milford-Bennington Railroad
+MC      Massachusetts Coastal Railroad
+MCER    Massachusetts Central Railroad
+MCSA    Moscow, Camden and San Augustine Railroad
+MCVR    Merced County Central Valley Railroad
+MDDE    Maryland and Delaware Railroad
+MDS     Meridian Southern Railway
+MDW     Minnesota, Dakota and Western Railway
+ME      Morristown and Erie Railway
+MER     Missouri Eastern Railroad
+MET     Modesto and Empire Traction Company
+METW    East Troy Electric Railroad
+MGRI    MG Rail, Inc.
+MH      Mount Hood Railroad
+MHWA    Mohawk, Adirondack and Northern Railroad
+MIDH    Middletown and Hummelstown Railroad
+MJ      Manufacturers' Junction Railway
+MMID    Maryland Midland Railway
+MMRR    Mid-Michigan Railroad
+MMT     Mission Mountain Railroad
+MNA     Missouri and Northern Arkansas Railroad
+MNBR    M&B Railroad
+MNC     Missouri North Central Railroad
+MNJ     Middletown and New Jersey Railroad
+MNN     Minnesota Northern Railroad
+MNNR    Minnesota Commercial Railway
+MNRY    Maine Northern Railway
+MPLI    Minnesota Prairie Line, Inc.
+MPR     Mountain Pacific Railroad
+MQT     Marquette Rail, LLC
+MRAX    Mineral Range Railroad
+MS      Michigan Shore Railroad
+MSCI    Mississippi Central Railroad
+MSDR    Mississippi Delta Railroad
+MSE     Mississippi Export Railroad
+MSN     Meeker Southern Railroad
+MSO     Michigan Southern Railroad
+MSR     Mississippi Southern Railroad
+MSTR    Massena Terminal Railroad
+MTNR    Mississippi Tennessee Railroad
+MVRY    Mahoning Valley Railway
+MVT     Mount Vernon Terminal Railway
+MWS     Midway Southern Railway
+NAUG    Naugatuck Railroad Company
+NBER    Nittany and Bald Eagle Railroad
+NCIR    New Castle Industrial Railroad
+NCRC    Nebraska Central Railroad
+NCSR    New Castle Southern Railroad
+NCVA    North Carolina and Virginia Railroad
+NDCR    Northampton Switching Company
+NDW     Napoleon, Defiance & Western Railroad
+NECR    New England Central Railroad
+NEGS    New England Southern Railroad
+NERR    R.J. Corman Railroad/Nashville & Eastern Line
+NETC    Northeast Texas Connector
+NHCR    New Hampshire Central Railroad
+NHN     New Hampshire Northcoast Corporation
+NHRR    New Hope and Ivyland Railroad
+NJRC    New Jersey Rail Carriers, LLC
+NJSL    New Jersey Seashore Lines
+NKCR    Nebraska Kansas Colorado Railway
+NLA     North Louisiana & Arkansas Railroad
+NLR     Northern Lines Railway
+NNW     Nebraska Northwestern Railroad
+NOGC    New Orleans and Gulf Coast Railway
+NOKL    Northwestern Oklahoma Railroad
+NOPB    New Orleans Public Belt Railroad
+NOW     Northern Ohio and Western Railway
+NPB     Norfolk and Portsmouth Belt Line Railroad
+NPR     Northern Plains Railroad
+NS      Norfolk Southern Railway
+NSHR    North Shore Railroad
+NSR     Newburgh and South Shore Railroad
+NTRY    Republic N&T Railroad
+NTZR    Natchez Railway
+NWR     R.J. Corman Railroad/Nashville & Western Line
+NYA     New York and Atlantic Railway
+NYLE    New York and Lake Erie Railroad
+NYNJ    New York New Jersey Rail, LLC
+NYOG    New York and Ogdensburg Railway
+NYSW    New York, Susquehanna and Western Railway
+OAR     Old Augusta Railroad
+OCTL    Oil Creek and Titusville Lines, Inc.
+OERR    Oregon Eastern Railroad
+OGRE    Oakland Global Rail Enterprise
+OHCR    Ohio Central Railroad
+OHRY    R.J. Corman Railroad/Owego & Harford Line
+OIRR    Oregon Independence Railroad
+OLB     Omaha, Lincoln and Beatrice Railway
+OLYO    Olympia and Belmore Railroad
+OMID    Ontario Midland Railroad
+ONCT    Ontario Central Railroad
+ONR     Ottawa Northern Railroad
+OPR     Oregon Pacific Railroad
+OPT     Orange Port Terminal Railway
+ORC     Ogeechee Railway
+OSCR    Ohio South Central Railroad
+OSRR    Ohio Southern Railroad
+OTVR    Otter Tail Valley Railroad
+OUCH    Ouachita Railroad
+OVRR    Ozark Valley Railroad
+PAL     Paducah and Louisville Railway
+PAM     McKees Rocks Railroad
+PBVR    Port Bienville Railroad
+PCC     Palouse River and Coulee City Railroad
+PCIR    Port of Catoosa Industrial Railroad
+PCN     Point Comfort and Northern Railway
+PCYR    Perry County Railroad
+PDRR    Pee Dee River Railway
+PGR     Progressive Rail, Inc.
+PHL     Pacific Harbor Line, Inc.
+PHRR    Port Harbor Railroad
+PICK    Pickens Railway
+PIRR    Peru Industrial Railroad
+PJR     Port Jersey Railroad
+PMR     Port Manatee Railroad
+PNR     Panhandle Northern Railroad
+PNW     Prescott and Northwestern Railroad
+PNWR    Portland and Western Railroad
+POHC    Pittsburgh and Ohio Central Railroad
+POVA    Pend Oreille Valley Railroad
+PRI     Port Rail, Inc
+PRY     Pioneer Industrial Railroad
+PSAP    Puget Sound and Pacific Railroad
+PSC     Plainsman Switching Company
+PSCC    Pennsylvania and Southern Railway
+PSWR    Pennsylvania Southwestern Railroad
+PT      Peninsula Terminal Company
+PTM     Plainview Terminal Company
+PTR     Port Terminal Railroad of South Carolina
+PTRA    Port Terminal Railroad Association
+PTRC    Portland Terminal Railroad
+PVJR    Portland Vancouver Junction Railroad
+PVRR    Pioneer Valley Railroad
+PVS     Pecos Valley Southern Railway
+PW      Providence and Worcester Railroad
+QRR     Quincy Railroad
+RBMN    Reading Blue Mountain and Northern Railroad
+RCPE    Rapid City, Pierre and Eastern Railroad
+RCRY    Raritan Central Railway
+RER     Rochester and Erie Railroad
+RFCC    Raleigh and Fayetteville Railroad
+RHSL    Rawhide Short Line
+RJCA    R.J. Corman Railroad/Carolina Line
+RJCC    R.J. Corman Railroad/Central Kentucky Lines
+RJCD    R.J. Corman Railroad/Texas Lines
+RJCK    R.J. Corman Railroad/Tennessee Terminal
+RJCL    R.J. Corman Railroad/Cleveland Line
+RJCM    R.J. Corman Railroad/Memphis Line
+RJCN    R.J. Corman Railroad/Allentown Lines
+RJCP    R.J. Corman Railroad/Pennsylvania Lines
+RJCR    R.J. Corman Railroad/Bardstown Line
+RJCV    R.J. Corman Railroad/West Virginia Line
+RJCW    R.J. Corman Railroad/Western Ohio Lines
+RNAB    Ripley & New Albany Railroad
+RPRC    Richmond Pacific Railroad
+RR      Rainer Rail
+RRR     River Ridge Railroad
+RRRR    Rock and Rail LLC
+RRVW    Red River Valley and Western Railroad
+RSL     Republic Short Line
+RSOR    Riceboro Southern Railway
+RSR     Rochester and Southern Railroad
+RSS     Rochester Switching Services
+RVPR    Riverport Railroad
+RVSC    Rio Valley Switching Company
+RVT     Rogue Valley Terminal Railroad
+RWRR    Ringneck and Western Railroad
+SAC     San Antonio Central Railroad
+SAN     Sandersville Railroad
+SAPT    Savannah Port Terminal Railroad
+SAV     Sacramento Valley Railroad
+SB      South Buffalo Railway
+SBG     Savage Bingham and Garfield Railroad
+SBRR    Stourbridge Railroad
+SBVR    South Branch Valley Railroad
+SCBG    Santa Cruz, Big Trees and Pacific Railway
+SCIH    South Chicago and Indiana Harbor Railway
+SCRF    South Carolina Central Railroad
+SCS     Squaw Creek Southern Railroad
+SCTR    South Central Tennessee Railroad
+SCXF    South Central Florida Express, Inc.
+SCXY    St. Croix Valley Railroad
+SDIY    San Diego and Imperial Valley Railroad
+SE      SEMO Port Railroad
+SERA    Sierra Northern Railway
+SERC    Southern Electric Railroad Company
+SFBR    San Francisco Bay Railway
+SGLR    Seminole Gulf Railway
+SIT     Savannah Industrial Transportation
+SJRE    SJRE Railroad
+SJVR    San Joaquin Valley Railroad
+SKOL    South Kansas and Oklahoma Railroad
+SLAL    South Plains Lamesa Railroad
+SLC     San Luis Central Railroad
+SLGG    S&L Railroad
+SLGW    Salt Lake, Garfield and Western Railway
+SLR     St. Lawrence and Atlantic Railroad
+SLRS    SMS Rail Service, Inc.
+SLWC    Stillwater Central Railroad
+SM      St. Marys Railroad
+SMA     San Manuel Arizona Railroad
+SMRR    Sisseton Milbank Railroad
+SMV     Santa Maria Valley Railroad
+SMW     St. Marys Railway West
+SPOR    South Point and Ohio Railroad
+SPPN    St. Paul and Pacific Northwest Railroad
+SPPR    St. Paul and Pacific Railroad
+SPVR    San Pedro Valley Railroad
+SQSC    Sequatchie Valley Switching Company
+SRC     Strasburg Rail Road
+SRN     Sabine River and Northern Railroad
+SRNJ    Southern Railroad of New Jersey
+SRRR    Swan Ranch Railroad
+SS      Sand Springs Railway
+SSC     Southern Switching Company
+SSPR    Spokane, Spangle & Palouse Railway
+SSRR    Sacramento Southern Railroad
+STE     Stockton Terminal and Eastern Railroad
+STMA    St. Maries River Railroad
+STSR    Santa Teresa Southern Railroad
+SV      Shenandoah Valley Railroad
+SVGX    Savage Tooele Railroad
+SVHO    Savannah and Old Fort Railroad
+SVRR    Shamokin Valley Railroad
+SVTX    Seaview Railroad
+SW      Southwestern Railroad
+SWG     Southwest Gulf Railroad
+SWP     Southwest Pennsylvania Railroad
+TASD    Terminal Railway Alabama State Docks
+TBRY    Thermal Belt Railway
+TC      Temple and Central Texas Railway
+TCB     Texas Central Business Lines Corporation
+TCBR    Texas Coastal Bend Railroad
+TCT     Texas City Terminal Railway
+TCWR    Twin Cities and Western Railroad
+TESR    Texas and Eastern Railroad
+TI      Turners Island, LLC
+TIBR    Timber Rock Railroad
+TIR     Toledo Industrial Railroad
+TJR     Toledo Junction Railroad
+TKEN    Tennken Railroad
+TMBL    Tacoma Rail
+TN      Texas and Northern Railway
+TNER    Texas Northeastern Railroad
+TNHR    Three Notch Railroad
+TPR     Tradepoint Rail
+TPW     Toledo, Peoria and Western Railway
+TR      Tomahawk Railway
+TRC     Trona Railway
+TRRA    Terminal Railroad Association of St. Louis
+TSRR    Tennessee Southern Railroad
+TSU     Tulsa–Sapulpa Union Railway
+TXGN    Texas, Gonzales and Northern Railway
+TXN     Texas & New Mexico Railroad
+TXNW    Texas North Western Railway
+TXOR    Texas and Oklahoma Railroad
+TXPF    Texas Pacifico Transportation
+TXR     Texas Rock Crusher Railway
+TYBR    Tyburn Railroad
+TYNT    Tyner Terminal Railway
+TZPR    Tazewell and Peoria Railroad
+UCIR    Union County Industrial Railroad
+UCRY    Utah Central Railway
+UCTR    Union City Terminal Railroad
+UMP     Upper Merion and Plymouth Railroad
+UP      Union Pacific Railroad
+URR     Union Railroad
+USPZ    U.S. Postal Service
+UTAH    Utah Railway
+VCRR    Ventura County Railroad
+VR      Valdosta Railway
+VRRC    Vandalia Railroad
+VSOR    Vicksburg Southern Railroad
+VSR     V&S Railway
+VSRR    Virginia Southern Railroad
+VTR     Vermont Railway
+VVRR    Vermilion Valley Railroad
+WACR    Washington County Railroad
+WBCR    Wabash Central Railroad
+WBRW    West Belt Railway
+WCKR    Wolf Creek Railroad
+WCOR    Wellsboro and Corning Railroad
+WE      Wheeling and Lake Erie Railway
+WERR    Washington Eastern Railroad
+WFS     West Isle Line
+WGCR    Wiregrass Central Railroad
+WGNS    Wisconsin Great Northern Railroad
+WHRR    Walking Horse Railroad
+WMI     West Michigan Railroad
+WMSR    Western Maryland Scenic Railroad
+WN      Wisconsin Northern Railroad
+WNYP    Western New York and Pennsylvania Railroad
+WRL     Washington Royal Line
+WRRC    Western Rail Road
+WSOR    Wisconsin and Southern Railroad
+WSR     Warren and Saline River Railroad
+WSS     Winston-Salem Southbound Railway
+WTA     Wichita Terminal Association
+WTJR    Wichita, Tillman and Jackson Railway
+WTNN    West Tennessee Railroad
+WTRM    Warren and Trumbull Railroad
+WTRY    Wilmington Terminal Railroad
+WURR    Wallowa Union Railroad Authority
+WVR     Willamette Valley Railway
+WW      Winchester and Western Railroad
+WWRC    Wilmington and Western Railroad
+YARR    Youngstown and Austintown Railroad
+YB      Youngstown Belt Railroad
+YCR     Yak Rail, LLC
+YRC     York Railway
+YSRR    Youngstown and Southeastern Railroad
+YSVR    Yellowstone Valley Railroad
+YVRR    Yadkin Valley Railroad
+YW      Yreka Western Railroad
+ZEMBA   Zemba Rail Services
