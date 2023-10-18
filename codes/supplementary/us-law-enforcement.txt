@@ -61,6 +61,8 @@ Notes:
 62 - [local] Constable's Office
 63 - [local] Marshal's Office
 
+70 - [special] Railroad Police
+
 =======================================
 ======= Law Enforcenemtn Ranks ========
 =======================================
@@ -85,28 +87,29 @@ Notes:
 
 20 - Probationary Officer
 21 - Officer
-22 - Senior Officer
-23 - Detective
-24 - Inspector (Investigative)
-25 - Special Agent
-25 - Investigator
-26 - Deputy Inspector (Supervisory)
-27 - Inspector (Supervisory)
-28 - Chief Inspector
-29 - Deputy Chief
-30 - Executive Deputy Chief
-31 - Asst. Chief
-32 - Executive Asst. Chief
-33 - Chief
-34 - Bureau Chief
-35 - Dept. Chief
-36 - Asst. Deputy Superintendent
-37 - Deputy Superintendent
-38 - First Deputy Superintendent
-39 - Superintendent
-40 - Deputy Commissioner
-41 - First Deputy Commissioner
-42 - Commissioner
+22 - Special Officer
+23 - Senior Officer
+24 - Detective
+25 - Inspector (Investigative)
+26 - Special Agent
+27 - Investigator
+28 - Deputy Inspector (Supervisory)
+29 - Inspector (Supervisory)
+30 - Chief Inspector
+31 - Deputy Chief
+32 - Executive Deputy Chief
+33 - Asst. Chief
+34 - Executive Asst. Chief
+35 - Chief
+36 - Bureau Chief
+37 - Dept. Chief
+38 - Asst. Deputy Superintendent
+39 - Deputy Superintendent
+40 - First Deputy Superintendent
+41 - Superintendent
+42 - Deputy Commissioner
+43 - First Deputy Commissioner
+44 - Commissioner
 
 # Sheriff, constable, & marshal-style titles
 
