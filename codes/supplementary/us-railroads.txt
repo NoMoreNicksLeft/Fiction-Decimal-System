@@ -8,6 +8,8 @@
 0100 - 0449 - Defunct US Train Stations
 0100 - 0449 - Rail Transit Systems
 
+0100 - 0449 - Other Rail Companies
+
 
 
 =======================================
@@ -23,7 +25,7 @@ https://en.wikipedia.org/wiki/List_of_rail_transit_systems_in_the_United_States
 http://www.therailroadpolice.com/badges-t-z
 
 =======================================
-========+== Railroad Classes ==========
+=========== Railroad Classes ==========
 =======================================
 
 Class I Freight
@@ -815,3 +817,10 @@ Note: From https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroad
 =======================================
 ========== US Train Stations ==========
 =======================================
+
+
+=======================================
+========= Other Rail Companies ========
+=======================================
+
+REA    American Railway Express
