@@ -2,698 +2,816 @@
 ================ Index ================
 =======================================
 
-0001 - 0099 - US Railroads
-0100 - 0449 - Defunct Railroads
+0000 - 0749 - US Railroads
+0750 - 0999 - Defunct Railroads
+0100 - 0449 - US Train Stations
+0100 - 0449 - Defunct US Train Stations
+0100 - 0449 - Rail Transit Systems
+
+
 
 =======================================
 ================ Notes ================
 =======================================
 
-https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroads_in_the_United_States
+US Railroads are those systems using self-propelled trains and (mostly) standard gauge rail. Rail transit systems often use standard gauge, but are electrified with a third rail or overhead cables. Occasionally they use other gauges, monorails, or maglev.
+
+Reporting marks are included for railroads. These are 2-4 character abbreviations used to identify trains and cars by those authorities responsible for the logistics of managing and sharing rail.
+
 https://en.wikipedia.org/wiki/List_of_rail_transit_systems_in_the_United_States
 
+http://www.therailroadpolice.com/badges-t-z
 
+=======================================
+========+== Railroad Classes ==========
+=======================================
 
+Class I Freight
+Class II Freight
+Class III Freight
+Passenger
+Commuter
+
+Streetcar
+Monorail
+Metro
 
 =======================================
 ============ US Railroads =============
 =======================================
 
+Note: From https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroads_in_the_United_States
 
-
-BLFX    Brightline
-AA      Ann Arbor Railroad
-AB      Akron Barberton Cluster Railway
-ABS     Alabama Southern Railroad
-ABWR    Alabama Warrior Railway
-ACJR    Ashtabula, Carson and Jefferson Railroad
-ACWR    Aberdeen, Carolina and Western Railway
-ADBF    Adrian and Blissfield Rail Road
-AERC    Albany and Eastern Railroad
-AGCR    Alamo Gulf Coast Railroad
-AGR     Alabama and Gulf Coast Railway
-AIKR    Aiken Railway
-AKDN    Acadiana Railway
-AKMD    Arkansas Midland Railroad
-ALE     Alabama Export Railroad
-ALLN    Allentown and Auburn Railroad
-ALM     Arkansas, Louisiana and Mississippi Railroad
-ALS     Alton and Southern Railway
-AM      Arkansas and Missouri Railroad
-AMTK    Amtrak
-AN      AN Railway
-ANR     Angelina and Neches River Railroad
-ANTX    Alamo North Texas Railroad
-AO      Appalachian and Ohio Railroad
-AOK     Arkansas–Oklahoma Railroad
-AOR     Aliquippa and Ohio River Railroad
-APA     Apache Railway
-APD     Albany Port Railroad
-AR      Aberdeen and Rockfish Railroad
-ARA     Arcade and Attica Railroad
-ARC     Alexander Railroad
-ARR     Alaska Railroad
-ARS     Arkansas Southern Railroad
-ART     A&R Terminal Railroad
-ARZC    Arizona and California Railroad
-ASRY    Ashland Railway
-AT      Affton Terminal Services Railroad
-ATL     Atlantic Railways
-ATLT    AT&L Railroad
-ATN     Alabama and Tennessee River Railway
-ATW     Atlantic and Western Railway
-AUT     Autauga Northern Railroad
-AVR     Allegheny Valley Railroad
-AVRR    Ag Valley Railroad
-AWRR    Austin Western Railroad
-AWRY    Adams-Warnock Railway
-AZCR    Arizona Central Railroad
-AZER    Arizona Eastern Railway
-BAP     Butte, Anaconda and Pacific Railway
-BAWT    Bayway Terminal Switching Company
-BAYL    Bay Line Railroad
-BB      Buckingham Branch Railroad
-BCLR    Bay Colony Railroad
-BDRV    Belvidere and Delaware River Railway
-BDTL    Ballard Terminal Railroad
-BDW     Bighorn Divide and Wyoming Railroad
-BEEM    Beech Mountain Railroad
-BFT     Big 4 Terminal Railroad
-BGCM    BG&CM Railroad
-BH      B&H Rail Corporation
-BHRR    Birmingham Terminal Railway
-BHS     Burns Harbor Shortline Railroad
-BIP     Belpre Industrial Parkersburg Railroad
-BIR     Bucyrus Industrial Railroad
-BIRR    Bellingham International Railroad
-BJRR    Baja California Railroad
-BJRY    Burlington Junction Railway
-BKRR    Batten Kill Railroad
-BLE     Bessemer and Lake Erie Railroad
-BLEX    Bee Line Railroad
-BLOL    Bloomer Line
-BLR     Blacklands Railroad
-BLRR    Blue Rapids Railway
-BLU     Blue Ridge Southern Railroad
-BNG     Blackwell Northern Gateway Railroad
-BNR     Bogalusa & Northern Railway
-BNSF    BNSF Railway
-BOP     Border Pacific Railroad
-BPRR    Buffalo and Pittsburgh Railroad
-BPSC    Bridgeport Switching Company
-BRC     Belt Railway of Chicago
-BRFD    Branford Steam Railroad
-BRG     Brownsville and Rio Grande International Railroad
-BRS     Baton Rouge Southern Railroad
-BRW     Black River and Western Corporation
-BSOR    Buffalo Southern Railroad
-BSR     Big Spring Rail System
-BSVY    Boone and Scenic Valley Railroad
-BVRR    Boise Valley Railroad
-BVRY    Brandywine Valley Railroad
-BXN     Bauxite and Northern Railway
-CA      Chesapeake and Albemarle Railroad
-CAEG    Coffeen and Western Railroad
-CAGY    Columbus and Greenville Railway
-CAMY    Camp Chase Railway
-CBRL    Coos Bay Rail Link
-CBRW    Columbia Basin Railroad
-CBRY    Copper Basin Railway
-CCET    Cincinnati Eastern Railroad
-CCH     Columbus and Chattahoochee Railroad
-CCKY    Chattooga and Chickamauga Railway
-CCRL    Cleveland and Cuyahoga Railroad
-CCT     Central California Traction Company
-CCUO    Chicago–Chemung Railroad
-CECR    Cicero Central Railroad
-CEIW    Central Indiana and Western Railroad
-CER     Charlotte Western Railroad
-CERA    Central Railroad of Indianapolis
-CF      Cape Fear Railways
-CFE     Chicago, Fort Wayne and Eastern Railroad
-CFNR    California Northern Railroad
-CFWR    Caney Fork and Western Railroad
-CGR     CG Railway
-CGRX    CGB Shortline Railroad
-CHB     Cleveland Port Railroad
-CHR     Chestnut Ridge Railroad
-CHS     Charlotte Southern Railroad
-CIC     Cedar Rapids and Iowa City Railway
-CIRR    Chattahoochee Industrial Railroad
-CJRY    Chicago Junction Railway
-CKIN    Chesapeake and Indiana Railroad
-CLC     Columbia and Cowlitz Railway
-CLCY    Chessie Logistics
-CLNA    Carolina Coastal Railway
-CLP     Clarendon and Pittsford Railroad
-CM      Central Montana Rail, Inc.
-CMC     CMC Railroad
-CMPA    Madison Railroad
-CMSL    Cape May Seashore Lines
-CN      Canadian National Railway
-CNRR    Cornhusker Railroad
-CNYK    Central New York Railroad
-CNZR    Central New England Railroad
-COEH    Conecuh Valley Railroad
-COER    Crab Orchard and Egyptian Railway
-COP     City of Prineville Railway
-CORP    Central Oregon and Pacific Railroad
-CPC     Chicago Port Railroad
-CPDR    Carolina Piedmont Railroad
-CPKC    CPKC Railway
-CPMY    Coopersville and Marne Railway
-CPR     CaterParrott Railnet
-CPRL    Chicago Port & Rail
-CRL     Chicago Rail Link
-CSBP    Columbia Shipyards Railroad
-CSCD    Cascade and Columbia River Railroad
-CSOR    Connecticut Southern Railroad
-CSP     Chicago, St. Paul & Pacific Railroad
-CSR     Camden and Southern Railroad
-CSS     Chicago South Shore and South Bend Railroad
-CSXT    CSX Transportation
-CT      Columbia Terminal Railroad
-CTN     Canton Railroad
-CTR     Clinton Terminal Railroad
-CTRR    Cloquet Terminal Railroad
-CTV     Cleveland Terminal & Valley Railroad
-CUOH    Columbus and Ohio River Rail Road
-CVLY    Clackamas Valley Railroad
-CVR     Cimarron Valley Railroad
-CW      Colorado and Wyoming Railway
-CWCY    Caldwell County Railroad
-CWRO    Cleveland Works Railway
-CWRR    Central Washington Railroad
-CWRY    Commonwealth Railway
-CWW     Columbia-Walla Walla Railway
-CXR     Colorado Pacific Railroad
-CXRG    Colorado Pacific Rio Grande Railroad
-DAIR    D&I Railroad
-DC      Delray Connecting Railroad
-DCON    Detroit Connecting Railroad
-DCR     Delmarva Central Railroad
-DCRR    Dubois County Railroad
-DD      Dover and Delaware River Railroad
-DFWS    DFW & Southern Railway
-DGNO    Dallas, Garland and Northeastern Railroad
-DIR     Davenport Industrial Railroad
-DL      Delaware–Lackawanna Railroad
-DLWR    Depew, Lancaster and Western Railroad
-DMVW    Dakota, Missouri Valley and Western Railroad
-DN      Dakota Northern Railroad
-DPRW    Deseret Power Railroad
-DQE     De Queen and Eastern Railroad
-DR      Dardanelle and Russellville Railroad
-DREI    Decatur & Eastern Illinois Railroad
-DRIR    Denver Rock Island Railroad
-DRRR    Delaware and Raritan River Railroad
-DRRV    Dover & Rockaway River Railroad
-DSC     Drake Switching Company
-DSRC    Dakota Southern Railway
-DSRR    Delta Southern Railroad
-DT      Decatur Junction Railway
-DUSR    Dutchtown Southern Railroad
-DVS     Delta Valley and Southern Railway
-DWRV    D&W Railroad
-EACH    East Camden and Highland Railroad
-EARY    Eastern Alabama Railway
-EBSR    East Brookfield and Spencer Railroad
-ECBR    East Cooper and Berkeley Railroad
-ECRT    East Chicago Rail Terminal
-ECTR    East Terminal Railway
-EDW     El Dorado and Wesson Railway
-EE      Ellis and Eastern Company
-EEC     East Erie Commercial Railroad
-EFRR    Effingham Railroad
-EIRR    Eastern Idaho Railroad
-EJR     East Jersey Railroad
-EJSR    Elwood, Joliet & Southern Railroad
-EKRC    Eastern Kentucky Railway Company
-ELS     Escanaba and Lake Superior Railroad
-EMRY    Eastern Maine Railway
-EOVR    East Ohio Valley Railway
-ESPN    East Penn Railroad
-ETRY    East Tennessee Railway
-EV      Everett Railroad
-EVWR    Evansville Western Railway
-EWR     Elkhart and Western Railroad
-EZR     Elizabethtown Industrial Railroad
-FC      Fulton County Railroad
-FCEN    Florida Central Railroad
-FCR     Fulton County Railway
-FCRD    First Coast Railroad
-FEC     Florida East Coast Railway
-FFGC    FFG&C Railroad
-FGAR    Florida Gulf & Atlantic Railroad
-FGLK    Finger Lakes Railway
-FGLK    Midcoast Railservice
-FIR     Flats Industrial Railroad
-FMID    Florida Midland Railroad
-FMRC    Farmrail Corporation
-FNOR    Florida Northern Railroad
-FOXY    Fox Valley & Lake Superior Rail System
-FRR     Falls Road Railroad
-FRVT    Fore River Transportation Corporation
-FS      Fairfield Southern Company
-FSR     Fort Smith Railroad
-FVRR    Fredonia Valley Railroad
-FWWR    Fort Worth and Western Railroad
-GBN     Great Basin & Northern Railroad
-GC      Georgia Central Railway
-GCSX    Gulf Coast Switching
-GCW     Garden City Western Railway
-GDLK    Grand Elk Railroad
-GET     Gettysburg and Northern Railroad
-GFRR    Georgia and Florida Railway
-GGRR    GG Railroad
-GIRR    Gateway Industrial Railroad
-GITM    Golden Isles Terminal Railroad
-GLC     Great Lakes Central Railroad
-GLRY    Goose Lake Railway
-GMRC    Green Mountain Railroad
-GNBC    Grainbelt Corporation
-GNRR    Georgia Northeastern Railroad
-GOGR    Geaux Geaux Railroad
-GR      Grand Rapids Eastern Railroad
-GRD     Gardendale Railroad
-GRLW    Greenville and Western Railway
-GRNW    Great Northwest Railroad
-GRR     Georgetown Railroad
-GRRL    Grand River Railway
-GRW     Gary Railway
-GRWR    Great Walton Railroad
-GRYR    Grenada Railway
-GS      Georgia Southern Railway
-GSIR    Gulf & Ship Island Railroad
-GSWR    Georgia Southwestern Railroad
-GTRA    Golden Triangle Railroad
-GU      Grafton and Upton Railroad
-GVSR    Galveston Railroad
-GWR     Great Western Railway of Colorado
-GWRC    Georgia Woodlands Railroad
-GWRR    Central Railroad of Indiana (CIND)
-HAL     Hilton & Albany Railroad
-HB      Hampton and Branchville Railroad
-HESR    Huron and Eastern Railway
-HMCR    Huntsville and Madison County Railroad Authority
-HNW     Hamilton Northwestern Railroad
-HOG     Heart of Georgia Railroad
-HOS     Hoosier Southern Railroad
-HR      Heritage Railroad
-HRR     Hondo Railway
-HRRC    Housatonic Railroad
-HRRL    Herrin Railroad
-HRT     Hartwell Railroad
-HSCR    Hainesport Secondary Railroad
-HTRC    Hussey Terminal Railroad
-IAIS    Iowa Interstate Railroad
-IANR    Iowa Northern Railway
-IARR    Iowa River Railroad
-IATR    Iowa Traction Railroad
-IERR    Indiana Eastern Railroad
-IHB     Indiana Harbor Belt Railroad
-ILW     Illinois Western Railroad
-IMR     Itawamba Mississippian Railway
-IMRR    Illinois and Midland Railroad
-IN      Indiana Northeastern Railroad
-INPR    Idaho Northern and Pacific Railroad
-INRD    Indiana Rail Road
-IORY    Indiana and Ohio Railway
-IR      Illinois Railway
-ISRR    Indiana Southern Railroad
-ISRY    Iowa Southern Railway
-ISW     Indiana Southwestern Railway
-ITB     Illinois Terminal Belt Railroad
-ITHR    Ithaca Central Railroad
-JAIL    Jackson & Lansing Railroad
-JCAX    New Century AirCenter Railroad
-JE      Joppa and Eastern Railroad
-JVRR    Juniata Valley Railroad
-JXPT    Jacksonville Port Terminal Railroad
-KAW     Kaw River Railroad
-KBSR    Kankakee, Beaverville and Southern Railroad
-KCTL    Kansas City Transportation Lines
-KET     Kennewick Terminal Railroad
-KGTR    Kingman Terminal Railroad
-KJRY    Keokuk Junction Railway
-KM      KM Railways
-KNOR    Klamath Northern Railway
-KNWA    Kanawha River Railroad
-KO      Kansas and Oklahoma Railroad
-KR      Kinston Railroad
-KRR     Kiamichi Railroad
-KSRR    KS Railroad
-KT      Kentucky and Tennessee Railway
-KTR     Kendallville Terminal Railway
-KWT     KWT Railway
-KXCG    Knoxville and Cumberland Gap Railroad
-KXHR    Knoxville and Holston River Railroad
-KYLE    Kyle Railroad
-LAL     Livonia, Avon and Lakeville Railroad
-LAS     Louisiana Southern Railroad
-LBWR    Lubbock and Western Railway
-LC      Lancaster and Chester Railway
-LDRR    Louisiana and Delta Railroad
-LIRC    Louisville and Indiana Railroad
-LIRR    Lapeer Industrial Railroad
-LKRR    Little Kanawha River Railroad
-LMIC    Lake Michigan and Indiana Railroad
-LNW     Louisiana and North West Railroad
-LOR     Live Oak Railroad
-LORL    Lucas Oil Rail Lines
-LRPA    Little Rock Port Authority Railroad
-LRS     Laurinburg and Southern Railroad
-LRWN    Little Rock and Western Railway
-LRWY    R.J. Corman Railroad/Lehigh Line
-LS      R.J. Corman Railroad/Luzerne & Susquehanna Line
-LSI     Lake Superior and Ishpeming Railroad
-LSRC    Lake State Railway
-LSRY    LaSalle Railway
-LT      Lake Terminal Railroad
-LVR     LVR Railroad
-LVRM    Lehigh Valley Rail Management
-LVRR    Lycoming Valley Railroad
-LVSW    Longview Switching Company
-LXVR    Luxapalila Valley Railroad
-MANN    Manning Rail
-MBRX    Milford-Bennington Railroad
-MC      Massachusetts Coastal Railroad
-MCER    Massachusetts Central Railroad
-MCSA    Moscow, Camden and San Augustine Railroad
-MCVR    Merced County Central Valley Railroad
-MDDE    Maryland and Delaware Railroad
-MDS     Meridian Southern Railway
-MDW     Minnesota, Dakota and Western Railway
-ME      Morristown and Erie Railway
-MER     Missouri Eastern Railroad
-MET     Modesto and Empire Traction Company
-METW    East Troy Electric Railroad
-MGRI    MG Rail, Inc.
-MH      Mount Hood Railroad
-MHWA    Mohawk, Adirondack and Northern Railroad
-MIDH    Middletown and Hummelstown Railroad
-MJ      Manufacturers' Junction Railway
-MMID    Maryland Midland Railway
-MMRR    Mid-Michigan Railroad
-MMT     Mission Mountain Railroad
-MNA     Missouri and Northern Arkansas Railroad
-MNBR    M&B Railroad
-MNC     Missouri North Central Railroad
-MNJ     Middletown and New Jersey Railroad
-MNN     Minnesota Northern Railroad
-MNNR    Minnesota Commercial Railway
-MNRY    Maine Northern Railway
-MPLI    Minnesota Prairie Line, Inc.
-MPR     Mountain Pacific Railroad
-MQT     Marquette Rail, LLC
-MRAX    Mineral Range Railroad
-MS      Michigan Shore Railroad
-MSCI    Mississippi Central Railroad
-MSDR    Mississippi Delta Railroad
-MSE     Mississippi Export Railroad
-MSN     Meeker Southern Railroad
-MSO     Michigan Southern Railroad
-MSR     Mississippi Southern Railroad
-MSTR    Massena Terminal Railroad
-MTNR    Mississippi Tennessee Railroad
-MVRY    Mahoning Valley Railway
-MVT     Mount Vernon Terminal Railway
-MWS     Midway Southern Railway
-NAUG    Naugatuck Railroad Company
-NBER    Nittany and Bald Eagle Railroad
-NCIR    New Castle Industrial Railroad
-NCRC    Nebraska Central Railroad
-NCSR    New Castle Southern Railroad
-NCVA    North Carolina and Virginia Railroad
-NDCR    Northampton Switching Company
-NDW     Napoleon, Defiance & Western Railroad
-NECR    New England Central Railroad
-NEGS    New England Southern Railroad
-NERR    R.J. Corman Railroad/Nashville & Eastern Line
-NETC    Northeast Texas Connector
-NHCR    New Hampshire Central Railroad
-NHN     New Hampshire Northcoast Corporation
-NHRR    New Hope and Ivyland Railroad
-NJRC    New Jersey Rail Carriers, LLC
-NJSL    New Jersey Seashore Lines
-NKCR    Nebraska Kansas Colorado Railway
-NLA     North Louisiana & Arkansas Railroad
-NLR     Northern Lines Railway
-NNW     Nebraska Northwestern Railroad
-NOGC    New Orleans and Gulf Coast Railway
-NOKL    Northwestern Oklahoma Railroad
-NOPB    New Orleans Public Belt Railroad
-NOW     Northern Ohio and Western Railway
-NPB     Norfolk and Portsmouth Belt Line Railroad
-NPR     Northern Plains Railroad
-NS      Norfolk Southern Railway
-NSHR    North Shore Railroad
-NSR     Newburgh and South Shore Railroad
-NTRY    Republic N&T Railroad
-NTZR    Natchez Railway
-NWR     R.J. Corman Railroad/Nashville & Western Line
-NYA     New York and Atlantic Railway
-NYLE    New York and Lake Erie Railroad
-NYNJ    New York New Jersey Rail, LLC
-NYOG    New York and Ogdensburg Railway
-NYSW    New York, Susquehanna and Western Railway
-OAR     Old Augusta Railroad
-OCTL    Oil Creek and Titusville Lines, Inc.
-OERR    Oregon Eastern Railroad
-OGRE    Oakland Global Rail Enterprise
-OHCR    Ohio Central Railroad
-OHRY    R.J. Corman Railroad/Owego & Harford Line
-OIRR    Oregon Independence Railroad
-OLB     Omaha, Lincoln and Beatrice Railway
-OLYO    Olympia and Belmore Railroad
-OMID    Ontario Midland Railroad
-ONCT    Ontario Central Railroad
-ONR     Ottawa Northern Railroad
-OPR     Oregon Pacific Railroad
-OPT     Orange Port Terminal Railway
-ORC     Ogeechee Railway
-OSCR    Ohio South Central Railroad
-OSRR    Ohio Southern Railroad
-OTVR    Otter Tail Valley Railroad
-OUCH    Ouachita Railroad
-OVRR    Ozark Valley Railroad
-PAL     Paducah and Louisville Railway
-PAM     McKees Rocks Railroad
-PBVR    Port Bienville Railroad
-PCC     Palouse River and Coulee City Railroad
-PCIR    Port of Catoosa Industrial Railroad
-PCN     Point Comfort and Northern Railway
-PCYR    Perry County Railroad
-PDRR    Pee Dee River Railway
-PGR     Progressive Rail, Inc.
-PHL     Pacific Harbor Line, Inc.
-PHRR    Port Harbor Railroad
-PICK    Pickens Railway
-PIRR    Peru Industrial Railroad
-PJR     Port Jersey Railroad
-PMR     Port Manatee Railroad
-PNR     Panhandle Northern Railroad
-PNW     Prescott and Northwestern Railroad
-PNWR    Portland and Western Railroad
-POHC    Pittsburgh and Ohio Central Railroad
-POVA    Pend Oreille Valley Railroad
-PRI     Port Rail, Inc
-PRY     Pioneer Industrial Railroad
-PSAP    Puget Sound and Pacific Railroad
-PSC     Plainsman Switching Company
-PSCC    Pennsylvania and Southern Railway
-PSWR    Pennsylvania Southwestern Railroad
-PT      Peninsula Terminal Company
-PTM     Plainview Terminal Company
-PTR     Port Terminal Railroad of South Carolina
-PTRA    Port Terminal Railroad Association
-PTRC    Portland Terminal Railroad
-PVJR    Portland Vancouver Junction Railroad
-PVRR    Pioneer Valley Railroad
-PVS     Pecos Valley Southern Railway
-PW      Providence and Worcester Railroad
-QRR     Quincy Railroad
-RBMN    Reading Blue Mountain and Northern Railroad
-RCPE    Rapid City, Pierre and Eastern Railroad
-RCRY    Raritan Central Railway
-RER     Rochester and Erie Railroad
-RFCC    Raleigh and Fayetteville Railroad
-RHSL    Rawhide Short Line
-RJCA    R.J. Corman Railroad/Carolina Line
-RJCC    R.J. Corman Railroad/Central Kentucky Lines
-RJCD    R.J. Corman Railroad/Texas Lines
-RJCK    R.J. Corman Railroad/Tennessee Terminal
-RJCL    R.J. Corman Railroad/Cleveland Line
-RJCM    R.J. Corman Railroad/Memphis Line
-RJCN    R.J. Corman Railroad/Allentown Lines
-RJCP    R.J. Corman Railroad/Pennsylvania Lines
-RJCR    R.J. Corman Railroad/Bardstown Line
-RJCV    R.J. Corman Railroad/West Virginia Line
-RJCW    R.J. Corman Railroad/Western Ohio Lines
-RNAB    Ripley & New Albany Railroad
-RPRC    Richmond Pacific Railroad
-RR      Rainer Rail
-RRR     River Ridge Railroad
-RRRR    Rock and Rail LLC
-RRVW    Red River Valley and Western Railroad
-RSL     Republic Short Line
-RSOR    Riceboro Southern Railway
-RSR     Rochester and Southern Railroad
-RSS     Rochester Switching Services
-RVPR    Riverport Railroad
-RVSC    Rio Valley Switching Company
-RVT     Rogue Valley Terminal Railroad
-RWRR    Ringneck and Western Railroad
-SAC     San Antonio Central Railroad
-SAN     Sandersville Railroad
-SAPT    Savannah Port Terminal Railroad
-SAV     Sacramento Valley Railroad
-SB      South Buffalo Railway
-SBG     Savage Bingham and Garfield Railroad
-SBRR    Stourbridge Railroad
-SBVR    South Branch Valley Railroad
-SCBG    Santa Cruz, Big Trees and Pacific Railway
-SCIH    South Chicago and Indiana Harbor Railway
-SCRF    South Carolina Central Railroad
-SCS     Squaw Creek Southern Railroad
-SCTR    South Central Tennessee Railroad
-SCXF    South Central Florida Express, Inc.
-SCXY    St. Croix Valley Railroad
-SDIY    San Diego and Imperial Valley Railroad
-SE      SEMO Port Railroad
-SERA    Sierra Northern Railway
-SERC    Southern Electric Railroad Company
-SFBR    San Francisco Bay Railway
-SGLR    Seminole Gulf Railway
-SIT     Savannah Industrial Transportation
-SJRE    SJRE Railroad
-SJVR    San Joaquin Valley Railroad
-SKOL    South Kansas and Oklahoma Railroad
-SLAL    South Plains Lamesa Railroad
-SLC     San Luis Central Railroad
-SLGG    S&L Railroad
-SLGW    Salt Lake, Garfield and Western Railway
-SLR     St. Lawrence and Atlantic Railroad
-SLRS    SMS Rail Service, Inc.
-SLWC    Stillwater Central Railroad
-SM      St. Marys Railroad
-SMA     San Manuel Arizona Railroad
-SMRR    Sisseton Milbank Railroad
-SMV     Santa Maria Valley Railroad
-SMW     St. Marys Railway West
-SPOR    South Point and Ohio Railroad
-SPPN    St. Paul and Pacific Northwest Railroad
-SPPR    St. Paul and Pacific Railroad
-SPVR    San Pedro Valley Railroad
-SQSC    Sequatchie Valley Switching Company
-SRC     Strasburg Rail Road
-SRN     Sabine River and Northern Railroad
-SRNJ    Southern Railroad of New Jersey
-SRRR    Swan Ranch Railroad
-SS      Sand Springs Railway
-SSC     Southern Switching Company
-SSPR    Spokane, Spangle & Palouse Railway
-SSRR    Sacramento Southern Railroad
-STE     Stockton Terminal and Eastern Railroad
-STMA    St. Maries River Railroad
-STSR    Santa Teresa Southern Railroad
-SV      Shenandoah Valley Railroad
-SVGX    Savage Tooele Railroad
-SVHO    Savannah and Old Fort Railroad
-SVRR    Shamokin Valley Railroad
-SVTX    Seaview Railroad
-SW      Southwestern Railroad
-SWG     Southwest Gulf Railroad
-SWP     Southwest Pennsylvania Railroad
-TASD    Terminal Railway Alabama State Docks
-TBRY    Thermal Belt Railway
-TC      Temple and Central Texas Railway
-TCB     Texas Central Business Lines Corporation
-TCBR    Texas Coastal Bend Railroad
-TCT     Texas City Terminal Railway
-TCWR    Twin Cities and Western Railroad
-TESR    Texas and Eastern Railroad
-TI      Turners Island, LLC
-TIBR    Timber Rock Railroad
-TIR     Toledo Industrial Railroad
-TJR     Toledo Junction Railroad
-TKEN    Tennken Railroad
-TMBL    Tacoma Rail
-TN      Texas and Northern Railway
-TNER    Texas Northeastern Railroad
-TNHR    Three Notch Railroad
-TPR     Tradepoint Rail
-TPW     Toledo, Peoria and Western Railway
-TR      Tomahawk Railway
-TRC     Trona Railway
-TRRA    Terminal Railroad Association of St. Louis
-TSRR    Tennessee Southern Railroad
-TSU     Tulsa–Sapulpa Union Railway
-TXGN    Texas, Gonzales and Northern Railway
-TXN     Texas & New Mexico Railroad
-TXNW    Texas North Western Railway
-TXOR    Texas and Oklahoma Railroad
-TXPF    Texas Pacifico Transportation
-TXR     Texas Rock Crusher Railway
-TYBR    Tyburn Railroad
-TYNT    Tyner Terminal Railway
-TZPR    Tazewell and Peoria Railroad
-UCIR    Union County Industrial Railroad
-UCRY    Utah Central Railway
-UCTR    Union City Terminal Railroad
-UMP     Upper Merion and Plymouth Railroad
-UP      Union Pacific Railroad
-URR     Union Railroad
-USPZ    U.S. Postal Service
-UTAH    Utah Railway
-VCRR    Ventura County Railroad
-VR      Valdosta Railway
-VRRC    Vandalia Railroad
-VSOR    Vicksburg Southern Railroad
-VSR     V&S Railway
-VSRR    Virginia Southern Railroad
-VTR     Vermont Railway
-VVRR    Vermilion Valley Railroad
-WACR    Washington County Railroad
-WBCR    Wabash Central Railroad
-WBRW    West Belt Railway
-WCKR    Wolf Creek Railroad
-WCOR    Wellsboro and Corning Railroad
-WE      Wheeling and Lake Erie Railway
-WERR    Washington Eastern Railroad
-WFS     West Isle Line
-WGCR    Wiregrass Central Railroad
-WGNS    Wisconsin Great Northern Railroad
-WHRR    Walking Horse Railroad
-WMI     West Michigan Railroad
-WMSR    Western Maryland Scenic Railroad
-WN      Wisconsin Northern Railroad
-WNYP    Western New York and Pennsylvania Railroad
-WRL     Washington Royal Line
-WRRC    Western Rail Road
-WSOR    Wisconsin and Southern Railroad
-WSR     Warren and Saline River Railroad
-WSS     Winston-Salem Southbound Railway
-WTA     Wichita Terminal Association
-WTJR    Wichita, Tillman and Jackson Railway
-WTNN    West Tennessee Railroad
-WTRM    Warren and Trumbull Railroad
-WTRY    Wilmington Terminal Railroad
-WURR    Wallowa Union Railroad Authority
-WVR     Willamette Valley Railway
-WW      Winchester and Western Railroad
-WWRC    Wilmington and Western Railroad
-YARR    Youngstown and Austintown Railroad
-YB      Youngstown Belt Railroad
-YCR     Yak Rail, LLC
-YRC     York Railway
-YSRR    Youngstown and Southeastern Railroad
-YSVR    Yellowstone Valley Railroad
-YVRR    Yadkin Valley Railroad
-YW      Yreka Western Railroad
-ZEMBA   Zemba Rail Services
-
+0000    AA      Ann Arbor Railroad
+0001    AB      Akron Barberton Cluster Railway
+0002    ABS     Alabama Southern Railroad
+0003    ABWR    Alabama Warrior Railway
+0004    ACJR    Ashtabula, Carson and Jefferson Railroad
+0005    ACWR    Aberdeen, Carolina and Western Railway
+0006    ADBF    Adrian and Blissfield Rail Road
+0007    AERC    Albany and Eastern Railroad
+0008    AGCR    Alamo Gulf Coast Railroad
+0009    AGR     Alabama and Gulf Coast Railway
+0010    AIKR    Aiken Railway
+0011    AKDN    Acadiana Railway
+0012    AKMD    Arkansas Midland Railroad
+0013    ALE     Alabama Export Railroad
+0014    ALLN    Allentown and Auburn Railroad
+0015    ALM     Arkansas, Louisiana and Mississippi Railroad
+0016    ALS     Alton and Southern Railway
+0017    AM      Arkansas and Missouri Railroad
+0018    AMTK    Amtrak
+0019    AN      AN Railway
+0020    ANR     Angelina and Neches River Railroad
+0021    ANTX    Alamo North Texas Railroad
+0022    AO      Appalachian and Ohio Railroad
+0023    AOK     Arkansas–Oklahoma Railroad
+0024    AOR     Aliquippa and Ohio River Railroad
+0025    APA     Apache Railway
+0026    APD     Albany Port Railroad
+0027    AR      Aberdeen and Rockfish Railroad
+0028    ARA     Arcade and Attica Railroad
+0029    ARC     Alexander Railroad
+0030    ARR     Alaska Railroad
+0031    ARS     Arkansas Southern Railroad
+0032    ART     A&R Terminal Railroad
+0033    ARZC    Arizona and California Railroad
+0034    ASRY    Ashland Railway
+0035    AT      Affton Terminal Services Railroad
+0036    ATL     Atlantic Railways
+0037    ATLT    AT&L Railroad
+0038    ATN     Alabama and Tennessee River Railway
+0039    ATW     Atlantic and Western Railway
+0040    AUT     Autauga Northern Railroad
+0041    AVR     Allegheny Valley Railroad
+0042    AVRR    Ag Valley Railroad
+0043    AWRR    Austin Western Railroad
+0044    AWRY    Adams-Warnock Railway
+0045    AZCR    Arizona Central Railroad
+0046    AZER    Arizona Eastern Railway
+0047    BAP     Butte, Anaconda and Pacific Railway
+0048    BAWT    Bayway Terminal Switching Company
+0049    BAYL    Bay Line Railroad
+0050    BB      Buckingham Branch Railroad
+0051    BCLR    Bay Colony Railroad
+0052    BDRV    Belvidere and Delaware River Railway
+0053    BDTL    Ballard Terminal Railroad
+0054    BDW     Bighorn Divide and Wyoming Railroad
+0055    BEEM    Beech Mountain Railroad
+0056    BFT     Big 4 Terminal Railroad
+0057    BGCM    BG&CM Railroad
+0058    BH      B&H Rail Corporation
+0059    BHRR    Birmingham Terminal Railway
+0060    BHS     Burns Harbor Shortline Railroad
+0061    BIP     Belpre Industrial Parkersburg Railroad
+0062    BIR     Bucyrus Industrial Railroad
+0063    BIRR    Bellingham International Railroad
+0064    BJRR    Baja California Railroad
+0065    BJRY    Burlington Junction Railway
+0066    BKRR    Batten Kill Railroad
+0067    BLE     Bessemer and Lake Erie Railroad
+0068    BLEX    Bee Line Railroad
+0069    BLFX    Brightline
+0070    BLOL    Bloomer Line
+0071    BLR     Blacklands Railroad
+0072    BLRR    Blue Rapids Railway
+0073    BLU     Blue Ridge Southern Railroad
+0074    BNG     Blackwell Northern Gateway Railroad
+0075    BNR     Bogalusa & Northern Railway
+0076    BNSF    BNSF Railway
+0077    BOP     Border Pacific Railroad
+0078    BPRR    Buffalo and Pittsburgh Railroad
+0079    BPSC    Bridgeport Switching Company
+0080    BRC     Belt Railway of Chicago
+0081    BRFD    Branford Steam Railroad
+0082    BRG     Brownsville and Rio Grande International Railroad
+0083    BRS     Baton Rouge Southern Railroad
+0084    BRW     Black River and Western Corporation
+0085    BSOR    Buffalo Southern Railroad
+0086    BSR     Big Spring Rail System
+0087    BSVY    Boone and Scenic Valley Railroad
+0088    BVRR    Boise Valley Railroad
+0089    BVRY    Brandywine Valley Railroad
+0090    BXN     Bauxite and Northern Railway
+0091    CA      Chesapeake and Albemarle Railroad
+0092    CAEG    Coffeen and Western Railroad
+0093    CAGY    Columbus and Greenville Railway
+0094    CAMY    Camp Chase Railway
+0095    CBRL    Coos Bay Rail Link
+0096    CBRW    Columbia Basin Railroad
+0097    CBRY    Copper Basin Railway
+0098    CCET    Cincinnati Eastern Railroad
+0099    CCH     Columbus and Chattahoochee Railroad
+0100    CCKY    Chattooga and Chickamauga Railway
+0101    CCRL    Cleveland and Cuyahoga Railroad
+0102    CCT     Central California Traction Company
+0103    CCUO    Chicago–Chemung Railroad
+0104    CECR    Cicero Central Railroad
+0105    CEIW    Central Indiana and Western Railroad
+0106    CER     Charlotte Western Railroad
+0107    CERA    Central Railroad of Indianapolis
+0108    CF      Cape Fear Railways
+0109    CFE     Chicago, Fort Wayne and Eastern Railroad
+0110    CFNR    California Northern Railroad
+0111    CFWR    Caney Fork and Western Railroad
+0112    CGR     CG Railway
+0113    CGRX    CGB Shortline Railroad
+0114    CHB     Cleveland Port Railroad
+0115    CHR     Chestnut Ridge Railroad
+0116    CHS     Charlotte Southern Railroad
+0117    CIC     Cedar Rapids and Iowa City Railway
+0118    CIRR    Chattahoochee Industrial Railroad
+0119    CJRY    Chicago Junction Railway
+0120    CKIN    Chesapeake and Indiana Railroad
+0121    CLC     Columbia and Cowlitz Railway
+0122    CLCY    Chessie Logistics
+0123    CLNA    Carolina Coastal Railway
+0124    CLP     Clarendon and Pittsford Railroad
+0125    CM      Central Montana Rail, Inc.
+0126    CMC     CMC Railroad
+0127    CMPA    Madison Railroad
+0128    CMSL    Cape May Seashore Lines
+0129    CN      Canadian National Railway
+0130    CNRR    Cornhusker Railroad
+0131    CNYK    Central New York Railroad
+0132    CNZR    Central New England Railroad
+0133    COEH    Conecuh Valley Railroad
+0134    COER    Crab Orchard and Egyptian Railway
+0135    COP     City of Prineville Railway
+0136    CORP    Central Oregon and Pacific Railroad
+0137    CPC     Chicago Port Railroad
+0138    CPDR    Carolina Piedmont Railroad
+0139    CPKC    CPKC Railway
+0140    CPMY    Coopersville and Marne Railway
+0141    CPR     CaterParrott Railnet
+0142    CPRL    Chicago Port & Rail
+0143    CRL     Chicago Rail Link
+0144    CSBP    Columbia Shipyards Railroad
+0145    CSCD    Cascade and Columbia River Railroad
+0146    CSOR    Connecticut Southern Railroad
+0147    CSP     Chicago, St. Paul & Pacific Railroad
+0148    CSR     Camden and Southern Railroad
+0149    CSS     Chicago South Shore and South Bend Railroad
+0150    CSXT    CSX Transportation
+0151    CT      Columbia Terminal Railroad
+0152    CTN     Canton Railroad
+0153    CTR     Clinton Terminal Railroad
+0154    CTRR    Cloquet Terminal Railroad
+0155    CTV     Cleveland Terminal & Valley Railroad
+0156    CUOH    Columbus and Ohio River Rail Road
+0157    CVLY    Clackamas Valley Railroad
+0158    CVR     Cimarron Valley Railroad
+0159    CW      Colorado and Wyoming Railway
+0160    CWCY    Caldwell County Railroad
+0161    CWRO    Cleveland Works Railway
+0162    CWRR    Central Washington Railroad
+0163    CWRY    Commonwealth Railway
+0164    CWW     Columbia-Walla Walla Railway
+0165    CXR     Colorado Pacific Railroad
+0166    CXRG    Colorado Pacific Rio Grande Railroad
+0167    DAIR    D&I Railroad
+0168    DC      Delray Connecting Railroad
+0169    DCON    Detroit Connecting Railroad
+0170    DCR     Delmarva Central Railroad
+0171    DCRR    Dubois County Railroad
+0172    DD      Dover and Delaware River Railroad
+0173    DFWS    DFW & Southern Railway
+0174    DGNO    Dallas, Garland and Northeastern Railroad
+0175    DIR     Davenport Industrial Railroad
+0176    DL      Delaware–Lackawanna Railroad
+0177    DLWR    Depew, Lancaster and Western Railroad
+0178    DMVW    Dakota, Missouri Valley and Western Railroad
+0179    DN      Dakota Northern Railroad
+0180    DPRW    Deseret Power Railroad
+0181    DQE     De Queen and Eastern Railroad
+0182    DR      Dardanelle and Russellville Railroad
+0183    DREI    Decatur & Eastern Illinois Railroad
+0184    DRIR    Denver Rock Island Railroad
+0185    DRRR    Delaware and Raritan River Railroad
+0186    DRRV    Dover & Rockaway River Railroad
+0187    DSC     Drake Switching Company
+0188    DSRC    Dakota Southern Railway
+0189    DSRR    Delta Southern Railroad
+0190    DT      Decatur Junction Railway
+0191    DUSR    Dutchtown Southern Railroad
+0192    DVS     Delta Valley and Southern Railway
+0193    DWRV    D&W Railroad
+0194    EACH    East Camden and Highland Railroad
+0195    EARY    Eastern Alabama Railway
+0196    EBSR    East Brookfield and Spencer Railroad
+0197    ECBR    East Cooper and Berkeley Railroad
+0198    ECRT    East Chicago Rail Terminal
+0199    ECTR    East Terminal Railway
+0200    EDW     El Dorado and Wesson Railway
+0201    EE      Ellis and Eastern Company
+0202    EEC     East Erie Commercial Railroad
+0203    EFRR    Effingham Railroad
+0204    EIRR    Eastern Idaho Railroad
+0205    EJR     East Jersey Railroad
+0206    EJSR    Elwood, Joliet & Southern Railroad
+0207    EKRC    Eastern Kentucky Railway Company
+0208    ELS     Escanaba and Lake Superior Railroad
+0209    EMRY    Eastern Maine Railway
+0210    EOVR    East Ohio Valley Railway
+0211    ESPN    East Penn Railroad
+0212    ETRY    East Tennessee Railway
+0213    EV      Everett Railroad
+0214    EVWR    Evansville Western Railway
+0215    EWR     Elkhart and Western Railroad
+0216    EZR     Elizabethtown Industrial Railroad
+0217    FC      Fulton County Railroad
+0218    FCEN    Florida Central Railroad
+0219    FCR     Fulton County Railway
+0220    FCRD    First Coast Railroad
+0221    FEC     Florida East Coast Railway
+0222    FFGC    FFG&C Railroad
+0223    FGAR    Florida Gulf & Atlantic Railroad
+0224    FGLK    Finger Lakes Railway
+0225    FGLK    Midcoast Railservice
+0226    FIR     Flats Industrial Railroad
+0227    FMID    Florida Midland Railroad
+0228    FMRC    Farmrail Corporation
+0229    FNOR    Florida Northern Railroad
+0230    FOXY    Fox Valley & Lake Superior Rail System
+0231    FRR     Falls Road Railroad
+0232    FRVT    Fore River Transportation Corporation
+0233    FS      Fairfield Southern Company
+0234    FSR     Fort Smith Railroad
+0235    FVRR    Fredonia Valley Railroad
+0236    FWWR    Fort Worth and Western Railroad
+0237    GBN     Great Basin & Northern Railroad
+0238    GC      Georgia Central Railway
+0239    GCSX    Gulf Coast Switching
+0240    GCW     Garden City Western Railway
+0241    GDLK    Grand Elk Railroad
+0242    GET     Gettysburg and Northern Railroad
+0243    GFRR    Georgia and Florida Railway
+0244    GGRR    GG Railroad
+0245    GIRR    Gateway Industrial Railroad
+0246    GITM    Golden Isles Terminal Railroad
+0247    GLC     Great Lakes Central Railroad
+0248    GLRY    Goose Lake Railway
+0249    GMRC    Green Mountain Railroad
+0250    GNBC    Grainbelt Corporation
+0251    GNRR    Georgia Northeastern Railroad
+0252    GOGR    Geaux Geaux Railroad
+0253    GR      Grand Rapids Eastern Railroad
+0254    GRD     Gardendale Railroad
+0255    GRLW    Greenville and Western Railway
+0256    GRNW    Great Northwest Railroad
+0257    GRR     Georgetown Railroad
+0258    GRRL    Grand River Railway
+0259    GRW     Gary Railway
+0260    GRWR    Great Walton Railroad
+0261    GRYR    Grenada Railway
+0262    GS      Georgia Southern Railway
+0263    GSIR    Gulf & Ship Island Railroad
+0264    GSWR    Georgia Southwestern Railroad
+0265    GTRA    Golden Triangle Railroad
+0266    GU      Grafton and Upton Railroad
+0267    GVSR    Galveston Railroad
+0268    GWR     Great Western Railway of Colorado
+0269    GWRC    Georgia Woodlands Railroad
+0270    GWRR    Central Railroad of Indiana (CIND)
+0271    HAL     Hilton & Albany Railroad
+0272    HB      Hampton and Branchville Railroad
+0273    HESR    Huron and Eastern Railway
+0274    HMCR    Huntsville and Madison County Railroad Authority
+0275    HNW     Hamilton Northwestern Railroad
+0276    HOG     Heart of Georgia Railroad
+0277    HOS     Hoosier Southern Railroad
+0278    HR      Heritage Railroad
+0279    HRR     Hondo Railway
+0280    HRRC    Housatonic Railroad
+0281    HRRL    Herrin Railroad
+0282    HRT     Hartwell Railroad
+0283    HSCR    Hainesport Secondary Railroad
+0284    HTRC    Hussey Terminal Railroad
+0285    IAIS    Iowa Interstate Railroad
+0286    IANR    Iowa Northern Railway
+0287    IARR    Iowa River Railroad
+0288    IATR    Iowa Traction Railroad
+0289    IERR    Indiana Eastern Railroad
+0290    IHB     Indiana Harbor Belt Railroad
+0291    ILW     Illinois Western Railroad
+0292    IMR     Itawamba Mississippian Railway
+0293    IMRR    Illinois and Midland Railroad
+0294    IN      Indiana Northeastern Railroad
+0295    INPR    Idaho Northern and Pacific Railroad
+0296    INRD    Indiana Rail Road
+0297    IORY    Indiana and Ohio Railway
+0298    IR      Illinois Railway
+0299    ISRR    Indiana Southern Railroad
+0300    ISRY    Iowa Southern Railway
+0301    ISW     Indiana Southwestern Railway
+0302    ITB     Illinois Terminal Belt Railroad
+0303    ITHR    Ithaca Central Railroad
+0304    JAIL    Jackson & Lansing Railroad
+0305    JCAX    New Century AirCenter Railroad
+0306    JE      Joppa and Eastern Railroad
+0307    JVRR    Juniata Valley Railroad
+0308    JXPT    Jacksonville Port Terminal Railroad
+0309    KAW     Kaw River Railroad
+0310    KBSR    Kankakee, Beaverville and Southern Railroad
+0311    KCTL    Kansas City Transportation Lines
+0312    KET     Kennewick Terminal Railroad
+0313    KGTR    Kingman Terminal Railroad
+0314    KJRY    Keokuk Junction Railway
+0315    KM      KM Railways
+0316    KNOR    Klamath Northern Railway
+0317    KNWA    Kanawha River Railroad
+0318    KO      Kansas and Oklahoma Railroad
+0319    KR      Kinston Railroad
+0320    KRR     Kiamichi Railroad
+0321    KSRR    KS Railroad
+0322    KT      Kentucky and Tennessee Railway
+0323    KTR     Kendallville Terminal Railway
+0324    KWT     KWT Railway
+0325    KXCG    Knoxville and Cumberland Gap Railroad
+0326    KXHR    Knoxville and Holston River Railroad
+0327    KYLE    Kyle Railroad
+0328    LAL     Livonia, Avon and Lakeville Railroad
+0329    LAS     Louisiana Southern Railroad
+0330    LBWR    Lubbock and Western Railway
+0331    LC      Lancaster and Chester Railway
+0332    LDRR    Louisiana and Delta Railroad
+0333    LIRC    Louisville and Indiana Railroad
+0334    LIRR    Lapeer Industrial Railroad
+0335    LKRR    Little Kanawha River Railroad
+0336    LMIC    Lake Michigan and Indiana Railroad
+0337    LNW     Louisiana and North West Railroad
+0338    LOR     Live Oak Railroad
+0339    LORL    Lucas Oil Rail Lines
+0340    LRPA    Little Rock Port Authority Railroad
+0341    LRS     Laurinburg and Southern Railroad
+0342    LRWN    Little Rock and Western Railway
+0343    LRWY    R.J. Corman Railroad/Lehigh Line
+0344    LS      R.J. Corman Railroad/Luzerne & Susquehanna Line
+0345    LSI     Lake Superior and Ishpeming Railroad
+0346    LSRC    Lake State Railway
+0347    LSRY    LaSalle Railway
+0348    LT      Lake Terminal Railroad
+0349    LVR     LVR Railroad
+0350    LVRM    Lehigh Valley Rail Management
+0351    LVRR    Lycoming Valley Railroad
+0352    LVSW    Longview Switching Company
+0353    LXVR    Luxapalila Valley Railroad
+0354    MANN    Manning Rail
+0355    MBRX    Milford-Bennington Railroad
+0356    MC      Massachusetts Coastal Railroad
+0357    MCER    Massachusetts Central Railroad
+0358    MCSA    Moscow, Camden and San Augustine Railroad
+0359    MCVR    Merced County Central Valley Railroad
+0360    MDDE    Maryland and Delaware Railroad
+0361    MDS     Meridian Southern Railway
+0362    MDW     Minnesota, Dakota and Western Railway
+0363    ME      Morristown and Erie Railway
+0364    MER     Missouri Eastern Railroad
+0365    MET     Modesto and Empire Traction Company
+0366    METW    East Troy Electric Railroad
+0367    MGRI    MG Rail, Inc.
+0368    MH      Mount Hood Railroad
+0369    MHWA    Mohawk, Adirondack and Northern Railroad
+0370    MIDH    Middletown and Hummelstown Railroad
+0371    MJ      Manufacturers' Junction Railway
+0372    MMID    Maryland Midland Railway
+0373    MMRR    Mid-Michigan Railroad
+0374    MMT     Mission Mountain Railroad
+0375    MNA     Missouri and Northern Arkansas Railroad
+0376    MNBR    M&B Railroad
+0377    MNC     Missouri North Central Railroad
+0378    MNJ     Middletown and New Jersey Railroad
+0379    MNN     Minnesota Northern Railroad
+0380    MNNR    Minnesota Commercial Railway
+0381    MNRY    Maine Northern Railway
+0382    MPLI    Minnesota Prairie Line, Inc.
+0383    MPR     Mountain Pacific Railroad
+0384    MQT     Marquette Rail, LLC
+0385    MRAX    Mineral Range Railroad
+0386    MS      Michigan Shore Railroad
+0387    MSCI    Mississippi Central Railroad
+0388    MSDR    Mississippi Delta Railroad
+0389    MSE     Mississippi Export Railroad
+0390    MSN     Meeker Southern Railroad
+0391    MSO     Michigan Southern Railroad
+0392    MSR     Mississippi Southern Railroad
+0393    MSTR    Massena Terminal Railroad
+0394    MTNR    Mississippi Tennessee Railroad
+0395    MVRY    Mahoning Valley Railway
+0396    MVT     Mount Vernon Terminal Railway
+0397    MWS     Midway Southern Railway
+0398    NAUG    Naugatuck Railroad Company
+0399    NBER    Nittany and Bald Eagle Railroad
+0400    NCIR    New Castle Industrial Railroad
+0401    NCRC    Nebraska Central Railroad
+0402    NCSR    New Castle Southern Railroad
+0403    NCVA    North Carolina and Virginia Railroad
+0404    NDCR    Northampton Switching Company
+0405    NDW     Napoleon, Defiance & Western Railroad
+0406    NECR    New England Central Railroad
+0407    NEGS    New England Southern Railroad
+0408    NERR    R.J. Corman Railroad/Nashville & Eastern Line
+0409    NETC    Northeast Texas Connector
+0410    NHCR    New Hampshire Central Railroad
+0411    NHN     New Hampshire Northcoast Corporation
+0412    NHRR    New Hope and Ivyland Railroad
+0413    NJRC    New Jersey Rail Carriers, LLC
+0414    NJSL    New Jersey Seashore Lines
+0415    NKCR    Nebraska Kansas Colorado Railway
+0416    NLA     North Louisiana & Arkansas Railroad
+0417    NLR     Northern Lines Railway
+0418    NNW     Nebraska Northwestern Railroad
+0419    NOGC    New Orleans and Gulf Coast Railway
+0420    NOKL    Northwestern Oklahoma Railroad
+0421    NOPB    New Orleans Public Belt Railroad
+0422    NOW     Northern Ohio and Western Railway
+0423    NPB     Norfolk and Portsmouth Belt Line Railroad
+0424    NPR     Northern Plains Railroad
+0425    NS      Norfolk Southern Railway
+0426    NSHR    North Shore Railroad
+0427    NSR     Newburgh and South Shore Railroad
+0428    NTRY    Republic N&T Railroad
+0429    NTZR    Natchez Railway
+0430    NWR     R.J. Corman Railroad/Nashville & Western Line
+0431    NYA     New York and Atlantic Railway
+0432    NYLE    New York and Lake Erie Railroad
+0433    NYNJ    New York New Jersey Rail, LLC
+0434    NYOG    New York and Ogdensburg Railway
+0435    NYSW    New York, Susquehanna and Western Railway
+0436    OAR     Old Augusta Railroad
+0437    OCTL    Oil Creek and Titusville Lines, Inc.
+0438    OERR    Oregon Eastern Railroad
+0439    OGRE    Oakland Global Rail Enterprise
+0440    OHCR    Ohio Central Railroad
+0441    OHRY    R.J. Corman Railroad/Owego & Harford Line
+0442    OIRR    Oregon Independence Railroad
+0443    OLB     Omaha, Lincoln and Beatrice Railway
+0444    OLYO    Olympia and Belmore Railroad
+0445    OMID    Ontario Midland Railroad
+0446    ONCT    Ontario Central Railroad
+0447    ONR     Ottawa Northern Railroad
+0448    OPR     Oregon Pacific Railroad
+0449    OPT     Orange Port Terminal Railway
+0450    ORC     Ogeechee Railway
+0451    OSCR    Ohio South Central Railroad
+0452    OSRR    Ohio Southern Railroad
+0453    OTVR    Otter Tail Valley Railroad
+0454    OUCH    Ouachita Railroad
+0455    OVRR    Ozark Valley Railroad
+0456    PAL     Paducah and Louisville Railway
+0457    PAM     McKees Rocks Railroad
+0458    PBVR    Port Bienville Railroad
+0459    PCC     Palouse River and Coulee City Railroad
+0460    PCIR    Port of Catoosa Industrial Railroad
+0461    PCN     Point Comfort and Northern Railway
+0462    PCYR    Perry County Railroad
+0463    PDRR    Pee Dee River Railway
+0464    PGR     Progressive Rail, Inc.
+0465    PHL     Pacific Harbor Line, Inc.
+0466    PHRR    Port Harbor Railroad
+0467    PICK    Pickens Railway
+0468    PIRR    Peru Industrial Railroad
+0469    PJR     Port Jersey Railroad
+0470    PMR     Port Manatee Railroad
+0471    PNR     Panhandle Northern Railroad
+0472    PNW     Prescott and Northwestern Railroad
+0473    PNWR    Portland and Western Railroad
+0474    POHC    Pittsburgh and Ohio Central Railroad
+0475    POVA    Pend Oreille Valley Railroad
+0476    PRI     Port Rail, Inc
+0477    PRY     Pioneer Industrial Railroad
+0478    PSAP    Puget Sound and Pacific Railroad
+0479    PSC     Plainsman Switching Company
+0480    PSCC    Pennsylvania and Southern Railway
+0481    PSWR    Pennsylvania Southwestern Railroad
+0482    PT      Peninsula Terminal Company
+0483    PTM     Plainview Terminal Company
+0484    PTR     Port Terminal Railroad of South Carolina
+0485    PTRA    Port Terminal Railroad Association
+0486    PTRC    Portland Terminal Railroad
+0487    PVJR    Portland Vancouver Junction Railroad
+0488    PVRR    Pioneer Valley Railroad
+0489    PVS     Pecos Valley Southern Railway
+0490    PW      Providence and Worcester Railroad
+0491    QRR     Quincy Railroad
+0492    RBMN    Reading Blue Mountain and Northern Railroad
+0493    RCPE    Rapid City, Pierre and Eastern Railroad
+0494    RCRY    Raritan Central Railway
+0495    RER     Rochester and Erie Railroad
+0496    RFCC    Raleigh and Fayetteville Railroad
+0497    RHSL    Rawhide Short Line
+0498    RJCA    R.J. Corman Railroad/Carolina Line
+0499    RJCC    R.J. Corman Railroad/Central Kentucky Lines
+0500    RJCD    R.J. Corman Railroad/Texas Lines
+0501    RJCK    R.J. Corman Railroad/Tennessee Terminal
+0502    RJCL    R.J. Corman Railroad/Cleveland Line
+0503    RJCM    R.J. Corman Railroad/Memphis Line
+0504    RJCN    R.J. Corman Railroad/Allentown Lines
+0505    RJCP    R.J. Corman Railroad/Pennsylvania Lines
+0506    RJCR    R.J. Corman Railroad/Bardstown Line
+0507    RJCV    R.J. Corman Railroad/West Virginia Line
+0508    RJCW    R.J. Corman Railroad/Western Ohio Lines
+0509    RNAB    Ripley & New Albany Railroad
+0510    RPRC    Richmond Pacific Railroad
+0511    RR      Rainer Rail
+0512    RRR     River Ridge Railroad
+0513    RRRR    Rock and Rail LLC
+0514    RRVW    Red River Valley and Western Railroad
+0515    RSL     Republic Short Line
+0516    RSOR    Riceboro Southern Railway
+0517    RSR     Rochester and Southern Railroad
+0518    RSS     Rochester Switching Services
+0519    RVPR    Riverport Railroad
+0520    RVSC    Rio Valley Switching Company
+0521    RVT     Rogue Valley Terminal Railroad
+0522    RWRR    Ringneck and Western Railroad
+0523    SAC     San Antonio Central Railroad
+0524    SAN     Sandersville Railroad
+0525    SAPT    Savannah Port Terminal Railroad
+0526    SAV     Sacramento Valley Railroad
+0527    SB      South Buffalo Railway
+0528    SBG     Savage Bingham and Garfield Railroad
+0529    SBRR    Stourbridge Railroad
+0530    SBVR    South Branch Valley Railroad
+0531    SCBG    Santa Cruz, Big Trees and Pacific Railway
+0532    SCIH    South Chicago and Indiana Harbor Railway
+0533    SCRF    South Carolina Central Railroad
+0534    SCS     Squaw Creek Southern Railroad
+0535    SCTR    South Central Tennessee Railroad
+0536    SCXF    South Central Florida Express, Inc.
+0537    SCXY    St. Croix Valley Railroad
+0538    SDIY    San Diego and Imperial Valley Railroad
+0539    SE      SEMO Port Railroad
+0540    SERA    Sierra Northern Railway
+0541    SERC    Southern Electric Railroad Company
+0542    SFBR    San Francisco Bay Railway
+0543    SGLR    Seminole Gulf Railway
+0544    SIT     Savannah Industrial Transportation
+0545    SJRE    SJRE Railroad
+0546    SJVR    San Joaquin Valley Railroad
+0547    SKOL    South Kansas and Oklahoma Railroad
+0548    SLAL    South Plains Lamesa Railroad
+0549    SLC     San Luis Central Railroad
+0550    SLGG    S&L Railroad
+0551    SLGW    Salt Lake, Garfield and Western Railway
+0552    SLR     St. Lawrence and Atlantic Railroad
+0553    SLRS    SMS Rail Service, Inc.
+0554    SLWC    Stillwater Central Railroad
+0555    SM      St. Marys Railroad
+0556    SMA     San Manuel Arizona Railroad
+0557    SMRR    Sisseton Milbank Railroad
+0558    SMV     Santa Maria Valley Railroad
+0559    SMW     St. Marys Railway West
+0560    SPOR    South Point and Ohio Railroad
+0561    SPPN    St. Paul and Pacific Northwest Railroad
+0562    SPPR    St. Paul and Pacific Railroad
+0563    SPVR    San Pedro Valley Railroad
+0564    SQSC    Sequatchie Valley Switching Company
+0565    SRC     Strasburg Rail Road
+0566    SRN     Sabine River and Northern Railroad
+0567    SRNJ    Southern Railroad of New Jersey
+0568    SRRR    Swan Ranch Railroad
+0569    SS      Sand Springs Railway
+0570    SSC     Southern Switching Company
+0571    SSPR    Spokane, Spangle & Palouse Railway
+0572    SSRR    Sacramento Southern Railroad
+0573    STE     Stockton Terminal and Eastern Railroad
+0574    STMA    St. Maries River Railroad
+0575    STSR    Santa Teresa Southern Railroad
+0576    SV      Shenandoah Valley Railroad
+0577    SVGX    Savage Tooele Railroad
+0578    SVHO    Savannah and Old Fort Railroad
+0579    SVRR    Shamokin Valley Railroad
+0580    SVTX    Seaview Railroad
+0581    SW      Southwestern Railroad
+0582    SWG     Southwest Gulf Railroad
+0583    SWP     Southwest Pennsylvania Railroad
+0584    TASD    Terminal Railway Alabama State Docks
+0585    TBRY    Thermal Belt Railway
+0586    TC      Temple and Central Texas Railway
+0587    TCB     Texas Central Business Lines Corporation
+0588    TCBR    Texas Coastal Bend Railroad
+0589    TCT     Texas City Terminal Railway
+0590    TCWR    Twin Cities and Western Railroad
+0591    TESR    Texas and Eastern Railroad
+0592    TI      Turners Island, LLC
+0593    TIBR    Timber Rock Railroad
+0594    TIR     Toledo Industrial Railroad
+0595    TJR     Toledo Junction Railroad
+0596    TKEN    Tennken Railroad
+0597    TMBL    Tacoma Rail
+0598    TN      Texas and Northern Railway
+0599    TNER    Texas Northeastern Railroad
+0600    TNHR    Three Notch Railroad
+0601    TPR     Tradepoint Rail
+0602    TPW     Toledo, Peoria and Western Railway
+0603    TR      Tomahawk Railway
+0604    TRC     Trona Railway
+0605    TRRA    Terminal Railroad Association of St. Louis
+0606    TSRR    Tennessee Southern Railroad
+0607    TSU     Tulsa–Sapulpa Union Railway
+0608    TXGN    Texas, Gonzales and Northern Railway
+0609    TXN     Texas & New Mexico Railroad
+0610    TXNW    Texas North Western Railway
+0611    TXOR    Texas and Oklahoma Railroad
+0612    TXPF    Texas Pacifico Transportation
+0613    TXR     Texas Rock Crusher Railway
+0614    TYBR    Tyburn Railroad
+0615    TYNT    Tyner Terminal Railway
+0616    TZPR    Tazewell and Peoria Railroad
+0617    UCIR    Union County Industrial Railroad
+0618    UCRY    Utah Central Railway
+0619    UCTR    Union City Terminal Railroad
+0620    UMP     Upper Merion and Plymouth Railroad
+0621    UP      Union Pacific Railroad
+0622    URR     Union Railroad
+0623    USPZ    U.S. Postal Service
+0624    UTAH    Utah Railway
+0625    VCRR    Ventura County Railroad
+0626    VR      Valdosta Railway
+0627    VRRC    Vandalia Railroad
+0628    VSOR    Vicksburg Southern Railroad
+0629    VSR     V&S Railway
+0630    VSRR    Virginia Southern Railroad
+0631    VTR     Vermont Railway
+0632    VVRR    Vermilion Valley Railroad
+0633    WACR    Washington County Railroad
+0634    WBCR    Wabash Central Railroad
+0635    WBRW    West Belt Railway
+0636    WCKR    Wolf Creek Railroad
+0637    WCOR    Wellsboro and Corning Railroad
+0638    WE      Wheeling and Lake Erie Railway
+0639    WERR    Washington Eastern Railroad
+0640    WFS     West Isle Line
+0641    WGCR    Wiregrass Central Railroad
+0642    WGNS    Wisconsin Great Northern Railroad
+0643    WHRR    Walking Horse Railroad
+0644    WMI     West Michigan Railroad
+0645    WMSR    Western Maryland Scenic Railroad
+0646    WN      Wisconsin Northern Railroad
+0647    WNYP    Western New York and Pennsylvania Railroad
+0648    WRL     Washington Royal Line
+0649    WRRC    Western Rail Road
+0650    WSOR    Wisconsin and Southern Railroad
+0651    WSR     Warren and Saline River Railroad
+0652    WSS     Winston-Salem Southbound Railway
+0653    WTA     Wichita Terminal Association
+0654    WTJR    Wichita, Tillman and Jackson Railway
+0655    WTNN    West Tennessee Railroad
+0656    WTRM    Warren and Trumbull Railroad
+0657    WTRY    Wilmington Terminal Railroad
+0658    WURR    Wallowa Union Railroad Authority
+0659    WVR     Willamette Valley Railway
+0660    WW      Winchester and Western Railroad
+0661    WWRC    Wilmington and Western Railroad
+0662    YARR    Youngstown and Austintown Railroad
+0663    YB      Youngstown Belt Railroad
+0664    YCR     Yak Rail, LLC
+0665    YRC     York Railway
+0666    YSRR    Youngstown and Southeastern Railroad
+0667    YSVR    Yellowstone Valley Railroad
+0668    YVRR    Yadkin Valley Railroad
+0669    YW      Yreka Western Railroad
+0670    ZEMBA   Zemba Rail Services
+    0671-0749 - [RESERVED FOR CREATION OF NEW US RAILROADS]
 
 =======================================
 ======== Defunct US Railroads =========
+=======================================
+
+0750    AC      Algoma Central Railway
+0751    ATSF    Atchison, Topeka and Santa Fe Railway
+0752    ACL     Atlantic Coast Line Railroad
+0753    AUT     Auto-Train Corporation
+0754    B&O     Baltimore and Ohio Railroad
+0755    BAR     Bangor and Aroostook Railroad
+0756    BSL&W   Beaumont, Sour Lake and Western Railway
+0757    B&A     Boston and Albany Railroad
+0758    BM      Boston and Maine Corporation
+0759    BBB&C   Buffalo Bayou, Brazos & Colorado Railway
+0760    BCR&N   Burlington, Cedar Rapids and Northern Railway
+0761    BN      Burlington Northern Railroad
+0762    CG      Central of Georgia Railway
+0763    CPRR    Central Pacific Railroad
+0764    CNJ     Central Railroad of New Jersey (Jersey Central)
+0765    CV      Central Vermont
+0766    CO      Chesapeake and Ohio Railway
+0767    CBQ     Chicago, Burlington and Quincy Railroad
+0768    MILW    Chicago, Milwaukee, St. Paul and Pacific Railroad
+0769    CGW     Chicago Great Western Railway
+0770    RI      Chicago, Rock Island and Pacific Railroad
+0771    CNW     Chicago and North Western Transportation Company
+0772    CJ&M    Cincinnati, Jackson and Mackinaw Railroad
+0773            Cincinnati, Saginaw, and Mackinaw Railroad
+0774    C&S     Colorado and Southern Railway
+0775            Columbia Tap Railway
+0776    CR      Conrail
+0777    D&RGW   Denver and Rio Grande Western Railroad
+0778    DT&M    Detroit, Toledo and Milwaukee Railroad
+0779    D&P     Detroit and Pontiac Railroad
+0780    DGH&M   Detroit, Grand Haven and Milwaukee Railway
+0781    DTI     Detroit, Toledo & Ironton Railroad
+0782    ERIE    Erie Railroad
+0783            Florida Overseas Railroad
+0784            Galveston, Harrisburg and San Antonio Railroad
+0785    GT      Grand Trunk
+0786    GN      Great Northern Railway
+0787    GC&SF   Gulf, Colorado and Santa Fe Railway
+0788            Fernley and Lassen Railway
+0789    F&N     Fredericksburg and Northern Railway
+0790    HBR     Hudson Bay Railway
+0791    HB&T    Houston Belt & Terminal Railroad
+0792            Houston, East & West Texas Railroad
+0793    H&TC    Houston & Texas Central Railway
+0794    IC      Illinois Central Railroad
+0795            Inter-California Railway
+0796    IRC     Intercolonial Railway of Canada
+0797    I&GN    International–Great Northern Railroad
+0798            LaPorte Houston Northern Railway
+0799    LV      Lehigh Valley Railroad
+0800            Lackawanna Railroad
+0801    LN      Louisville and Nashville Railroad
+0802    M&B     Macon and Birmingham Railway
+0803    MEC     Maine Central
+0804    MSTL    Minneapolis and St. Louis Railway
+0805    MKT     Missouri–Kansas–Texas Railroad
+0806    MP      Missouri Pacific Railroad
+0807    NTR     National Transcontinental Railway
+0808            New Orleans and Carrollton Railroad
+0809            New Orleans, Jackson and Great Northern Railroad
+0810            New Orleans & Nashville Railroad
+0811    NYC     New York Central
+0812    NH      New York, New Haven and Hartford Railroad
+0813    OW      New York, Ontario and Western Railroad
+0814    NKP     New York, Chicago and St. Louis Railroad
+0815    NW      Norfolk and Western Railway
+0816    NP      Northern Pacific Railway
+0817    NRC     Northern Railway of Canada
+0818    PC      Penn Central
+0819    PRR     Pennsylvania Railroad
+0820            Pontchartrain Railroad
+0821    D&P     Detroit and Pontiac Railroad
+0822    PEIR    Prince Edward Island Railway
+0823            Raleigh and Gaston Railroad
+0824    RDG     Reading Railroad
+0825    SLB&M   St. Louis, Brownsville & Mexico Railway
+0826    SAAP    San Antonio & Aransas Pass Railway
+0827    SAL     Seaboard Air Line Railroad
+0828    SP      Southern Pacific Transportation Company
+0829    SPSR    Spokane, Portland and Seattle Railway
+0830    TNO     Texas and New Orleans Railroad
+0831    TAA&N   Toledo, Ann Arbor, and North Michigan Railway Company
+0832    TS&M    Toledo, Saginaw, and Mackinaw Railroad
+0833    TBV     Trinity & Brazos Valley Railway
+0834    TRR     Tuckerton Railroad
+0835            Tuskegee Railroad
+0836    W&OV    Warren and Ouachita Valley
+0837    WM      Western Maryland Railway
+0838    WP      Western Pacific Railroad
+0839    W&W     Wilmington and Raleigh Railroad
+0840    WC      Wisconsin Central Ltd.
+    0841-0999 - [RESERVED FOR NEW DISCOVERY OF DEFUNCT US RAILROADS]
+
+=======================================
+========== US Train Stations ==========
 =======================================
