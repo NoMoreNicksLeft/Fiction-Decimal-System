@@ -96,20 +96,21 @@ Notes:
 28 - Deputy Inspector (Supervisory)
 29 - Inspector (Supervisory)
 30 - Chief Inspector
-31 - Deputy Chief
-32 - Executive Deputy Chief
-33 - Asst. Chief
-34 - Executive Asst. Chief
-35 - Chief
-36 - Bureau Chief
-37 - Dept. Chief
-38 - Asst. Deputy Superintendent
-39 - Deputy Superintendent
-40 - First Deputy Superintendent
-41 - Superintendent
-42 - Deputy Commissioner
-43 - First Deputy Commissioner
-44 - Commissioner
+31 - Asst. to the Chief
+32 - Deputy Chief
+33 - Executive Deputy Chief
+34 - Asst. Chief
+35 - Executive Asst. Chief
+36 - Chief
+37 - Bureau Chief
+38 - Dept. Chief
+39 - Asst. Deputy Superintendent
+40 - Deputy Superintendent
+41 - First Deputy Superintendent
+42 - Superintendent
+43 - Deputy Commissioner
+44 - First Deputy Commissioner
+45 - Commissioner
 
 # Sheriff, constable, & marshal-style titles
 
