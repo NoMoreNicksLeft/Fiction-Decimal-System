@@ -45,16 +45,15 @@ Notes:
 37 - [state] Mounted Police
 38 - Narcotics Enforcement Division
 39 - [state ]Park Police
-40 - [state] Police Department
-41 - [state] Rangers
-42 - [state] State Highway Patrol
-43 - Marine Patrol
-44 - State Marshal
-45 - State Park Rangers
-46 - [state] State Patrol
-47 - [state] State Police
-48 - [state] State Sheriff's Office/Department
-49 - [state] State Troopers
+40 - [state] Rangers
+41 - [state] State Highway Patrol
+42 - Marine Patrol
+43 - State Marshal
+44 - State Park Rangers
+45 - [state] State Patrol
+46 - [state] State Police
+47 - [state] State Sheriff's Office/Department
+48 - [state] State Troopers
 
 60 - [local] Sheriff's Office
 61 - [local] Police Department
@@ -146,6 +145,11 @@ Notes:
 83 - ASAC (Asst. Special Agent in Charge)        [GS 15]
 84 - DSAC (Deputy Asst. Special Agent in Charge) [GS 15]
 85 - SAC (Special Agent in Charge)               [GS 15]
+
+# Obsolete & obscure titles
+
+90 - Patrolman
+91 - Special Patrolman
 
 
 =======================================
