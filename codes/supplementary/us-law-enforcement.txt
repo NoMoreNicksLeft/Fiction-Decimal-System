@@ -61,6 +61,7 @@ Notes:
 63 - [local] Marshal's Office
 
 70 - [special] Railroad Police
+71 - [special] Railway Police
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
@@ -150,6 +151,8 @@ Notes:
 
 90 - Patrolman
 91 - Special Patrolman
+92 - Chief Special Agent
+93 - Guard
 
 
 =======================================
