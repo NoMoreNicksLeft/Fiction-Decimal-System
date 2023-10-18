@@ -25,6 +25,9 @@ Notes:
 1. All occurrences of [state] can also substitute in a U.S. territory as appropriate.
 2. All occurrences of [federal] can substitute in a federal department, bureau, office,
    division, or agency as appropriate.
+3. In general, all occurrences of [x] can substitute in an organization name even if
+   that org isn't "x" class, as long as the style is appropriate, and there isn't
+   another entry for it with the correct class.
 
 00 - [federal] Criminal Investigation Division
 01 - [federal] Criminal Investigative Service
@@ -62,6 +65,8 @@ Notes:
 
 70 - [special] Railroad Police
 71 - [special] Railway Police
+
+80 - [any] Police Service
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
@@ -153,6 +158,9 @@ Notes:
 91 - Special Patrolman
 92 - Chief Special Agent
 93 - Guard
+94 - Bridge Guard
+95 - Yard Guard
+96 - Foot Collector
 
 
 =======================================
