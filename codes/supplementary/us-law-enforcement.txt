@@ -162,7 +162,29 @@ Notes:
 95 - Yard Guard
 96 - Foot Collector
 
-
 =======================================
 ============ Areas of Duty ============
 =======================================
+
+00 - Unspecified or Irrelevant
+10 - Detention, Corrections, Custody
+11 - Court Services
+20 - Patrol
+21 - Traffic Enforcement & Accident Investigation
+30 - Criminal Investigation, General
+31 - Criminal Investigation, Fraud
+32 - Criminal Investigation, Robbery
+33 - Criminal Investigation, Homicide
+34 - Criminal Investigation, Sex Crimes
+35 - Criminal Investigation, Organized Crime
+36 - Criminal Investigation, Narcotics
+37 - Criminal Investigation, Anti-Prostitution & Human Trafficking (vice)
+40 - Marine Patrol
+41 - SWAT
+42 - Bomb Disposal
+43 - Emergency
+44 - Other Special Duty
+50 - Internal Affairs
+51 - Administration
+52 - Other Administrative Duty
+
