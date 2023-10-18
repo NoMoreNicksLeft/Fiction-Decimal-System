@@ -9,7 +9,8 @@
 ================ Notes ================
 =======================================
 
-http://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code
+https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroads_in_the_United_States
+https://en.wikipedia.org/wiki/List_of_rail_transit_systems_in_the_United_States
 
 
 
@@ -17,20 +18,6 @@ http://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code
 =======================================
 ============ US Railroads =============
 =======================================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -705,3 +692,8 @@ YSVR    Yellowstone Valley Railroad
 YVRR    Yadkin Valley Railroad
 YW      Yreka Western Railroad
 ZEMBA   Zemba Rail Services
+
+
+=======================================
+======== Defunct US Railroads =========
+=======================================
