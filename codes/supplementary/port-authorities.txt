@@ -12,13 +12,12 @@
 
 https://en.wikipedia.org/wiki/Port_authority#United_States
 
-Includes US states and territories as an identification aid. The first use identified
-for this table is to uniquely identify law enforcement agenies, so those confirmed to
+Includes US states and territories as an identification aid. 
 
 =======================================
 ========= US Port Authorities =========
 =======================================
-                                                                      State    LE
+
 000    Alabama State Port Authority                                    AL
 001    Albany Port District Commission                                 NY
 002    Anchorage Port Commission                                       AK
