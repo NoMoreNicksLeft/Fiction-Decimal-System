@@ -2,8 +2,10 @@
 ================ Index ================
 =======================================
 
-000 - 119 - US Port Authorities
+000 - 119 - US Port & Bay Authorities
 120 - 121 - Historical Port Authorities
+xxx - xxx - US Airport Authorities
+xxx - xxx - US Transportation Authorities
 
 
 =======================================
@@ -15,7 +17,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 Includes US states and territories as an identification aid. 
 
 =======================================
-========= US Port Authorities =========
+====== US Port & Bay Authorities ======
 =======================================
 
 000    Alabama State Port Authority                                    AL
@@ -33,7 +35,8 @@ Includes US states and territories as an identification aid.
 012    Commonwealth Ports Authority of Saipan                          MP (Northern Mariana Islands)
 013    Dade County Seaport Department                                  FL
 014    Delaware River Port Authority                                   NJ/PA
-015    Detroit/Wayne County Port Authority                             MI
+015    Delaware River & Bay Authority                                  DE/NJ
+    Detroit/Wayne County Port Authority                             MI
 016    Diamond State Port Corporation                                  DE
 017    Duluth Seaway Port Authority                                    MN
 018    Eastport Port Authority                                         ME
@@ -125,7 +128,7 @@ Includes US states and territories as an identification aid.
 104    Virginia Port Authority                                         VA
 105    Waukegan Port District                                          IL
 106    Westover Metropolitan Development Corporation                   MA
-    107-119 - [RESERVED FOR CREATION OF NEW PORT AUTHORITIES]
+    108-119 - [RESERVED FOR CREATION OF NEW PORT AUTHORITIES]
 
 =======================================
 ===== Historical Port Authorities =====
