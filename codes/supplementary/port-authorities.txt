@@ -1,0 +1,136 @@
+=======================================
+================ Index ================
+=======================================
+
+000 - 119 - US Port Authorities
+120 - 121 - Historical Port Authorities
+
+
+=======================================
+================ Notes ================
+=======================================
+
+https://en.wikipedia.org/wiki/Port_authority#United_States
+
+Includes US states and territories as an identification aid. The first use identified
+for this table is to uniquely identify law enforcement agenies, so those confirmed to
+
+=======================================
+========= US Port Authorities =========
+=======================================
+                                                                      State    LE
+000    Alabama State Port Authority                                    AL
+001    Albany Port District Commission                                 NY
+002    Anchorage Port Commission                                       AK
+003    Board of Commissioners of the Port of New Orleans               LA
+004    Bridgeport Port Authority                                       CT
+005    Brown County Board of Harbor Commissioners                      WI
+006    Brownsville Navigation District                                 TX
+007    Calhoun Port Authority                                          TX
+008    Canaveral Port Authority                                        FL
+009    Chesapeake Port Authority                                       MD/VA
+010    City of Auburn Port Authority                                   IN
+011    City of Richmond Port Commission                                VA
+012    Commonwealth Ports Authority of Saipan                          MP (Northern Mariana Islands)
+013    Dade County Seaport Department                                  FL
+014    Delaware River Port Authority                                   NJ/PA
+015    Detroit/Wayne County Port Authority                             MI
+016    Diamond State Port Corporation                                  DE
+017    Duluth Seaway Port Authority                                    MN
+018    Eastport Port Authority                                         ME
+019    Erie-Western Pennsylvania Port Authority                        PA
+020    Fairfield County Port Authority                                 OH
+021    Georgia Ports Authority                                         GA
+022    Greater Baton Rouge Port Commission                             LA
+023    Harbor & Terminal District Plaquemines Port                     LA
+024    Harbor & Terminal District St. Bernard Port Harbor              LA
+025    Humboldt Bay Harbor Recreation & Conservation District          CA
+026    Illinois International Port District                            IL
+027    Indiana Port Commission                                         IN
+028    Jackson County Port Authority                                   MS
+029    Jacksonville Port Authority                                     FL
+030    Lake Charles Port Harbor & Terminal District                    LA
+031    Long Beach City Harbor Department                               CA
+032    Lorain Port Authority                                           OH
+033    Los Angeles City Harbor Department                              CA
+034    Maine Port Authority                                            ME
+035    Manatee County Port Authority                                   FL
+036    Maryland Port Administration                                    MD
+037    Massachusetts Port Authority                                    MA
+038    Mississippi State Port Authority                                MS
+039    New Hampshire State Port Authority                              NH
+040    Niagara Frontier Transportation Authority                       NY
+041    North Carolina State Ports Authority                            NC
+042    Ogdensburg Bridge and Port Authority                            NY
+043    Orange County Navigation & Port District                        TX
+044    Oxnard Harbor District                                          CA
+045    Paducah-McCracken County Riverport Authority                    KY
+046    Panama City Port Authority                                      FL
+047    Perry County Port Authority                                     IN
+048    Philadelphia Regional Port Authority                            PA
+049    Port Authority of Guam                                          GU
+050    Port Authority of New York and New Jersey                       NY/NJ
+051    Port Everglades                                                 FL
+052    Port Freeport                                                   TX
+053    Port Isabel-San Benito Navigation District                      TX
+054    Port of Anacortes                                               WA
+055    Port of Astoria                                                 OR
+056    Port of Beaumont Navigation District of Jefferson County        TX
+057    Port of Bellingham                                              WA
+058    Port of Brookings-Harbor                                        OR
+059    Port of Cleveland                                               OH
+060    Port of Coos Bay                                                OR
+061    Port of Corpus Christi Authority                                TX
+062    Port of Everett                                                 WA
+063    Port of Fernandina                                              FL
+064    Port of Galveston                                               TX
+065    Port of Grays Harbor                                            WA
+066    Port of Greater Cincinnati                                      OH
+067    Port of Houston Authority                                       TX
+068    Port of Kalama                                                  WA
+069    Port of Longview                                                WA
+070    Port of Longview                                                WA
+071    Port of Miami                                                   FL
+072    Port of Milwaukee                                               WI
+073    Port of Newport                                                 OR
+074    Port of Oakland                                                 CA
+075    Port of Olympia                                                 WA
+076    Port of Oswego Authority                                        NY
+077    Port of Palm Beach District                                     FL
+078    Port of Pensacola                                               FL
+079    Port of Pittsburgh                                              PA
+080    Port of Pittsburgh Commission                                   PA
+081    Port of Ponce                                                   PR
+082    Port of Port Angeles                                            WA
+083    Port of Port Arthur Navigation District                         TX
+084    Port of Portland                                                OR
+085    Port of Redwood City                                            CA
+086    Port of Richmond                                                CA
+087    Port of Sacramento                                              CA
+088    Port of San Diego                                               CA
+089    Port of Seattle                                                 WA
+090    Port of Siuslaw                                                 OR
+091    Port of Skamania County                                         WA
+092    Port of Stockton                                                CA
+093    Port of Tacoma                                                  WA
+094    Port of Vancouver                                               WA
+095    Puerto Rico Ports Authority                                     PR
+096    Putnam County Port Authority                                    FL
+097    San Francisco Port Commission                                   CA
+098    South Carolina State Ports Authority                            SC
+099    South Jersey Port Corporation                                   NJ
+100    South Louisiana Port Commission                                 LA
+101    Tampa Port Authority                                            FL
+102    Toledo-Lucas County Port Authority                              OH
+103    Virgin Islands Port Authority                                   VI
+104    Virginia Port Authority                                         VA
+105    Waukegan Port District                                          IL
+106    Westover Metropolitan Development Corporation                   MA
+    107-119 - [RESERVED FOR CREATION OF NEW PORT AUTHORITIES]
+
+=======================================
+===== Historical Port Authorities =====
+=======================================
+
+120    Brazos River Harbor Navigation District                         TX
+121    Calhoun County Navigation District                              TX
