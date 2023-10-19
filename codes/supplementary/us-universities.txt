@@ -1509,6 +1509,36 @@ https://en.wikipedia.org/wiki/Lists_of_American_universities_and_colleges
 1484    University of Montana                                           Missoula, MT
 1495    University of Montana Western                                   Dillon, MT
 1496    University of Providence                                        Great Falls, MT
+1497    Bellevue University                                             Bellevue, NE
+1498    Bryan College of Health Sciences                                Lincoln, NE
+1499    Central Community College                                       Grand Island, NE
+1500    Chadron State College                                           Chadron, NE
+1501    CHI Health School of Radiologic Technology                      Omaha, NE
+1502    Clarkson College                                                Omaha, NE
+1503    College of Saint Mary                                           Omaha, NE
+1504    Concordia University                                            Seward, NE
+1505    Creighton University                                            Omaha, NE
+1506    Doane University                                                Crete, NE
+1507    Hastings College                                                Hastings, NE
+1508    Little Priest Tribal College                                    Winnebago, NE
+1509    Metropolitan Community College                                  Omaha, NE
+1510    Mid-Plains Community College                                    McCook, NE
+1511    Midland University                                              Fremont, NE
+1512    Nebraska College of Technical Agriculture                       Curtis, NE
+1513    Nebraska Indian Community College                               Macy, NE
+1514    Nebraska Methodist College                                      Omaha, NE
+1515    Nebraska Wesleyan University                                    Lincoln, NE
+1516    Northeast Community College                                     Norfolk, NE
+1517    Peru State College                                              Peru, NE
+1518    Southeast Community College                                     Lincoln, NE
+1519    Summit Christian College                                        Gering, NE
+1520    Union College                                                   Lincoln, NE
+1521    University of Nebraska                                          Lincoln, NE
+1522    University of Nebraska at Kearney                               Kearney, NE
+1523    Wayne State College                                             Wayne, NE
+1524    Western Nebraska Community College                              Scottsbluff, NE
+1525    York College                                                    York, NE
+
 
 =======================================
 ======= Defunct US Universities =======
