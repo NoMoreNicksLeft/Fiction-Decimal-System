@@ -233,389 +233,389 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 
 Note: From https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States .
 
-0400    BHM    Birmingham–Shuttlesworth International Airport           Birmingham, AL
-0401    DHN    Dothan Regional Airport                                  Dothan, AL
-0402    HSV    Huntsville International Airport                         Huntsville, AL 
-0403    MOB    Mobile Regional Airport                                  Mobile, AL
-0404    MGM    Montgomery Regional Airport                              Montgomery, AL 
-0405    MRI    Merrill Field                                            Anchorage, AK
-0406    ANC    Ted Stevens Anchorage International Airport              Anchorage, AK
-0407    BET    Bethel Airport                                           Bethel, AK
-0408    CDV    Merle K. (Mudhole) Smith Airport                         Cordova, AK 
-0409    SCC    Deadhorse Airport                                        Deadhorse, AK
-0410    DLG    Dillingham Airport                                       Dillingham, AK
-0411    FAI    Fairbanks International Airport                          Fairbanks, AK
-0412    GST    Gustavus Airport                                         Gustavus, AK
-0413    HOM    Homer Airport                                            Homer, AK
-0414    JNU    Juneau International Airport                             Juneau, AK
-0415    ENA    Kenai Municipal Airport                                  Kenai, AK
-0416    KTN    Ketchikan International Airport                          Ketchikan, AK
-0417    AKN    King Salmon Airport                                      King Salmon, AK  
-0418    AKW    Klawock Airport                                          Klawock, AK
-0419    ADQ    Kodiak Airport                                           Kodiak, AK
-0420    OTZ    Ralph Wien Memorial Airport                              Kotzebue, AK 
-0421    OME    Nome Airport                                             Nome, AK
-0422    PSG    Petersburg James A. Johnson Airport                      Petersburg, AK
-0423    SIT    Sitka Rocky Gutierrez Airport                            Sitka, AK
-0424    DUT    Unalaska Airport                                         Unalaska, AK  
-0425    BRW    Wiley Post–Will Rogers Memorial Airport                  Utqiaġvik, AK
-0426    WRG    Wrangell Airport                                         Wrangell, AK
-0427    YAK    Yakutat Airport                                          Yakutat, AK
-0428    FLG    Flagstaff Pulliam Airport                                Flagstaff, AZ
-0429    IWA    Phoenix–Mesa Gateway Airport                             Mesa, AZ
-0430    PGA    Page Municipal Airport                                   Page, AZ
-0431    PHX    Phoenix Sky Harbor International Airport                 Phoenix, AZ   
-0432    PRC    Prescott Municipal Airport                               Prescott, AZ
-0433    TUS    Tucson International Airport                             Tucson, AZ
-0434    NYL    Yuma International Airport                               Yuma, AZ
-0435    XNA    Northwest Arkansas National Airport                      Fayetteville, AR
-0436    FSM    Fort Smith Regional Airport                              Fort Smith, AR
-0437    LIT    Bill and Hillary Clinton National Airport                Little Rock, AR
-0438    TXK    Texarkana Regional Airport                               Texarkana, AR
-0439    ACV    California Redwood Coast–Humboldt County Airport         Arcata/Eureka, CA
-0440    BFL    Meadows Field                                            Bakersfield, CA
-0441    BUR    Hollywood Burbank Airport                                Burbank, CA
-0442    FAT    Fresno Yosemite International Airport                    Fresno, CA
-0443    LGB    Long Beach Airport                                       Long Beach, CA
-0444    LAX    Los Angeles International Airport                        Los Angeles, CA
-0445    MRY    Monterey Regional Airport                                Monterey, CA
-0446    OAK    Oakland International Airport                            Oakland, CA
-0447    ONT    Ontario International Airport                            Ontario, CA
-0448    SNA    John Wayne Airport                                       Santa Ana, CA
-0449    PSP    Palm Springs International Airport                       Palm Springs, CA
-0450    RDD    Redding Municipal Airport                                Redding, CA
-0451    SMF    Sacramento International Airport                         Sacramento, CA
-0452    SAN    San Diego International Airport                          San Diego, CA
-0453    SFO    San Francisco International Airport                      San Francisco, CA
-0454    SJC    San José Mineta International Airport                    San Jose, CA
-0455    SBP    San Luis Obispo County Regional Airport                  San Luis Obispo, CA
-0456    SBA    Santa Barbara Municipal Airport                          Santa Barbara, CA
-0457    SMX    Santa Maria Public Airport                               Santa Maria, CA
-0458    STS    Charles M. Schulz–Sonoma County Airport                  Santa Rosa, CA
-0459    SCK    Stockton Metropolitan Airport                            Stockton, CA
-0460    ALS    San Luis Valley Regional Airport                         Alamosa, CO
-0461    ASE    Aspen/Pitkin County Airport                              Aspen, CO
-0462    COS    City of Colorado Springs Municipal Airport               Colorado Springs, CO
-0463    DEN    Denver International Airport                             Denver, CO
-0464    DRO    Durango–La Plata County Airport                          Durango, CO 
-0465    EGE    Eagle County Regional Airport                            Vail, CO
-0466    GJT    Grand Junction Regional Airport                          Grand Junction, CO
-0467    GUC    Gunnison–Crested Butte Regional Airport                  Gunnison, CO
-0468    HDN    Yampa Valley Airport                                     Hayden, CO
-0469    MTJ    Montrose Regional Airport                                Montrose, CO 
-0470    BDL    Bradley International Airport                            Hartford, CT 
-0471    HVN    Tweed-New Haven Airport                                  New Haven, CT
-0472    ILG    Wilmington Airport                                       Wilmington, DE
-0473    DAB    Daytona Beach International Airport                      Daytona Beach, FL
-0474    FLL    Fort Lauderdale–Hollywood International Airport          Fort Lauderdale, FL
-0475    RSW    Southwest Florida International Airport                  Fort Myers, FL
-0476    VPS    Destin–Fort Walton Beach Airport                         Fort Walton Beach, FL
-0477    GNV    Gainesville Regional Airport                             Gainesville, FL
-0478    JAX    Jacksonville International Airport                       Jacksonville, FL
-0479    EYW    Key West International Airport                           Key West, FL
-0480    MLB    Melbourne Orlando International Airport                  Melbourne, FL
-0481    MIA    Miami International Airport                              Miami, FL
-0482    MCO    Orlando International Airport                            Orlando, FL
-0483    ECP    Northwest Florida Beaches International Airport          Panama City, FL
-0484    PNS    Pensacola International Airport                          Pensacola, FL
-0485    PGD    Punta Gorda Airport                                      Punta Gorda, FL
-0486    SFB    Orlando Sanford International Airport                    Sanford, FL
-0487    SRQ    Sarasota–Bradenton International Airport                 Sarasota, FL
-0488    PIE    St. Pete–Clearwater International Airport                St. Petersburg, FL
-0489    TLH    Tallahassee International Airport                        Tallahassee, FL
-0490    TPA    Tampa International Airport                              Tampa, FL
-0491    PBI    Palm Beach International Airport                         West Palm Beach, FL
-0492    ABY    Southwest Georgia Regional Airport                       Albany, GA
-0493    ATL    Hartsfield–Jackson Atlanta International Airport         Atlanta, GA 
-0494    AGS    Augusta Regional Airport                                 Augusta, GA
-0495    BQK    Brunswick Golden Isles Airport                           Brunswick, GA
-0496    CSG    Columbus Airport                                         Columbus, GA
-0497    MCN    Middle Georgia Regional Airport                          Macon, GA
-0498    SAV    Savannah/Hilton Head International Airport               Savannah, GA  
-0499    VLD    Valdosta Regional Airport                                Valdosta, GA
-0500    ITO    Hilo International Airport                               Hilo, HI
-0501    HNL    Daniel K. Inouye International Airport                   Honolulu, HI
-0502    OGG    Kahului Airport                                          Maui, HI
-0503    KOA    Ellison Onizuka Kona International Airport               Kona, HI
-0504    MKK    Molokai Airport                                          Molokai, HI
-0505    LNY    Lanai Airport                                            Lanai City, HI
-0506    LIH    Lihue Airport                                            Lihue, HI
-0507    BOI    Boise Airport                                            Boise, ID
-0508    SUN    Friedman Memorial Airport                                Hailey, ID
-0509    IDA    Idaho Falls Regional Airport                             Idaho Falls, ID
-0510    LWS    Lewiston–Nez Perce County Airport                        Lewiston, ID
-0511    PIH    Pocatello Regional Airport                               Pocatello, ID
-0512    TWF    Magic Valley Regional Airport                            Twin Falls, ID
-0513    BLV    MidAmerica St. Louis Airport                             Belleville, IL
-0514    BMI    Central Illinois Regional Airport                        Bloomington, IL
-0515    CMI    University of Illinois - Willard Airport                 Champaign, IL
-0516    MDW    Chicago Midway International Airport                     Chicago, IL
-0517    ORD    Chicago O'Hare International Airport                     Chicago, IL
-0518    MWA    Veterans Airport of Southern Illinois                    Marion, IL
-0519    MLI    Quad City International Airport                          Moline, IL
-0520    PIA    General Downing-Peoria International Airport             Peoria, IL
-0521    RFD    Chicago Rockford International Airport                   Rockford, IL
-0522    SPI    Abraham Lincoln Capital Airport                          Springfield, IL
-0523    EVV    Evansville Regional Airport                              Evansville, IN
-0524    FWA    Fort Wayne International Airport                         Fort Wayne, IN
-0525    IND    Indianapolis International Airport                       Indianapolis, IN 
-0526    SBN    South Bend International Airport                         South Bend, IN
-0527    CID    Eastern Iowa Airport                                     Cedar Rapids, IA
-0528    DSM    Des Moines International Airport                         Des Moines, IA
-0529    DBQ    Dubuque Regional Airport                                 Dubuque, IA
-0530    SUX    Sioux Gateway Airport                                    Sioux City, IA
-0531    ALO    Waterloo Regional Airport                                Waterloo, IA
-0532    GCK    Garden City Regional Airport                             Garden City, KS
-0533    HYS    Hays Regional Airport                                    Hays, KS
-0534    MHK    Manhattan Regional Airport                               Manhattan, KS
-0535    SLN    Salina Regional Airport                                  Salina, KS
-0536    ICT    Wichita Dwight D. Eisenhower National Airport            Wichita, KS 
-0537    CVG    Cincinnati/Northern Kentucky International Airport       Cincinnati, OH / Covington, KY
-0538    LEX    Blue Grass Airport                                       Lexington, KY
-0539    SDF    Louisville International Airport                         Louisville, KY
-0540    OWB    Owensboro–Daviess County Regional Airport                Owensboro, KY
-0541    PAH    Barkley Regional Airport                                 Paducah, KY
-0542    AEX    Alexandria International Airport                         Alexandria, LA
-0543    BTR    Baton Rouge Metropolitan Airport                         Baton Rouge, LA
-0544    LFT    Lafayette Regional Airport                               Lafayette, LA
-0545    LCH    Lake Charles Regional Airport                            Lake Charles, LA  
-0546    MLU    Monroe Regional Airport                                  Monroe, LA
-0547    MSY    Louis Armstrong New Orleans International Airport        New Orleans, LA
-0548    SHV    Shreveport Regional Airport                              Shreveport, LA
-0549    BGR    Bangor International Airport                             Bangor, ME
-0550    PWM    Portland International Jetport                           Portland, ME 
-0551    PQI    Presque Isle International Airport                       Presque Isle, ME
-0552    RKD    Knox County Regional Airport                             Rockland, ME
-0553    BWI    Baltimore/Washington International Airport               Baltimore, MD
-0554    HGR    Hagerstown Regional Airport                              Hagerstown, MD
-0555    SBY    Salisbury–Ocean City–Wicomico Regional Airport           Salisbury, MD
-0556    BOS    Gen. Edward Lawrence Logan International Airport         Boston, MA
-0557    HYA    Cape Cod Gateway Airport                                 Hyannis, MA 
-0558    ACK    Nantucket Memorial Airport                               Nantucket, MA
-0559    MVY    Martha's Vineyard Airport                                Vineyard Haven, MA
-0560    ORH    Worcester Regional Airport                               Worcester, MA
-0561    APN    Alpena County Regional Airport                           Alpena, MI
-0562    DTW    Detroit Metro Wayne County Airport                       Detroit, MI
-0563    ESC    Delta County Airport                                     Escanaba, MI
-0564    FNT    Bishop International Airport                             Flint, MI
-0565    GRR    Gerald R. Ford International Airport                     Grand Rapids, MI
-0566    CMX    Houghton County Memorial Airport                         Hancock, MI
-0567    IMT    Ford Airport                                             Iron Mountain, MI
-0568    AZO    Kalamazoo/Battle Creek International Airport             Kalamazoo, MI
-0569    LAN    Capital Region International Airport                     Lansing, MI
-0570    SAW    Sawyer International Airport                             Marquette, MI
-0571    MKG    Muskegon County Airport                                  Muskegon, MI
-0572    PLN    Pellston Regional/Emmet County Airport                   Pellston, MI
-0573    MBS    MBS International Airport                                Saginaw, MI
-0574    CIU    Chippewa County International Airport                    Sault Ste. Marie, MI
-0575    TVC    Cherry Capital Airport                                   Traverse City  
-0576    BJI    Bemidji Regional Airport                                 Bemidji, MN
-0577    BRD    Brainerd Lakes Regional Airport                          Brainerd, MN
-0578    DLH    Duluth International Airport                             Duluth, MN
-0579    HIB    Range Regional Airport                                   Hibbing, MN
-0580    MSP    Minneapolis–St. Paul International                       Minneapolis-St. Paul, MN
-0581    RST    Rochester International Airport                          Rochester, MN
-0582    STC    St. Cloud Regional Airport                               St. Cloud, MN
-0583    GTR    Golden Triangle Regional Airport                         Columbus, MS
-0584    GPT    Gulfport–Biloxi International Airport                    Biloxi, MS
-0585    PIB    Hattiesburg–Laurel Regional Airport                      Hattiesburg, MS
-0586    JAN    Jackson–Medgar Wiley Evers International Airport         Jackson, MS
-0587    MEI    Key Field                                                Meridian, MS
-0588    TUP    Tupelo Regional Airport                                  Tupelo, MS
-0589    BBG    Branson Airport                                          Branson, MO
-0590    COU    Columbia Regional Airport                                Columbia, MO
-0591    TBN    Waynesville-St. Robert Regional Airport                  Waynesville, MO
-0592    JLN    Joplin Regional Airport                                  Joplin, MO
-0593    MCI    Kansas City International Airport                        Kansas City, MO
-0594    STL    St. Louis Lambert International Airport                  St. Louis, MO
-0595    SGF    Springfield–Branson National Airport                     Springfield, MO
-0596    BIL    Billings Logan International Airport                     Billings, MT
-0597    BZN    Bozeman Yellowstone International Airport                Bozeman, MT
-0598    BTM    Bert Mooney Airport                                      Butte, MT
-0599    GTF    Great Falls International Airport                        Great Falls, MT
-0600    HLN    Helena Regional Airport                                  Helena, MT
-0601    GPI    Glacier Park International Airport                       Kalispell, MT
-0602    MSO    Missoula Montana Airport                                 Missoula, MT
-0603    WYS    Yellowstone Airport                                      West Yellowstone, MT
-0604    GRI    Central Nebraska Regional Airport                        Grand Island, NE
-0605    EAR    Kearney Regional Airport                                 Kearney, NE
-0606    LNK    Lincoln Airport                                          Lincoln, NE
-0607    LBF    North Platte Regional Airport                            North Platte, NE
-0608    OMA    Eppley Airfield                                          Omaha, NE
-0609    BFF    Western Nebraska Regional Airport                        Scottsbluff, NE
-0610    BVU    Boulder City Municipal Airport                           Boulder City, ID
-0611    EKO    Elko Regional Airport                                    Elko, ID
-0612    LAS    Harry Reid International Airport                         Las Vegas, ID
-0613    RNO    Reno/Tahoe International Airport                         Reno, ID
-0614    MHT    Manchester–Boston Regional Airport                       Manchester, NH
-0615    PSM    Portsmouth International Airport at Pease                Portsmouth, NH
-0616    ACY    Atlantic City International Airport                      Atlantic City, NJ
-0617    EWR    Newark Liberty International Airport                     Newark, NJ
-0618    TTN    Trenton Mercer Airport                                   Trenton, NJ 
-0619    ABQ    Albuquerque International Sunport                        Albuquerque, NM
-0620    HOB    Lea County Regional Airport                              Hobbs, NM
-0621    ROW    Roswell Air Center                                       Roswell, NM  
-0622    SAF    Santa Fe Municipal Airport                               Santa Fe, NM
-0623    ALB    Albany International Airport                             Albany, NY
-0624    BGM    Greater Binghamton Airport                               Binghamton, NY
-0625    BUF    Buffalo Niagara International Airport                    Buffalo, NY
-0626    ELM    Elmira/Corning Regional Airport                          Elmira, NY
-0627    ITH    Ithaca Tompkins International Airport                    Ithaca, NY
-0628    JFK    John F. Kennedy International Airport                    New York, NY
-0629    LGA    LaGuardia Airport                                        New York, NY
-0630    ISP    Long Island MacArthur Airport                            New York, NY
-0631    SWF    New York Stewart International Airport                   Newburgh, NY
-0632    IAG    Niagara Falls International Airport                      Niagara Falls, NY
-0633    OGS    Ogdensburg International Airport                         Ogdensburg, NY
-0634    PBG    Plattsburgh International Airport                        Plattsburgh, NY
-0635    ROC    Greater Rochester International Airport                  Rochester, NY
-0636    SYR    Syracuse Hancock International Airport                   Syracuse, NY
-0637    ART    Watertown International Airport                          Watertown, NY
-0638    HPN    Westchester County Airport                               White Plains, NY
-0639    AVL    Asheville Regional Airport                               Asheville, NC
-0640    CLT    Charlotte Douglas International Airport                  Charlotte, NC
-0641    JQF    Concord-Padgett Regional Airport                         Concord, NC
-0642    FAY    Fayetteville Regional Airport                            Fayetteville, NC
-0643    GSO    Piedmont Triad International Airport                     Greensboro, NC
-0644    PGV    Pitt–Greenville Airport                                  Greenville, NC
-0645    OAJ    Albert J. Ellis Airport                                  Jacksonville, NC
-0646    EWN    Coastal Carolina Regional Airport                        New Bern, NC
-0647    RDU    Raleigh–Durham International Airport                     Raleigh, NC
-0648    ILM    Wilmington International Airport                         Wilmington, NC
-0649    BIS    Bismarck Municipal Airport                               Bismarck, ND
-0650    DIK    Dickinson Theodore Roosevelt Regional Airport            Dickinson, ND
-0651    FAR    Hector International Airport                             Fargo, ND
-0652    GFK    Grand Forks International Airport                        Grand Forks, ND
-0653    JMS    Jamestown Regional Airport                               Jamestown, ND
-0654    MOT    Minot International Airport                              Minot, ND
-0655    XWA    Williston Basin International Airport                    Williston, ND
-0656    CAK    Akron-Canton Regional Airport                            Akron, OH
-0657    CLE    Cleveland Hopkins International Airport                  Cleveland, OH
-0658    CMH    John Glenn Columbus International Airport                Columbus, Oh
-0659    LCK    Rickenbacker International Airport                       Columbus, OH
-0660    DAY    James M. Cox Dayton International Airport                Dayton, OH
-0661    TOL    Eugene F. Kranz Toledo Express Airport                   Toledo, OH
-0662    LAW    Lawton–Fort Sill Regional Airport                        Lawton, OK
-0663    OKC    Will Rogers World Airport                                Oklahoma City, OK
-0664    SWO    Stillwater Regional Airport                              Stillwater, OK
-0665    TUL    Tulsa International Airport                              Tulsa, OK
-0666    EUG    Mahlon Sweet Field                                       Eugene, OR
-0667    MFR    Rogue Valley International–Medford Airport               Medford, OR 
-0668    OTH    Southwest Oregon Regional Airport                        North Bend, OR
-0669    PDX    Portland International Airport                           Portland, OR
-0670    RDM    Roberts Field                                            Redmond, OR
-0671    ABE    Lehigh Valley International Airport                      Allentown, PA
-0672    ERI    Erie International Airport                               Erie, PA
-0673    MDT    Harrisburg International Airport                         Harrisburg, PA
-0674    LBE    Arnold Palmer Regional Airport                           Latrobe, PA
-0675    PHL    Philadelphia International Airport                       Philadelphia, PA
-0676    PIT    Pittsburgh International Airport                         Pittsburgh, PA
-0677    UNV    University Park Airport                                  State College, PA
-0678    AVP    Wilkes-Barre/Scranton International Airport              Wilkes-Barre, PA
-0679    BID    Block Island State Airport                               Block Island, RI
-0680    PVD    Rhode Island T. F. Green International Airport           Providence, RI
-0681    WST    Westerly State Airport                                   Westerly, RI
-0682    CHS    Charleston International Airport                         Charleston, SC
-0683    CAE    Columbia Metropolitan Airport                            Columbia, SC
-0684    FLO    Florence Regional Airport                                Florence, SC
-0685    GSP    Greenville–Spartanburg International Airport             Greenville, SC
-0686    HXD    Hilton Head Airport                                      Hilton Head, SC
-0687    MYR    Myrtle Beach International Airport                       Myrtle Beach, SC
-0688    ABR    Aberdeen Regional Airport                                Aberdeen, SD
-0689    PIR    Pierre Regional Airport                                  Pierre, SD
-0690    RAP    Rapid City Regional Airport                              Rapid City, SD
-0691    FSD    Joe Foss Field                                           Sioux Falls, SD
-0692    ATY    Watertown Regional Airport                               Watertown, SD
-0693    CHA    Lovell Field                                             Chattanooga, TN 
-0694    TYS    McGhee Tyson Airport                                     Knoxville, TN
-0695    MEM    Memphis International Airport                            Memphis, TN
-0696    BNA    Nashville International Airport                          Nashville, TN
-0697    TRI    Tri-Cities Airport                                       Tri-Cities, TN
-0698    ABI    Abilene Regional Airport                                 Abilene, TX
-0699    AMA    Rick Husband Amarillo International Airport              Amarillo, TX
-0700    AUS    Austin–Bergstrom International Airport                   Austin, TX
-0701    BPT    Jack Brooks Regional Airport                             Beaumont, TX 
-0702    BRO    Brownsville/South Padre Island International Airport     Brownsville, TX   
-0703    CLL    Easterwood Field                                         College Station, TX
-0704    CRP    Corpus Christi International Airport                     Corpus Christi, TX
-0705    DAL    Dallas Love Field                                        Dallas, TX
-0706    DFW    Dallas Fort Worth International Airport                  Dallas–Fort Worth, TX
-0707    DRT    Del Rio International Airport                            Del Rio, TX
-0708    ELP    El Paso International Airport                            El Paso, TX
-0709    HRL    Valley International Airport                             Harlingen, TX
-0710    IAH    George Bush Intercontinental/Houston Airport             Houston, TX
-0711    HOU    William P. Hobby Airport                                 Houston, TX
-0712    GRK    Killeen–Fort Hood Regional Airport                       Killeen, TX
-0713    LRD    Laredo International Airport                             Laredo, TX
-0714    GGG    East Texas Regional Airport                              Longview, TX 
-0715    LBB    Lubbock Preston Smith International Airport              Lubbock, TX
-0716    MFE    McAllen Miller International Airport                     McAllen, TX
-0717    MAF    Midland International Air and Space Port                 Midland, TX
-0718    SJT    San Angelo Regional Airport (Mathis Field)               San Angelo, TX
-0719    SAT    San Antonio International Airport                        San Antonio, TX 
-0720    TYR    Tyler Pounds Regional Airport                            Tyler, TX
-0721    ACT    Waco Regional Airport                                    Waco, TX
-0722    SPS    Wichita Falls Municipal Airport                          Wichita Falls  
-0723    CDC    Cedar City Regional Airport                              Cedar City, UT
-0724    CNY    Canyonlands Regional Airport                             Moab, UT
-0725    OGD    Ogden-Hinckley Airport                                   Ogden, UT
-0726    PVU    Provo Municipal Airport                                  Provo, UT
-0727    SGU    St. George Regional Airport                              St. George, UT
-0728    SLC    Salt Lake City International Airport                     Salt Lake City, UT
-0729    BTV    Patrick Leahy Burlington International Airport           Burlington, VT
-0730    CHO    Charlottesville–Albemarle Airport                        Charlottesville, VA
-0731    LYH    Lynchburg Regional Airport                               Lynchburg, VA
-0732    PHF    Newport News/Williamsburg International Airport          Newport News, VA
-0733    ORF    Norfolk International Airport                            Norfolk, VA
-0734    RIC    Richmond International Airport                           Richmond, VA
-0735    ROA    Roanoke–Blacksburg Regional Airport                      Roanoke, VA
-0736    SHD    Shenandoah Valley Regional Airport                       Harrisonburg, VA
-0737    DCA    Ronald Reagan Washington National Airport                Washington, DC
-0738    IAD    Washington Dulles International Airport                  Washington, DC
-0739    BLI    Bellingham International Airport                         Bellingham, WA
-0740    ORS    Orcas Island Airport                                     Eastsound, WA
-0741    PAE    Paine Field (Snohomish County Airport)                   Everett, WA
-0742    FHR    Friday Harbor Airport                                    Friday Harbor, WA
-0743    PSC    Tri-Cities Airport                                       Pasco, WA
-0744    PUW    Pullman–Moscow Regional Airport                          Pullman, WA
-0745    BFI    King County International Airport                        Seattle, WA
-0746    SEA    Seattle–Tacoma International Airport                     Seattle, WA
-0747    GEG    Spokane International Airport                            Spokane, WA
-0748    ALW    Walla Walla Regional Airport                             Walla Walla, WA
-0749    EAT    Pangborn Memorial Airport                                Wenatchee, WA
-0750    YKM    Yakima Air Terminal                                      Yakima, WA
-0751    CRW    Yeager Airport                                           Charleston, WV
-0752    CKB    North Central West Virginia Airport                      Clarksburg, WV
-0753    HTS    Tri-State Airport                                        Huntington, WV
-0754    LWB    Greenbrier Valley Airport                                Lewisburg, WV
-0755    ATW    Appleton International Airport                           Appleton, WI
-0756    EAU    Chippewa Valley Regional Airport                         Eau Claire, WI
-0757    GRB    Green Bay–Austin Straubel International Airport          Green Bay, WI
-0758    LSE    La Crosse Regional Airport                               La Crosse, WI
-0759    MSN    Dane County Regional Airport                             Madison, WI
-0760    MKE    Milwaukee Mitchell International Airport                 Milwaukee, WI
-0761    CWA    Central Wisconsin Airport                                Mosinee, WI
-0762    RHI    Rhinelander–Oneida County Airport                        Rhinelander, WI
-0763    CPR    Casper–Natrona County International Airport              Casper, WY
-0764    COD    Yellowstone Regional Airport                             Cody, WY
-0765    GCC    Gillette–Campbell County Airport                         Gillette, WY
-0766    JAC    Jackson Hole Airport                                     Jackson, WY
-0767    LAR    Laramie Regional Airport                                 Laramie, WY
-0768    RIW    Central Wyoming Regional Airport                         Riverton, WY
-0769    RKS    Southwest Wyoming Regional Airport                       Rock Springs, WY
-0770    SHR    Sheridan County Airport                                  Sheridan, WY
-0771    GUM    Antonio B. Won Pat International Airport                 Agana, GU
-0772    GSN    Saipan International Airport                             Obyan, MP (Northern Marianas Islands)
-0773    TNI    Tinian International Airport                             Tinian Island, MP (Northern Marianas Islands)
-0774    BQN    Rafael Hernández Airport                                 Aguadilla, PR
-0775    RVR    José Aponte de la Torre Airport                          Ceiba, PR
-0776    CPX    Benjamín Rivera Noriega Airport                          Culebra, PR  
-0777    PSE    Mercedita Airport                                        Ponce, PR
-0778    SIG    Fernando Luis Ribas Dominicci Airport                    San Juan, PR
-0779    SJU    Luis Muñoz Marín International Airport                   San Juan, PR
-0780    VQS    Antonio Rivera Rodríguez Airport                         Vieques, PR
-0781    STT    Cyril E. King Airport                                    St. Thomas, VI
-0782    STX    Henry E. Rohlsen Airport                                 St. Croix, VI
+0400    BHM    Birmingham–Shuttlesworth International Airport               Birmingham, AL
+0401    DHN    Dothan Regional Airport                                      Dothan, AL
+0402    HSV    Huntsville International Airport                             Huntsville, AL 
+0403    MOB    Mobile Regional Airport                                      Mobile, AL
+0404    MGM    Montgomery Regional Airport                                  Montgomery, AL 
+0405    MRI    Merrill Field                                                Anchorage, AK
+0406    ANC    Ted Stevens Anchorage International Airport                  Anchorage, AK
+0407    BET    Bethel Airport                                               Bethel, AK
+0408    CDV    Merle K. (Mudhole) Smith Airport                             Cordova, AK 
+0409    SCC    Deadhorse Airport                                            Deadhorse, AK
+0410    DLG    Dillingham Airport                                           Dillingham, AK
+0411    FAI    Fairbanks International Airport                              Fairbanks, AK
+0412    GST    Gustavus Airport                                             Gustavus, AK
+0413    HOM    Homer Airport                                                Homer, AK
+0414    JNU    Juneau International Airport                                 Juneau, AK
+0415    ENA    Kenai Municipal Airport                                      Kenai, AK
+0416    KTN    Ketchikan International Airport                              Ketchikan, AK
+0417    AKN    King Salmon Airport                                          King Salmon, AK  
+0418    AKW    Klawock Airport                                              Klawock, AK
+0419    ADQ    Kodiak Airport                                               Kodiak, AK
+0420    OTZ    Ralph Wien Memorial Airport                                  Kotzebue, AK 
+0421    OME    Nome Airport                                                 Nome, AK
+0422    PSG    Petersburg James A. Johnson Airport                          Petersburg, AK
+0423    SIT    Sitka Rocky Gutierrez Airport                                Sitka, AK
+0424    DUT    Unalaska Airport                                             Unalaska, AK  
+0425    BRW    Wiley Post–Will Rogers Memorial Airport                      Utqiaġvik, AK
+0426    WRG    Wrangell Airport                                             Wrangell, AK
+0427    YAK    Yakutat Airport                                              Yakutat, AK
+0428    FLG    Flagstaff Pulliam Airport                                    Flagstaff, AZ
+0429    IWA    Phoenix–Mesa Gateway Airport                                 Mesa, AZ
+0430    PGA    Page Municipal Airport                                       Page, AZ
+0431    PHX    Phoenix Sky Harbor International Airport                     Phoenix, AZ   
+0432    PRC    Prescott Municipal Airport                                   Prescott, AZ
+0433    TUS    Tucson International Airport                                 Tucson, AZ
+0434    NYL    Yuma International Airport                                   Yuma, AZ
+0435    XNA    Northwest Arkansas National Airport                          Fayetteville, AR
+0436    FSM    Fort Smith Regional Airport                                  Fort Smith, AR
+0437    LIT    Bill and Hillary Clinton National Airport                    Little Rock, AR
+0438    TXK    Texarkana Regional Airport                                   Texarkana, AR
+0439    ACV    California Redwood Coast–Humboldt County Airport             Arcata/Eureka, CA
+0440    BFL    Meadows Field                                                Bakersfield, CA
+0441    BUR    Hollywood Burbank Airport                                    Burbank, CA
+0442    FAT    Fresno Yosemite International Airport                        Fresno, CA
+0443    LGB    Long Beach Airport                                           Long Beach, CA
+0444    LAX    Los Angeles International Airport                            Los Angeles, CA
+0445    MRY    Monterey Regional Airport                                    Monterey, CA
+0446    OAK    Oakland International Airport                                Oakland, CA
+0447    ONT    Ontario International Airport                                Ontario, CA
+0448    SNA    John Wayne Airport                                           Santa Ana, CA
+0449    PSP    Palm Springs International Airport                           Palm Springs, CA
+0450    RDD    Redding Municipal Airport                                    Redding, CA
+0451    SMF    Sacramento International Airport                             Sacramento, CA
+0452    SAN    San Diego International Airport                              San Diego, CA
+0453    SFO    San Francisco International Airport                          San Francisco, CA
+0454    SJC    San José Mineta International Airport                        San Jose, CA
+0455    SBP    San Luis Obispo County Regional Airport                      San Luis Obispo, CA
+0456    SBA    Santa Barbara Municipal Airport                              Santa Barbara, CA
+0457    SMX    Santa Maria Public Airport                                   Santa Maria, CA
+0458    STS    Charles M. Schulz–Sonoma County Airport                      Santa Rosa, CA
+0459    SCK    Stockton Metropolitan Airport                                Stockton, CA
+0460    ALS    San Luis Valley Regional Airport                             Alamosa, CO
+0461    ASE    Aspen/Pitkin County Airport                                  Aspen, CO
+0462    COS    City of Colorado Springs Municipal Airport                   Colorado Springs, CO
+0463    DEN    Denver International Airport                                 Denver, CO
+0464    DRO    Durango–La Plata County Airport                              Durango, CO 
+0465    EGE    Eagle County Regional Airport                                Vail, CO
+0466    GJT    Grand Junction Regional Airport                              Grand Junction, CO
+0467    GUC    Gunnison–Crested Butte Regional Airport                      Gunnison, CO
+0468    HDN    Yampa Valley Airport                                         Hayden, CO
+0469    MTJ    Montrose Regional Airport                                    Montrose, CO 
+0470    BDL    Bradley International Airport                                Hartford, CT 
+0471    HVN    Tweed-New Haven Airport                                      New Haven, CT
+0472    ILG    Wilmington Airport                                           Wilmington, DE
+0473    DAB    Daytona Beach International Airport                          Daytona Beach, FL
+0474    FLL    Fort Lauderdale–Hollywood International Airport              Fort Lauderdale, FL
+0475    RSW    Southwest Florida International Airport                      Fort Myers, FL
+0476    VPS    Destin–Fort Walton Beach Airport                             Fort Walton Beach, FL
+0477    GNV    Gainesville Regional Airport                                 Gainesville, FL
+0478    JAX    Jacksonville International Airport                           Jacksonville, FL
+0479    EYW    Key West International Airport                               Key West, FL
+0480    MLB    Melbourne Orlando International Airport                      Melbourne, FL
+0481    MIA    Miami International Airport                                  Miami, FL
+0482    MCO    Orlando International Airport                                Orlando, FL
+0483    ECP    Northwest Florida Beaches International Airport              Panama City, FL
+0484    PNS    Pensacola International Airport                              Pensacola, FL
+0485    PGD    Punta Gorda Airport                                          Punta Gorda, FL
+0486    SFB    Orlando Sanford International Airport                        Sanford, FL
+0487    SRQ    Sarasota–Bradenton International Airport                     Sarasota, FL
+0488    PIE    St. Pete–Clearwater International Airport                    St. Petersburg, FL
+0489    TLH    Tallahassee International Airport                            Tallahassee, FL
+0490    TPA    Tampa International Airport                                  Tampa, FL
+0491    PBI    Palm Beach International Airport                             West Palm Beach, FL
+0492    ABY    Southwest Georgia Regional Airport                           Albany, GA
+0493    ATL    Hartsfield–Jackson Atlanta International Airport             Atlanta, GA 
+0494    AGS    Augusta Regional Airport                                     Augusta, GA
+0495    BQK    Brunswick Golden Isles Airport                               Brunswick, GA
+0496    CSG    Columbus Airport                                             Columbus, GA
+0497    MCN    Middle Georgia Regional Airport                              Macon, GA
+0498    SAV    Savannah/Hilton Head International Airport                   Savannah, GA  
+0499    VLD    Valdosta Regional Airport                                    Valdosta, GA
+0500    ITO    Hilo International Airport                                   Hilo, HI
+0501    HNL    Daniel K. Inouye International Airport                       Honolulu, HI
+0502    OGG    Kahului Airport                                              Maui, HI
+0503    KOA    Ellison Onizuka Kona International Airport                   Kona, HI
+0504    MKK    Molokai Airport                                              Molokai, HI
+0505    LNY    Lanai Airport                                                Lanai City, HI
+0506    LIH    Lihue Airport                                                Lihue, HI
+0507    BOI    Boise Airport                                                Boise, ID
+0508    SUN    Friedman Memorial Airport                                    Hailey, ID
+0509    IDA    Idaho Falls Regional Airport                                 Idaho Falls, ID
+0510    LWS    Lewiston–Nez Perce County Airport                            Lewiston, ID
+0511    PIH    Pocatello Regional Airport                                   Pocatello, ID
+0512    TWF    Magic Valley Regional Airport                                Twin Falls, ID
+0513    BLV    MidAmerica St. Louis Airport                                 Belleville, IL
+0514    BMI    Central Illinois Regional Airport                            Bloomington, IL
+0515    CMI    University of Illinois - Willard Airport                     Champaign, IL
+0516    MDW    Chicago Midway International Airport                         Chicago, IL
+0517    ORD    Chicago O'Hare International Airport                         Chicago, IL
+0518    MWA    Veterans Airport of Southern Illinois                        Marion, IL
+0519    MLI    Quad City International Airport                              Moline, IL
+0520    PIA    General Downing-Peoria International Airport                 Peoria, IL
+0521    RFD    Chicago Rockford International Airport                       Rockford, IL
+0522    SPI    Abraham Lincoln Capital Airport                              Springfield, IL
+0523    EVV    Evansville Regional Airport                                  Evansville, IN
+0524    FWA    Fort Wayne International Airport                             Fort Wayne, IN
+0525    IND    Indianapolis International Airport                           Indianapolis, IN 
+0526    SBN    South Bend International Airport                             South Bend, IN
+0527    CID    Eastern Iowa Airport                                         Cedar Rapids, IA
+0528    DSM    Des Moines International Airport                             Des Moines, IA
+0529    DBQ    Dubuque Regional Airport                                     Dubuque, IA
+0530    SUX    Sioux Gateway Airport                                        Sioux City, IA
+0531    ALO    Waterloo Regional Airport                                    Waterloo, IA
+0532    GCK    Garden City Regional Airport                                 Garden City, KS
+0533    HYS    Hays Regional Airport                                        Hays, KS
+0534    MHK    Manhattan Regional Airport                                   Manhattan, KS
+0535    SLN    Salina Regional Airport                                      Salina, KS
+0536    ICT    Wichita Dwight D. Eisenhower National Airport                Wichita, KS 
+0537    CVG    Cincinnati/Northern Kentucky International Airport           Cincinnati, OH / Covington, KY
+0538    LEX    Blue Grass Airport                                           Lexington, KY
+0539    SDF    Louisville International Airport                             Louisville, KY
+0540    OWB    Owensboro–Daviess County Regional Airport                    Owensboro, KY
+0541    PAH    Barkley Regional Airport                                     Paducah, KY
+0542    AEX    Alexandria International Airport                             Alexandria, LA
+0543    BTR    Baton Rouge Metropolitan Airport                             Baton Rouge, LA
+0544    LFT    Lafayette Regional Airport                                   Lafayette, LA
+0545    LCH    Lake Charles Regional Airport                                Lake Charles, LA  
+0546    MLU    Monroe Regional Airport                                      Monroe, LA
+0547    MSY    Louis Armstrong New Orleans International Airport            New Orleans, LA
+0548    SHV    Shreveport Regional Airport                                  Shreveport, LA
+0549    BGR    Bangor International Airport                                 Bangor, ME
+0550    PWM    Portland International Jetport                               Portland, ME 
+0551    PQI    Presque Isle International Airport                           Presque Isle, ME
+0552    RKD    Knox County Regional Airport                                 Rockland, ME
+0553    BWI    Baltimore/Washington International Airport                   Baltimore, MD
+0554    HGR    Hagerstown Regional Airport                                  Hagerstown, MD
+0555    SBY    Salisbury–Ocean City–Wicomico Regional Airport               Salisbury, MD
+0556    BOS    Gen. Edward Lawrence Logan International Airport             Boston, MA
+0557    HYA    Cape Cod Gateway Airport                                     Hyannis, MA 
+0558    ACK    Nantucket Memorial Airport                                   Nantucket, MA
+0559    MVY    Martha's Vineyard Airport                                    Vineyard Haven, MA
+0560    ORH    Worcester Regional Airport                                   Worcester, MA
+0561    APN    Alpena County Regional Airport                               Alpena, MI
+0562    DTW    Detroit Metro Wayne County Airport                           Detroit, MI
+0563    ESC    Delta County Airport                                         Escanaba, MI
+0564    FNT    Bishop International Airport                                 Flint, MI
+0565    GRR    Gerald R. Ford International Airport                         Grand Rapids, MI
+0566    CMX    Houghton County Memorial Airport                             Hancock, MI
+0567    IMT    Ford Airport                                                 Iron Mountain, MI
+0568    AZO    Kalamazoo/Battle Creek International Airport                 Kalamazoo, MI
+0569    LAN    Capital Region International Airport                         Lansing, MI
+0570    SAW    Sawyer International Airport                                 Marquette, MI
+0571    MKG    Muskegon County Airport                                      Muskegon, MI
+0572    PLN    Pellston Regional/Emmet County Airport                       Pellston, MI
+0573    MBS    MBS International Airport                                    Saginaw, MI
+0574    CIU    Chippewa County International Airport                        Sault Ste. Marie, MI
+0575    TVC    Cherry Capital Airport                                       Traverse City  
+0576    BJI    Bemidji Regional Airport                                     Bemidji, MN
+0577    BRD    Brainerd Lakes Regional Airport                              Brainerd, MN
+0578    DLH    Duluth International Airport                                 Duluth, MN
+0579    HIB    Range Regional Airport                                       Hibbing, MN
+0580    MSP    Minneapolis–St. Paul International                           Minneapolis-St. Paul, MN
+0581    RST    Rochester International Airport                              Rochester, MN
+0582    STC    St. Cloud Regional Airport                                   St. Cloud, MN
+0583    GTR    Golden Triangle Regional Airport                             Columbus, MS
+0584    GPT    Gulfport–Biloxi International Airport                        Biloxi, MS
+0585    PIB    Hattiesburg–Laurel Regional Airport                          Hattiesburg, MS
+0586    JAN    Jackson–Medgar Wiley Evers International Airport             Jackson, MS
+0587    MEI    Key Field                                                    Meridian, MS
+0588    TUP    Tupelo Regional Airport                                      Tupelo, MS
+0589    BBG    Branson Airport                                              Branson, MO
+0590    COU    Columbia Regional Airport                                    Columbia, MO
+0591    TBN    Waynesville-St. Robert Regional Airport                      Waynesville, MO
+0592    JLN    Joplin Regional Airport                                      Joplin, MO
+0593    MCI    Kansas City International Airport                            Kansas City, MO
+0594    STL    St. Louis Lambert International Airport                      St. Louis, MO
+0595    SGF    Springfield–Branson National Airport                         Springfield, MO
+0596    BIL    Billings Logan International Airport                         Billings, MT
+0597    BZN    Bozeman Yellowstone International Airport                    Bozeman, MT
+0598    BTM    Bert Mooney Airport                                          Butte, MT
+0599    GTF    Great Falls International Airport                            Great Falls, MT
+0600    HLN    Helena Regional Airport                                      Helena, MT
+0601    GPI    Glacier Park International Airport                           Kalispell, MT
+0602    MSO    Missoula Montana Airport                                     Missoula, MT
+0603    WYS    Yellowstone Airport                                          West Yellowstone, MT
+0604    GRI    Central Nebraska Regional Airport                            Grand Island, NE
+0605    EAR    Kearney Regional Airport                                     Kearney, NE
+0606    LNK    Lincoln Airport                                              Lincoln, NE
+0607    LBF    North Platte Regional Airport                                North Platte, NE
+0608    OMA    Eppley Airfield                                              Omaha, NE
+0609    BFF    Western Nebraska Regional Airport                            Scottsbluff, NE
+0610    BVU    Boulder City Municipal Airport                               Boulder City, ID
+0611    EKO    Elko Regional Airport                                        Elko, ID
+0612    LAS    Harry Reid International Airport                             Las Vegas, ID
+0613    RNO    Reno/Tahoe International Airport                             Reno, ID
+0614    MHT    Manchester–Boston Regional Airport                           Manchester, NH
+0615    PSM    Portsmouth International Airport at Pease                    Portsmouth, NH
+0616    ACY    Atlantic City International Airport                          Atlantic City, NJ
+0617    EWR    Newark Liberty International Airport                         Newark, NJ
+0618    TTN    Trenton Mercer Airport                                       Trenton, NJ 
+0619    ABQ    Albuquerque International Sunport                            Albuquerque, NM
+0620    HOB    Lea County Regional Airport                                  Hobbs, NM
+0621    ROW    Roswell Air Center                                           Roswell, NM  
+0622    SAF    Santa Fe Municipal Airport                                   Santa Fe, NM
+0623    ALB    Albany International Airport                                 Albany, NY
+0624    BGM    Greater Binghamton Airport                                   Binghamton, NY
+0625    BUF    Buffalo Niagara International Airport                        Buffalo, NY
+0626    ELM    Elmira/Corning Regional Airport                              Elmira, NY
+0627    ITH    Ithaca Tompkins International Airport                        Ithaca, NY
+0628    JFK    John F. Kennedy International Airport                        New York, NY
+0629    LGA    LaGuardia Airport                                            New York, NY
+0630    ISP    Long Island MacArthur Airport                                New York, NY
+0631    SWF    New York Stewart International Airport                       Newburgh, NY
+0632    IAG    Niagara Falls International Airport                          Niagara Falls, NY
+0633    OGS    Ogdensburg International Airport                             Ogdensburg, NY
+0634    PBG    Plattsburgh International Airport                            Plattsburgh, NY
+0635    ROC    Greater Rochester International Airport                      Rochester, NY
+0636    SYR    Syracuse Hancock International Airport                       Syracuse, NY
+0637    ART    Watertown International Airport                              Watertown, NY
+0638    HPN    Westchester County Airport                                   White Plains, NY
+0639    AVL    Asheville Regional Airport                                   Asheville, NC
+0640    CLT    Charlotte Douglas International Airport                      Charlotte, NC
+0641    JQF    Concord-Padgett Regional Airport                             Concord, NC
+0642    FAY    Fayetteville Regional Airport                                Fayetteville, NC
+0643    GSO    Piedmont Triad International Airport                         Greensboro, NC
+0644    PGV    Pitt–Greenville Airport                                      Greenville, NC
+0645    OAJ    Albert J. Ellis Airport                                      Jacksonville, NC
+0646    EWN    Coastal Carolina Regional Airport                            New Bern, NC
+0647    RDU    Raleigh–Durham International Airport                         Raleigh, NC
+0648    ILM    Wilmington International Airport                             Wilmington, NC
+0649    BIS    Bismarck Municipal Airport                                   Bismarck, ND
+0650    DIK    Dickinson Theodore Roosevelt Regional Airport                Dickinson, ND
+0651    FAR    Hector International Airport                                 Fargo, ND
+0652    GFK    Grand Forks International Airport                            Grand Forks, ND
+0653    JMS    Jamestown Regional Airport                                   Jamestown, ND
+0654    MOT    Minot International Airport                                  Minot, ND
+0655    XWA    Williston Basin International Airport                        Williston, ND
+0656    CAK    Akron-Canton Regional Airport                                Akron, OH
+0657    CLE    Cleveland Hopkins International Airport                      Cleveland, OH
+0658    CMH    John Glenn Columbus International Airport                    Columbus, Oh
+0659    LCK    Rickenbacker International Airport                           Columbus, OH
+0660    DAY    James M. Cox Dayton International Airport                    Dayton, OH
+0661    TOL    Eugene F. Kranz Toledo Express Airport                       Toledo, OH
+0662    LAW    Lawton–Fort Sill Regional Airport                            Lawton, OK
+0663    OKC    Will Rogers World Airport                                    Oklahoma City, OK
+0664    SWO    Stillwater Regional Airport                                  Stillwater, OK
+0665    TUL    Tulsa International Airport                                  Tulsa, OK
+0666    EUG    Mahlon Sweet Field                                           Eugene, OR
+0667    MFR    Rogue Valley International–Medford Airport                   Medford, OR 
+0668    OTH    Southwest Oregon Regional Airport                            North Bend, OR
+0669    PDX    Portland International Airport                               Portland, OR
+0670    RDM    Roberts Field                                                Redmond, OR
+0671    ABE    Lehigh Valley International Airport                          Allentown, PA
+0672    ERI    Erie International Airport                                   Erie, PA
+0673    MDT    Harrisburg International Airport                             Harrisburg, PA
+0674    LBE    Arnold Palmer Regional Airport                               Latrobe, PA
+0675    PHL    Philadelphia International Airport                           Philadelphia, PA
+0676    PIT    Pittsburgh International Airport                             Pittsburgh, PA
+0677    UNV    University Park Airport                                      State College, PA
+0678    AVP    Wilkes-Barre/Scranton International Airport                  Wilkes-Barre, PA
+0679    BID    Block Island State Airport                                   Block Island, RI
+0680    PVD    Rhode Island T. F. Green International Airport               Providence, RI
+0681    WST    Westerly State Airport                                       Westerly, RI
+0682    CHS    Charleston International Airport                             Charleston, SC
+0683    CAE    Columbia Metropolitan Airport                                Columbia, SC
+0684    FLO    Florence Regional Airport                                    Florence, SC
+0685    GSP    Greenville–Spartanburg International Airport                 Greenville, SC
+0686    HXD    Hilton Head Airport                                          Hilton Head, SC
+0687    MYR    Myrtle Beach International Airport                           Myrtle Beach, SC
+0688    ABR    Aberdeen Regional Airport                                    Aberdeen, SD
+0689    PIR    Pierre Regional Airport                                      Pierre, SD
+0690    RAP    Rapid City Regional Airport                                  Rapid City, SD
+0691    FSD    Joe Foss Field                                               Sioux Falls, SD
+0692    ATY    Watertown Regional Airport                                   Watertown, SD
+0693    CHA    Lovell Field                                                 Chattanooga, TN 
+0694    TYS    McGhee Tyson Airport                                         Knoxville, TN
+0695    MEM    Memphis International Airport                                Memphis, TN
+0696    BNA    Nashville International Airport                              Nashville, TN
+0697    TRI    Tri-Cities Airport                                           Tri-Cities, TN
+0698    ABI    Abilene Regional Airport                                     Abilene, TX
+0699    AMA    Rick Husband Amarillo International Airport                  Amarillo, TX
+0700    AUS    Austin–Bergstrom International Airport                       Austin, TX
+0701    BPT    Jack Brooks Regional Airport                                 Beaumont, TX 
+0702    BRO    Brownsville/South Padre Island International Airport         Brownsville, TX   
+0703    CLL    Easterwood Field                                             College Station, TX
+0704    CRP    Corpus Christi International Airport                         Corpus Christi, TX
+0705    DAL    Dallas Love Field                                            Dallas, TX
+0706    DFW    Dallas Fort Worth International Airport                      Dallas–Fort Worth, TX
+0707    DRT    Del Rio International Airport                                Del Rio, TX
+0708    ELP    El Paso International Airport                                El Paso, TX
+0709    HRL    Valley International Airport                                 Harlingen, TX
+0710    IAH    George Bush Intercontinental/Houston Airport                 Houston, TX
+0711    HOU    William P. Hobby Airport                                     Houston, TX
+0712    GRK    Killeen–Fort Hood Regional Airport                           Killeen, TX
+0713    LRD    Laredo International Airport                                 Laredo, TX
+0714    GGG    East Texas Regional Airport                                  Longview, TX 
+0715    LBB    Lubbock Preston Smith International Airport                  Lubbock, TX
+0716    MFE    McAllen Miller International Airport                         McAllen, TX
+0717    MAF    Midland International Air and Space Port                     Midland, TX
+0718    SJT    San Angelo Regional Airport (Mathis Field)                   San Angelo, TX
+0719    SAT    San Antonio International Airport                            San Antonio, TX 
+0720    TYR    Tyler Pounds Regional Airport                                Tyler, TX
+0721    ACT    Waco Regional Airport                                        Waco, TX
+0722    SPS    Wichita Falls Municipal Airport                              Wichita Falls  
+0723    CDC    Cedar City Regional Airport                                  Cedar City, UT
+0724    CNY    Canyonlands Regional Airport                                 Moab, UT
+0725    OGD    Ogden-Hinckley Airport                                       Ogden, UT
+0726    PVU    Provo Municipal Airport                                      Provo, UT
+0727    SGU    St. George Regional Airport                                  St. George, UT
+0728    SLC    Salt Lake City International Airport                         Salt Lake City, UT
+0729    BTV    Patrick Leahy Burlington International Airport               Burlington, VT
+0730    CHO    Charlottesville–Albemarle Airport                            Charlottesville, VA
+0731    LYH    Lynchburg Regional Airport                                   Lynchburg, VA
+0732    PHF    Newport News/Williamsburg International Airport              Newport News, VA
+0733    ORF    Norfolk International Airport                                Norfolk, VA
+0734    RIC    Richmond International Airport                               Richmond, VA
+0735    ROA    Roanoke–Blacksburg Regional Airport                          Roanoke, VA
+0736    SHD    Shenandoah Valley Regional Airport                           Harrisonburg, VA
+0737    DCA    Ronald Reagan Washington National Airport                    Washington, DC
+0738    IAD    Washington Dulles International Airport                      Washington, DC
+0739    BLI    Bellingham International Airport                             Bellingham, WA
+0740    ORS    Orcas Island Airport                                         Eastsound, WA
+0741    PAE    Paine Field (Snohomish County Airport)                       Everett, WA
+0742    FHR    Friday Harbor Airport                                        Friday Harbor, WA
+0743    PSC    Tri-Cities Airport                                           Pasco, WA
+0744    PUW    Pullman–Moscow Regional Airport                              Pullman, WA
+0745    BFI    King County International Airport                            Seattle, WA
+0746    SEA    Seattle–Tacoma International Airport                         Seattle, WA
+0747    GEG    Spokane International Airport                                Spokane, WA
+0748    ALW    Walla Walla Regional Airport                                 Walla Walla, WA
+0749    EAT    Pangborn Memorial Airport                                    Wenatchee, WA
+0750    YKM    Yakima Air Terminal                                          Yakima, WA
+0751    CRW    Yeager Airport                                               Charleston, WV
+0752    CKB    North Central West Virginia Airport                          Clarksburg, WV
+0753    HTS    Tri-State Airport                                            Huntington, WV
+0754    LWB    Greenbrier Valley Airport                                    Lewisburg, WV
+0755    ATW    Appleton International Airport                               Appleton, WI
+0756    EAU    Chippewa Valley Regional Airport                             Eau Claire, WI
+0757    GRB    Green Bay–Austin Straubel International Airport              Green Bay, WI
+0758    LSE    La Crosse Regional Airport                                   La Crosse, WI
+0759    MSN    Dane County Regional Airport                                 Madison, WI
+0760    MKE    Milwaukee Mitchell International Airport                     Milwaukee, WI
+0761    CWA    Central Wisconsin Airport                                    Mosinee, WI
+0762    RHI    Rhinelander–Oneida County Airport                            Rhinelander, WI
+0763    CPR    Casper–Natrona County International Airport                  Casper, WY
+0764    COD    Yellowstone Regional Airport                                 Cody, WY
+0765    GCC    Gillette–Campbell County Airport                             Gillette, WY
+0766    JAC    Jackson Hole Airport                                         Jackson, WY
+0767    LAR    Laramie Regional Airport                                     Laramie, WY
+0768    RIW    Central Wyoming Regional Airport                             Riverton, WY
+0769    RKS    Southwest Wyoming Regional Airport                           Rock Springs, WY
+0770    SHR    Sheridan County Airport                                      Sheridan, WY
+0771    GUM    Antonio B. Won Pat International Airport                     Agana, GU
+0772    GSN    Saipan International Airport                                 Obyan, MP (Northern Marianas Islands)
+0773    TNI    Tinian International Airport                                 Tinian Island, MP (Northern Marianas Islands)
+0774    BQN    Rafael Hernández Airport                                     Aguadilla, PR
+0775    RVR    José Aponte de la Torre Airport                              Ceiba, PR
+0776    CPX    Benjamín Rivera Noriega Airport                              Culebra, PR  
+0777    PSE    Mercedita Airport                                            Ponce, PR
+0778    SIG    Fernando Luis Ribas Dominicci Airport                        San Juan, PR
+0779    SJU    Luis Muñoz Marín International Airport                       San Juan, PR
+0780    VQS    Antonio Rivera Rodríguez Airport                             Vieques, PR
+0781    STT    Cyril E. King Airport                                        St. Thomas, VI
+0782    STX    Henry E. Rohlsen Airport                                     St. Croix, VI
     0783-0848 - [RESERVED FOR CREATION OF NEW AIRPORTS OR GROWTH OF MINOR AIRPORT]
 0849           Airport Fabricated by Author
 
