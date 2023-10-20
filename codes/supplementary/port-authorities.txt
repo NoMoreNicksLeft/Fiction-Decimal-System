@@ -5,7 +5,8 @@
 0000 - 0249 - US Waterway Authorities
 0250 - 0399 - Historical Waterway Authorities
 0400 - 0849 - US Airports
-xxxx - xxxx - US Transportation Authorities
+0850 - 0949 - US Transportation Authorities
+0950 - 0999 - Defunct Transportation Authorities
 
 
 =======================================
@@ -626,17 +627,71 @@ Note: From https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States .
 Note: Primarily road, turnpike, expressway, tunnel, and/or bridge authorities.
 From https://en.wikipedia.org/wiki/Category:Toll_road_authorities_of_the_United_States .
 
+ARMA    Alamo Regional Mobility Authority                           TX
+BATA    Bay Area Toll Authority                                     CA
+BFEPBA  Buffalo and Fort Erie Public Bridge Authority               Multiple
+BCBC    Burlington County Bridge Commission                         NJ
+CTBA    California Toll Bridge Authority                            CA
+CCRMA   Cameron County Regional Mobility Authority                  TX
+CRRMA   Camino Real Regional Mobility Authority                     TX
+CFX     Central Florida Expressway Authority                        FL
+CTRMA   Central Texas Regional Mobility Authority                   TX
+DRJTBC  Delaware River Joint Toll Bridge Commission                 Multiple
+EPHA    E-470 Public Highway Authority                              CO
+IAG     E-ZPass Interagency Group                                   Multiple
+F/ETCA  Foothill/Eastern Transportation Corridor Agency             CA
+FBCTRA  Fort Bend County Toll Road Authority                        TX
+GCRMA   Grayson County Regional Mobility Authority                  TX
+HCTRA   Harris County Toll Road Authority                           TX
+HCRMA   Hidalgo County Regional Mobility Authority                  TX
+ISTHA   Illinois State Toll Highway Authority                       IL
+ISTHA   Illinois State Toll Highway Authority                       IL
+ITRCC   Indiana Toll Road Concession Company                        IN
+JTA     Jacksonville Transportation Authority                       FL
+KTA     Kansas Turnpike Authority                                   KS
+MBA     Mackinac Bridge Authority                                   MI
+MTA     Maine Turnpike Authority                                    ME
+MDTA    Maryland Transportation Authority                           MD
+MDX     Miami-Dade Expressway Authority                             FL
+MCTRA   Montgomery County Toll Road Authority                       TX
+NJTA    New Jersey Turnpike Authority                               NJ
+NYSBA   New York State Bridge Authority                             NY
+NYSTA   New York State Thruway Authority                            NY
+NYSTA   New York State Thruway Authority                            NY
+NFBC    Niagara Falls Bridge Commission                             Multiple
+NCTA    North Carolina Turnpike Authority                           NC
+NETRMA  North East Texas Regional Mobility Authority                TX
+NTTA    North Texas Tollway Authority                               TX
+NTTA    North Texas Tollway Authority                               TX
+OTC     Ohio Turnpike Commission                                    OH
+OTA     Oklahoma Turnpike Authority                                 OK
+OCTA    Orange County Transportation Authority                      CA
+PTC     Pennsylvania Turnpike Commission                            PA
+RITBA   Rhode Island Turnpike & Bridge Authority                    RH
+RMTA    Richmond Metropolitan Transportation Authority              VA
+SJHTCA  San Joaquin Hills Transportation Corridor Agency            CA
+SJTA    South Jersey Transportation Authority                       NJ
+SRTA    State Road and Tollway Authority                            GA
+SURRMA  Sulphur River Regional Mobility Authority                   TX
+THEA    Tampa Hillsborough Expressway Authority                     FL
+TIBA    Thousand Islands Bridge Authority                           Multiple
+TBTA    Triborough Bridge and Tunnel Authority                      NY
+WSTBA   Washington State Toll Bridge Authority                      WA
+WCCLRMA Webb County–City of Laredo Regional Mobility Authority      TX
+WVPA    West Virginia Parkways Authority                            WV
 
+=======================================
+== Defunct Transportation Authorities =
+=======================================
 
-==============
-Orlando–Orange County Expressway Authority
-New Jersey Highway Authority
-Jacksonville Expressway Authority
-Massachusetts Turnpike Authority (MTA) 
-Montgomery County Transportation Program (MCTP)
-Texas Turnpike Authority (TTA)
-Oklahoma Transportation Authority
-New Jersey Expressway Authority and the Atlantic County Transportation Authority (ACTA),
-West Virginia Turnpike Commission
-Parkways, Economic Development, and Tourism Authority
-
+ACTA    Atlantic County Transportation Authority                            NJ
+JEA     Jacksonville Expressway Authority                                   FL
+MTA     Massachusetts Turnpike Authority                                    MA
+MCTP    Montgomery County Transportation Program                            TX
+NJEA    New Jersey Expressway Authority                                     NJ
+NJHA    New Jersey Highway Authority                                        NJ
+OTA     Oklahoma Transportation Authority                                   OK
+OOCEA   Orlando–Orange County Expressway Authority                          FL
+TTA     Texas Turnpike Authority                                            TX
+WVPEDTA West Virginia Parkways, Economic Development, & Tourism Authority   WV
+WVTC    West Virginia Turnpike Commission                                   WV
