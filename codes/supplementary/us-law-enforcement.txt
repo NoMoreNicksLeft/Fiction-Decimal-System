@@ -62,11 +62,15 @@ Notes:
 61 - [local] Police Department
 62 - [local] Constable's Office
 63 - [local] Marshal's Office
+ - Constables
 
 70 - [special] Railroad Police
 71 - [special] Railway Police
 
 80 - [any] Police Service
+
+ - Campus Police
+ - Public Safety Department
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
