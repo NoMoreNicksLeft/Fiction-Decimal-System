@@ -187,4 +187,5 @@ Notes:
 50 - Internal Affairs
 51 - Administration
 52 - Other Administrative Duty
+70 - Auxilliary/Reserve
 
