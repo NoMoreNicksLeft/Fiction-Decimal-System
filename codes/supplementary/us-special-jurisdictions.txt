@@ -8,12 +8,14 @@
 0850 - 0949 - US Transportation Authorities
 0950 - 0999 - Defunct Transportation Authorities
 
+xxxx - xxxx - US Housing Authorities
+
 
 =======================================
 ================ Notes ================
 =======================================
 
-Includes US states and territories as an identification aid. Abbreviations when available, but these aren't unique.
+Includes US states and territories as an identification aid. Abbreviations when available, but those aren't unique.
 
 
 
@@ -40,6 +42,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0013            Brownsville Navigation District                             TX
 0014    BCWD    Buffalo Creek Watershed District                            MN
 0015    BRRWD   Buffalo-Red River Watershed District                        MN
+        CLA     Candlewood Lake Authority                                   CT      
 0016    CPA     Calhoun Port Authority                                      TX
 0017    CPA     Canaveral Port Authority                                    FL
 0018    CRWD    Capitol Region Watershed District                           MN
@@ -83,6 +86,9 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0056    KLRWD   Kanaranzi-Little Rock Watershed District                    MN
 0057    LQPYBWD Lac Qui Parle-Yellow Bank Watershed District                MN
 0058            Lake Charles Port Harbor & Terminal District                LA
+        LHA     Lake Housatonic Lake Authority                              CT
+        LLA     Lake Lillinonah Authority                                   CT
+        LZA     Lake Zoar Authority                                         CT
 0059    LNRA    Lavaca-Navidad River Authority                              TX
 0060            Long Beach City Harbor Department                           CA
 0061            Lorain Port Authority                                       OH
@@ -171,6 +177,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0144    RCWD    Rice Creek Watershed District                               MN
 0145    RPBCWD  Riley-Purgatory-Bluff Creek Watershed District              MN
 0146    RGCC    Rio Grande Compact Commission                               Multiple
+        RLA     Rogers Lake Authority                                       CT
 0147    RRWD    Roseau River Watershed District                             MN
 0148    SRA     Sabine River Authority                                      TX
 0149    SARA    San Antonio River Authority                                 TX
@@ -695,3 +702,28 @@ OOCEA   Orlando–Orange County Expressway Authority                          FL
 TTA     Texas Turnpike Authority                                            TX
 WVPEDTA West Virginia Parkways, Economic Development, & Tourism Authority   WV
 WVTC    West Virginia Turnpike Commission                                   WV
+
+
+
+=======================================
+======== US Housing Authorities =======
+=======================================
+
+Notes: From https://www.aahaak.org/our-members .
+            https://affordablehousingonline.com/housing-authority
+
+AHA     Aleutian Housing Authority                                          AK
+AVCPRHA AVCP Regional Housing Authority                                     AK
+BIHA    Baranof Island Housing Authority                                    AK
+BSRHA   Bering Straits Regional Housing Authority                           AK
+BBHA    Bristol Bay Housing Authority                                       AK
+CIHA    Cook Inlet Housing Authority                                        AK
+CRBRHA  Copper River Basin Regional Housing Authority                       AK
+IRHA    Interior Regional Housing Authority                                 AK
+KICHA   Ketchikan Indian Community Housing Authority                        AK
+KIHA    Kodiak Island Housing Authority                                     AK
+NPRHA   North Pacific Rim Housing Authority                                 AK
+NIHA    Northwest Inupiat Housing Authority                                 AK
+TNHA    Tagiugmiullu Nunamiullu Housing Authority                           AK
+THRHA   Tlingit-Haida Regional Housing Authority                            AK
+
