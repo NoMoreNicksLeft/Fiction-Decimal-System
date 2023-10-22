@@ -10,6 +10,12 @@
 
 xxxx - xxxx - US Housing Authorities
 
+xxxx - xxxx - US Hospitals
+xxxx - xxxx - US Museums, Zoos, and Libraries
+xxxx - xxxx - US Racetracks
+xxxx - xxxx - US State Fairs
+
+
 
 =======================================
 ================ Notes ================
@@ -65,6 +71,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0035    DSPC    Diamond State Port Corporation                              DE
 0036    DSPA    Duluth Seaway Port Authority                                MN
 0037            Eastport Port Authority                                     ME
+        EWA     Effingham Water Authority                                   IL
 0038    EWPPA   Erie-Western Pennsylvania Port Authority                    PA
 0039    FCPA    Fairfield County Port Authority                             OH
 0040            Georgia Ports Authority                                     GA
@@ -100,10 +107,12 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0067    MCPA    Manatee County Port Authority                               FL
 0068    MPA     Maryland Port Administration                                MD
 0069            Massachusetts Port Authority                                MA
+        MWRD    Metropolitan Water Reclamation District of Greater Chicago  IL
 0070    MFCRWD  Middle Fork Crow River Watershed District                   MN
 0071    MSTRWD  Middle-Snake-Tamarac Rivers Watershed District              MN
 0072    MCWD    Minnehaha Creek Watershed District                          MN
 0073    MSPA    Mississippi State Port Authority                            MS
+        MWCD    Muskingum Watershed Conservancy District                    OH
 0074            New Hampshire State Port Authority                          NH
 0075    NFTA    Niagara Frontier Transportation Authority                   NY
 0076    NMCWD   Nine Mile Creek Watershed District                          MN
@@ -116,6 +125,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0083    OCNPD   Orange County Navigation & Port District                    TX
 0084    OHD     Oxnard Harbor District                                      CA
 0085    PMCRA   Paducah-McCracken County Riverport Authority                KY
+        PIPC    Palisades Interstate Park Commission                        Multiple
 0086    PDWD    Palo Duro Water District                                    TX
 0087    PCPA    Panama City Port Authority                                  FL
 0088    PRWD    Pelican River Watershed District                            MN
@@ -215,6 +225,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0181    VPA     Virginia Port Authority                                     VA
 0182    WWD     Warroad Watershed District                                  MN
 0183    WCWCD   Washington County Water Conservancy District                UT
+        WCNYH   Waterfront Commission of New York Harbor                    Multiple
 0184    WPD     Waukegan Port District                                      IL
 0185    WMDC    Westover Metropolitan Development Corporation               MA
 0186    WRWD    Wild Rice Watershed District                                MN
@@ -232,6 +243,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0253    PDRA    Palo Duro River Authority                                   TX
 0254    CZ      Panama Canal Zone                                           Canal Zone (Unincorporated US territory)
 0255            San Francisco Port Authority                                CA
+0256    SDC     Sanitary District of Chicago                                IL
     0256-0398 - [RESERVED FOR NEW DISCOVERY OF WATERWAY AUTHORITIES]
 0399            Historical Waterway Authority Fabricated by Author
 
@@ -643,12 +655,14 @@ CCRMA   Cameron County Regional Mobility Authority                  TX
 CRRMA   Camino Real Regional Mobility Authority                     TX
 CFX     Central Florida Expressway Authority                        FL
 CTRMA   Central Texas Regional Mobility Authority                   TX
+CBBTD   Chesapeake Bay Bridge and Tunnel District                   VA
 DRJTBC  Delaware River Joint Toll Bridge Commission                 Multiple
 EPHA    E-470 Public Highway Authority                              CO
 IAG     E-ZPass Interagency Group                                   Multiple
 F/ETCA  Foothill/Eastern Transportation Corridor Agency             CA
 FBCTRA  Fort Bend County Toll Road Authority                        TX
 GCRMA   Grayson County Regional Mobility Authority                  TX
+GNOEC   Greater New Orleans Expressway Commission                   LA
 HCTRA   Harris County Toll Road Authority                           TX
 HCRMA   Hidalgo County Regional Mobility Authority                  TX
 ISTHA   Illinois State Toll Highway Authority                       IL
