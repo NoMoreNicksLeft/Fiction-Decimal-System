@@ -66,11 +66,30 @@ Notes:
 
 70 - [special] Railroad Police
 71 - [special] Railway Police
+72 - [any] Patrol Special Police
+73 - [any] Patrol
+74 - [any] Police Division
 
 80 - [any] Police Service
 
  - Campus Police
  - Public Safety Department
+ - Warden Service
+ - [tribe] Tribal Police
+ - [county] Bureau of Police
+ - [county] Sheriff's Department
+ - [university] Campus Police Department
+ - [university] Police Authority
+ - [school] Campus Enforcement Department
+ - [county] Police Cooperative
+ - [local] Law Enforcement Department
+ - [tribe] Law Enforcement Services
+ - [local] Metropolitan Police Department
+ - [county] Prosecutor's Office Police
+ - [county] SPCA Law Enforcement Division
+ - [county] SPCA Humane Police
+ - [state] SPCA Law Enforcement
+ - [state] SPCA Human Law Enforcement Division
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
@@ -102,6 +121,7 @@ Notes:
 25 - Inspector (Investigative)
 26 - Special Agent
 27 - Investigator
+ - Special Investigator
 28 - Deputy Inspector (Supervisory)
 29 - Inspector (Supervisory)
 30 - Chief Inspector
@@ -120,6 +140,11 @@ Notes:
 43 - Deputy Commissioner
 44 - First Deputy Commissioner
 45 - Commissioner
+
+ - Supervisory Special Investigator
+ - Executive Officer
+ - Asst. Director
+ - Director
 
 # Sheriff, constable, & marshal-style titles
 
