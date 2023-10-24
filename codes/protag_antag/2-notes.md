@@ -4,6 +4,8 @@ A moderately comprehensive list of US police agencies can be found on [Wikipedia
 
 * Alabama - 100% Sheriff's (both org styles), 100% Constable's, 42% Local, 88% College/University  
   *One local uses "City of [local] Police Department" style, one college doesn't seem to exist (Russell), other two are satellite campuses.*
-* Alaska - ? Local, 50% College/University, 29% Dept. of Public Safety
+* Alaska - ? Local, 50% College/University, 29% Dept. of Public Safety  
   *One missing satellite campus, 5 missing Dept. of Pubsafety are just villages too small to make the cut.*
+* Arizona - 0% task forces, ? Sheriff's, ? Local, 77% Tribal, ? College/University
+  *Keams Canyon doesn't seem to be a reservation proper, BIA? Tonto and White Mountain Apache aren't in my list either.*
 * Arkansas - 
