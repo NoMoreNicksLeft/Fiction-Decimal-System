@@ -754,6 +754,54 @@ WVTC    West Virginia Turnpike Commission                                   WV
                 Ocean Downs                                                 Berlin, MD
                 Pimlico Race Course                                         Baltimore, MD
                 Plainridge Park                                             Plainville, MA
+                Canterbury Park                                             Shakopee, MN
+                Running Aces Racetrack                                      Columbus, MN
+                Fonner Park                                                 Grand Island, NE
+                Freehold Raceway                                            Freehold, NJ
+                Meadowlands Racetrack                                       East Rutherford, NJ
+                Monmouth Park Racetrack                                     Oceanport, NJ
+                Ruidoso Downs                                               Ruidoso, NM
+                Sunland Park Racetrack                                      Sunland Park, NM
+                Batavia Downs                                               Batavia, NY
+                Belmont Park                                                Elmont, NY
+                Aqueduct Racetrack                                          New York City, NY
+                Finger Lakes Racetrack                                      Farmington, NY
+                Historic Track                                              Goshen, NY
+                Monticello Raceway                                          Monticello, NY
+                Saratoga Raceway                                            Saratoga Springs, NY
+                Saratoga Race Course                                        Saratoga Springs, NY
+                Tioga Downs                                                 Nichols, NY
+                Vernon Downs                                                Vernon, NY
+                Yonkers Raceway                                             Yonkers, NY
+                North Dakota Horse Park                                     Fargo, ND
+                Belterra Park                                               Cincinnati, OH
+                Delaware County Fairgrounds                                 Delaware, OH
+                Scioto Downs                                                Columbus, OH
+                Dayton Raceway                                              Dayton, OH
+                Mahoning Valley Race Course                                 Youngstown, OH
+                Thistledown Racetrack                                       North Randall, OH
+                Meigs County Fairgrounds                                    Rock Springs, OH
+                Northfield Park                                             Northfield, OH
+                Miami Valley Gaming                                         Turtlecreek, OH
+                Fair Meadows Racetrack                                      Tulsa, OK
+                Remington Park                                              Oklahoma City, OK
+                Will Rogers Downs                                           Rogers County, OK
+                Philadelphia Racetrack                                      Chester, PA
+                Penn National Race Course                                   Grantville, PA
+                Meadows Racetrack, The                                      North Strabane, PA
+                Downs At Mohegan, The                                       Wilkes-Barre, PA
+                Parx Racing                                                 Bensalem, PA
+                Presque Isle Downs                                          Summit, PA
+                Hipódromo Camarero                                          Canóvanas, PR
+                La Sebastina                                                Bayamón, PR
+                Aiken Mile Track                                            Aiken, SC
+                Lone Star Park                                              Grand Prairie, TX
+                Retama Park                                                 Selma, TX
+                Sam Houston Race Park                                       Houston, TX
+                Emerald Downs                                               Auburn, WA
+                Charles Town Races                                          Jefferson County, WV
+                Mountaineer Racetrack                                       New Cumberland, WV
+                Cheyenne Frontier Days Arena                                Cheyenne, WY
 
 =======================================
 ========= Defunct Racetracks ==========
@@ -786,8 +834,8 @@ WVTC    West Virginia Turnpike Commission                                   WV
                 Dexter Park                                                 Chicago, IL
                 Harlem Racetrack                                            Forest Park, IL
                 Maywood Park                                                Melrose Park, IL
-                East Moline Downs                                           East Moline, IL
-                Quad City Downs                                             East Moline, IL
+        EMD     East Moline Downs                                           East Moline, IL
+        QCD     Quad City Downs                                             East Moline, IL
                 Washington Park Racetrack                                   Homewood, IL
                 Fairmount Park Racetrack                                    Collinsville, IL
                 Indiana Downs                                               Shelbyville, IN
@@ -830,10 +878,64 @@ WVTC    West Virginia Turnpike Commission                                   WV
                 Raceland                                                    Framingham, MA
                 Readville Racetrack                                         Readville, MA
                 Worcester Agricultural Fairgrounds                          Worcester, MA
+                Detroit Race Course                                         Detroit, MI
+                Wolverine Raceway                                           Detroit, MI
+                Great Lakes Downs                                           Fruitport, MI
+                Muskegon Race Course                                        Fruitport, MI
+                Pinnacle Race Course                                        Huron, MI
+                Canterbury Downs                                            Shakopee, MN
+                Ak-Sar-Ben Racetrack                                        Omaha, NE
+                Atokad Downs                                                South Sioux City, NE
+                Omaha Driving Park                                          North Omaha, NE
+                Sunset Driving Park                                         North Omaha, NE
+                Sunset Speedway                                             North Omaha, NE
+                Hinsdale Raceway                                            Hinsdale, NH
+                Rockingham Park                                             Salem, NH
+        ACRC    Atlantic City Race Course                                   Mays Landing, NJ
+                Garden State Park Racetrack                                 Cherry Hill, NJ
+                La Mesa Park                                                Raton, NM
+                Driving Park                                                Rochester, NY
+                Empire Race Course                                          Albany, NY
+                Good Time Park                                              Goshen, NY
+                Monroe Racetrack                                            Monroe, NY
+                Orange County Fair Speedway                                 Middletown, NY
+                Roosevelt Raceway                                           Westbury, NY
+                Suffolk Meadows                                             Long Island, NY
+                Parr Meadows                                                Long Island, NY
+                Watertown Speedway                                          Watertown, NY
+                Brighton Beach Race Course                                  New York City, NY
+                Fashion Race Course                                         New York City, NY
+                Fleetwood Park Racetrack                                    New York City, NY
+                Gravesend Racetrack                                         New York City, NY
+                Jamaica Racetrack                                           New York City, NY
+                Jerome Park Racetrack                                       New York City, NY
+                Morris Park Racecourse                                      New York City, NY
+                Sheepshead Bay Racetrack                                    New York City, NY
+                Union Course                                                New York City, NY
+                Ascot Park                                                  Cuyahoga Falls, OH
+                River Downs                                                 Anderson, OH
+                Beulah Park                                                 Grove City, OH
+                Lebanon Raceway                                             Lebanon, OH
+                Portland Meadows                                            Portland, OR
+                Pocono Downs                                                Wilkes-Barre, PA
+                Philadelphia Park Racetrack                                 Bensalem, PA
+                Keystone Racetrack                                          Bensalem, PA
+                Liberty Bell Park Racetrack                                 Philadelphia, PA
+                El Nuevo Comandante                                         Canóvanas, PR
+                Narragansett Park                                           Pawtucket, RI
+                Montgomery Park Racetrack                                   Memphis, TN
+                Arlington Downs                                             Arlington, TX
+                Houston Driving Park                                        Houston, TX
+                Green Mountain Racetrack                                    Pownal, VT
+                Longacres                                                   Renton, WA
+                Seattle Race Course                                         Seattle, WA
+                Meadows                                                     Seattle, WA
+                Playfair Race Course                                        Spokane, WA
+                Yakima Meadows                                              Yakima, WA
+                Shenandoah Downs                                            Charles Town, WV
+                Waterford Downs                                             New Cumberland, WV
 
-
-
-                Green Mountain Racetrack
+                
 
 =======================================
 ======== US Housing Authorities =======
