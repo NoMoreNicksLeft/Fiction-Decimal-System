@@ -719,6 +719,120 @@ WVPEDTA West Virginia Parkways, Economic Development, & Tourism Authority   WV
 WVTC    West Virginia Turnpike Commission                                   WV
 
 
+=======================================
+============ US Racetracks ============
+=======================================
+
+                Arizona Downs                                               Prescott Valley, AZ
+                Turf Paradise Race Course                                   Phoenix, AZ
+                Oaklawn Racing Casino Resort                                Hot Springs, AR
+                Big Fresno Fair, The                                        Fresno, CA
+                Del Mar Racetrack                                           Del Mar, CA
+                Golden Gate Fields                                          Berkeley, CA
+                Los Alamitos Race Course                                    Cypress, CA
+                Pleasanton Fairgrounds Racetrack                            Pleasanton, CA
+                Santa Anita Park                                            Arcadia, CA
+                Arapahoe Park                                               Aurora, CA
+                Dover Casino Resort                                         Dover, DE
+                Delaware Park Racetrack                                     Stanton, DE
+                Harrington Raceway                                          Kent County, DE
+                Calder Race Course                                          Miami Gardens, FL
+                Gulfstream Park                                             Hallandale Beach, FL
+                Pompano Park                                                Pompano, FL
+                Hialeah Park Racetrack                                      Hialeah, FL
+                Tampa Bay Downs                                             Oldsmar, FL
+                Fanduel Sportsbook and Horse Racing                         Collinsville, IL
+                Hawthorne Race Course                                       Stickney, IL
+                Hoosier Park                                                Anderson, IN
+                Indiana Grand Racing                                        Shelbyville, IN
+                Prairie Meadows                                             Altonna, IA
+                Evangeline Downs                                            St. Landry Parish, LA
+                Louisiana Downs                                             Bossier City, LA
+                Laurel Park                                                 Laurel, MD
+                Timonium Racetrack                                          Timonium, MD
+                Ocean Downs                                                 Berlin, MD
+                Pimlico Race Course                                         Baltimore, MD
+                Plainridge Park                                             Plainville, MA
+
+=======================================
+========= Defunct Racetracks ==========
+=======================================
+
+                Prescott Downs                                              Prescott Valley, AZ
+                Yavapai Downs                                               Prescott Valley, AZ
+                Oaklawn Park Racetrack                                      Hot Springs, AR
+                Bay Meadows Racetrack                                       San Mateo, CA
+                Bay View Racetrack                                          San Francisco, CA
+                Barretts Sales and Racing, Los Angeles County Fairplex      Pomona, CA
+                California State Fairgrounds Racetrack                      Sacramento, CA
+                Devonshire Downs                                            Northridge, CA
+                Hollywood Park Racetrack                                    Inglewood, CA
+                Ingleside Racetrack                                         San Francisco, CA
+                Pioneer Racetrack                                           San Francisco, CA
+                Tanforan Racetrack                                          San Bruno, CA
+                Tournament Park                                             Pasadena, CA
+                Union Race Course                                           San Francisco, CA
+                Dover Downs                                                 Dover, DE
+                Kent and Sussex Raceway                                     Kent County, DE
+                Tropical Park Racetrack                                     Coral Gables, FL
+                Arlington Park Jockey Club                                  Arlington Heights, IL
+                Arlington International Racecourse                          Arlington Heights, IL
+                Aurora Downs                                                Aurora, IL
+                Fox Fields                                                  Aurora, IL
+                Balmoral Park                                               Crete, IL
+                Cahokia Downs                                               Alorton, IL
+                Sportsman's Park                                            Cicero, IL
+                Dexter Park                                                 Chicago, IL
+                Harlem Racetrack                                            Forest Park, IL
+                Maywood Park                                                Melrose Park, IL
+                East Moline Downs                                           East Moline, IL
+                Quad City Downs                                             East Moline, IL
+                Washington Park Racetrack                                   Homewood, IL
+                Fairmount Park Racetrack                                    Collinsville, IL
+                Indiana Downs                                               Shelbyville, IN
+                Union Racetrack                                             New Orleans, LA
+                Creole Racetrack                                            New Orleans, LA
+                Eclipse Track                                               New Orleans, LA
+                Metairie Race Course                                        New Orleans, LA
+                Bingaman Racetrack                                          New Orleans, LA
+                City Park Racetrack                                         New Orleans, LA
+                Jefferson Park Racetrack                                    New Orleans, LA 
+                Jefferson Downs Racetrack                                   New Orleans, LA
+                Scarborough Downs                                           Scarborough, ME
+                Kite Track                                                  Old Orchard Beach, ME
+                Rigby Park                                                  South Portland, ME
+                Bowie Racetrack                                             Bowie, MD
+                Cumberland Racetrack                                        Cumberland, MD
+                Fairgo Racetrack                                            Cumberland, MD
+                Freestate Raceway                                           Howard County, MD
+                Havre de Grace Racetrack                                    Havre de Grace, MD
+                Laurel Race Course                                          Laurel, MD
+                Rosecroft Raceway                                           Fort Washington, MD
+                Bay State Raceway                                           Foxborough, MA
+                New England Harness Raceway                                 Foxborough, MA
+                Foxboro Raceway                                             Foxborough, MA
+                Foxboro Park                                                Foxborough, MA
+                Suffolk Downs                                               East Boston, MA
+                Agawam Park                                                 Agawam, MA
+                Berkshire Downs                                             Hancock, MA
+                Charles River Speedway                                      Aliston, MA
+                Franklin Park                                               Saugus, MA
+                Franklin Trotting Park                                      Saugus, MA
+                Franklin Driving Park                                       Saugus, MA
+                Old Saugus Race Course                                      Saugus, MA
+                Old Saugus Racetrack                                        Saugus, MA 
+                Great Barrington Fair                                       Great Barrington, MA
+                Marshfield Fair                                             Marshfield, MA
+                Northampton Fair                                            Northampton, MA
+                Topsfield Fair                                              MA
+                Brockton Fair                                               MA
+                Raceland                                                    Framingham, MA
+                Readville Racetrack                                         Readville, MA
+                Worcester Agricultural Fairgrounds                          Worcester, MA
+
+
+
+                Green Mountain Racetrack
 
 =======================================
 ======== US Housing Authorities =======
