@@ -240,6 +240,7 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 
 0250            Brazos River Conservation and Reclamation District          TX
 0251    CCRA    Central Colorado River Authority                            TX
+                Hoover Dam (Bureua of Reclamation subunit)                  Multiple
 0252            Neches River Conservation District                          TX
 0253    PDRA    Palo Duro River Authority                                   TX
 0254    CZ      Panama Canal Zone                                           Canal Zone (Unincorporated US territory)
