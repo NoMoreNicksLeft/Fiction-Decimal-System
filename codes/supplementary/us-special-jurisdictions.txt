@@ -646,7 +646,8 @@ Note: From https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States .
 =======================================
 
 Note: Primarily road, turnpike, expressway, tunnel, and/or bridge authorities.
-From https://en.wikipedia.org/wiki/Category:Toll_road_authorities_of_the_United_States .
+From https://en.wikipedia.org/wiki/Category:Toll_road_authorities_of_the_United_States
+     https://en.wikipedia.org/wiki/List_of_tunnels_in_the_United_States
 
 ARMA    Alamo Regional Mobility Authority                           TX
 BATA    Bay Area Toll Authority                                     CA
@@ -677,6 +678,7 @@ MTA     Maine Turnpike Authority                                    ME
 MDTA    Maryland Transportation Authority                           MD
 MDX     Miami-Dade Expressway Authority                             FL
 MCTRA   Montgomery County Toll Road Authority                       TX
+NCBA    Nassau County Bridge Authority                              NY
 NJTA    New Jersey Turnpike Authority                               NJ
 NYSBA   New York State Bridge Authority                             NY
 NYSTA   New York State Thruway Authority                            NY
