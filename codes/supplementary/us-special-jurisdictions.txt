@@ -1947,9 +1947,1650 @@ THRHA   Tlingit-Haida Regional Housing Authority                            AK
         Vincennes Housing Authority                                         IN
         Warsaw Housing Authority                                            IN
         Washington Housing Authority                                        IN
+        Afton Housing Commission                                            IA
+        Albia Housing Agency                                                IA
+        City of Ames                                                        IA
+        Area XV Multi-County Housing Agency                                 IA
+        Low Rent Housing Agency of Bancroft                                 IA
+        Low Rent Housing Agency of Burlington                               IA
+        Housing Authority of the City of Cedar Falls                        IA
+        Cedar Rapids Housing Services Division                              IA
+        Centerville Municipal Housing Agency                                IA
+        Central Iowa Regional Housing Authority                             IA
+        Chariton Housing Authority                                          IA
+        Charles City Housing and Redevelopment Authority                    IA
+        Clarinda Low Rent Housing Agency                                    IA
+        Clinton Housing Authority                                           IA
+        Corning Housing Commission                                          IA
+        Municipal Housing Agency of Council Bluffs                          IA
+        Davenport Housing Commission                                        IA
+        Low Rent Housing Agency of Decorah                                  IA
+        Des Moines Municipal Housing Agency                                 IA
+        City of Dubuque Housing and Community Development Department        IA
+        Eastern Iowa Regional Housing Authority                             IA
+        Low Rent Housing Agency of Emmetsburg                               IA
+        Essex Low Rent Housing Agency                                       IA
+        Evansdale Municipal Housing Authority                               IA
+        Low Rent Housing Agency of Farragut                                 IA
+        Fort Dodge Municipal Housing Agency                                 IA
+        Fort Madison Housing Authority                                      IA
+        Grinnell Low Rent Housing Authority                                 IA
+        Low Rent Housing Agency of Hamburg                                  IA
+        Iowa City Housing Authority                                         IA
+        Iowa Northland Regional Housing Authority                           IA
+        Keokuk Housing Authority                                            IA
+        Low Rent Housing Agency of Knoxville                                IA
+        Lenox Low Rent Housing Agency                                       IA
+        Low Rent Housing Agency of Leon                                     IA
+        Lone Tree Housing Commission                                        IA
+        Malvern Low Rent Housing Agency                                     IA
+        Municipal Housing Agency of Manning                                 IA
+        Mason City Housing Authority                                        IA
+        Mid Iowa Regional Housing Authority                                 IA
+        Low Rent Housing Agency of Missouri Valley                          IA
+        Low Rent Housing Agency of Mount Ayr                                IA
+        Muscatine Municipal Housing Agency                                  IA
+        Municipal Housing Agency of New Hampton                             IA
+        New Homestead Low Rent Housing Agency of Sioux Center               IA
+        North Iowa Regional Housing Authority                               IA
+        Northwest Iowa Regional Housing Authority                           IA
+        Low Rent Housing Agency of Onawa                                    IA
+        Oskaloosa Municipal Housing Agency                                  IA
+        Ottumwa Housing Authority                                           IA
+        Low Rent Housing Agency of Red Oak                                  IA
+        Region XII Regional Housing Authority                               IA
+        Rock Rapids Municipal Housing Agency                                IA
+        Shenandoah Low Rent Housing Agency                                  IA
+        Low Rent Housing Agency of Sidney                                   IA
+        Sioux City Housing Authority                                        IA
+        Siouxland Regional Housing Authority                                IA
+        Southeast Iowa Regional Housing Authority                           IA
+        Southern Iowa Regional Housing Authority                            IA
+        Low Rent Housing Agency of Spirit Lake                              IA
+        Stanton Housing Commission                                          IA
+        Tabor Low Rent Housing Agency                                       IA
+        Upper Explorerland Regional Housing Authority                       IA
+        Villisca Low Rent Housing Agency                                    IA
+        Waterloo Housing Authority                                          IA
+        Low Rent Housing Agency of Waverly                                  IA
+        Low Rent Housing Agency of Winterset                                IA
+        Agra Housing Authority                                              KS
+        Anthony Housing Authority                                           KS
+        Atchison Housing Authority                                          KS
+        Atwood Housing Authority                                            KS
+        Augusta Housing Authority                                           KS
+        Belleville Housing Authority                                        KS
+        Beloit Housing Authority                                            KS
+        Bird City Housing Authority                                         KS
+        Blue Rapids Housing Authority                                       KS
+        Bonner Springs Housing Authority                                    KS
+        Burrton Housing Authority                                           KS
+        Cawker City Housing Authority                                       KS
+        Chanute Housing Authority                                           KS
+        Chapman Housing Authority                                           KS
+        Cherryvale Housing Authority                                        KS
+        City of Clay Center                                                 KS
+        Housing Authority of the City of Colby                              KS
+        Columbus Housing Authority                                          KS
+        Dodge City Housing Authority                                        KS
+        Downs Housing Authority                                             KS
+        Ellis County Housing Authority                                      KS
+        Florence Housing Authority                                          KS
+        Ford County Housing Authority                                       KS
+        Fort Scott Housing Authority                                        KS
+        Frontenac Housing Authority                                         KS
+        Galena Housing Authority                                            KS
+        Garden City Housing Authority                                       KS
+        Gaylord Housing Authority                                           KS
+        Girard Housing Authority                                            KS
+        Housing Authority of the City of Goodland                           KS
+        Great Bend Housing Authority                                        KS
+        Greenleaf Housing Authority                                         KS
+        Halstead Housing Authority                                          KS
+        Hanover Housing Authority                                           KS
+        Housing Authority of the City of Herington                          KS
+        Hill City Housing Authority                                         KS
+        Hillsboro Housing Authority                                         KS
+        Holton Housing Authority                                            KS
+        Horton Housing Authority                                            KS
+        Housing Authority of Medicine Lodge                                 KS
+        Howard Housing Authority                                            KS
+        Housing Authority of the City of Hoxie                              KS
+        Humboldt Housing Authority                                          KS
+        Hutchinson Housing Authority                                        KS
+        Iola Housing Authority                                              KS
+        Jetmore Housing Authority                                           KS
+        Johnson County Housing Authority                                    KS
+        Junction City Housing Authority                                     KS
+        Kansas City Kansas Housing Authority                                KS
+        Kinsley Housing Authority                                           KS
+        Lawrence Housing Authority                                          KS
+        Lawrence-Douglas County Housing Authority                           KS
+        Leavenworth Housing Authority                                       KS
+        Liberal Housing Authority                                           KS
+        Lincoln Housing Authority                                           KS
+        Lindsborg Housing Authority                                         KS
+        Linn Housing Authority                                              KS
+        Luray Housing Authority                                             KS
+        Lyons Housing Authority                                             KS
+        Manhattan Housing Authority                                         KS
+        Mankato Housing Authority                                           KS
+        Marion Housing Authority                                            KS
+        Minneapolis Housing Authority                                       KS
+        Moundridge Housing Authority                                        KS
+        Neodesha Housing Authority                                          KS
+        Newton Housing Authority                                            KS
+        Nicodemus Housing Authority                                         KS
+        North Newton Housing Authority                                      KS
+        Norton Housing Authority                                            KS
+        Oakley Housing Authority                                            KS
+        Oberlin Housing Authority                                           KS
+        Olathe Housing Authority                                            KS
+        Osborne Housing Authority                                           KS
+        Paola Housing Authority                                             KS
+        Parsons Housing Authority                                           KS
+        Phillipsburg Housing Authority                                      KS
+        Pittsburg Housing Authority                                         KS
+        Pleasanton Housing Authority                                        KS
+        Russell Housing Authority                                           KS
+        Sabetha Housing Authority                                           KS
+        Salina Housing Authority                                            KS
+        Sedgwick County Housing Authority                                   KS
+        Sedgwick Housing Authority                                          KS
+        Seneca Housing Authority                                            KS
+        Solomon Housing Authority                                           KS
+        South Hutchinson Housing Authority                                  KS
+        Southeast Kansas Community Action Program                           KS
+        St. Francis Housing Authority                                       KS
+        Stafford Housing Authority                                          KS
+        Sterling Housing Authority                                          KS
+        Strong City Housing Authority                                       KS
+        Topeka Housing Authority                                            KS
+        Ulysses Housing Authority                                           KS
+        Valley Falls Housing Authority                                      KS
+        Victoria Housing Authority                                          KS
+        Wamego Housing Authority                                            KS
+        Washington Housing Authority                                        KS
+        Waterville Housing Authority                                        KS
+        Wellington Housing Authority                                        KS
+        Wichita Housing Authority                                           KS
+        Winfield Housing Authority                                          KS
+        Housing Authority of Albany                                         KY
+        Appalachian Foothills Housing Agency                                KY
+        Housing Authority of Ashland                                        KY
+        Ashland Assisted Housing Authority                                  KY
+        Housing Authority of Barbourville                                   KY
+        Barbourville Urban Renewal and CDA                                  KY
+        Housing Authority of Bardstown                                      KY
+        Housing Authority of Beattyville                                    KY
+        Housing Authority of Beaver Dam                                     KY
+        Housing Authority of Benton                                         KY
+        Housing Authority of Berea                                          KY
+        Boone County Assisted Housing Department                            KY
+        Housing Authority of Bowling Green                                  KY
+        City of Bowling Green Housing Division                              KY
+        Housing Authority of Burkesville                                    KY
+        Housing Authority of Cadiz                                          KY
+        Campbellsville Housing and Redevelopment Authority                  KY
+        Housing Authority of Carrollton                                     KY
+        Housing Authority of Catlettsburg                                   KY
+        Housing Authority of Central City                                   KY
+        Housing Authority of Columbia                                       KY
+        Housing Authority of Corbin                                         KY
+        Housing Authority of Covington                                      KY
+        Housing Authority of Cumberland                                     KY
+        Cumberland Valley Regional Housing Authority                        KY
+        Housing Authority of Cynthiana                                      KY
+        Housing Authority of Danville                                       KY
+        Danville Community Development Agency                               KY
+        Housing Authority of Dawson Springs                                 KY
+        Housing Authority of Dry Ridge                                      KY
+        Housing Authority of Elizabethtown                                  KY
+        Housing Authority of Eminence                                       KY
+        Housing Authority of Falmouth                                       KY
+        Housing Authority of Flemingsburg                                   KY
+        Housing Authority of Floyd County                                   KY
+        Housing Authority of Frankfort                                      KY
+        Housing Authority of Franklin                                       KY
+        Housing Authority of Fulton                                         KY
+        Housing Authority of Georgetown                                     KY
+        Housing Authority of Glasgow                                        KY
+        Housing Authority of Greensburg                                     KY
+        Housing Authority of Greenville                                     KY
+        Housing Authority of Harlan                                         KY
+        Housing Authority of Harrodsburg                                    KY
+        Housing Authority of Hazard                                         KY
+        Housing Authority of Henderson                                      KY
+        Housing Authority of Hickman                                        KY
+        Housing Authority of Hodgenville                                    KY
+        Housing Authority of Hopkinsville                                   KY
+        Housing Authority of Horse Cave                                     KY
+        Housing Authority of Irvine                                         KY
+        Housing Authority of Irvington                                      KY
+        Housing Authority of Jackson                                        KY
+        Housing Authority of Knott County                                   KY
+        Housing Authority of Lancaster                                      KY
+        Housing Authority of Lawrence County                                KY
+        Lebanon Housing Authority                                           KY
+        Lexington-Fayette Urban County Housing Authority                    KY
+        Housing Authority of Liberty                                        KY
+        Housing Authority of London                                         KY
+        Louisville Metro Housing Authority                                  KY
+        Housing Authority of Lyon County                                    KY
+        Madisonville Housing Authority                                      KY
+        Housing Authority of Manchester                                     KY
+        Housing Authority of Martin                                         KY
+        Housing Authority of Martin County                                  KY
+        Housing Authority of Mayfield                                       KY
+        Housing Authority of Maysville                                      KY
+        Housing Authority of McCreary County                                KY
+        Housing Authority of McKee                                          KY
+        Housing Authority of Middlesborough                                 KY
+        Housing Authority of Monticello                                     KY
+        Housing Authority of Morehead                                       KY
+        Housing Authority of Morganfield                                    KY
+        Housing Authority of Morgantown                                     KY
+        Housing Authority of Mount Sterling                                 KY
+        Housing Authority of Mount Vernon                                   KY
+        Housing Authority of Murray                                         KY
+        Housing Authority of Nicholasville                                  KY
+        Housing Authority of Olive Hill                                     KY
+        Housing Authority of Owensboro                                      KY
+        Housing Authority of Owenton                                        KY
+        Housing Authority of Owingsville                                    KY
+        Housing Authority of Paducah                                        KY
+        Housing Authority of Paducah - Section 8                            KY
+        Housing Authority of Paintsville                                    KY
+        Housing Authority of Paris                                          KY
+        Paris-Bourbon County Community Development Agency                   KY
+        Pike County Housing Authority                                       KY
+        Housing Authority of Pikeville                                      KY
+        Housing Authority of Pineville                                      KY
+        PinevilleBell County Community Development Agency                   KY
+        Housing Authority of Prestonsburg                                   KY
+        Housing Authority of Princeton                                      KY
+        Housing Authority of Providence                                     KY
+        Housing Authority of Radcliff                                       KY
+        Housing Authority of Richmond                                       KY
+        Housing Authority of Russellville                                   KY
+        Housing Authority of Salyersville-Magoffin County                   KY
+        Housing Authority of Scottsville                                    KY
+        Housing Authority of Shelbyville                                    KY
+        Housing Authority of Somerset                                       KY
+        Housing Authority of Springfield                                    KY
+        Housing Authority of Stanford                                       KY
+        Housing Authority of Stanton                                        KY
+        Housing Authority of Sturgis                                        KY
+        Housing Authority of Todd County                                    KY
+        Housing Authority of Tompkinsville                                  KY
+        Housing Authority Vanceburg                                         KY
+        Housing Authority of Versailles                                     KY
+        Housing Authority of Whitesburg                                     KY
+        Housing Authority of Williamsburg                                   KY
+        Housing Authority of Williamstown                                   KY
+        Housing Authority of Winchester                                     KY
+        Housing Authority of the City of Abbeville                          LA
+        Alexandria Housing Authority                                        LA
+        Housing Authority of the Town of Arcadia                            LA
+        Assumption Parish Police Jury                                       LA
+        Avoyelles Parish Police Jury                                        LA
+        Housing Authority of the Town of Basile                             LA
+        City of Baton Rouge Office of Community Development                 LA
+        Housing Authority of the Town of Berwick                            LA
+        Bienville Parish Police Jury                                        LA
+        Bogalusa Housing Authority                                          LA
+        Housing Authority of Bossier City                                   LA
+        Bossier Parish Housing Authority                                    LA
+        Housing Authority of the City of Breaux Bridge                      LA
+        Housing Authority of the Town of Bunkie                             LA
+        Caddo Parish Commission                                             LA
+        Calcasieu Parish Police Jury Housing Department                     LA
+        Housing Authority of the Parish of Caldwell                         LA
+        Catahoula Parish Police Jury                                        LA
+        Church Point Housing Authority                                      LA
+        Housing Authority of the Town of Colfax                             LA
+        Concordia Parish Police Jury                                        LA
+        Housing Authority of the Town of Cotton Valley                      LA
+        Housing Authority of the Town of Cottonport                         LA
+        Housing Authority of City of Covington                              LA
+        Housing Authority of Crowley                                        LA
+        Housing Authority of the Town of Delcambre                          LA
+        Housing Authority of the Town of Delhi                              LA
+        Housing Authority of the City of Denham Springs                     LA
+        Housing Authority of the City of Deridder                           LA
+        Desoto Parish Police Jury                                           LA
+        Housing Authority of the City of Donaldsonville                     LA
+        Housing Authority of Duson                                          LA
+        East Baton Rouge Parish Housing Authority                           LA
+        East Carroll Parish Housing Authority                               LA
+        Housing Authority of the Town of East Hodge                         LA
+        Housing Authority of the Town of Elton                              LA
+        Housing Authority of the Town of Erath                              LA
+        Housing Authority of the City of Eunice                             LA
+        Evangeline Parish Police Jury                                       LA
+        Housing Authority of Farmerville                                    LA
+        Housing Authority of Ferriday                                       LA
+        Franklin Parish Police Jury                                         LA
+        Housing Authority of Gibsland                                       LA
+        Housing Authority of the Town of Grambling                          LA
+        Housing Authority of Grant Parish                                   LA
+        Housing Authority of the Town of Gueydan                            LA
+        Housing Authority of Hammond                                        LA
+        Housing Authority of the Town of Haynesville                        LA
+        Housing Authority of Homer                                          LA
+        Housing Authority of the City of Houma                              LA
+        Housing Office of the City of Ruston                                LA
+        Iberia Parish Government                                            LA
+        Iberville Parish Government                                         LA
+        Town of Independence Housing Authority                              LA
+        Housing Authority of the Town of Iowa                               LA
+        Jackson Parish Police Jury                                          LA
+        Jeanerette Public Housing Agency                                    LA
+        Housing Authority of Jefferson Parish                               LA
+        Housing Authority of Jena                                           LA
+        Housing Authority of the City of Jennings                           LA
+        Housing Authority of the Town of Jonesboro                          LA
+        Housing Authority of Kaplan                                         LA
+        Kenner Housing Authority                                            LA
+        Kinder Housing Authority                                            LA
+        Lafayette Housing Authority                                         LA
+        Housing Authority of Lafourche Parish                               LA
+        Lafourche Parish Housing Authority                                  LA
+        Housing Authority of the Town of Lake Arthur                        LA
+        Lake Charles Housing Authority                                      LA
+        Housing Authority of the Town of Lake Providence                    LA
+        Housing Authority of the City of Leesville                          LA
+        Lincoln Parish Police Jury                                          LA
+        Housing Authority of the Town of Logansport                         LA
+        Housing Authority of the Town of Mamou                              LA
+        Housing Authority of the Town of Mansfield                          LA
+        Marksville Housing Authority                                        LA
+        Housing Authority of the Town of Merryville                         LA
+        Minden Housing Authority                                            LA
+        Monroe Housing Authority                                            LA
+        Morehouse Parish Police Jury                                        LA
+        Morgan City Housing Authority                                       LA
+        Housing Authority of the City of Natchitoches                       LA
+        Housing Authority of Natchitoches Parish                            LA
+        City of New Iberia                                                  LA
+        Housing Authority of New Iberia                                     LA
+        Housing Authority of New Orleans                                    LA
+        Housing Authority of the Town of New Roads                          LA
+        New Roads City                                                      LA
+        Housing Authority of Newellton                                      LA
+        Housing Authority of Oakdale                                        LA
+        Housing Authority of the Town of Oberlin                            LA
+        Housing Authority of the Town of Oil City                           LA
+        Housing Authority of the Town of Olla                               LA
+        Housing Authority of City of Opelousas                              LA
+        Ouachita Parish Police Jury                                         LA
+        Housing Authority of the Town of Patterson                          LA
+        Housing Authority of Pearl River                                    LA
+        Pineville Housing Authority                                         LA
+        Ponchatoula Housing Authority                                       LA
+        City of Port Allen                                                  LA
+        Housing Authority of Rapides Parish                                 LA
+        Housing Authority of Rayne                                          LA
+        Rayne City                                                          LA
+        Housing Authority of the Town of Rayville                           LA
+        Red River Parish Police Jury                                        LA
+        Housing Authority of Ruston                                         LA
+        Housing Authority of Sabine Parish                                  LA
+        Housing Authority of the City of Shreveport                         LA
+        Housing Authority of the Town of Simmesport                         LA
+        Slidell Housing Authority                                           LA
+        Housing Authority of South Landry                                   LA
+        Southwest Acadia Consolidated Housing Authority                     LA
+        St. Bernard Parish Government Housing and Redevelopment Department  LA
+        St. Charles Parish Housing Authority                                LA
+        Housing Authority of St. James Parish                               LA
+        St. John the Baptist Parish Housing Authority                       LA
+        St. John the Baptist Parish Housing Authority                       LA
+        St. Landry Parish Housing Authority                                 LA
+        St. Martin Parish Police Jury                                       LA
+        Housing Authority of the Town of St. Martinville                    LA
+        St. Martinville City                                                LA
+        St. Mary Parish Council                                             LA
+        Housing Authority of the City of Sulphur                            LA
+        Tangipahoa Parish Council                                           LA
+        Terrebonne Parish Consolidated Government Federal Programs Division LA
+        Housing Authority of the Village of Parks                           LA
+        Thibodaux Housing Authority                                         LA
+        City of Thibodaux Office of Housing and Community Development       LA
+        Union Parish Police Jury                                            LA
+        Housing Authority of Vernon Parish                                  LA
+        Village of Fenton Housing Authority                                 LA
+        Ville Platte Housing Authority                                      LA
+        Housing Authority of the Town of Vinton                             LA
+        Housing Authority of Vivian                                         LA
+        Washington Parish Housing Authority                                 LA
+        Webster Parish Police Jury                                          LA
+        Housing Authority of the Town of Welsh                              LA
+        West Baton Rouge Parish Council                                     LA
+        West Carroll Parish Police Jury Housing Assistance                  LA
+        West Monroe Housing Authority                                       LA
+        Housing Authority of Westwego                                       LA
+        Town of White Castle                                                LA
+        Housing Authority of the Town of White Castle                       LA
+        Winn Parish Police Jury                                             LA
+        Housing Authority of Winnfield                                      LA
+        Housing Authority of the Town of Winnsboro                          LA
+        Housing Authority of the Town of Youngsville                        LA
+        Auburn Housing Authority                                            ME
+        Augusta Housing Authority                                           ME
+        Bangor Housing                                                      ME
+        Bar Harbor Housing Authority                                        ME
+        Bath Housing Authority                                              ME
+        Biddeford Housing Authority                                         ME
+        Housing Authority of the City of Brewer                             ME
+        Brunswick Housing Authority                                         ME
+        Caribou Housing Authority                                           ME
+        Ellsworth Housing Authority                                         ME
+        Fort Fairfield Housing Authority                                    ME
+        Lewiston Housing Authority                                          ME
+        Mount Desert Housing Authority                                      ME
+        Housing Authority of the City of Old Town                           ME
+        Portland Housing Authority                                          ME
+        Housing Authority of the Town of Portland                           ME
+        Presque Isle Housing Authority                                      ME
+        Saco Housing Authority                                              ME
+        Sanford Housing Authority                                           ME
+        South Portland Housing Authority                                    ME
+        Southwest Harbor Housing Authority                                  ME
+        Tremont Housing Authority                                           ME
+        Van Buren Housing Authority                                         ME
+        Waterville Housing Authority                                        ME
+        Westbrook Housing Authority                                         ME
+        Allegany County Housing Authority                                   MD
+        Housing Authority of the City of Annapolis                          MD
+        Housing Commission of Anne Arundel County                           MD
+        Housing Authority of Baltimore City                                 MD
+        Baltimore County Office of Housing                                  MD
+        Housing Authority of Calvert County                                 MD
+        Cambridge Housing Authority                                         MD
+        Carroll County Housing And Community Dev                            MD
+        Cecil County Housing Agency                                         MD
+        Charles County Housing Authority                                    MD
+        City of Westminster Housing Office                                  MD
+        College Park Housing Authority                                      MD
+        Housing Authority of Crisfield                                      MD
+        Cumberland Housing Group                                            MD
+        Elkton Housing Authority                                            MD
+        Housing Authority of the City of Frederick                          MD
+        Frostburg Housing Authority                                         MD
+        Glenarden Housing Authority                                         MD
+        Hagerstown Housing Authority                                        MD
+        Harford County Housing Agency                                       MD
+        Havre de Grace Housing Authority                                    MD
+        Housing Opportunities Commission of Montgomery County               MD
+        Howard County Housing Commission                                    MD
+        Housing Authority of Prince Georges County                          MD
+        Housing Authority of Queen Anne's County                            MD
+        Rockville Housing Enterprises                                       MD
+        Housing Authority of St. Mary's County                              MD
+        Housing Commission of Talbot                                        MD
+        Housing Authority of Washington County                              MD
+        Wicomico Housing Authority                                          MD
+        Abington Housing Authority                                          MA
+        Acton Housing Authority                                             MA
+        Adams Housing Authority                                             MA
+        Amesbury Housing Authority                                          MA
+        Amherst Housing Authority                                           MA
+        Andover Housing Authority                                           MA
+        Arlington Housing Authority                                         MA
+        Athol Housing Authority                                             MA
+        Attleboro Housing Authority                                         MA
+        Auburn Housing Authority                                            MA
+        Barnstable Housing Authority                                        MA
+        Bellingham Housing Authority                                        MA
+        Belmont Housing Authority                                           MA
+        Berkshire County Regional Housing Authority                         MA
+        Beverly Housing Authority                                           MA
+        Billerica Housing Authority                                         MA
+        Boston Housing Authority                                            MA
+        Bourne Housing Authority                                            MA
+        Braintree Housing Authority                                         MA
+        Bridgewater Housing Authority                                       MA
+        Brockton Housing Authority                                          MA
+        Brookline Housing Authority                                         MA
+        Burlington Housing Authority                                        MA
+        Cambridge Housing Authority                                         MA
+        Chelmsford Housing Authority                                        MA
+        Chelsea Housing Authority                                           MA
+        Chicopee Housing Authority                                          MA
+        Clinton Housing Authority                                           MA
+        Concord Housing Authority                                           MA
+        Danvers Housing Authority                                           MA
+        Dartmouth Housing Authority                                         MA
+        Dedham Housing Authority                                            MA
+        Dennis Housing Authority                                            MA
+        Dracut Housing Authority                                            MA
+        Duxbury Housing Authority                                           MA
+        Easton Housing Authority                                            MA
+        Everett Housing Authority                                           MA
+        Fall River Housing Authority                                        MA
+        Falmouth Housing Authority                                          MA
+        Fitchburg Housing Authority                                         MA
+        Framingham Housing Authority                                        MA
+        Franklin County Regional Housing and Redevelopment Authority        MA
+        Gardner Housing Authority                                           MA
+        Gloucester Housing Authority                                        MA
+        Greenfield Housing Authority                                        MA
+        Groveland Housing Authority                                         MA
+        Halifax Housing Authority                                           MA
+        Hanson Housing Authority                                            MA
+        Haverhill Housing Authority                                         MA
+        Hingham Housing Authority                                           MA
+        Holbrook Housing Authority                                          MA
+        Holden Housing Authority                                            MA
+        Holliston Housing Authority                                         MA
+        Holyoke Housing Authority                                           MA
+        Hudson Housing Authority                                            MA
+        Ipswich Housing Authority                                           MA
+        Housing Authority of the City of Laurel, The                        MA
+        Leominster Housing Authority                                        MA
+        Lowell Housing Authority                                            MA
+        Lynn Housing Authority and Neighborhood Development                 MA
+        Malden Housing Authority                                            MA
+        Mansfield Housing Authority                                         MA
+        Marlborough Community Development Authority                         MA
+        Maynard Housing Authority                                           MA
+        Medford Housing Authority                                           MA
+        Medway Housing Authority                                            MA
+        Melrose Housing Authority                                           MA
+        Methuen Housing Authority                                           MA
+        Middleborough Housing Authority                                     MA
+        Milford Housing Authority                                           MA
+        Millis Housing Authority                                            MA
+        Milton Housing Authority                                            MA
+        Natick Housing Authority                                            MA
+        Needham Housing Authority                                           MA
+        New Bedford Housing Authority                                       MA
+        Newburyport Housing Authority                                       MA
+        Newton Housing Authority                                            MA
+        North Adams Housing Authority                                       MA
+        North Andover Housing Authority                                     MA
+        North Attleborough Housing Authority                                MA
+        Northampton Housing Authority                                       MA
+        Norwood Housing Authority                                           MA
+        Oxford Housing Authority                                            MA
+        Peabody Housing Authority                                           MA
+        Pembroke Housing Authority                                          MA
+        Pittsfield Housing Authority                                        MA
+        Plymouth Housing Authority                                          MA
+        Quincy Housing Authority                                            MA
+        Reading Housing Authority                                           MA
+        Revere Housing Authority                                            MA
+        Rockland Housing Authority                                          MA
+        Rockport Housing Authority                                          MA
+        Salem Housing Authority                                             MA
+        Salisbury Housing Authority                                         MA
+        Sandwich Housing Authority                                          MA
+        Saugus Housing Authority                                            MA
+        Scituate Housing Authority                                          MA
+        Shrewsbury Housing Authority                                        MA
+        Somerville Housing Authority                                        MA
+        Southbridge Housing Authority                                       MA
+        Springfield Housing Authority                                       MA
+        Stockbridge Housing Authority                                       MA
+        Stoughton Housing Authority                                         MA
+        Swansea Housing Authority                                           MA
+        Taunton Housing Authority                                           MA
+        Tewksbury Housing Authority                                         MA
+        Wakefield Housing Authority                                         MA
+        Walpole Housing Authority                                           MA
+        Waltham Housing Authority                                           MA
+        Ware Housing Authority                                              MA
+        Warren Housing Authority                                            MA
+        Wayland Housing Authority                                           MA
+        Webster Housing Authority                                           MA
+        Wellesley Housing Authority                                         MA
+        West Springfield Housing Authority                                  MA
+        Westfield Housing Authority                                         MA
+        Weymouth Housing Authority                                          MA
+        Williamstown Housing Authority                                      MA
+        Wilmington Housing Authority                                        MA
+        Winchendon Housing Authority                                        MA
+        Winchester Housing Authority                                        MA
+        Woburn Housing Authority                                            MA
+        Worcester Housing Authority                                         MA
+        Yarmouth Housing Authority                                          MA
+        Albion Housing Commission                                           MI
+        Algonac Housing Commission                                          MI
+        Allen Park Housing Commission                                       MI
+        Alma Housing Commission                                             MI
+        Alpena Housing Commission                                           MI
+        Ann Arbor Housing Commission                                        MI
+        Baldwin Housing Commission                                          MI
+        Bangor Housing Commission                                           MI
+        Baraga Housing Commission                                           MI
+        Bath Charter Township Housing Commission                            MI
+        Battle Creek Housing Commission                                     MI
+        Bay City Housing Commission                                         MI
+        Bay County Housing Department                                       MI
+        Bedford Township Housing Commission                                 MI
+        Belding Housing Commission                                          MI
+        Benton Harbor Housing Commission                                    MI
+        Benton Township Housing Commission                                  MI
+        Bessemer Housing Commission                                         MI
+        Big Rapids Housing Commission                                       MI
+        Boyne City Housing Commission                                       MI
+        Bronson Housing Commission                                          MI
+        Cadillac Housing Commission                                         MI
+        Caseville Housing Commission                                        MI
+        Charlevoix Housing Commission                                       MI
+        Cheboygan Housing Commission                                        MI
+        Clinton Township Housing Commission                                 MI
+        Coldwater Housing Commission                                        MI
+        Covert Public Housing Commission                                    MI
+        Dearborn Heights Housing Commission                                 MI
+        Dearborn Housing Commission                                         MI
+        Detroit Housing Commission                                          MI
+        Dowagiac Housing Commission                                         MI
+        Dundee Housing Commission                                           MI
+        East Jordan Housing Commission                                      MI
+        East Tawas Housing Commission                                       MI
+        Eastpointe Housing Commission                                       MI
+        Ecorse Housing Commission                                           MI
+        Elk Rapids Housing Commission                                       MI
+        Escanaba Housing Commission                                         MI
+        Evart Housing Commission                                            MI
+        Ferndale Housing Commission                                         MI
+        Flint Housing Commission                                            MI
+        Gladstone Housing Commission                                        MI
+        Gladwin City Housing Commission                                     MI
+        Grand Rapids Housing Commission                                     MI
+        Grayling Housing Commission                                         MI
+        Greenville Housing Commission                                       MI
+        Hamtramck Housing Commission                                        MI
+        Hermansville Housing Commission                                     MI
+        Highland Park Housing Commission                                    MI
+        Hillsdale Housing Commission                                        MI
+        Houghton Housing Commission                                         MI
+        Ingham County Housing Commission                                    MI
+        Inkster Housing Commission                                          MI
+        Ionia Housing Commission                                            MI
+        Iron County Housing Commission                                      MI
+        Iron Mountain Housing Commission                                    MI
+        Iron River Housing Commission                                       MI
+        Ironwood Housing Commission                                         MI
+        Jackson Housing Commission                                          MI
+        Kent County Community Action                                        MI
+        Kingsford Housing Commission                                        MI
+        L'Anse Housing Commission                                           MI
+        Lake Linden Housing Commission                                      MI
+        Lansing Housing Commission                                          MI
+        Lapeer Housing Commission                                           MI
+        Laurium Housing Commission                                          MI
+        Lincoln Park Housing Commission                                     MI
+        Livonia Housing Commission                                          MI
+        Luce County Housing Commission                                      MI
+        Luna Pier Housing Commission                                        MI
+        Mackinac County Housing Commission                                  MI
+        Madison Heights Housing Commission                                  MI
+        Manistee Housing Commission                                         MI
+        Manistique Housing Commission                                       MI
+        Marysville Housing Commission                                       MI
+        Melvindale Housing Commission                                       MI
+        Menominee Housing Commission                                        MI
+        Middleville Housing Commission                                      MI
+        Montcalm County Housing Commission                                  MI
+        Mount Clemens Housing Commission                                    MI
+        Mount Pleasant Housing Commission                                   MI
+        Munising Housing Commission                                         MI
+        Muskegon Heights Housing Commission                                 MI
+        Muskegon Housing Commission                                         MI
+        Negaunee Housing Commission                                         MI
+        New Haven Housing Commission                                        MI
+        Niles Housing Commission                                            MI
+        Ontonagon Housing Commission                                        MI
+        Paw Paw Housing Commission                                          MI
+        Plymouth Housing Commission                                         MI
+        Pontiac Housing Commission                                          MI
+        Port Huron Housing Commission                                       MI
+        Potterville Housing Commission                                      MI
+        Rapid River Housing Commission                                      MI
+        Reed City Housing Commission                                        MI
+        River Rouge Housing Commission                                      MI
+        Rockford Housing Commission                                         MI
+        Rockwood Housing Commission                                         MI
+        Rogers City Housing Commission                                      MI
+        Romulus Housing Commission                                          MI
+        Roseville Housing Commission                                        MI
+        Royal Oak Housing Commission                                        MI
+        Royal Oak Township Housing Commission                               MI
+        Saginaw Housing Commission                                          MI
+        Saint Clair Housing Commission                                      MI
+        Saint Joseph Housing Commission                                     MI
+        Saint Louis Housing Commission                                      MI
+        Saranac Housing Commission                                          MI
+        Sault Ste Marie Housing Commission                                  MI
+        Schoolcraft County Housing Commission                               MI
+        South Haven Housing Commission                                      MI
+        South Lyon Housing Commission                                       MI
+        Southfield Housing Commission                                       MI
+        St. Clair Shores Housing Commission                                 MI
+        Sterling Heights Housing Commission                                 MI
+        Sturgis Housing Commission                                          MI
+        Taylor Housing Commission                                           MI
+        Traverse City Housing Commission                                    MI
+        Wakefield Housing Commission                                        MI
+        Wayne Housing Commission                                            MI
+        Westland Housing Commission                                         MI
+        Wyoming Housing Commission                                          MI
+        Ypsilanti Housing Commission                                        MI
+        Aitkin County Housing & Redevelopment Authority                     MN
+        Housing & Redevelopment Authority of Albert Lea                     MN
+        Housing & Redevelopment Authority of Alexandria                     MN
+        Housing & Redevelopment Authority of Austin                         MN
+        Housing & Redevelopment Authority of Bagley                         MN
+        Housing & Redevelopment Authority of Barnsville                     MN
+        Housing & Redevelopment Authority of Baudette                       MN
+        Becker County Economic Development Authority                        MN
+        Housing & Redevelopment Authority of Bemidji                        MN
+        Housing & Redevelopment Authority of Benson                         MN
+        Big Stone County Housing & Redevelopment Authority                  MN
+        Bloomington Housing & Redevelopment Authority                       MN
+        Housing & Redevelopment Authority of Blue Earth                     MN
+        Blue Earth County Economic Development Authority                    MN
+        Housing & Redevelopment Authority of Braham                         MN
+        Brainerd Housing & Redevelopment Authority                          MN
+        Housing & Redevelopment Authority of Breckenridge                   MN
+        Cambridge Economic Development Authority                            MN
+        Carlton Housing & Redevelopment Authority                           MN
+        Carver County Community Development Agency                          MN
+        Cass County Housing & Redevelopment Authority                       MN
+        Housing & Redevelopment Authority of Cass Lake                      MN
+        Housing & Redevelopment Authority of Chisholm                       MN
+        City of Mankato Economic Development Authority                      MN
+        Clay County Housing & Redevelopment Authority                       MN
+        Clearwater County Housing Authority                                 MN
+        Cloquet Housing & Redevelopment Authority                           MN
+        Housing & Redevelopment Authority of Columbia Heights               MN
+        Housing & Redevelopment Authority of Cook                           MN
+        Housing & Redevelopment Authority of Cottonwood                     MN
+        Crookston Housing & EDA                                             MN
+        Housing & Redevelopment Authority of Crosby                         MN
+        Dakota County Community Development Agency                          MN
+        Housing & Redevelopment Authority of Delano                         MN
+        Housing & Redevelopment Authority of Detroit Lakes                  MN
+        Housing & Redevelopment Authority of Dodge Center                   MN
+        Douglas County Housing & Redevelopment Authority                    MN
+        Housing & Redevelopment Authority of Duluth                         MN
+        EDHA of East Grand Forks                                            MN
+        Housing & Redevelopment Authority of Ely                            MN
+        Housing & Redevelopment Authority of Eveleth                        MN
+        Fairmont Housing & Redevelopment Authority                          MN
+        Faribault County Housing & Redevelopment Authority                  MN
+        Faribault Housing & Redevelopment Authority                         MN
+        Fergus FallsOtter Tail County Housing & Redevelopment Authority     MN
+        Fergus FallsOtter Tail County Housing & Redevelopment Authority     MN
+        Housing & Redevelopment Authority of Gilbert                        MN
+        Housing & Redevelopment Authority of Glenwood                       MN
+        Housing & Redevelopment Authority of Grand Rapids                   MN
+        Grant County Housing & Redevelopment Authority                      MN
+        Housing & Redevelopment Authority of Greenbush                      MN
+        Housing & Redevelopment Authority of Henning                        MN
+        Housing & Redevelopment Authority of Hibbing                        MN
+        Hopkins Housing & Redevelopment Authority                           MN
+        Housing & Redevelopment Authority of Chippewa County                MN
+        Housing & Redevelopment Authority of Hutchinson                     MN
+        Housing & Redevelopment Authority of International Falls            MN
+        Itasca Housing & Redevelopment Authority                            MN
+        Housing & Redevelopment Authority of Jackson                        MN
+        Housing & Redevelopment Authority of Janesville                     MN
+        Kandiyohi County Housing & Redevelopment Authority                  MN
+        Koochiching County Housing & Redevelopment Authority                MN
+        Housing & Redevelopment Authority of Lake Benton                    MN
+        Le Sueur County Housing & Redevelopment Authority                   MN
+        Le Sueur Housing & Redevelopment Authority                          MN
+        Housing & Redevelopment Authority of Lincoln County                 MN
+        Housing & Redevelopment Authority of Lindstrom                      MN
+        Housing & Redevelopment Authority of Litchfield                     MN
+        Housing & Redevelopment Authority of Little Falls                   MN
+        Housing & Redevelopment Authority of Long Prairie                   MN
+        Housing & Redevelopment Authority of Luverne                        MN
+        Housing & Redevelopment Authority of Madison                        MN
+        Public Housing Commission of the City of Marshall                   MN
+        McLeod County Housing & Redevelopment Authority                     MN
+        Meeker County Housing & Redevelopment Authority                     MN
+        Housing & Redevelopment Authority of the City of Melrose            MN
+        Metropolitan Council Housing & Redevelopment Authority              MN
+        Minneapolis Public Housing Authority                                MN
+        Housing & Redevelopment Authority of Montevideo                     MN
+        Housing & Redevelopment Authority of Montgomery                     MN
+        Moorhead Public Housing Agency                                      MN
+        Housing & Redevelopment Authority of Moose Lake                     MN
+        Housing & Redevelopment Authority of Mora                           MN
+        Housing & Redevelopment Authority of Morris                         MN
+        Morrison County Housing & Redevelopment Authority                   MN
+        Housing & Redevelopment Authority of Mound                          MN
+        Housing & Redevelopment Authority of Mountain Lake                  MN
+        Mower County Housing & Redevelopment Authority                      MN
+        Housing & Redevelopment Authority of New Richland                   MN
+        North Mankato Housing & Redevelopment Authority                     MN
+        Northwest Minnesota Multicounty Housing & Redevelopment Authority   MN
+        Olmsted County Housing & Redevelopment Authority                    MN
+        Owatonna Housing & Redevelopment Authority                          MN
+        Housing & Redevelopment Authority of Park Rapids                    MN
+        Housing & Redevelopment Authority of Pequot Lakes                   MN
+        Housing & Redevelopment Authority of Perham                         MN
+        Housing & Redevelopment Authority of Pine City                      MN
+        Housing & Redevelopment Authority of Pine River                     MN
+        Housing & Redevelopment Authority of Pipestone                      MN
+        Plymouth Housing & Redevelopment Authority                          MN
+        Housing & Redevelopment Authority of Princeton                      MN
+        Housing & Redevelopment Authority of Red Lake Falls                 MN
+        Red Wing Housing & Redevelopment Authority                          MN
+        Housing & Redevelopment Authority of Redwood Falls                  MN
+        Renville County Housing & Redevelopment Authority                   MN
+        Rice County Housing & Redevelopment Authority                       MN
+        Richfield Housing & Redevelopment Authority                         MN
+        Saint Paul Public Housing Agency                                    MN
+        Housing & Redevelopment Authority of Sauk Centre                    MN
+        Scott Carver Dakota Community Action Partnership Agency             MN
+        Scott County Community Development Agency                           MN
+        Housing & Redevelopment Authority of Sleepy Eye                     MN
+        South Central Minnesota Multicounty Housing & Redevelopment Authority   MN
+        South Metro Human Services                                          MN
+        South St. Paul Housing & Redevelopment Authority                    MN
+        Southeastern Minnesota Multicounty Housing & Redevelopment Authority    MN
+        St Louis Park Housing Authority                                     MN
+        St. Cloud Housing & Redevelopment Authority                         MN
+        Housing & Redevelopment Authority of St. James                      MN
+        Housing & Redevelopment Authority of St. Peter                      MN
+        Housing & Redevelopment Authority of Staples                        MN
+        Stearns County Housing & Redevelopment Authority                    MN
+        Stevens County Housing & Redevelopment Authority                    MN
+        Swift County Housing & Redevelopment Authority                      MN
+        Thief River Falls Housing & Redevelopment Authority                 MN
+        Todd County Housing & Redevelopment Authority                       MN
+        Housing & Redevelopment Authority of Tracy                          MN
+        Housing & Redevelopment Authority of Two Harbors                    MN
+        Housing & Redevelopment Authority of Virginia                       MN
+        Housing & Redevelopment Authority of Wadena                         MN
+        Housing & Redevelopment Authority of Walker                         MN
+        Housing & Redevelopment Authority of Warren                         MN
+        Housing & Redevelopment Authority of Warroad                        MN
+        Housing & Redevelopment Authority of Waseca                         MN
+        Washington County Community Development Agency                      MN
+        Housing & Redevelopment Authority of Windom                         MN
+        Winona Housing & Redevelopment Authority                            MN
+        Worthington Housing & Redevelopment Authority                       MN
+        Housing & Redevelopment Authority of Yellow                         MN
+        Housing Authority of the City of Aberdeen, The                      MS
+        Housing Authority of the City of Amory, The                         MS
+        Housing Authority of Attala County                                  MS
+        Housing Authority of the City of Baldwyn, The                       MS
+        Housing Authority of the City of Bay St. Louis, The                 MS
+        Bay Waveland Housing Authority                                      MS
+        Biloxi Housing Authority                                            MS
+        Booneville Housing Authority                                        MS
+        Housing Authority of the City of Brookhaven, The                    MS
+        Housing Authority of the City of Canton, The                        MS
+        Housing Authority of the City of Clarksdale, The                    MS
+        Housing Authority of the City of Columbus, The                      MS
+        Housing Authority of the City of Corinth, The                       MS
+        Housing Authority of the City of Forest, The                        MS
+        Housing Authority of the City of Greenwood, The                     MS
+        Housing Authority of the City of Hattiesburg, The                   MS
+        Housing Authority of the City of Hazlehurst, The                    MS
+        Housing Authority of the City of Holly Springs, The                 MS
+        Housing Authority of the City of Itta Bena, The                     MS
+        Housing Authority of the City of Iuka, The                          MS
+        Jackson Housing Authority                                           MS
+        Housing Authority of the City of Long Beach                         MS
+        Housing Authority of the City of Louisville, The                    MS
+        Housing Authority of the City of McComb, The                        MS
+        Meridian Housing Authority                                          MS
+        Housing Authority of the City of Mound Bayou, The                   MS
+        Housing Authority of the City of Natchez, The                       MS
+        North Delta Regional Housing Authority                              MS
+        Housing Authority of the City of Okolona, The                       MS
+        Oxford Housing Authority                                            MS
+        Housing Authority of the City of Picayune, The                      MS
+        Housing Authority of the City of Pontotoc, The                      MS
+        Housing Authority of the City of Richton, The                       MS
+        Housing Authority of the City of Sardis, The                        MS
+        Housing Authority of the City of Senatobia, The                     MS
+        Housing Authority of the City of Shelby, The                        MS
+        South Delta Regional Housing Authority                              MS
+        Housing Authority of the City of Starkville, The                    MS
+        Housing Authority of the City of Summit, The                        MS
+        Tennessee Valley Regional Housing Authority                         MS
+        Housing Authority of the City of Tupelo, The                        MS
+        Housing Authority of the City of Vicksburg                          MS
+        Housing Authority of the City of Walnut, The                        MS
+        Housing Authority of the City of Water Valley, The                  MS
+        Housing Authority of the City of Waveland, The                      MS
+        Housing Authority of the City of Waynesboro, The                    MS
+        Housing Authority of the City of West Point, The                    MS
+        Housing Authority of the City of Winona, The                        MS
+        Housing Authority of the City of Yazoo City, The                    MS                                                   
+        Housing Authority of the City of Alton                              MO
+        Anderson Housing Authority                                          MO
+        Aurora Housing Authority                                            MO
+        Housing Authority of the City of Ava                                MO
+        Bernie Housing Authority                                            MO
+        Bethany Housing Authority                                           MO
+        Housing Authority of the City of Bloomfield                         MO
+        Boone County Public Housing Agency                                  MO
+        Boonville Housing Authority                                         MO
+        Bowling Green Housing Authority                                     MO
+        Branson Housing Authority                                           MO
+        Brookfield Housing Authority                                        MO
+        Brunswick Housing Authority                                         MO
+        Cabool Housing Authority                                            MO
+        Housing Authority of the City of Cameron                            MO
+        Campbell Housing Authority                                          MO
+        Cardwell Housing Authority                                          MO
+        Carrollton Housing Authority                                        MO
+        Caruthersville Housing Authority                                    MO
+        Chaffee Housing Authority                                           MO
+        Housing Authority of the City of Charleston                         MO
+        Chillicothe Housing Authority                                       MO
+        Clarkton Housing Authority                                          MO
+        Clinton Housing Authority                                           MO
+        Columbia Housing Authority                                          MO
+        Dexter Housing Authority                                            MO
+        East Prairie Housing Authority                                      MO
+        Excelsior Springs Housing Authority                                 MO
+        Fayette Housing Authority                                           MO
+        Festus Housing Authority                                            MO
+        Fulton Housing Authority                                            MO
+        Housing Authority of the City of Gideon                             MO
+        Glasgow Housing Authority                                           MO
+        Grundy County Public Housing Agency                                 MO
+        Hannibal Housing Authority                                          MO
+        Housing Authority of the City of Hayti                              MO
+        Hayti Heights Housing Authority                                     MO
+        Higginsville Housing Authority                                      MO
+        Housing Authority of the City of Hillsdale                          MO
+        Hornersville Housing Authority                                      MO
+        Housing Authority of the City of Houston                            MO
+        Howell County Public Housing Agency                                 MO
+        Illmo Housing Authority                                             MO
+        Housing Authority of the City of Independence                       MO
+        Jasper County Public Housing Agency                                 MO
+        Housing Authority of the City of Jefferson                          MO
+        Jefferson Franklin Community Action Corporation                     MO
+        Housing Authority of the City of Joplin                             MO
+        Housing Authority of Kansas City, Missouri                          MO
+        Kennett Housing Authority                                           MO
+        Kirksville Housing Authority                                        MO
+        Housing Authority of the City of Kirkwood                           MO
+        Lafayette County Housing Authority                                  MO
+        Lanagan Housing Authority                                           MO
+        Lancaster Housing Authority                                         MO
+        Lawson Housing Authority                                            MO
+        Lebanon Housing Authority                                           MO
+        Lees Summit Housing Authority                                       MO
+        Lexington Housing Authority                                         MO
+        Liberty Housing Authority                                           MO
+        Lincoln County Public Housing Agency                                MO
+        Macon Housing Authority                                             MO
+        Malden Housing Authority                                            MO
+        Mansfield Housing Authority                                         MO
+        Marceline Housing Authority                                         MO
+        Marionville Housing Authority                                       MO
+        Marshall Housing Authority                                          MO
+        Maryville Housing Authority                                         MO
+        Housing Authority of the City of Memphis                            MO
+        Mexico Housing Authority                                            MO
+        Housing Authority of the City of Moberly                            MO
+        Housing Authority of the City of Morehouse                          MO
+        Mound City Housing Authority                                        MO
+        Mountain Grove Housing Authority                                    MO
+        Neosho Housing Authority                                            MO
+        Nevada Housing Authority                                            MO
+        New Madrid Housing Authority                                        MO
+        Nodaway County Housing Authority                                    MO
+        Noel Housing Authority                                              MO
+        Housing Authority of the City of Norwood                            MO
+        Housing Authority of the City of Olivette                           MO
+        Housing Authority of the City of Oran                               MO
+        Osceola Housing Authority                                           MO
+        Ozarks Area Community Action Corporation                            MO
+        Housing Authority of the City of Pagedale                           MO
+        Phelps County Public Housing Agency                                 MO
+        Pineville Housing Authority                                         MO
+        Plattsburg Housing Authority                                        MO
+        Housing Authority of the City of Poplar Bluff                       MO
+        Housing Authority of the City of Portageville                       MO
+        Potosi Housing Authority                                            MO
+        Princeton Housing Authority                                         MO
+        Pulaski County Public Housing Authority                             MO
+        Ray County Housing Authority                                        MO
+        Republic Housing Authority                                          MO
+        Richland Housing Authority                                          MO
+        Richmond Housing Authority                                          MO
+        Ripley County Public Housing Agency                                 MO
+        Rolla Housing Authority                                             MO
+        St. Charles County Housing Assistance Program                       MO
+        Housing Authority of the City of Sainte Genevieve                   MO
+        Salem Housing Authority                                             MO
+        Scotland County Public Hsg Agency                                   MO
+        Sedalia Housing Authority                                           MO
+        Senath Housing Authority                                            MO
+        Housing Authority of the City of Sikeston                           MO
+        Slater Housing Authority                                            MO
+        Smithville Housing Authority                                        MO
+        Housing Authority of Southwest City                                 MO
+        Housing Authority of the City of Springfield                        MO
+        St. Charles Housing Authority                                       MO
+        St. Clair County Housing Authority                                  MO
+        St. Francois County Public Housing Agency                           MO
+        St. Joseph Housing Authority                                        MO
+        Housing Authority of St. Louis County                               MO
+        Housing Authority of the City of Steele                             MO
+        Tarkio Housing Authority                                            MO
+        Thayer Housing Authority                                            MO
+        Vandalia Housing Authority                                          MO
+        Housing Authority of the City of Wardell                            MO
+        Warrensburg Housing Authority                                       MO
+        Webb City Housing Authority                                         MO
+        Wellston Housing Authority                                          MO
+        Housing Authority of the City of West Plains                        MO
+        Weston Housing Authority                                            MO
+        Housing Authority of the City of Anaconda                           MT
+        Housing Authority of Billings                                       MT
+        Housing Authority of Butte                                          MT
+        Dawson County Housing Authority                                     MT
+        Housing Authority of Glasgow                                        MT
+        Great Falls Housing Authority                                       MT
+        Helena Housing Authority                                            MT
+        Missoula Housing Authority                                          MT
+        Richland County Housing Authority                                   MT
+        City of Ronan Housing Authority                                     MT
+        Whitefish Housing Authority                                         MT
+        Ainsworth Housing Authority                                         NE
+        Albion Housing Authority                                            NE
+        Alliance Housing Authority                                          NE
+        Alma Housing Authority                                              NE
+        Ansley Housing Authority                                            NE
+        Auburn Housing Authority                                            NE
+        Aurora Housing Authority                                            NE
+        Bassett Housing Authority                                           NE
+        Bayard Housing Authority                                            NE
+        Beatrice Housing Authority                                          NE
+        Beemer Housing Authority                                            NE
+        Bellevue Housing Agency                                             NE
+        Benkelman Housing Authority                                         NE
+        Blair Housing Authority                                             NE
+        Blue Hill Housing Authority                                         NE
+        Bridgeport Housing Authority                                        NE
+        Broken Bow Housing Authority                                        NE
+        Burwell Housing Authority                                           NE
+        Cairo Housing Authority                                             NE
+        Cambridge Housing Authority                                         NE
+        Central Nebraska Joint Housing Authority                            NE 
+        Chadron Housing Authority                                           NE
+        Chappell Housing Authority                                          NE
+        Clarkson Housing Authority                                          NE
+        Clay Center Housing Authority                                       NE
+        Coleridge Housing Authority                                         NE
+        Columbus Housing Authority                                          NE
+        Cozad Housing Authority                                             NE
+        Creighton Housing Authority                                         NE
+        Crete Housing Authority                                             NE
+        Curtis Housing Authority                                            NE
+        David City Housing Authority                                        NE
+        Deshler Housing Authority                                           NE
+        Douglas County Housing Authority                                    NE
+        Edgar Housing Authority                                             NE
+        Emerson Housing Authority                                           NE
+        Fairbury Housing Authority                                          NE
+        Fairmont Housing Authority                                          NE
+        Falls City Housing Authority                                        NE
+        Fremont Housing Agency                                              NE
+        Friend Housing Authority                                            NE
+        Genoa Housing Authority                                             NE
+        Goldenrod Regional Housing Agency                                   NE
+        Gordon Housing Authority                                            NE
+        Gothenburg Housing Authority                                        NE
+        Grant Housing Authority                                             NE
+        Greeley Housing Authority                                           NE
+        Gresham Housing Authority                                           NE
+        Hall County Housing Authority                                       NE
+        Harvard Housing Authority                                           NE
+        Hastings Housing Authority                                          NE
+        Hay Springs Housing Authority                                       NE
+        Henderson Housing Authority                                         NE
+        Hooper Housing Authority                                            NE
+ HPWN   Housing Partners of Western Nebraska                                NE
+        Humboldt Housing Authority                                          NE
+        Imperial Housing Authority                                          NE
+        Indianola Housing Authority                                         NE
+        Kearney Housing Agency                                              NE
+        Lexington Housing Authority                                         NE
+        Lincoln Housing Authority                                           NE
+        Loup City Housing Authority                                         NE
+        Lynch Housing Authority                                             NE
+        Lyons Housing Authority                                             NE
+        McCook Housing Authority                                            NE
+        Minden Housing Authority                                            NE
+        Nebraska City Housing Authority                                     NE
+        Neligh Housing Authority                                            NE
+        Nelson Housing Authority                                            NE
+        Newman Grove Housing Authority                                      NE
+        Niobrara Housing Authority                                          NE
+        Norfolk Housing Agency                                              NE
+        North Loup Housing Authority                                        NE
+        North Platte Housing Authority                                      NE
+        Northeast Nebraska Joint Housing Authority                          NE
+        Oakland Housing Authority                                           NE
+        Omaha Housing Authority                                             NE
+        Ord Housing Authority                                               NE
+        Oshkosh Housing Authority                                           NE
+        Oxford Housing Authority                                            NE
+        Pawnee City Housing Authority                                       NE
+        Plattsmouth Housing Authority                                       NE
+        Red Cloud Housing Authority                                         NE
+        Sargent Housing Authority                                           NE
+        Schuyler Housing Authority                                          NE
+        Shelton Housing Authority                                           NE
+        South Sioux City Housing Agency                                     NE
+        St. Edward Housing Authority                                        NE
+        St. Paul Housing Authority                                          NE
+        Stanton Housing Authority                                           NE
+        Stromsburg Housing Authority                                        NE
+        Sutherland Housing Authority                                        NE
+        Syracuse Housing Authority                                          NE
+        Tilden Housing Authority                                            NE
+        Verdigre Housing Authority                                          NE
+        Wayne Housing Authority                                             NE
+        Weeping Water Housing Authority                                     NE
+        West Central Nebraska Joint Housing Authority                       NE
+        Wilber Housing Authority                                            NE
+        Wood River Housing Authority                                        NE
+        Wymore Housing Authority                                            NE
+        Clark County CARES Housing Assistance Program                       NV
+        Nevada Rural Housing Authority                                      NV
+        Reno Housing Authority                                              NV
+        Southern Nevada Regional Housing Authority                          NV                               
+        Berlin Housing Authority                                            NH
+        Claremont Housing Authority                                         NH
+        Concord Housing and Redevelopment                                   NH
+        Derry Housing and Redevelopment Authority                           NH
+        Dover Housing Authority                                             NH
+        Exeter Housing Authority                                            NH
+        Keene Housing                                                       NH
+        Laconia Housing Authority                                           NH
+        Lancaster Housing Authority                                         NH
+        Lebanon Housing Authority                                           NH
+        Manchester Housing and Redevelopment Authority                      NH
+        Nashua Housing Authority                                            NH
+        Newmarket Housing Authority                                         NH
+        Northumberland Housing Authority                                    NH
+        Portsmouth Housing Authority                                        NH
+        Rochester Housing Authority                                         NH
+        Housing Authority of the Town of Salem                              NH
+        Somersworth Housing Authority                                       NH
+        Asbury Park Housing Authority                                       NJ
+        Atlantic City Housing Authority                                     NJ
+        Bayonne Housing Authority                                           NJ
+        Belmar Housing Authority                                            NJ
+        Housing Authority of Bergen County                                  NJ
+        Berkeley Housing Authority                                          NJ
+        Beverly Housing Authority                                           NJ
+        Housing Authority of the Township of Bloomfield                     NJ
+        Boonton Housing Authority                                           NJ
+        Borough of Clementon Housing Authority                              NJ
+        Housing Authority of the Township of Brick                          NJ
+        Bridgeton Housing Authority                                         NJ
+        Buena Housing Authority                                             NJ
+        Burlington County Board of Social Services                          NJ
+        Burlington Housing Authority                                        NJ
+        Housing Authority of the City of Camden                             NJ
+        Cape May Housing Authority                                          NJ
+        Carteret Housing Authority                                          NJ
+        Cherry Hill Housing Authority                                       NJ
+        City of Clifton Housing Department                                  NJ
+        Cliffside Park Housing Authority                                    NJ
+        Collingswood Housing Authority                                      NJ
+        Housing Authority Town of Dover                                     NJ
+        Housing Authority of the City of East Orange                        NJ
+        Edgewater Housing Authority                                         NJ
+        Edison Housing Authority                                            NJ
+        Elizabeth Housing Authority                                         NJ
+        Englewood Housing Authority                                         NJ
+        Florence Housing Authority                                          NJ
+        Housing Authority of the Township of Franklin                       NJ
+        Freehold Housing Authority                                          NJ
+        Garden State Episcopal CDC                                          NJ
+        Garfield Housing Authority                                          NJ
+        Glassboro Housing Authority                                         NJ
+        Gloucester City Housing Authority                                   NJ
+        Housing Authority of Gloucester County                              NJ
+        Guttenberg Housing Authority                                        NJ
+        Hackensack Housing Authority                                        NJ
+        Haddon Housing Authority                                            NJ
+        Hamilton Township Housing Authority                                 NJ
+        Harrison Housing Authority                                          NJ
+        Highland Park Housing Authority                                     NJ
+        Highlands Housing Authority                                         NJ
+        Hightstown Housing Authority                                        NJ
+        Hoboken Housing Authority                                           NJ
+        Hunterdon County Division of Housing                                NJ
+        Irvington Township Housing Authority                                NJ
+        Jersey City Housing Authority                                       NJ
+        Keansburg Housing Authority                                         NJ
+        Lakewood Housing Authority                                          NJ
+        Lakewood Township Residential Assistance Program                    NJ
+        Housing Authority City of Linden                                    NJ
+        Housing Authority of the Borough of Lodi                            NJ
+        Long Branch Housing Authority                                       NJ
+        Manville Housing Authority                                          NJ
+        Middlesex County Division of Housing and Social Services            NJ
+        Middletown Housing Authority                                        NJ
+        Millville Housing Authority                                         NJ
+        Montclair Housing Authority                                         NJ
+        Morris County Housing Authority                                     NJ
+        Morristown Housing Authority                                        NJ
+        Neptune Housing Authority                                           NJ
+        New Brunswick Housing Authority                                     NJ
+        Newark Housing Authority                                            NJ
+        Newton Housing Authority                                            NJ
+        North Bergen Housing Authority                                      NJ
+        Ocean City Housing Authority                                        NJ
+        Old Bridge Housing Authority                                        NJ
+        Orange Housing Authority                                            NJ
+        Housing Authority of the City of Passaic                            NJ
+        Passaic County Public Housing Agency                                NJ
+        Housing Authority of the City of Paterson                           NJ
+        Penns Grove Housing Authority                                       NJ
+        Pennsauken Housing Authority                                        NJ
+        Housing Authority of the City of Perth Amboy                        NJ
+        Phillipsburg Housing Authority                                      NJ
+        Housing Authority of Plainfield                                     NJ
+        Princeton Housing Authority                                         NJ
+        Rahway Housing Authority                                            NJ
+        Red Bank Housing Authority                                          NJ
+        Salem Housing Authority                                             NJ
+        Housing Authority of the Borough of Sayreville                      NJ
+        Secaucus Housing Authority                                          NJ
+        Somerville Housing Authority                                        NJ
+        South Amboy Housing Authority                                       NJ
+        Summit Housing Authority                                            NJ
+        Trenton Housing Authority                                           NJ
+        Union City Housing Authority                                        NJ
+        Union County Housing Authority                                      NJ
+        Union Township Housing Authority                                    NJ
+        Vineland Housing Authority                                          NJ
+        Warren County Housing Authority                                     NJ
+        Weehawken Housing Authority                                         NJ
+        West New York Housing Authority                                     NJ
+        West Orange Public Housing Agency                                   NJ
+        Wildwood Housing Authority                                          NJ
+        Woodbridge Housing Authority                                        NJ
+        Housing Authority of the City of Alamogordo                         NM
+        Albuquerque Housing Authority                                       NM
+        Housing Authority of the City of Artesia                            NM
+        Housing Authority of the Town of Bayard                             NM
+        Bernalillo County Housing Department                                NM
+        Housing Authority of the Village of Chama                           NM
+        Housing Authority of the Village of Cimarron                        NM
+        Housing Authority of the Town of Clayton                            NM
+        Clovis Housing and Redevelopment Agency                             NM
+        Housing Authority of the Village of Cuba                            NM
+        Housing Authority of the County of Dona Ana                         NM
+        Eastern Regional Housing Authority                                  NM
+        El Camino Real Housing Authority                                    NM
+        Housing Authority of the City of Eunice                             NM
+        Housing Authority of the Village of Fort Sumner                     NM
+        Housing Authority of the City of Gallup                             NM
+        Housing Authority of the City of Grants                             NM
+        Housing Authority of San Miguel County                              NM
+        Housing Authority of the City of Las Vegas                          NM
+        Housing Authority of the City of Lordsburg                          NM
+        Housing Authority of the Village of Los Lunas                       NM
+        Housing Authority of the City of Lovington                          NM
+        Housing Authority of the Village of Maxwell                         NM
+        Mesilla Valley Public Housing Authority                             NM
+        Housing Authority of the Town of Mountainair                        NM
+        Northern Regional Housing Authority                                 NM
+        Housing Authority of the Village of Pecos                           NM
+        Housing Authority of the City of Raton                              NM
+        Housing Authority of the County of Rio Arriba                       NM
+        Housing Authority of the County of San Juan                         NM
+        Housing Authority of the County of San Miguel                       NM
+        Santa Clara Housing Authority                                       NM
+        Housing Authority of the County of Santa Fe                         NM
+        Santa Fe Civic Housing Authority                                    NM
+        Housing Authority of the Town of Springer                           NM
+        Housing Authority of the City of Sunland Park                       NM
+        Truth or Consequences Housing Authority                             NM
+        Housing Authority of the City of Tucumcari                          NM
+        Housing Authority of the Village of Wagon Mound                     NM
+        Western Regional Housing Authority                                  NM
 
 
 
+        Ahoskie Housing Authority                                           NC
+        City of Albemarle Department of Public Housing                      NC
+        Andrews Housing Authority                                           NC
+        Asheboro Housing Authority                                          NC
+        Housing Authority of the City of Asheville                          NC
+        Benson Housing Authority                                            NC
+        Bladen Housing Authority                                            NC
+        Bladenboro Housing Authority                                        NC
+        Brevard Housing Authority                                           NC
+        Brunswick County Public Housing Agency                              NC
+        Burlington Housing Authority                                        NC
+        Caswell County Housing                                              NC
+        Town of Chapel Hill Department of Housing                           NC
+        Chatham County Housing Authority                                    NC
+        Choanoke Area Development Association                               NC
+        Clarkton Housing Authority                                          NC
+        Coastal Community Action                                            NC
+        Columbus County Public Housing Agency                               NC
+        Housing Authority of the City of Concord                            NC
+        Dunn Housing Authority                                              NC
+        Durham Housing Authority                                            NC
+        Town of East Spencer Housing Authority                              NC
+        Eastern Carolina Regional Housing Authority                         NC
+        Elizabeth City Housing Authority                                    NC
+        Elizabethtown Housing Authority                                     NC
+        Fairmont Housing Authority                                          NC
+        Farmville Housing Authority                                         NC
+        Fayetteville Metropolitan Housing Authority                         NC
+        Forest City Housing Authority                                       NC
+        Four Square Community Action                                        NC
+        Franklin-Vance-Warren Opportunity                                   NC
+        Gastonia Housing Authority                                          NC
+        Housing Authority of the City of Goldsboro                          NC
+        Graham Housing Authority                                            NC
+        Greene County Public Housing Agency                                 NC
+        Greensboro Housing Authoity                                         NC
+        Housing Authority of the City of Greenville                         NC
+        Hamlet Housing Authority                                            NC
+        Harnett County Housing                                              NC
+        Hendersonville Housing Authority                                    NC
+        Hertford Housing Authority                                          NC
+        City of Hickory Public Housing Authority                            NC
+        Housing Authority of the City of High Point                         NC
+        Hot Springs Housing Authority                                       NC
+        Jackson County Public Housing Agency                                NC
+        Kings Mountain Housing Authority                                    NC
+        Kinston Housing Authority                                           NC
+        Housing Authority of the Town of Laurinburg                         NC
+        Lenoir Housing Authority                                            NC
+        Lexington Housing Authority                                         NC
+        Lincolnton Housing Authority                                        NC
+        Lumberton Housing Authority                                         NC
+        Macon Program for Progress                                          NC
+        Madison County Housing Authority                                    NC
+        Madison Housing Authority                                           NC
+        Mars Hill Housing Authority                                         NC
+        Marshall Housing Authority                                          NC
+        Maxton Housing Authority                                            NC
+        Mid-East Regional Housing Authority                                 NC
+        Monroe Housing Authority                                            NC
+        Mooresville Housing Authority                                       NC
+        Morganton Housing Authority                                         NC
+        Housing Authority of the Town of Mount Airy                         NC
+        Mount Gilead Housing Authority                                      NC
+        City of Mount Holly Department of Housing                           NC
+        Mount Olive Housing Authority                                       NC
+        Mountain Projects                                                   NC
+        Housing Programs of the Town of Murphy                              NC
+        Nash-Edgecombe Economic Development                                 NC
+        Housing Authority of the City of New Bern                           NC
+        New Edenton Housing Authority, The                                  NC
+        New Randleman Housing Authority, The                                NC
+        New Reidsville Housing Authority                                    NC
+        North Wilkesboro Housing Authority                                  NC
+        Northwestern Regional Housing Authority                             NC
+        Orange County Housing Authority                                     NC
+        Oxford Housing Authority                                            NC
+        Pembroke Housing Authority                                          NC
+        Pender County Housing Department                                    NC
+        Piedmont Triad Regional Council                                     NC
+        Plymouth Housing Authority                                          NC
+        Princeville Housing Authority                                       NC
+        Raleigh Housing Authority                                           NC
+        Redevelopment Commission of the Town of Tarboro                     NC
+        Roanoke Rapids Housing Authority                                    NC
+        Roanoke-Chowan Regional Housing Authority                           NC
+        Robersonville Housing Authority                                     NC
+        Robeson County Housing Authority                                    NC
+        Rockingham Housing Authority                                        NC
+        Rocky Mount Housing Authority                                       NC
+        Rowan County Housing Authority                                      NC
+        Roxboro Housing Authority                                           NC
+        Housing Authority of the City of Salisbury                          NC
+        Sandhills Community Action Program                                  NC
+        Sanford Housing Authority                                           NC
+        Selma Housing Authority                                             NC
+        City of Shelby Housing Department                                   NC
+        Smithfield Housing Authority                                        NC
+        Southeastern Community and Family Services                          NC
+        Southern Pines Housing Authority                                    NC
+        Spruce Pine Housing Authority                                       NC
+        Star Housing Authority                                              NC
+        Statesville Housing Authority                                       NC
+        Thomasville Housing Authority                                       NC
+        Troy Housing Authority                                              NC
+        Valdese Housing Authority                                           NC
+        Vance County Housing Authority                                      NC
+        Wadesboro Housing Authority                                         NC
+        Housing Authority of the County of Wake                             NC
+        Washington Housing Authority                                        NC
+        Waynesville Housing Authority                                       NC
+        Western Carolina Community Action                                   NC
+        Western Piedmont Council of Governments Regional Housing Authority  NC
+        Whiteville Housing Authority                                        NC
+        Williamston Housing Authority                                       NC
+        Wilmington Housing Authority                                        NC
+        Wilson Housing Authority                                            NC
+        Housing Authority of Winston-Salem                                  NC
+        Barnes County Housing Authority                                     ND
+        Benson County Housing Authority                                     ND
+        Burleigh County Housing Authority                                   ND
+        Housing Authority of Cass County                                    ND
+        Cavalier County Housing Authority                                   ND
+        Housing Authority of the City of Cooperstown                        ND
+DSHA    Dickey/Sargent Counties Housing Authority                           ND
+        Dunn County Housing Authority                                       ND
+        Eddy County Housing Authority                                       ND
+        Emmons County Housing Authority                                     ND
+        Fargo Housing Authority                                             ND
+        Housing Authority of Foster County                                  ND
+        Grand Forks Housing Authority                                       ND
+GPHA    Great Plains Housing Authority                                      ND
+        Lamoure County Housing Authority                                    ND
+        McHenry-Pierce County Housing Authority                             ND
+        McIntosh County Housing Authority                                   ND
+        McKenzie County Housing Authority                                   ND
+        Mercer County Housing Authority                                     ND
+        Minot Housing Authority                                             ND
+        Morton County Housing Authority                                     ND
+        Housing Authority of Mountrail County                               ND
+        Nelson County Housing Authority                                     ND
+        North Central Housing Authority                                     ND
+        Northwest Regional Housing Authority                                ND
+        Pembina County Housing Authority                                    ND
+        Ransom County Housing Authority                                     ND
+        Richland County Housing Authority                                   ND
+        Rolette County Housing Authority                                    ND
+        Stark County Housing Authority                                      ND
+        Towner County Housing Authority                                     ND
+        Traill County Housing Authority                                     ND
+        Walsh County Housing Authority                                      ND
+        Housing Authority of the County of Wells                            ND
+        Housing Authority of the City of Williston                          ND
+        Northern Marianas Housing Corporation                               MP (Northern Marianas Islands) 
+        Adams Metropolitan Housing Authority                                OH
+        Akron Metropolitan Housing Authority                                OH
+        Allen Metropolitan Housing Authority                                OH
+        Ashtabula Metropolitan Housing Authority                            OH
+        Athens Metropolitan Housing Authority                               OH
+        Belmont Metropolitan Housing Authority                              OH
+        Bowling Green Housing Agency                                        OH
+        Brown Metropolitan Housing Authority                                OH
+        Butler Metropolitan Housing Authority                               OH
+        Cambridge Metropolitan Housing Authority                            OH
+        Chillicothe Metropolitan Housing Authority                          OH
+        Cincinnati Metropolitan Housing Authority                           OH
+        Clermont Metropolitan Housing Authority                             OH
+        Clinton Metropolitan Housing Authority                              OH
+        Columbiana Metropolitan Housing Authority                           OH
+        Columbus Metropolitan Housing Authority                             OH
+        Coshocton Metropolitan Housing Authority                            OH
+        Crawford Metropolitan Housing Authority                             OH
+        Cuyahoga Metropolitan Housing Authority                             OH
+        Darke County Metropolitan Housing Authority                         OH
+        Delaware Metropolitan Housing Authority                             OH
+        Emerald Development And Economic Network                            OH
+        Erie Metropolitan Housing Authority                                 OH
+        Fairfield Metropolitan Housing Authority                            OH
+        Fayette Metropolitan Housing Authority                              OH
+        Gallia Metropolitan Housing Authority                               OH
+        Geauga Metropolitan Housing Authority                               OH
+        Greater Dayton Premier Management                                   OH
+        Greene Metropolitan Housing Authority                               OH
+        Hancock Metropolitan Housing Authority                              OH
+        Harrison Metropolitan Housing Authority                             OH
+        Henry Metropolitan Housing Authority                                OH
+        Highland Metropolitan Housing Authority                             OH
+        Hocking Metropolitan Housing Authority                              OH
+        Huron Metropolitan Housing Authority                                OH
+        Ironton Metropolitan Housing Authority                              OH
+        Jackson County Metropolitan Housing Authority                       OH
+        Jefferson Metropolitan Housing Authority                            OH
+        Knox Metropolitan Housing Authority                                 OH
+        Lake Metropolitan Housing Authority                                 OH
+        Licking Metropolitan Housing Authority                              OH
+        Logan County Metropolitan Housing Authority                         OH
+        London Metropolitan Housing Authority                               OH
+        Lorain Metropolitan Housing Authority                               OH
+        Lucas Metropolitan Housing Authority                                OH
+        Mansfield Metropolitan Housing Authority                            OH
+        Medina Metropolitan Housing Authority                               OH
+        Meigs Metropolitan Housing Authority                                OH
+        Miami Metropolitan Housing Authority                                OH
+        Monroe Metropolitan Housing Authority                               OH
+        Morgan Metropolitan Housing Authority                               OH
+        Morrow Metropolitan Housing Authority                               OH
+        Noble Metropolitan Housing Authority                                OH
+        Parma Public Housing Agency                                         OH
+        Perry County Metropolitan Housing Authority                         OH
+        Pickaway Metropolitan Housing Authority                             OH
+        Pike Metropolitan Housing Authority                                 OH
+        Portage Metropolitan Housing Authority                              OH
+        Portsmouth Metropolitan Housing Authority                           OH
+        Preble Metropolitan Housing Authority                               OH
+        Sandusky Metropolitan Housing Authority                             OH
+        Seneca Metropolitan Housing Authority                               OH
+        Shelby Metropolitan Housing Authority                               OH
+        Springfield Metropolitan Housing Authority                          OH
+        Stark Metropolitan Housing Authority                                OH
+        Trumbull Metropolitan Housing Authority                             OH
+        Tuscarawas Metropolitan Housing Authority                           OH
+        Vinton Metropolitan Housing Authority                               OH
+        Warren Metropolitan Housing Authority                               OH
+        Wayne Metropolitan Housing Authority                                OH
+        Williams Metropolitan Housing Authority                             OH
+        Youngstown Metropolitan Housing Authority                           OH
+        Zanesville Metropolitan Housing Authority                           OH
+        Housing Authority of the City of Ada                                OK
+        Housing Authority of the City of Anadarko                           OK
+        Housing Authority of the Town of Antlers                            OK
+        Housing Authority of the Town of Apache                             OK
+        Housing Authority of the City of Atoka                              OK
+        Boley Housing Authority                                             OK
+        Housing Authority of the City of Boswell                            OK
+        Bristow Housing Authority                                           OK
+        Broken Bow Housing Authority                                        OK
+        Housing Authority of the Town of Cache                              OK
+        Housing Authority of the Caddo Electric Cooperative                 OK
+        Housing Authority of the Town of Cement                             OK
+        Housing Authority of the Town of Cheyenne                           OK
+        Housing Authority of the Choctaw Electric Cooperative               OK
+        Housing Authority of the Town of Clayton                            OK
+        Coalgate Housing Authority                                          OK
+        Housing Authority of the City of Comanche                           OK
+        Commerce Housing Authority                                          OK
+        Housing Authority of the Cookson Hills Electric Cooperative         OK
+        Housing Authority of the Town of Cushing                            OK
+        Housing Authority of the Town of Cyril                              OK
+        Housing Authority of the City of Del City                           OK
+        Drumright Housing Authority                                         OK
+        Elk City Housing Authority                                          OK
+        Housing Authority of the Town of Fort Cobb                          OK
+        Fort Gibson Housing Authority                                       OK
+        Geary Housing Authority                                             OK
+        Grandfield Housing Authority                                        OK
+        Housing Authority of the Town of Granite                            OK
+        Guthrie Housing Authority                                           OK
+        Haileyville Housing Authority                                       OK
+        Hartshorne Housing Authority                                        OK
+        Housing Authority of the City of Heavener                           OK
+        Housing Authority of the City of Henryetta                          OK
+        Housing Authority of the City of Hobart                             OK
+        Holdenville Housing Authority                                       OK
+        Housing Authority of Osage County                                   OK
+        Housing Authority of Prague                                         OK
+        Hugo Housing Authority                                              OK
+        Hydro Housing Authority                                             OK
+        Housing Authority of the City of Idabel                             OK
+        Indiahoma Housing Authority                                         OK
+        Housing Authority of the City of Keota                              OK
+        Housing Authority of the Kiamichi Electric Cooperative              OK
+        Housing Authority of the City of Kingston                           OK
+        Housing Authority of the City of Konawa                             OK
+        Housing Authority of the City of Krebs                              OK
+        Housing Authority of the City of Langston                           OK
+        Lawton Housing Authority                                            OK
+        Housing Authority of the Town of Lone Wolf                          OK
+        Madill Housing Authority                                            OK
+        Mangum Housing Authority                                            OK
+        Housing Authority of the City of Maud                               OK
+        McAlester Housing Authority                                         OK
+        Miami Housing Authority                                             OK
+        Housing Authority of the City of Minco                              OK
+        Housing Authority of the Town of Mountain Park                      OK
+        Muskogee Housing Authority                                          OK
+        Housing Authority of the City of Newkirk                            OK
+        Norman Housing Authority                                            OK
+        Housing Authority of the City of Oilton                             OK
+        Oklahoma City Housing Authority                                     OK
+        Housing Authority of the City of Pauls Valley                       OK
+        Housing Authority of the City of Pawnee                             OK
+        Housing Authority of the City of Picher                             OK
+        Housing Authority of the Town of Ringling                           OK
+        Roosevelt Housing Authority                                         OK
+        Housing Authority of the Town of Ryan                               OK
+        Housing Authority of the City of Sayre                              OK
+        Housing Authority of the Town of Seiling                            OK
+        Seminole Housing Authority                                          OK
+        Housing Authority of the City of Shawnee                            OK
+        Snyder Housing Authority                                            OK
+        Housing Authority of the Town of Sterling                           OK
+        Stigler Housing Authority                                           OK
+        Stillwater Housing Authority                                        OK
+        Stilwell Housing Authority                                          OK
+        Housing Authority of the Town of Stratford                          OK
+        Housing Authority of the City of Stroud                             OK
+        Housing Authority of the City of Tecumseh                           OK
+        Temple Housing Authority                                            OK
+        Housing Authority of the Town of Terral                             OK
+        Housing Authority of the Town of Tipton                             OK
+        Tishomingo Housing Authority                                        OK
+        Housing Authority of the City of Tulsa                              OK
+        Housing Authority of the Town of Tuttle                             OK
+        Valliant Housing Authority                                          OK
+        Walters Housing Authority                                           OK
+        Watonga Housing Authority                                           OK
+        Housing Authority of the City of Waurika                            OK
+        Housing Authority of the City of Waynoka                            OK
+        Weleetka Housing Authority                                          OK
+        Wetumka Housing Authority                                           OK
+        Wewoka Housing Authority                                            OK
+        Wilburton Housing Authority                                         OK
+        Housing Authority of the Town of Wister                             OK
+        Wynnewood Housing Authority                                         OK
+        Housing Authority of the City of Yale                               OK
         Housing Authority of Clackamas County                               OR
         Columbia Gorge Housing Authority                                    OR
         Coos-Curry Housing Authority                                        OR
