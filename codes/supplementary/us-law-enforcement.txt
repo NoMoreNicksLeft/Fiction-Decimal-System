@@ -90,6 +90,7 @@ Notes:
  - [county] SPCA Humane Police
  - [state] SPCA Law Enforcement
  - [state] SPCA Human Law Enforcement Division
+ - City of [local] Police Department
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
