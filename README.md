@@ -59,3 +59,49 @@ The values of these are grouped into ten categories, [which can be browsed here]
 Some of the names for these classes of plots aren't popular terms. Where possible, names from [TV Tropes](tvtropes.com) are preferred over novel terminology.
 
    
+## Protagonist/Antagonist Codes
+
+Note: Everything described in this section applies equally to antagonists as well as protagonists.
+
+There is a bit more complexity required to do some characters justice. While the introduction touches on how to describe mulitple protagonists when only describing one or the other, this doesn't really explain how to encode two characters who have the same description. When a character can't be described as just *one* thing, it doesn't explain how to combine two codes to indicate that both codes describe the same character. And finally, when a character is best described by what he or she *is* compared to what he or she *was*, this also requires two codes.
+
+### Singular vs. Plural
+
+The introduction has already sketched out how to indicate multiple protagonists (or antagonists), a comma-delimited list of codes is supplied. The list itself is plural and contrasts nicely with a singular code. However, occasionally it will be necessary to describe two or more protagonists who all use the same code. In *Butch Cassidy and the Sundance Kid* the two protagonists are both Wild West outlaws (train robbery mostly), and it's difficult to imagine how they might be substantially different. Rather than making the full code substantially longer by stringing together two of the same code, the single code can be given a suffix of `+`, like so:
+
+`3045+`
+
+This only indicates plurality and not exact quantity. The code would be equally correct for a movie about four train robbers as it would be for two train robbers.
+
+Furthermore, it can be used with non-leaf nodes. A television show with an ensemble cast about NYPD police officers would use the following:
+
+`213400061+`
+
+A plural code can also be included in a list if necessary, like so:
+
+`213400061+,405681`
+
+### Multi-faceted Characters
+
+Occasionally, a complex character can't be described very well with a single code. *Indiana Jones* need not be coded both as an archaeologist and an adventurer (though he is surely both), because the "adventurer" part is the conceit of the films. They do not show him doing boring field management work over a bunch of interns and grad students and surly porters. But, from the same era we have *Buckaroo Banzai* who is a brain surgeon, rock star, *and* theoretical physicist. (Note: This is a special case where a three-faceted code could be justified, normally only two should be permitted.)
+
+
+
+### Transformed Characters
+
+Let us start with examples. Our first is a story for a small child, perhaps as an illustrated reader. A butterfly lives a life where he speaks to others about how he was once a caterpillar. Our second story concerns a Buddha-like figure who was once ordinary, but at the time of the story has received epiphany and knows how to live life. (Note: Though this is very much not Buddha, because there's a code for him specifically, several in fact.) The details of his former life (or even his current), are less important to the story than that the change has occurred. A third story is a more modest version of a previous, an alcoholic has through sheer power of will made himself sober. Finally, the fourth story is that of a broken man, who has lost everything once dear to him.
+
+The codes for these characters will look like the following:
+
+*Butterfly-once-caterpillar* - `p=8123>8456`  
+*Spiritually-awakened-man* - `0789>0246`  
+*Former alcoholic* - `0357>0999`  
+*Broken man* - `0222>0888`  
+
+Each of these will use the `>` closing angle bracket (greater than) as punctuation that combines two codes to indicate a single code. In typeset print intended only for eyes using a right-pointing arrow is also acceptible (`0222→0888`), though in digital systems the punctuation **MUST** be the closing angle bracket.
+
+It is not recommended to use multiple transformations for a single code number. Very rarely would a story demand it, no obvious examples exist. Perhaps a "rags to riches to rags" character might, but fiction rarely depicts these double transformations except as cliched utterances, hardly stories themselves.
+
+It should be noted that the character *already needs to be transformed* by the start of the story. Perhaps a brief passage or scene at the very beginning is acceptable so as to establish the transformation, but if the character only transforms by the last chapter of the book, or for that matter, in the middle of the book, then the transformation is not the best way to describe the character. As a soft limit, consider that the transformation should be established within the first 10% of the story (running time, word/page/chapter count, etc).
+
+There are some other considerations you must also make. Some genres and archetype stories are above all else about the transformation the protagonist undergoes. Joseph Campbell's *Hero with a Thousand Faces* and its many, many derivatives. Nor should story-framing devices confuse the issue. If the movie starts out "You're probably wondering how I got here", then it may be true that at the point of the narration that the transformation is complete, but the narrator isn't the story. He is telling the audience this story, and he'll begin with the very-much-as-of-yet-untransformed protagonist.
