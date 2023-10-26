@@ -7,12 +7,14 @@
 0400 - 0849 - US Airports
 0850 - 0949 - US Roadway Authorities
 0950 - 0999 - Defunct Roadway Authorities
+1000 - 1099 - US Racetracks
+1100 - 1349 - Defunct Racetracks
 
-xxxx - xxxx - US Museums, Zoos, and Libraries
+1350 - xxxx - US Museums, Zoos, and Libraries
 
 xxxx - xxxx - US Hospitals
 
-xxxx - xxxx - US Racetracks
+
 xxxx - xxxx - US State Fairs
 
 
@@ -49,189 +51,190 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 0013            Brownsville Navigation District                             TX
 0014    BCWD    Buffalo Creek Watershed District                            MN
 0015    BRRWD   Buffalo-Red River Watershed District                        MN
-        CLA     Candlewood Lake Authority                                   CT      
-0016    CPA     Calhoun Port Authority                                      TX
-0017    CPA     Canaveral Port Authority                                    FL
-0018    CRWD    Capitol Region Watershed District                           MN
-0019    CMSCWD  Carnelian-Marine Watershed District                         MN
-0020    CRWD    Cedar River Watershed District                              MN
-0021            Chesapeake Port Authority                                   Multiple
-0022            City of Auburn Port Authority                               IN
-0023            City of Richmond Port Commission                            VA
-0024    CRWD    Clearwater River Watershed District                         MN
-0025    CLFLWD  Comfort Lake-Forest Lake Watershed District                 MN
-0026    CPA     Commonwealth Ports Authority of Saipan                      MP (Northern Mariana Islands)
-0027    CCWD    Coon Creek Watershed District                               MN
-0028    CLWD    Cormorant Lakes Watershed District                          MN
-0029    CCWD    Crooked Creek Watershed District                            MN
-0030            Dade County Seaport Department                              FL
-0031    DRBA    Delaware River & Bay Authority                              Multiple
-0032    DRBC    Delaware River Basin Commission                             Multiple
-0033    DRPA    Delaware River Port Authority                               Multiple
-0034    DWCPA   Detroit/Wayne County Port Authority                         MI
-0035    DSPC    Diamond State Port Corporation                              DE
-0036    DSPA    Duluth Seaway Port Authority                                MN
-0037            Eastport Port Authority                                     ME
-        EWA     Effingham Water Authority                                   IL
-0038    EWPPA   Erie-Western Pennsylvania Port Authority                    PA
-0039    FCPA    Fairfield County Port Authority                             OH
-0040            Georgia Ports Authority                                     GA
-0041    GLC     Great Lakes Commission                                      Multiple
-0042            Greater Baton Rouge Port Commission                         LA
-0043    GBRA    Guadalupe-Blanco River Authority                            TX
-0044            Harbor & Terminal District Plaquemines Port                 LA
-0045            Harbor & Terminal District St. Bernard Port Harbor          LA
-0046    HLWD    Heron Lake Watershed District                               MN
-0047    HIWD    High Island Creek Watershed District                        MN
-0048    HBHRCD  Humboldt Bay Harbor Recreation & Conservation District      CA
-0049    IIPD    Illinois International Port District                        IL
-0050            Indiana Port Commission                                     IN
-0051    ICPRB   Interstate Commission on the Potomac River Basin            Multiple
-0052    JCPA    Jackson County Port Authority                               MS
-0053    JAXPORT Jacksonville Port Authority                                 FL
-0054    JRWD    Joe River Watershed District                                MN
-0055    JVWCD   Jordan Valley Water Conservancy District                    UT
-0056    KLRWD   Kanaranzi-Little Rock Watershed District                    MN
-0057    LQPYBWD Lac Qui Parle-Yellow Bank Watershed District                MN
-0058            Lake Charles Port Harbor & Terminal District                LA
-        LHA     Lake Housatonic Lake Authority                              CT
-        LLA     Lake Lillinonah Authority                                   CT
-        LZA     Lake Zoar Authority                                         CT
-0059    LNRA    Lavaca-Navidad River Authority                              TX
-0060            Long Beach City Harbor Department                           CA
-0061            Lorain Port Authority                                       OH
-0062            Los Angeles City Harbor Department                          CA
-0063    LCRA    Lower Colorado River Authority                              TX
-0064    LMRWD   Lower Minnesota River Watershed District                    MN
-0065    LNVA    Lower Neches Valley Authority                               TX
-0066    MPA     Maine Port Authority                                        ME
-0067    MCPA    Manatee County Port Authority                               FL
-0068    MPA     Maryland Port Administration                                MD
-0069            Massachusetts Port Authority                                MA
-        MWRD    Metropolitan Water Reclamation District of Greater Chicago  IL
-0070    MFCRWD  Middle Fork Crow River Watershed District                   MN
-0071    MSTRWD  Middle-Snake-Tamarac Rivers Watershed District              MN
-0072    MCWD    Minnehaha Creek Watershed District                          MN
-0073    MSPA    Mississippi State Port Authority                            MS
-        MWCD    Muskingum Watershed Conservancy District                    OH
-0074            New Hampshire State Port Authority                          NH
-0075    NFTA    Niagara Frontier Transportation Authority                   NY
-0076    NMCWD   Nine Mile Creek Watershed District                          MN
-0077            North Carolina State Ports Authority                        NC
-0078    NFCRWD  North Fork Crow River Watershed District                    MN
-0079    NWFWMD  Northwest Florida Water Management District                 FL
-0080    NRA     Nueces River Authority                                      TX
-0081    OBPA    Ogdensburg Bridge and Port Authority                        NY
-0082    OOWD    Okabena-Ocheda Watershed District                           MN
-0083    OCNPD   Orange County Navigation & Port District                    TX
-0084    OHD     Oxnard Harbor District                                      CA
-0085    PMCRA   Paducah-McCracken County Riverport Authority                KY
-        PIPC    Palisades Interstate Park Commission                        Multiple
-0086    PDWD    Palo Duro Water District                                    TX
-0087    PCPA    Panama City Port Authority                                  FL
-0088    PRWD    Pelican River Watershed District                            MN
-0089    PCPA    Perry County Port Authority                                 IN
-0090    PRPA    Philadelphia Regional Port Authority                        PA
-0091    PAG     Port Authority of Guam                                      GU
-0092    PANYNJ  Port Authority of New York and New Jersey                   Mulitple
-0093            Port Everglades                                             FL
-0094            Port Freeport                                               TX
-0095            Port Isabel-San Benito Navigation District                  TX
-0096            Port of Anacortes                                           WA
-0097            Port of Astoria                                             OR
-0098            Port of Beaumont Navigation District of Jefferson County    TX
-0099            Port of Bellingham                                          WA
-0100            Port of Brookings-Harbor                                    OR
-0101            Port of Cleveland                                           OH
-0102            Port of Coos Bay                                            OR
-0103            Port of Corpus Christi Authority                            TX
-0104            Port of Everett                                             WA
-0105            Port of Fernandina                                          FL
-0106            Port of Galveston                                           TX
-0107            Port of Grays Harbor                                        WA
-0108            Port of Greater Cincinnati                                  OH
-0109            Port of Houston Authority                                   TX
-0110            Port of Kalama                                              WA
-0111            Port of Longview                                            WA
-0112            Port of Longview                                            WA
-0113            Port of Miami                                               FL
-0114            Port of Milwaukee                                           WI
-0115            Port of Newport                                             OR
-0116            Port of Oakland                                             CA
-0117            Port of Olympia                                             WA
-0118            Port of Oswego Authority                                    NY
-0119            Port of Palm Beach District                                 FL
-0120            Port of Pensacola                                           FL
-0121            Port of Pittsburgh                                          PA
-0122            Port of Pittsburgh Commission                               PA
-0123            Port of Ponce                                               PR
-0124            Port of Port Angeles                                        WA
-0125            Port of Port Arthur Navigation District                     TX
-0126            Port of Portland                                            OR
-0127            Port of Redwood City                                        CA
-0128            Port of Richmond                                            CA
-0129            Port of Sacramento                                          CA
-0130            Port of San Diego                                           CA
-0131            Port of Seattle                                             WA
-0132            Port of Siuslaw                                             OR
-0133            Port of Skamania County                                     WA
-0134            Port of Stockton                                            CA
-0135            Port of Tacoma                                              WA
-0136            Port of Vancouver                                           WA
-0137    PLSLWD  Prior Lake-Spring Lake Watershed District                   MN
-0138    PRPA    Puerto Rico Ports Authority                                 PR
-0139    PCPA    Putnam County Port Authority                                FL
-0140    WMWD    Ramsey-Washington Metro Watershed District                  MN
-0141    RLWD    Red Lake Watershed District                                 MN
-0142    RRA     Red River Authority                                         TX
-0143    RRCC    Red River Compact Commission                                Multiple
-0144    RCWD    Rice Creek Watershed District                               MN
-0145    RPBCWD  Riley-Purgatory-Bluff Creek Watershed District              MN
-0146    RGCC    Rio Grande Compact Commission                               Multiple
-        RLA     Rogers Lake Authority                                       CT
-0147    RRWD    Roseau River Watershed District                             MN
-0148    SRA     Sabine River Authority                                      TX
-0149    SARA    San Antonio River Authority                                 TX
-0150            San Francisco Port Commission                               CA
-0151    SJRA    San Jacinto River Authority                                 TX
-0152    SHRWD   Sand Hill River Watershed District                          MN
-0153    SRWD    Sauk River Watershed District                               MN
-0154    SRRWD   Shell Rock River Watershed District                         MN
-0155    SCPA    South Carolina State Ports Authority                        SC
-0156    SCCRWA  South Central Connecticut Regional Water Authority          CT
-0157    SFWMD   South Florida Water Management District                     FL
-0158    SJPC    South Jersey Port Corporation                               NJ
-0159            South Louisiana Port Commission                             LA
-0160    SWWD    South Washington Watershed District                         MN
-0161    SNWA    Southern Nevada Water Authority                             NV
-0162    SWFWMD  Southwest Florida Water Management District                 FL
-0163    SJRWMD  St. Johns River Water Management District                   FL
-0164    SRMCWD  Stockton-Rollingstone-Minnesota City Watershed District     MN
-0165    SRBA    Sulphur River Basin Authority                               TX
-0166    SRBC    Susquehanna River Basin Commission                          Multiple
-0167    SRWMD   Suwannee River Water Management District                    FL
-0168    TPA     Tampa Port Authority                                        FL
-0169    TRWD    Tarrant Regional Water District                             TX
-0170    TVA     Tennessee Valley Authority                                  Multiple
-0171    TLCPA   Toledo-Lucas County Port Authority                          OH
-0172    TRA     Trinity River Authority                                     TX
-0173    TMWA    Truckee Meadows Water Authority                             NV
-0174    TCWD    Turtle Creek Watershed District                             MN
-0175    TRWD    Two Rivers Watershed District                               MN
-0176    UCRA    Upper Colorado River Authority                              TX
-0177    UGRA    Upper Guadalupe River Authority                             TX
-0178    UMRWD   Upper Minnesota River Watershed District                    MN
-0179    VBWD    Valley Branch Watershed District                            MN
-0180    VIPA    Virgin Islands Port Authority                               VI
-0181    VPA     Virginia Port Authority                                     VA
-0182    WWD     Warroad Watershed District                                  MN
-0183    WCWCD   Washington County Water Conservancy District                UT
-        WCNYH   Waterfront Commission of New York Harbor                    Multiple
-0184    WPD     Waukegan Port District                                      IL
-0185    WMDC    Westover Metropolitan Development Corporation               MA
-0186    WRWD    Wild Rice Watershed District                                MN
-0187    YMRWD   Yellow Medicine River Watershed District                    MN
-    0188-0248 - [RESERVED FOR CREATION OF NEW WATERWAY AUTHORITIES]
+0016    CLA     Candlewood Lake Authority                                   CT
+0017    CPA     Calhoun Port Authority                                      TX
+0018    CPA     Canaveral Port Authority                                    FL
+0019    CRWD    Capitol Region Watershed District                           MN
+0020    CMSCWD  Carnelian-Marine Watershed District                         MN
+0021    CRWD    Cedar River Watershed District                              MN
+0022            Chesapeake Port Authority                                   Multiple
+0023            City of Auburn Port Authority                               IN
+0024            City of Richmond Port Commission                            VA
+0025    CRWD    Clearwater River Watershed District                         MN
+0026    CLFLWD  Comfort Lake-Forest Lake Watershed District                 MN
+0027    CPA     Commonwealth Ports Authority of Saipan                      MP (Northern Mariana Islands)
+0028    CCWD    Coon Creek Watershed District                               MN
+0029    CLWD    Cormorant Lakes Watershed District                          MN
+0030    CCWD    Crooked Creek Watershed District                            MN
+0031            Dade County Seaport Department                              FL
+0032    DRBA    Delaware River & Bay Authority                              Multiple
+0033    DRBC    Delaware River Basin Commission                             Multiple
+0034    DRPA    Delaware River Port Authority                               Multiple
+0035    DWCPA   Detroit/Wayne County Port Authority                         MI
+0036    DSPC    Diamond State Port Corporation                              DE
+0037    DSPA    Duluth Seaway Port Authority                                MN
+0038            Eastport Port Authority                                     ME
+0039    EWA     Effingham Water Authority                                   IL
+0040    EWPPA   Erie-Western Pennsylvania Port Authority                    PA
+0041    FCPA    Fairfield County Port Authority                             OH
+0042            Georgia Ports Authority                                     GA
+0043    GLC     Great Lakes Commission                                      Multiple
+0044            Greater Baton Rouge Port Commission                         LA
+0045    GBRA    Guadalupe-Blanco River Authority                            TX
+0046            Harbor & Terminal District Plaquemines Port                 LA
+0047            Harbor & Terminal District St. Bernard Port Harbor          LA
+0048    HLWD    Heron Lake Watershed District                               MN
+0049    HIWD    High Island Creek Watershed District                        MN
+0050    HBHRCD  Humboldt Bay Harbor Recreation & Conservation District      CA
+0051    IIPD    Illinois International Port District                        IL
+0052            Indiana Port Commission                                     IN
+0053    ICPRB   Interstate Commission on the Potomac River Basin            Multiple
+0054    JCPA    Jackson County Port Authority                               MS
+0055    JAXPORT Jacksonville Port Authority                                 FL
+0056    JRWD    Joe River Watershed District                                MN
+0057    JVWCD   Jordan Valley Water Conservancy District                    UT
+0058    KLRWD   Kanaranzi-Little Rock Watershed District                    MN
+0059    LQPYBWD Lac Qui Parle-Yellow Bank Watershed District                MN
+0060            Lake Charles Port Harbor & Terminal District                LA
+0061    LHA     Lake Housatonic Lake Authority                              CT
+0062    LLA     Lake Lillinonah Authority                                   CT
+0063    LZA     Lake Zoar Authority                                         CT
+0064            Lakefront Management Authority                              LA
+0065    LNRA    Lavaca-Navidad River Authority                              TX
+0066            Long Beach City Harbor Department                           CA
+0067            Lorain Port Authority                                       OH
+0068            Los Angeles City Harbor Department                          CA
+0069    LCRA    Lower Colorado River Authority                              TX
+0070    LMRWD   Lower Minnesota River Watershed District                    MN
+0071    LNVA    Lower Neches Valley Authority                               TX
+0072    MPA     Maine Port Authority                                        ME
+0073    MCPA    Manatee County Port Authority                               FL
+0074    MPA     Maryland Port Administration                                MD
+0075            Massachusetts Port Authority                                MA
+0076            MWRD    Metropolitan Water Reclamation District of Greater Chicago  IL
+0077    MFCRWD  Middle Fork Crow River Watershed District                   MN
+0078    MSTRWD  Middle-Snake-Tamarac Rivers Watershed District              MN
+0079    MCWD    Minnehaha Creek Watershed District                          MN
+0080    MSPA    Mississippi State Port Authority                            MS
+0081    MWCD    Muskingum Watershed Conservancy District                    OH
+0082            New Hampshire State Port Authority                          NH
+0083    NFTA    Niagara Frontier Transportation Authority                   NY
+0084    NMCWD   Nine Mile Creek Watershed District                          MN
+0085            North Carolina State Ports Authority                        NC
+0086    NFCRWD  North Fork Crow River Watershed District                    MN
+0087    NWFWMD  Northwest Florida Water Management District                 FL
+0088    NRA     Nueces River Authority                                      TX
+0089    OBPA    Ogdensburg Bridge and Port Authority                        NY
+0090    OOWD    Okabena-Ocheda Watershed District                           MN
+0091    OCNPD   Orange County Navigation & Port District                    TX
+0092    OHD     Oxnard Harbor District                                      CA
+0093    PMCRA   Paducah-McCracken County Riverport Authority                KY
+0094    PIPC    Palisades Interstate Park Commission                        Multiple
+0095    PDWD    Palo Duro Water District                                    TX
+0096    PCPA    Panama City Port Authority                                  FL
+0097    PRWD    Pelican River Watershed District                            MN
+0098    PCPA    Perry County Port Authority                                 IN
+0099    PRPA    Philadelphia Regional Port Authority                        PA
+0100    PAG     Port Authority of Guam                                      GU
+0101    PANYNJ  Port Authority of New York and New Jersey                   Mulitple
+0102            Port Everglades                                             FL
+0103            Port Freeport                                               TX
+0104            Port Isabel-San Benito Navigation District                  TX
+0105            Port of Anacortes                                           WA
+0106            Port of Astoria                                             OR
+0107            Port of Beaumont Navigation District of Jefferson County    TX
+0108            Port of Bellingham                                          WA
+0109            Port of Brookings-Harbor                                    OR
+0110            Port of Cleveland                                           OH
+0111            Port of Coos Bay                                            OR
+0112            Port of Corpus Christi Authority                            TX
+0113            Port of Everett                                             WA
+0114            Port of Fernandina                                          FL
+0115            Port of Galveston                                           TX
+0116            Port of Grays Harbor                                        WA
+0117            Port of Greater Cincinnati                                  OH
+0118            Port of Houston Authority                                   TX
+0119            Port of Kalama                                              WA
+0120            Port of Longview                                            WA
+0121            Port of Longview                                            WA
+0122            Port of Miami                                               FL
+0123            Port of Milwaukee                                           WI
+0124            Port of Newport                                             OR
+0125            Port of Oakland                                             CA
+0126            Port of Olympia                                             WA
+0127            Port of Oswego Authority                                    NY
+0128            Port of Palm Beach District                                 FL
+0129            Port of Pensacola                                           FL
+0130            Port of Pittsburgh                                          PA
+0131            Port of Pittsburgh Commission                               PA
+0132            Port of Ponce                                               PR
+0133            Port of Port Angeles                                        WA
+0134            Port of Port Arthur Navigation District                     TX
+0135            Port of Portland                                            OR
+0136            Port of Redwood City                                        CA
+0137            Port of Richmond                                            CA
+0138            Port of Sacramento                                          CA
+0139            Port of San Diego                                           CA
+0140            Port of Seattle                                             WA
+0141            Port of Siuslaw                                             OR
+0142            Port of Skamania County                                     WA
+0143            Port of Stockton                                            CA
+0144            Port of Tacoma                                              WA
+0145            Port of Vancouver                                           WA
+0146    PLSLWD  Prior Lake-Spring Lake Watershed District                   MN
+0147    PRPA    Puerto Rico Ports Authority                                 PR
+0148    PCPA    Putnam County Port Authority                                FL
+0149    WMWD    Ramsey-Washington Metro Watershed District                  MN
+0150    RLWD    Red Lake Watershed District                                 MN
+0151    RRA     Red River Authority                                         TX
+0152    RRCC    Red River Compact Commission                                Multiple
+0153    RCWD    Rice Creek Watershed District                               MN
+0154    RPBCWD  Riley-Purgatory-Bluff Creek Watershed District              MN
+0155    RGCC    Rio Grande Compact Commission                               Multiple
+0156    RLA     Rogers Lake Authority                                       CT
+0157    RRWD    Roseau River Watershed District                             MN
+0158    SRA     Sabine River Authority                                      TX
+0159    SARA    San Antonio River Authority                                 TX
+0160            San Francisco Port Commission                               CA
+0161    SJRA    San Jacinto River Authority                                 TX
+0162    SHRWD   Sand Hill River Watershed District                          MN
+0163    SRWD    Sauk River Watershed District                               MN
+0164    SRRWD   Shell Rock River Watershed District                         MN
+0165    SCPA    South Carolina State Ports Authority                        SC
+0166    SCCRWA  South Central Connecticut Regional Water Authority          CT
+0167    SFWMD   South Florida Water Management District                     FL
+0168    SJPC    South Jersey Port Corporation                               NJ
+0169            South Louisiana Port Commission                             LA
+0170    SWWD    South Washington Watershed District                         MN
+0171    SNWA    Southern Nevada Water Authority                             NV
+0172    SWFWMD  Southwest Florida Water Management District                 FL
+0173    SJRWMD  St. Johns River Water Management District                   FL
+0174    SRMCWD  Stockton-Rollingstone-Minnesota City Watershed District     MN
+0175    SRBA    Sulphur River Basin Authority                               TX
+0176    SRBC    Susquehanna River Basin Commission                          Multiple
+0177    SRWMD   Suwannee River Water Management District                    FL
+0178    TPA     Tampa Port Authority                                        FL
+0179    TRWD    Tarrant Regional Water District                             TX
+0180    TVA     Tennessee Valley Authority                                  Multiple
+0181    TLCPA   Toledo-Lucas County Port Authority                          OH
+0182    TRA     Trinity River Authority                                     TX
+0183    TMWA    Truckee Meadows Water Authority                             NV
+0184    TCWD    Turtle Creek Watershed District                             MN
+0185    TRWD    Two Rivers Watershed District                               MN
+0186    UCRA    Upper Colorado River Authority                              TX
+0187    UGRA    Upper Guadalupe River Authority                             TX
+0188    UMRWD   Upper Minnesota River Watershed District                    MN
+0189    VBWD    Valley Branch Watershed District                            MN
+0190    VIPA    Virgin Islands Port Authority                               VI
+0191    VPA     Virginia Port Authority                                     VA
+0192    WWD     Warroad Watershed District                                  MN
+0193    WCWCD   Washington County Water Conservancy District                UT
+0194    WCNYH   Waterfront Commission of New York Harbor                    Multiple
+0195    WPD     Waukegan Port District                                      IL
+0196    WMDC    Westover Metropolitan Development Corporation               MA
+0197    WRWD    Wild Rice Watershed District                                MN
+0198    YMRWD   Yellow Medicine River Watershed District                    MN
+    0199-0248 - [RESERVED FOR CREATION OF NEW WATERWAY AUTHORITIES]
 0249            Waterway Authority Fabricated by Author
 
 =======================================
@@ -240,13 +243,14 @@ https://en.wikipedia.org/wiki/Port_authority#United_States
 
 0250            Brazos River Conservation and Reclamation District          TX
 0251    CCRA    Central Colorado River Authority                            TX
-                Hoover Dam (Bureua of Reclamation subunit)                  Multiple
-0252            Neches River Conservation District                          TX
-0253    PDRA    Palo Duro River Authority                                   TX
-0254    CZ      Panama Canal Zone                                           Canal Zone (Unincorporated US territory)
-0255            San Francisco Port Authority                                CA
-0256    SDC     Sanitary District of Chicago                                IL
-    0256-0398 - [RESERVED FOR NEW DISCOVERY OF WATERWAY AUTHORITIES]
+0252            Hoover Dam (Bureua of Reclamation subunit)                  Multiple
+0253            Neches River Conservation District                          TX
+0254    NFPAMA  Non-Flood Protection Asset Management Authority             LA
+0255    PDRA    Palo Duro River Authority                                   TX
+0256    CZ      Panama Canal Zone                                           Canal Zone (Unincorporated US territory)
+0257            San Francisco Port Authority                                CA
+0258    SDC     Sanitary District of Chicago                                IL
+    0256-0398 - [RESERVED FOR NEW DISCOVERY OF HISTORICAL WATERWAY AUTHORITIES]
 0399            Historical Waterway Authority Fabricated by Author
 
 =======================================
@@ -649,294 +653,308 @@ Note: Primarily road, turnpike, expressway, tunnel, and/or bridge authorities.
 From https://en.wikipedia.org/wiki/Category:Toll_road_authorities_of_the_United_States
      https://en.wikipedia.org/wiki/List_of_tunnels_in_the_United_States
 
-ARMA    Alamo Regional Mobility Authority                           TX
-BATA    Bay Area Toll Authority                                     CA
-BFEPBA  Buffalo and Fort Erie Public Bridge Authority               Multiple
-BCBC    Burlington County Bridge Commission                         NJ
-CTBA    California Toll Bridge Authority                            CA
-CCRMA   Cameron County Regional Mobility Authority                  TX
-CRRMA   Camino Real Regional Mobility Authority                     TX
-CFX     Central Florida Expressway Authority                        FL
-CTRMA   Central Texas Regional Mobility Authority                   TX
-CBBTD   Chesapeake Bay Bridge and Tunnel District                   VA
-DRJTBC  Delaware River Joint Toll Bridge Commission                 Multiple
-EPHA    E-470 Public Highway Authority                              CO
-IAG     E-ZPass Interagency Group                                   Multiple
-F/ETCA  Foothill/Eastern Transportation Corridor Agency             CA
-FBCTRA  Fort Bend County Toll Road Authority                        TX
-GCRMA   Grayson County Regional Mobility Authority                  TX
-GNOEC   Greater New Orleans Expressway Commission                   LA
-HCTRA   Harris County Toll Road Authority                           TX
-HCRMA   Hidalgo County Regional Mobility Authority                  TX
-ISTHA   Illinois State Toll Highway Authority                       IL
-ISTHA   Illinois State Toll Highway Authority                       IL
-ITRCC   Indiana Toll Road Concession Company                        IN
-JTA     Jacksonville Transportation Authority                       FL
-KTA     Kansas Turnpike Authority                                   KS
-MBA     Mackinac Bridge Authority                                   MI
-MTA     Maine Turnpike Authority                                    ME
-MDTA    Maryland Transportation Authority                           MD
-MDX     Miami-Dade Expressway Authority                             FL
-MCTRA   Montgomery County Toll Road Authority                       TX
-NCBA    Nassau County Bridge Authority                              NY
-NJTA    New Jersey Turnpike Authority                               NJ
-NYSBA   New York State Bridge Authority                             NY
-NYSTA   New York State Thruway Authority                            NY
-NYSTA   New York State Thruway Authority                            NY
-NFBC    Niagara Falls Bridge Commission                             Multiple
-NCTA    North Carolina Turnpike Authority                           NC
-NETRMA  North East Texas Regional Mobility Authority                TX
-NTTA    North Texas Tollway Authority                               TX
-NTTA    North Texas Tollway Authority                               TX
-OTC     Ohio Turnpike Commission                                    OH
-OTA     Oklahoma Turnpike Authority                                 OK
-OCTA    Orange County Transportation Authority                      CA
-PTC     Pennsylvania Turnpike Commission                            PA
-RITBA   Rhode Island Turnpike & Bridge Authority                    RH
-RMTA    Richmond Metropolitan Transportation Authority              VA
-SJHTCA  San Joaquin Hills Transportation Corridor Agency            CA
-SJTA    South Jersey Transportation Authority                       NJ
-SRTA    State Road and Tollway Authority                            GA
-SURRMA  Sulphur River Regional Mobility Authority                   TX
-THEA    Tampa Hillsborough Expressway Authority                     FL
-TIBA    Thousand Islands Bridge Authority                           Multiple
-TBTA    Triborough Bridge and Tunnel Authority                      NY
-WSTBA   Washington State Toll Bridge Authority                      WA
-WCCLRMA Webb County–City of Laredo Regional Mobility Authority      TX
-WVPA    West Virginia Parkways Authority                            WV
+0850    ARMA    Alamo Regional Mobility Authority                           TX
+0851    BATA    Bay Area Toll Authority                                     CA
+0852    BFEPBA  Buffalo and Fort Erie Public Bridge Authority               Multiple
+0853    BCBC    Burlington County Bridge Commission                         NJ
+0854    CTBA    California Toll Bridge Authority                            CA
+0855    CCRMA   Cameron County Regional Mobility Authority                  TX
+0856    CRRMA   Camino Real Regional Mobility Authority                     TX
+0857    CFX     Central Florida Expressway Authority                        FL
+0858    CTRMA   Central Texas Regional Mobility Authority                   TX
+0859    CBBTD   Chesapeake Bay Bridge and Tunnel District                   VA
+0860    DRJTBC  Delaware River Joint Toll Bridge Commission                 Multiple
+0861    EPHA    E-470 Public Highway Authority                              CO
+0862    IAG     E-ZPass Interagency Group                                   Multiple
+0863    F/ETCA  Foothill/Eastern Transportation Corridor Agency             CA
+0864    FBCTRA  Fort Bend County Toll Road Authority                        TX
+0865    GIBA    Gasparilla Island Bridge Authority                          FL
+0866    GGBHD   Golden Gate Bridge, Highway, and Transportation District    CA
+0867    GCRMA   Grayson County Regional Mobility Authority                  TX
+0868    GNOEC   Greater New Orleans Expressway Commission                   LA
+0869    HCTRA   Harris County Toll Road Authority                           TX
+0870    HCRMA   Hidalgo County Regional Mobility Authority                  TX
+0871    ISTHA   Illinois State Toll Highway Authority                       IL
+0872    ITRCC   Indiana Toll Road Concession Company                        IN
+0873    JTA     Jacksonville Transportation Authority                       FL
+0874    KTA     Kansas Turnpike Authority                                   KS
+0875    MBA     Mackinac Bridge Authority                                   MI
+0876    MTA     Maine Turnpike Authority                                    ME
+0877    MDTA    Maryland Transportation Authority                           MD
+0878    MDX     Miami-Dade Expressway Authority                             FL
+0879    MBBA    Mid-Bay Bridge Authority                                    FL
+0880    MCTRA   Montgomery County Toll Road Authority                       TX
+0881    NCBA    Nassau County Bridge Authority                              NY
+0882    NHBA    New Harmony Bridge Authority                                Multiple
+0883    NJTA    New Jersey Turnpike Authority                               NJ
+0884    NYSBA   New York State Bridge Authority                             NY
+0885    NYSTA   New York State Thruway Authority                            NY
+0886    NYSTA   New York State Thruway Authority                            NY
+0887    NFBC    Niagara Falls Bridge Commission                             Multiple
+0888    NCTA    North Carolina Turnpike Authority                           NC
+0889    NETRMA  North East Texas Regional Mobility Authority                TX
+0890    NTTA    North Texas Tollway Authority                               TX
+0891    NTTA    North Texas Tollway Authority                               TX
+0892    OTC     Ohio Turnpike Commission                                    OH
+0893    OTA     Oklahoma Turnpike Authority                                 OK
+0894    OCTA    Orange County Transportation Authority                      CA
+0895    PTC     Pennsylvania Turnpike Commission                            PA
+0896    RITBA   Rhode Island Turnpike & Bridge Authority                    RH
+0897    RMTA    Richmond Metropolitan Transportation Authority              VA
+0898    SJHTCA  San Joaquin Hills Transportation Corridor Agency            CA
+0899    SSMBA   Sault Ste. Marie Bridge Authority                           International
+0900    SJTA    South Jersey Transportation Authority                       NJ
+0901    SRTA    State Road and Tollway Authority                            GA
+0902    SURRMA  Sulphur River Regional Mobility Authority                   TX
+0903    THEA    Tampa Hillsborough Expressway Authority                     FL
+0904    TIBA    Thousand Islands Bridge Authority                           Multiple
+0905    TBTA    Triborough Bridge and Tunnel Authority                      NY
+0906    WSTBA   Washington State Toll Bridge Authority                      WA
+0907    WCCLRMA Webb County–City of Laredo Regional Mobility Authority      TX
+0908    WVPA    West Virginia Parkways Authority                            WV
+    0909-0948 - [RESERVED FOR CREATION OF NEW ROADWAY AUTHORITIES ]
+0949           Roadway Authority Fabricated by Author
 
 =======================================
 ====== Defunct Roadway Authorities ====
 =======================================
 
-ACTA    Atlantic County Transportation Authority                            NJ
-JEA     Jacksonville Expressway Authority                                   FL
-MTA     Massachusetts Turnpike Authority                                    MA
-MCTP    Montgomery County Transportation Program                            TX
-NJEA    New Jersey Expressway Authority                                     NJ
-NJHA    New Jersey Highway Authority                                        NJ
-OTA     Oklahoma Transportation Authority                                   OK
-OOCEA   Orlando–Orange County Expressway Authority                          FL
-TTA     Texas Turnpike Authority                                            TX
-WVPEDTA West Virginia Parkways, Economic Development, & Tourism Authority   WV
-WVTC    West Virginia Turnpike Commission                                   WV
-
+0950    ACTA    Atlantic County Transportation Authority                            NJ
+0951            Greater Hartford Bridge Authority                                   CT
+0952    JEA     Jacksonville Expressway Authority                                   FL
+0953    MTA     Massachusetts Turnpike Authority                                    MA
+0954    MCTP    Montgomery County Transportation Program                            TX
+0955    NJEA    New Jersey Expressway Authority                                     NJ
+0956    NJHA    New Jersey Highway Authority                                        NJ
+0957    OTA     Oklahoma Transportation Authority                                   OK
+0958    OOCEA   Orlando–Orange County Expressway Authority                          FL
+0959    TTA     Texas Turnpike Authority                                            TX
+0960    WVPEDTA West Virginia Parkways, Economic Development, & Tourism Authority   WV
+0961    WVTC    West Virginia Turnpike Commission                                   WV
+    0962-0998 - [RESERVED FOR NEW DISCOVERY OF HISTORICAL WATERWAY AUTHORITIES]
+0999            Historical Waterway Authority Fabricated by Author
 
 =======================================
 ============ US Racetracks ============
 =======================================
 
-                Arizona Downs                                               Prescott Valley, AZ
-                Turf Paradise Race Course                                   Phoenix, AZ
-                Oaklawn Racing Casino Resort                                Hot Springs, AR
-                Big Fresno Fair, The                                        Fresno, CA
-                Del Mar Racetrack                                           Del Mar, CA
-                Golden Gate Fields                                          Berkeley, CA
-                Los Alamitos Race Course                                    Cypress, CA
-                Pleasanton Fairgrounds Racetrack                            Pleasanton, CA
-                Santa Anita Park                                            Arcadia, CA
-                Arapahoe Park                                               Aurora, CA
-                Dover Casino Resort                                         Dover, DE
-                Delaware Park Racetrack                                     Stanton, DE
-                Harrington Raceway                                          Kent County, DE
-                Calder Race Course                                          Miami Gardens, FL
-                Gulfstream Park                                             Hallandale Beach, FL
-                Pompano Park                                                Pompano, FL
-                Hialeah Park Racetrack                                      Hialeah, FL
-                Tampa Bay Downs                                             Oldsmar, FL
-                Fanduel Sportsbook and Horse Racing                         Collinsville, IL
-                Hawthorne Race Course                                       Stickney, IL
-                Hoosier Park                                                Anderson, IN
-                Indiana Grand Racing                                        Shelbyville, IN
-                Prairie Meadows                                             Altonna, IA
-                Evangeline Downs                                            St. Landry Parish, LA
-                Louisiana Downs                                             Bossier City, LA
-                Laurel Park                                                 Laurel, MD
-                Timonium Racetrack                                          Timonium, MD
-                Ocean Downs                                                 Berlin, MD
-                Pimlico Race Course                                         Baltimore, MD
-                Plainridge Park                                             Plainville, MA
-                Canterbury Park                                             Shakopee, MN
-                Running Aces Racetrack                                      Columbus, MN
-                Fonner Park                                                 Grand Island, NE
-                Freehold Raceway                                            Freehold, NJ
-                Meadowlands Racetrack                                       East Rutherford, NJ
-                Monmouth Park Racetrack                                     Oceanport, NJ
-                Ruidoso Downs                                               Ruidoso, NM
-                Sunland Park Racetrack                                      Sunland Park, NM
-                Batavia Downs                                               Batavia, NY
-                Belmont Park                                                Elmont, NY
-                Aqueduct Racetrack                                          New York City, NY
-                Finger Lakes Racetrack                                      Farmington, NY
-                Historic Track                                              Goshen, NY
-                Monticello Raceway                                          Monticello, NY
-                Saratoga Raceway                                            Saratoga Springs, NY
-                Saratoga Race Course                                        Saratoga Springs, NY
-                Tioga Downs                                                 Nichols, NY
-                Vernon Downs                                                Vernon, NY
-                Yonkers Raceway                                             Yonkers, NY
-                North Dakota Horse Park                                     Fargo, ND
-                Belterra Park                                               Cincinnati, OH
-                Delaware County Fairgrounds                                 Delaware, OH
-                Scioto Downs                                                Columbus, OH
-                Dayton Raceway                                              Dayton, OH
-                Mahoning Valley Race Course                                 Youngstown, OH
-                Thistledown Racetrack                                       North Randall, OH
-                Meigs County Fairgrounds                                    Rock Springs, OH
-                Northfield Park                                             Northfield, OH
-                Miami Valley Gaming                                         Turtlecreek, OH
-                Fair Meadows Racetrack                                      Tulsa, OK
-                Remington Park                                              Oklahoma City, OK
-                Will Rogers Downs                                           Rogers County, OK
-                Philadelphia Racetrack                                      Chester, PA
-                Penn National Race Course                                   Grantville, PA
-                Meadows Racetrack, The                                      North Strabane, PA
-                Downs At Mohegan, The                                       Wilkes-Barre, PA
-                Parx Racing                                                 Bensalem, PA
-                Presque Isle Downs                                          Summit, PA
-                Hipódromo Camarero                                          Canóvanas, PR
-                La Sebastina                                                Bayamón, PR
-                Aiken Mile Track                                            Aiken, SC
-                Lone Star Park                                              Grand Prairie, TX
-                Retama Park                                                 Selma, TX
-                Sam Houston Race Park                                       Houston, TX
-                Emerald Downs                                               Auburn, WA
-                Charles Town Races                                          Jefferson County, WV
-                Mountaineer Racetrack                                       New Cumberland, WV
-                Cheyenne Frontier Days Arena                                Cheyenne, WY
+Notes: Sorted by state, name.
+
+1000            Arizona Downs                                               Prescott Valley, AZ
+1001            Turf Paradise Race Course                                   Phoenix, AZ
+1002            Oaklawn Racing Casino Resort                                Hot Springs, AR
+1003            Big Fresno Fair, The                                        Fresno, CA
+1004            Del Mar Racetrack                                           Del Mar, CA
+1005            Golden Gate Fields                                          Berkeley, CA
+1006            Los Alamitos Race Course                                    Cypress, CA
+1007            Pleasanton Fairgrounds Racetrack                            Pleasanton, CA
+1008            Santa Anita Park                                            Arcadia, CA
+1009            Arapahoe Park                                               Aurora, CA
+1010            Dover Casino Resort                                         Dover, DE
+1011            Delaware Park Racetrack                                     Stanton, DE
+1012            Harrington Raceway                                          Kent County, DE
+1013            Calder Race Course                                          Miami Gardens, FL
+1014            Gulfstream Park                                             Hallandale Beach, FL
+1015            Pompano Park                                                Pompano, FL
+1016            Hialeah Park Racetrack                                      Hialeah, FL
+1017            Tampa Bay Downs                                             Oldsmar, FL
+1018            Fanduel Sportsbook and Horse Racing                         Collinsville, IL
+1019            Hawthorne Race Course                                       Stickney, IL
+1020            Hoosier Park                                                Anderson, IN
+1021            Indiana Grand Racing                                        Shelbyville, IN
+1022            Prairie Meadows                                             Altonna, IA
+1023            Evangeline Downs                                            St. Landry Parish, LA
+1024            Louisiana Downs                                             Bossier City, LA
+1025            Laurel Park                                                 Laurel, MD
+1026            Timonium Racetrack                                          Timonium, MD
+1027            Ocean Downs                                                 Berlin, MD
+1028            Pimlico Race Course                                         Baltimore, MD
+1029            Plainridge Park                                             Plainville, MA
+1030            Canterbury Park                                             Shakopee, MN
+1031            Running Aces Racetrack                                      Columbus, MN
+1032            Fonner Park                                                 Grand Island, NE
+1033            Freehold Raceway                                            Freehold, NJ
+1034            Meadowlands Racetrack                                       East Rutherford, NJ
+1035            Monmouth Park Racetrack                                     Oceanport, NJ
+1036            Ruidoso Downs                                               Ruidoso, NM
+1037            Sunland Park Racetrack                                      Sunland Park, NM
+1038            Batavia Downs                                               Batavia, NY
+1039            Belmont Park                                                Elmont, NY
+1040            Aqueduct Racetrack                                          New York City, NY
+1041            Finger Lakes Racetrack                                      Farmington, NY
+1042            Historic Track                                              Goshen, NY
+1043            Monticello Raceway                                          Monticello, NY
+1044            Saratoga Raceway                                            Saratoga Springs, NY
+1045            Saratoga Race Course                                        Saratoga Springs, NY
+1046            Tioga Downs                                                 Nichols, NY
+1047            Vernon Downs                                                Vernon, NY
+1048            Yonkers Raceway                                             Yonkers, NY
+1049            North Dakota Horse Park                                     Fargo, ND
+1050            Belterra Park                                               Cincinnati, OH
+1051            Delaware County Fairgrounds                                 Delaware, OH
+1052            Scioto Downs                                                Columbus, OH
+1053            Dayton Raceway                                              Dayton, OH
+1054            Mahoning Valley Race Course                                 Youngstown, OH
+1055            Thistledown Racetrack                                       North Randall, OH
+1056            Meigs County Fairgrounds                                    Rock Springs, OH
+1057            Northfield Park                                             Northfield, OH
+1058            Miami Valley Gaming                                         Turtlecreek, OH
+1059            Fair Meadows Racetrack                                      Tulsa, OK
+1060            Remington Park                                              Oklahoma City, OK
+1061            Will Rogers Downs                                           Rogers County, OK
+1062            Philadelphia Racetrack                                      Chester, PA
+1063            Penn National Race Course                                   Grantville, PA
+1064            Meadows Racetrack, The                                      North Strabane, PA
+1065            Downs At Mohegan, The                                       Wilkes-Barre, PA
+1066            Parx Racing                                                 Bensalem, PA
+1067            Presque Isle Downs                                          Summit, PA
+1068            Hipódromo Camarero                                          Canóvanas, PR
+1069            La Sebastina                                                Bayamón, PR
+1070            Aiken Mile Track                                            Aiken, SC
+1071            Lone Star Park                                              Grand Prairie, TX
+1072            Retama Park                                                 Selma, TX
+1073            Sam Houston Race Park                                       Houston, TX
+1074            Emerald Downs                                               Auburn, WA
+1075            Charles Town Races                                          Jefferson County, WV
+1076            Mountaineer Racetrack                                       New Cumberland, WV
+1077            Cheyenne Frontier Days Arena                                Cheyenne, WY
+    1078-1098 - [RESERVED FOR CREATION OF NEW RACETRACKS]
+1099            Racetrack Fabricated by Author
+
 
 =======================================
 ========= Defunct Racetracks ==========
 =======================================
 
-                Prescott Downs                                              Prescott Valley, AZ
-                Yavapai Downs                                               Prescott Valley, AZ
-                Oaklawn Park Racetrack                                      Hot Springs, AR
-                Bay Meadows Racetrack                                       San Mateo, CA
-                Bay View Racetrack                                          San Francisco, CA
-                Barretts Sales and Racing, Los Angeles County Fairplex      Pomona, CA
-                California State Fairgrounds Racetrack                      Sacramento, CA
-                Devonshire Downs                                            Northridge, CA
-                Hollywood Park Racetrack                                    Inglewood, CA
-                Ingleside Racetrack                                         San Francisco, CA
-                Pioneer Racetrack                                           San Francisco, CA
-                Tanforan Racetrack                                          San Bruno, CA
-                Tournament Park                                             Pasadena, CA
-                Union Race Course                                           San Francisco, CA
-                Dover Downs                                                 Dover, DE
-                Kent and Sussex Raceway                                     Kent County, DE
-                Tropical Park Racetrack                                     Coral Gables, FL
-                Arlington Park Jockey Club                                  Arlington Heights, IL
-                Arlington International Racecourse                          Arlington Heights, IL
-                Aurora Downs                                                Aurora, IL
-                Fox Fields                                                  Aurora, IL
-                Balmoral Park                                               Crete, IL
-                Cahokia Downs                                               Alorton, IL
-                Sportsman's Park                                            Cicero, IL
-                Dexter Park                                                 Chicago, IL
-                Harlem Racetrack                                            Forest Park, IL
-                Maywood Park                                                Melrose Park, IL
-        EMD     East Moline Downs                                           East Moline, IL
-        QCD     Quad City Downs                                             East Moline, IL
-                Washington Park Racetrack                                   Homewood, IL
-                Fairmount Park Racetrack                                    Collinsville, IL
-                Indiana Downs                                               Shelbyville, IN
-                Union Racetrack                                             New Orleans, LA
-                Creole Racetrack                                            New Orleans, LA
-                Eclipse Track                                               New Orleans, LA
-                Metairie Race Course                                        New Orleans, LA
-                Bingaman Racetrack                                          New Orleans, LA
-                City Park Racetrack                                         New Orleans, LA
-                Jefferson Park Racetrack                                    New Orleans, LA 
-                Jefferson Downs Racetrack                                   New Orleans, LA
-                Scarborough Downs                                           Scarborough, ME
-                Kite Track                                                  Old Orchard Beach, ME
-                Rigby Park                                                  South Portland, ME
-                Bowie Racetrack                                             Bowie, MD
-                Cumberland Racetrack                                        Cumberland, MD
-                Fairgo Racetrack                                            Cumberland, MD
-                Freestate Raceway                                           Howard County, MD
-                Havre de Grace Racetrack                                    Havre de Grace, MD
-                Laurel Race Course                                          Laurel, MD
-                Rosecroft Raceway                                           Fort Washington, MD
-                Bay State Raceway                                           Foxborough, MA
-                New England Harness Raceway                                 Foxborough, MA
-                Foxboro Raceway                                             Foxborough, MA
-                Foxboro Park                                                Foxborough, MA
-                Suffolk Downs                                               East Boston, MA
-                Agawam Park                                                 Agawam, MA
-                Berkshire Downs                                             Hancock, MA
-                Charles River Speedway                                      Aliston, MA
-                Franklin Park                                               Saugus, MA
-                Franklin Trotting Park                                      Saugus, MA
-                Franklin Driving Park                                       Saugus, MA
-                Old Saugus Race Course                                      Saugus, MA
-                Old Saugus Racetrack                                        Saugus, MA 
-                Great Barrington Fair                                       Great Barrington, MA
-                Marshfield Fair                                             Marshfield, MA
-                Northampton Fair                                            Northampton, MA
-                Topsfield Fair                                              MA
-                Brockton Fair                                               MA
-                Raceland                                                    Framingham, MA
-                Readville Racetrack                                         Readville, MA
-                Worcester Agricultural Fairgrounds                          Worcester, MA
-                Detroit Race Course                                         Detroit, MI
-                Wolverine Raceway                                           Detroit, MI
-                Great Lakes Downs                                           Fruitport, MI
-                Muskegon Race Course                                        Fruitport, MI
-                Pinnacle Race Course                                        Huron, MI
-                Canterbury Downs                                            Shakopee, MN
-                Ak-Sar-Ben Racetrack                                        Omaha, NE
-                Atokad Downs                                                South Sioux City, NE
-                Omaha Driving Park                                          North Omaha, NE
-                Sunset Driving Park                                         North Omaha, NE
-                Sunset Speedway                                             North Omaha, NE
-                Hinsdale Raceway                                            Hinsdale, NH
-                Rockingham Park                                             Salem, NH
-        ACRC    Atlantic City Race Course                                   Mays Landing, NJ
-                Garden State Park Racetrack                                 Cherry Hill, NJ
-                La Mesa Park                                                Raton, NM
-                Driving Park                                                Rochester, NY
-                Empire Race Course                                          Albany, NY
-                Good Time Park                                              Goshen, NY
-                Monroe Racetrack                                            Monroe, NY
-                Orange County Fair Speedway                                 Middletown, NY
-                Roosevelt Raceway                                           Westbury, NY
-                Suffolk Meadows                                             Long Island, NY
-                Parr Meadows                                                Long Island, NY
-                Watertown Speedway                                          Watertown, NY
-                Brighton Beach Race Course                                  New York City, NY
-                Fashion Race Course                                         New York City, NY
-                Fleetwood Park Racetrack                                    New York City, NY
-                Gravesend Racetrack                                         New York City, NY
-                Jamaica Racetrack                                           New York City, NY
-                Jerome Park Racetrack                                       New York City, NY
-                Morris Park Racecourse                                      New York City, NY
-                Sheepshead Bay Racetrack                                    New York City, NY
-                Union Course                                                New York City, NY
-                Ascot Park                                                  Cuyahoga Falls, OH
-                River Downs                                                 Anderson, OH
-                Beulah Park                                                 Grove City, OH
-                Lebanon Raceway                                             Lebanon, OH
-                Portland Meadows                                            Portland, OR
-                Pocono Downs                                                Wilkes-Barre, PA
-                Philadelphia Park Racetrack                                 Bensalem, PA
-                Keystone Racetrack                                          Bensalem, PA
-                Liberty Bell Park Racetrack                                 Philadelphia, PA
-                El Nuevo Comandante                                         Canóvanas, PR
-                Narragansett Park                                           Pawtucket, RI
-                Montgomery Park Racetrack                                   Memphis, TN
-                Arlington Downs                                             Arlington, TX
-                Houston Driving Park                                        Houston, TX
-                Green Mountain Racetrack                                    Pownal, VT
-                Longacres                                                   Renton, WA
-                Seattle Race Course                                         Seattle, WA
-                Meadows                                                     Seattle, WA
-                Playfair Race Course                                        Spokane, WA
-                Yakima Meadows                                              Yakima, WA
-                Shenandoah Downs                                            Charles Town, WV
-                Waterford Downs                                             New Cumberland, WV
-
+1100            Prescott Downs                                              Prescott Valley, AZ
+1101            Yavapai Downs                                               Prescott Valley, AZ
+1102            Oaklawn Park Racetrack                                      Hot Springs, AR
+1103            Bay Meadows Racetrack                                       San Mateo, CA
+1104            Bay View Racetrack                                          San Francisco, CA
+1105            Barretts Sales and Racing, Los Angeles County Fairplex      Pomona, CA
+1106            California State Fairgrounds Racetrack                      Sacramento, CA
+1107            Devonshire Downs                                            Northridge, CA
+1108            Hollywood Park Racetrack                                    Inglewood, CA
+1109            Ingleside Racetrack                                         San Francisco, CA
+1110            Pioneer Racetrack                                           San Francisco, CA
+1111            Tanforan Racetrack                                          San Bruno, CA
+1112            Tournament Park                                             Pasadena, CA
+1113            Union Race Course                                           San Francisco, CA
+1114            Dover Downs                                                 Dover, DE
+1115            Kent and Sussex Raceway                                     Kent County, DE
+1116            Tropical Park Racetrack                                     Coral Gables, FL
+1117            Arlington Park Jockey Club                                  Arlington Heights, IL
+1118            Arlington International Racecourse                          Arlington Heights, IL
+1119            Aurora Downs                                                Aurora, IL
+1120            Fox Fields                                                  Aurora, IL
+1121            Balmoral Park                                               Crete, IL
+1122            Cahokia Downs                                               Alorton, IL
+1123            Sportsman's Park                                            Cicero, IL
+1124            Dexter Park                                                 Chicago, IL
+1125            Harlem Racetrack                                            Forest Park, IL
+1126            Maywood Park                                                Melrose Park, IL
+1127    EMD     East Moline Downs                                           East Moline, IL
+1128    QCD     Quad City Downs                                             East Moline, IL
+1129            Washington Park Racetrack                                   Homewood, IL
+1130            Fairmount Park Racetrack                                    Collinsville, IL
+1131            Indiana Downs                                               Shelbyville, IN
+1132            Union Racetrack                                             New Orleans, LA
+1133            Creole Racetrack                                            New Orleans, LA
+1134            Eclipse Track                                               New Orleans, LA
+1135            Metairie Race Course                                        New Orleans, LA
+1136            Bingaman Racetrack                                          New Orleans, LA
+1137            City Park Racetrack                                         New Orleans, LA
+1138            Jefferson Park Racetrack                                    New Orleans, LA 
+1139            Jefferson Downs Racetrack                                   New Orleans, LA
+1140            Scarborough Downs                                           Scarborough, ME
+1141            Kite Track                                                  Old Orchard Beach, ME
+1142            Rigby Park                                                  South Portland, ME
+1143            Bowie Racetrack                                             Bowie, MD
+1144            Cumberland Racetrack                                        Cumberland, MD
+1145            Fairgo Racetrack                                            Cumberland, MD
+1146            Freestate Raceway                                           Howard County, MD
+1147            Havre de Grace Racetrack                                    Havre de Grace, MD
+1148            Laurel Race Course                                          Laurel, MD
+1149            Rosecroft Raceway                                           Fort Washington, MD
+1150            Bay State Raceway                                           Foxborough, MA
+1151            New England Harness Raceway                                 Foxborough, MA
+1152            Foxboro Raceway                                             Foxborough, MA
+1153            Foxboro Park                                                Foxborough, MA
+1154            Suffolk Downs                                               East Boston, MA
+1155            Agawam Park                                                 Agawam, MA
+1156            Berkshire Downs                                             Hancock, MA
+1157            Charles River Speedway                                      Aliston, MA
+1158            Franklin Park                                               Saugus, MA
+1159            Franklin Trotting Park                                      Saugus, MA
+1160            Franklin Driving Park                                       Saugus, MA
+1161            Old Saugus Race Course                                      Saugus, MA
+1162            Old Saugus Racetrack                                        Saugus, MA 
+1163            Great Barrington Fair                                       Great Barrington, MA
+1164            Marshfield Fair                                             Marshfield, MA
+1165            Northampton Fair                                            Northampton, MA
+1166            Topsfield Fair                                              MA
+1167            Brockton Fair                                               MA
+1168            Raceland                                                    Framingham, MA
+1169            Readville Racetrack                                         Readville, MA
+1170            Worcester Agricultural Fairgrounds                          Worcester, MA
+1171            Detroit Race Course                                         Detroit, MI
+1172            Wolverine Raceway                                           Detroit, MI
+1173            Great Lakes Downs                                           Fruitport, MI
+1174            Muskegon Race Course                                        Fruitport, MI
+1175            Pinnacle Race Course                                        Huron, MI
+1176            Canterbury Downs                                            Shakopee, MN
+1177            Ak-Sar-Ben Racetrack                                        Omaha, NE
+1178            Atokad Downs                                                South Sioux City, NE
+1179            Omaha Driving Park                                          North Omaha, NE
+1180            Sunset Driving Park                                         North Omaha, NE
+1181            Sunset Speedway                                             North Omaha, NE
+1182            Hinsdale Raceway                                            Hinsdale, NH
+1183            Rockingham Park                                             Salem, NH
+1184    ACRC    Atlantic City Race Course                                   Mays Landing, NJ
+1185            Garden State Park Racetrack                                 Cherry Hill, NJ
+1186            La Mesa Park                                                Raton, NM
+1187            Driving Park                                                Rochester, NY
+1188            Empire Race Course                                          Albany, NY
+1189            Good Time Park                                              Goshen, NY
+1190            Monroe Racetrack                                            Monroe, NY
+1191            Orange County Fair Speedway                                 Middletown, NY
+1192            Roosevelt Raceway                                           Westbury, NY
+1193            Suffolk Meadows                                             Long Island, NY
+1194            Parr Meadows                                                Long Island, NY
+1195            Watertown Speedway                                          Watertown, NY
+1196            Brighton Beach Race Course                                  New York City, NY
+1197            Fashion Race Course                                         New York City, NY
+1198            Fleetwood Park Racetrack                                    New York City, NY
+1199            Gravesend Racetrack                                         New York City, NY
+1200            Jamaica Racetrack                                           New York City, NY
+1201            Jerome Park Racetrack                                       New York City, NY
+1202            Morris Park Racecourse                                      New York City, NY
+1203            Sheepshead Bay Racetrack                                    New York City, NY
+1204            Union Course                                                New York City, NY
+1205            Ascot Park                                                  Cuyahoga Falls, OH
+1206            River Downs                                                 Anderson, OH
+1207            Beulah Park                                                 Grove City, OH
+1208            Lebanon Raceway                                             Lebanon, OH
+1209            Portland Meadows                                            Portland, OR
+1210            Pocono Downs                                                Wilkes-Barre, PA
+1211            Philadelphia Park Racetrack                                 Bensalem, PA
+1212            Keystone Racetrack                                          Bensalem, PA
+1213            Liberty Bell Park Racetrack                                 Philadelphia, PA
+1214            El Nuevo Comandante                                         Canóvanas, PR
+1215            Narragansett Park                                           Pawtucket, RI
+1216            Montgomery Park Racetrack                                   Memphis, TN
+1217            Arlington Downs                                             Arlington, TX
+1218            Houston Driving Park                                        Houston, TX
+1219            Green Mountain Racetrack                                    Pownal, VT
+1220            Longacres                                                   Renton, WA
+1221            Seattle Race Course                                         Seattle, WA
+1222            Meadows                                                     Seattle, WA
+1223            Playfair Race Course                                        Spokane, WA
+1224            Yakima Meadows                                              Yakima, WA
+1225            Shenandoah Downs                                            Charles Town, WV
+1226            Waterford Downs                                             New Cumberland, WV
+    1227-1348 - [RESERVED FOR NEW DISCOVERY OF HISTORICAL RACETRACKS]
+1349            Historical Racetrack Fabricated by Author
 
 
 =======================================
@@ -3214,7 +3232,7 @@ THRHA   Tlingit-Haida Regional Housing Authority                            AK
         Saint Joseph Housing Commission                                     MI
         Saint Louis Housing Commission                                      MI
         Saranac Housing Commission                                          MI
-        Sault Ste Marie Housing Commission                                  MI
+        Sault Ste. Marie Housing Commission                                 MI
         Schoolcraft County Housing Commission                               MI
         South Haven Housing Commission                                      MI
         South Lyon Housing Commission                                       MI
@@ -3813,9 +3831,113 @@ THRHA   Tlingit-Haida Regional Housing Authority                            AK
         Housing Authority of the City of Tucumcari                          NM
         Housing Authority of the Village of Wagon Mound                     NM
         Western Regional Housing Authority                                  NM
-
-
-
+        Albany Housing Authority                                            NY
+        Amsterdam Housing Authority                                         NY
+        Auburn Housing Authority                                            NY
+        Batavia Housing Authority                                           NY
+        City of Beacon Housing Authority, The                               NY
+        Binghamton Housing Authority                                        NY
+        Boonville Housing Authority                                         NY
+BMHA    Buffalo Municipal Housing Authority                                 NY
+        Village of Canajoharie Housing Authority                            NY
+        Canastota Housing Authority                                         NY
+        Canton Housing Authority                                            NY
+        Catskill Housing Authority                                          NY
+        Village of Cobleskill Housing Authority                             NY
+        Town of Coeymans Housing Authority                                  NY
+        Cohoes Housing Authority                                            NY
+        Cortland Housing Authority                                          NY
+        Dolgeville Housing Authority                                        NY
+        Dunkirk Housing Authority                                           NY
+        Ellenville Housing Authority                                        NY
+        Elmira Housing Authority                                            NY
+        Fort Plain Housing Agency                                           NY
+        Freeport Housing Authority                                          NY
+        Geneva Housing Authority                                            NY
+        Glen Cove Public Housing Authority                                  NY
+        Glens Falls Housing Authority                                       NY
+        Gloversville Housing Authority                                      NY
+        Village of Great Neck Housing Authority                             NY
+        Greenburgh Housing Authority                                        NY
+        Village of Greenport Housing Authority                              NY
+        Harrietstown Housing Authority                                      NY
+        Town of Hempstead Housing Authority                                 NY
+        Village of Hempstead Housing Authority                              NY
+        Herkimer Housing Authority                                          NY
+        Town of Hoosick Housing Authority                                   NY
+        Hornell Housing Authority                                           NY
+        Hudson Housing Authority                                            NY
+        Town of Huntington Housing Authority                                NY
+        Ilion Housing Authority                                             NY
+        Town of Islip Housing Authority                                     NY
+        Ithaca Housing Authority                                            NY
+        Jamestown Housing Authority                                         NY
+        Kenmore Municipal Housing Authority                                 NY
+        Kingston Housing Authority                                          NY
+        Village of Kiryas Joel Housing Authority                            NY
+        Lackawanna Municipal Housing Authority                              NY
+        Little Falls Housing Authority                                      NY
+        Lockport Housing Authority                                          NY
+        Housing Authority of Long Beach                                     NY
+        Malone Housing Authority                                            NY
+        Village of Mamaroneck Housing Authority                             NY
+        Town of Mamaroneck Housing Authority                                NY
+        Massena Housing Authority                                           NY
+        Mechanicville Housing Authority                                     NY
+        Monticello Housing Authority                                        NY
+        Mount Kisco Housing Authority                                       NY
+MHACY   Municipal Housing Authority for the City of Yonkers                 NY
+NRMHA   New Rochelle Municipal Housing Authority                            NY
+NYCHA   New York City Housing Authority                                     NY
+        Newark Housing Authority                                            NY
+        Newburgh Housing Authority                                          NY
+        City of Niagara Falls                                               NY
+        Niagara Falls Housing Authority                                     NY
+        North Fork Housing Alliance                                         NY
+        North Hempstead Housing Authority                                   NY
+        Village of North Syracuse Housing Authority                         NY
+        North Tarrytown Housing Authority                                   NY
+        Norwich Housing Authority                                           NY
+        Village of Nyack Housing Authority                                  NY
+        Ogdensburg Housing Authority                                        NY
+        Olean Housing Authority                                             NY
+        Oneida Housing Authority                                            NY
+        Oneonta Housing Authority                                           NY
+        Town of Oyster Bay Housing Authority                                NY
+        Village of Patchogue Community Development Agency                   NY
+        Peekskill Housing Authority                                         NY
+        Village of Pelham Housing Authority                                 NY
+        Plattsburgh Housing Authority                                       NY
+        Pleasantville Housing Authority                                     NY
+        Port Chester Housing Authority                                      NY
+        Port Jervis Housing Authority                                       NY
+        Poughkeepsie Housing Authority                                      NY
+        Putnam County Housing Corporation                                   NY
+        Town of Ramapo Housing Authority                                    NY
+        Rensselaer Housing Authority                                        NY
+        Rochester Housing Authority                                         NY
+        Rockville Centre Housing Authority                                  NY
+        Rome Housing Authority                                              NY
+        Saratoga Springs Housing Authority                                  NY
+        Town of Saugerties Public Housing Authority                         NY
+        Schenectady Municipal Housing Authority                             NY
+        Village of Sea Cliff Housing Authority                              NY
+        Town of Southampton Housing Authority                               NY
+        Village of Spring Valley Housing Authority                          NY
+        St. Johnsville Housing Authority                                    NY
+        Syracuse Housing Authority                                          NY
+        Tarrytown Municipal Housing Authority                               NY
+        Troy Housing Authority                                              NY
+        Tuckahoe Housing Authority                                          NY
+        Tupper Lake Housing Authority                                       NY
+        Utica Municipal Housing Authority                                   NY
+        Watertown Housing Authority                                         NY
+        Watervliet Housing Authority                                        NY
+        West Carthage Housing Authority                                     NY
+        White Plains Housing Authority                                      NY
+        Whitehall Housing Authority                                         NY
+        Wilna Housing Authority                                             NY
+        Woodridge Housing Authority                                         NY
         Ahoskie Housing Authority                                           NC
         City of Albemarle Department of Public Housing                      NC
         Andrews Housing Authority                                           NC
@@ -5117,10 +5239,10 @@ GPHA    Great Plains Housing Authority                                      ND
         Wittenberg Housing Authority                                        WI
         Woodville Housing Authority                                         WI
         Housing Authority of the City of Buffalo                            WY
-        Casper Housing Authority                                            WY
+CHA     Casper Housing Authority                                            WY
         Housing Authority of the City of Cheyenne                           WY
         Housing Authority of the Town of Douglas                            WY
-        Evanston Housing Authority                                          WY
-        Hanna Housing Authority                                             WY
+EHA     Evanston Housing Authority                                          WY
+HHA     Hanna Housing Authority                                             WY
         Lusk Housing Authority                                              WY
-        Rock Springs Housing Authority                                      WY
+RSHA    Rock Springs Housing Authority                                      WY
