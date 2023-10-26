@@ -937,11 +937,559 @@ WVTC    West Virginia Turnpike Commission                                   WV
                 Shenandoah Downs                                            Charles Town, WV
                 Waterford Downs                                             New Cumberland, WV
 
+
+
+=======================================
+============= US Hospitals ============
+=======================================
+
+
+        Veterans Health Administration Carl T. Hayden Medical Center Phoenix    Phoenix 
+
+        Andalusia Health                                            Andalusia, AL
+        Athens-Limestone Hospital                                   Athens, AL
+        Atmore Community Hospital                                   Atmore, AL
+        Atrium Health Floyd Cherokee Medical Center                 Centre, AL
+        Baptist Medical Center East                                 Montgomery, AL
+        Baptist Medical Center South                                Montgomery, AL
+        Baypointe Hospital                                          Mobile, AL
+        Beacon Behavioral Hospital                                  Luverne, AL
+        Bibb Medical Center                                         Centreville, AL
+        Brookwood Baptist Medical Center                            Homewood, AL
+        Bryan Whitfield Memorial Hospital                           Demopolis, AL
+        Bryce Hospital                                              Tuscaloosa, AL
+        Bullock County Hospital                                     Union Springs, AL
+        Central Alabama Veterans Health Care System East Campus     Tuskegee, AL
+        Central Alabama Veterans Health Care System West Campus     Montgomery, AL
+        Children's of Alabama Russell Campus                        Birmingham, AL
+        Choctaw General Hospital                                    Butler, AL
+        Citizens Baptist                                            Talladega, AL
+        Clay County Hospital                                        Ashland, AL
+        Community Hospital                                          Tallassee, AL
+        Coosa Valley Medical Center                                 Sylacauga, AL
+        Crenshaw Community Hospital                                 Luverne, AL
+        Crestwood Medical Center                                    Huntsville, AL
+        Crossbridge Behavioral Health                               Montgomery, AL
+        Cullman Regional Medical Center                             Cullman, AL
+        Dale Medical Center                                         Ozark, AL
+        DCH Regional Medical Center                                 Tuscaloosa, AL
+        Decatur Morgan Hospital                                     Decatur, AL
+        Decatur Morgan Hospital-Parkway Campus                      Decatur, AL
+        DeKalb Regional Medical Center                              Fort Payne, AL
+        D.W. McMillan Memorial Hospital                             Brewton, AL
+        East Alabama Medical Center                                 Opelika, AL
+        East Alabama Medical Center – Lanier                        Valley, AL
+        EastPointe Hospital                                         Daphne, AL
+        Elmore Community Hospital                                   Wetumpka, AL
+        Encompass Health Lakeshore Rehabilitation Hospital          Birmingham, AL
+        Encompass Health Rehabilitation Hospital of Dothan          Dothan, AL
+        Encompass Health Rehabilitation Hospital of Gadsden         Gadsden, AL
+        Encompass Health Rehabilitation Hospital of Montgomery      Montgomery, AL
+        Encompass Health Rehabilitation Hospital of North Alabama   Huntsville, AL
+        Encompass Health Rehabilitation Hospital of Shelby County   Pelham, AL
+        Evergreen Medical Center                                    Evergreen, AL
+        Fayette Medical Center                                      Fayette, AL
+        Flowers Hospital                                            Dothan, AL
+        Gadsden Regional Medical Center                             Gadsden, AL
+        Grandview Medical Center                                    Birmingham, AL
+        Greene County Hospital                                      Eutaw, AL
+        Grove Hill Memorial Hospital                                Grove Hill, AL
+        Hale County Hospital                                        Greensboro, AL
+        Helen Keller Hospital                                       Sheffield, AL
+        Highlands Medical Center                                    Scottsboro, AL
+        Hill Crest Behavioral Health Services                       Birmingham, AL
+        Hill Hospital of Sumter County                              York, AL
+        Huntsville Hospital System                                  Huntsville, AL
+        Infirmary LTAC Hospital                                     Mobile, AL
+        Jack Hughston Memorial Hospital                             Phenix City, AL
+        Jackson Hospital                                            Montgomery, AL
+        Jackson Medical Center                                      Jackson, AL
+        John Paul Jones Hospital                                    Camden, AL
+        L.V. Stabler Memorial Hospital                              Greenville, AL
+        Lake Martin Community Hospital                              Dadeville, AL
+        Lakeland Community Hospital                                 Haleyville, AL
+        Laurel Oaks Behavioral Health Center                        Dothan, AL
+        Lawrence Medical Center                                     Moulton, AL
+        Madison Hospital                                            Madison, AL
+        Marshall Medical Center North                               Guntersville, AL
+        Marshall Medical Center South                               Boaz, AL
+        Mary Starke Harper Geriatric Psychiatry Center              Tuscaloosa, AL
+        Medical Center Barbour                                      Eufaula, AL
+        Medical Center Enterprise                                   Enterprise, AL
+        UAB Medical West                                            Bessemer, AL
+        Mizell Memorial Hospital                                    Opp, AL
+        Mobile Infirmary Medical Center                             Mobile, AL
+        Monroe County Hospital                                      Monroeville, AL
+        Mountain View Hospital                                      Gadsden, AL
+        Noland Hospital Anniston                                    Anniston, AL
+        Noland Hospital Birmingham                                  Birmingham, AL
+        Noland Hospital Dothan                                      Dothan, AL
+        Noland Hospital Montgomery                                  Montgomery, AL
+        Noland Hospital Tuscaloosa                                  Tuscaloosa, AL
+        North Alabama Medical Center                                Florence, AL
+        North Alabama Specialty Hospital                            Athens, AL
+        North Baldwin Infirmary                                     Bay Minette, AL
+        North Mississippi Medical Center – Hamilton                 Hamilton, AL
+        Northeast Alabama Regional Medical Center                   Anniston, AL
+        Northport Medical Center                                    Northport, AL
+        Northwest Medical Center                                    Winfield, AL
+        Prattville Baptist Hospital                                 Prattville, AL
+        Princeton Baptist Medical Center                            Birmingham, AL
+        Providence Hospital                                         Mobile, AL
+        Red Bay Hospital                                            Red Bay, AL
+        Regional Rehabilitation Hospital                            Phenix City, AL
+        Riverview Regional Medical Center                           Gadsden, AL
+        RMC Stringfellow Memorial Hospital                          Anniston, AL
+        Russell Medical Center                                      Alexander City, AL
+        Russellville Hospital                                       Russellville, AL
+        Select Specialty Hospital – Birmingham                      Birmingham, AL
+        Shelby Baptist Medical Center                               Alabaster, AL
+        Shoals Hospital Muscle                                      Shoals, AL
+        South Baldwin Regional Medical Center                       Foley, AL
+        Southeast Health Medical Center                             Dothan, AL
+        Springhill Medical Center                                   Mobile, AL
+        St. Vincent's Blount                                        Oneonta, AL
+        St. Vincent's Chilton                                       Clanton, AL
+        St. Vincent's East                                          Birmingham, AL
+        St. Vincent's Hospital                                      Birmingham, AL
+        St. Vincent's St. Clair                                     Pell City, AL
+        Tanner Medical Center East Alabama                          Wedowee, AL
+        Taylor Hardin Secure Medical Facility                       Tuscaloosa, AL
+        Thomas Hospital                                             Fairhope, AL
+        Thomasville Regional Medical Center                         Thomasville, AL
+        Troy Regional Medical Center                                Troy, AL
+        University of Alabama Hospital, Birmingham                  Birmingham, AL
+        UAB Callahan Eye Hospital                                   Birmingham, AL
+        UAB Hospital Highlands                                      Birmingham, AL
+        Unity Psychiatric Care Huntsville                           Huntsville, AL
+        University of South Alabama Children's and Women's Hospital Mobile, AL
+        USA Health University Hospital                              Mobile, AL
+        Vaughan Regional Medical Center                             Selma, AL
+        Veterans Affairs Medical Center-Birmingham                  Birmingham, AL
+        Veterans Affairs Medical Center-Tuscaloosa                  Tuscaloosa, AL
+        Walker Baptist Medical Center                               Jasper, AL
+        Washington County Hospital                                  Chatom, AL
+        Wiregrass Medical Center                                    Geneva, AL
+        Alaska Native Medical Center                                Anchorage, AK
+        Alaska Regional Hospital                                    Anchorage, AK
+        Bartlett Regional Hospital                                  Juneau, AK
+        Bassett Army Community Hospital                             Fort Wainwright, AK
+        Central Peninsula General Hospital                          Soldotna, AK
+        Cordova Community Medical Center                            Cordova, AK
+        Elmendorf AFB Hospital                                      Anchorage, AK
+        Fairbanks Memorial Hospital                                 Fairbanks, AK
+        Kanakanak Hospital                                          Dillingham, AK
+        PeaceHealth Ketchikan Medical Center                        Ketchikan, AK
+        Maniilaq Health Center                                      Kotzebue, AK
+        Mat-Su Regional Medical Center                              Palmer, AK
+        Mt. Edgecumbe Medical Center                                Sitka, AK
+        Northstar Hospital                                          Anchorage, AK
+        Norton Sound Regional Hospital                              Nome, AK
+        Petersburg Medical Center                                   Petersburg, AK
+        Providence Alaska Medical Center                            Anchorage, AK
+        Providence Kodiak Island Medical Center                     Kodiak, AK
+        Providence Seward Medical and Care Center                   Seward, AK
+        Samuel Simmonds Memorial Hospital                           Utqiaġvik, AK
+        Sitka Community Hospital                                    Sitka, AK
+        South Peninsula Hospital                                    Homer, AK
+        St. Elias Specialty Hospital                                Anchorage, AK
+        Wrangell Medical Center                                     Wrangell, AK
+        Yukon-Kuskokwim Delta Regional Hospital                     Bethel, AK
+
+
+
+        Abrazo Arizona Heart Hospital                               Phoenix, AZ
+        Abrazo Arrowhead Campus                                     Glendale, AZ
+        Abrazo Central Campus                                       Phoenix, AZ
+            f.  Phoenix Baptist Hospital                            Phoenix, AZ
+        Abrazo Scottsdale Campus                                    Phoenix, AZ
+            f.  Paradise Valley Hospital                            Phoenix, AZ
+        Abrazo West Campus                                          Goodyear, AZ
+            f.  West Valley Hospital                                Goodyear, AZ
+        Arizona State Hospital                                      Phoenix, AZ
+        Banner Baywood Medical Center                               Mesa, AZ
+        Banner Behavioral Health Hospital                           Scottsdale, AZ
+        Banner Boswell Medical Center                               Sun City, AZ
+            f. Boswell Memorial Hospital                            Sun City, AZ
+        Banner Casa Grande Medical Center                           Casa Grande, AZ
+            f. Casa Grande Regional Medical Center                  Casa Grande, AZ
+        Banner Del E Webb Medical Center                            Sun City West, AZ
+        Banner Desert Medical Center                                Mesa, AZ
+            f. Desert Samaritan                                     Mesa, AZ
+        Banner Estrella Medical Center                              Phoenix, AZ
+        Banner Gateway Medical Center                               Gilbert, AZ
+        Banner Goldfield Medical Center                             Apache Junction, AZ
+        Banner Health Cardon Children's Medical Center              Mesa, AZ
+        Banner Heart Hospital                                       Mesa, AZ
+        Banner Ironwood Medical Center                              Queen Creek, AZ
+        Banner MD Anderson Cancer Center                            Gilbert, AZ
+        Banner Payson Medical Center                                Payson, AZ
+        Banner Thunderbird Medical Center                           Glendale, AZ
+            f. Thunderbird Samaritan Medical Center                 Glendale, AZ
+        Banner – University Medical Center Phoenix                  Phoenix, AZ
+        Banner – University Medical Center South                    Tucson, AZ
+        Banner – University Medical Center Tucson                   Tucson, AZ
+        Barrow Neurological Institute                               Phoenix, AZ
+        Benson Hospital                                             Benson, AZ
+        Bullhead Community Hospital                                 Bullhead City, AZ
+        Cancer Treatment Centers of America, Gilbert                Gilbert, AZ
+        Cancer Treatment Centers of America, North Phoenix          Phoenix, AZ
+        Cancer Treatment Centers of America, Phoenix                Goodyear, AZ
+        Cancer Treatment Centers of America, Scottsdale             Scottsdale, AZ
+        Carondelet St. Joseph's Hospital                            Tucson, AZ
+        Chandler Regional Medical Center                            Chandler, AZ
+        Cobalt Rehabilitation Hospital                              Surprise, AZ
+        Cobre Valley Regional Medical Center                        Globe, AZ
+        Copper Queen Community Hospital                             Bisbee, AZ
+        Diamond Children's Medical Center                           Tucson, AZ
+        Dignity Health Arizona General Hospital                     Phoenix, AZ
+        Dignity Health St. Joseph's Hospital and Medical Center     Phoenix, AZ
+        Dignity Health St. Joseph's Westgate Medical Center         Glendale, AZ
+        Flagstaff Medical Center                                    Flagstaff, AZ
+        Florence Community Healthcare                               Florence, AZ
+        Gilbert Hospital                                            Gilbert, AZ
+        Havasu Regional Medical Center                              Lake Havasu City, AZ
+        HealthSouth Rehabilitation Hospital of Southern Arizona     Tucson, AZ
+        Holy Cross Hospital                                         Nogales, AZ
+        HonorHealth Deer Valley Medical Center                      Phoenix, AZ
+        HonorHealth John C. Lincoln Medical Center                  Phoenix, AZ
+        HonorHealth Scottsdale Osborn Medical Center                Scottsdale, AZ
+            f. Scottsdale Healthcare Osborn                         Scottsdale, AZ
+        HonorHealth Scottsdale Shea Medical Center                  Scottsdale, AZ
+            f. Scottsdale Healthcare Shea                           Scottsdale, AZ
+        HonorHealth Scottsdale Thompson Peak Medical Center         Scottsdale, AZ
+            f. Scottsdale Healthcare Thompson Peak                  Scottsdale, AZ
+        HonorHealth Sonoran Health and Emergency Center             Phoenix, AZ
+            f. John C. Lincoln Sonoran Health                       Phoenix, AZ
+        Hopi Health Care Center                                     Polacca, AZ
+        Hu Hu Kam Memorial Hospital                                 Sacaton, AZ
+        Kingman Regional Medical Center                             Kingman, AZ
+        La Paz Regional Hospital                                    Parker, AZ
+        Mayo Clinic Arizona                                         Phoenix, AZ
+        Mercy Gilbert Medical Center                                Gilbert, AZ
+MGRMC   Mount Graham Regional Medical Center                        Safford, AZ
+        Mountain Vista Medical Center                               Mesa, AZ
+        Northern Cochise Community Hospital                         Willcox, AZ
+        Northwest Medical Center                                    Tucson, AZ
+        Oasis Behavioral Health Hospital                            Chandler, AZ
+        Oro Valley Hospital                                         Tucson, AZ
+        Page Hospital                                               Page, AZ
+        Phoenix Children's Hospital                                 Phoenix, AZ
+        Phoenix Indian Medical Center                               Phoenix, AZ
+        Phoenix Memorial Hospital                                   Phoenix, AZ
+        Prescott VA Medical Center                                  Prescott, AZ
+        Sage Memorial Hospital                                      Gando, AZ
+        Saint Mary's Hospital                                       Tucson, AZ
+        San Carlos Apache Tribe Healthcare Corporation              Peridot, AZ
+        Sierra Tucson                                               Tucson, AZ
+        Sierra Vista Regional Health Center                         Sierra Vista, AZ
+        Southeast Arizona Medical Center                            Douglas, AZ
+        Southeastern Arizona Behavioral Health Services             Nogales, AZ
+        Summit Healthcare Regional Medical Center                   Show Low, AZ
+        Tempe St. Luke's Hospital                                   Tempe, AZ
+        Tsehootsooi Medical Center                                  Fort Defiance, AZ
+            f. Fort Defiance Indian Hospital                        Fort Defiance, AZ
+        Tuba City Regional Health Care Corporation                  Tuba City, AZ
+        Tucson Heart Hospital                                       Tucson, AZ
+        Tucson Medical Center                                       Tucson, AZ
+        Tucson VA Medical Center                                    Tucson, AZ
+        Valley Hospital                                             Phoenix, AZ
+        Valleywise Health Medical Center                            Phoenix, AZ
+        Verde Valley Medical Center                                 Cottonwood, AZ
+        Western Arizona Regional Medical Center                     Bullhead City, AZ
+        White Mountain Regional Medical Center                      Springville, AZ
+        Wickenburg Regional Hospital                                Wickenburg, AZ
+        Winslow Indian Healthcare Center                            Winslow, AZ
+        Yavapai Regional Medical Center                             Prescott, AZ
+        Yuma Regional Medical Center                                Yuma, AZ
+
+        Advanced Care Hospital of White County                      Searcy, AR
+        Arkansas Children's Hospital                                Little Rock, AR
+        Arkansas Children's Northwest Hospital                      Springdale, AR
+        Arkansas Heart Hospital                                     Little Rock, AR
+        Arkansas Methodist Medical Center                           Paragould, AR
+        Arkansas State Hospital                                     Little Rock, AR
+        Arkansas State Psychiatric Hospital                         Little Rock, AR
+        Arkansas Surgical Hospital                                  North Little Rock, AR
+        Ashley County Medical Center                                Crossett, AR
+        Baptist Health Extended Care Hospital                       Little Rock, AR
+        Baptist Health Fort Smith                                   Fort Smith, AR
+        Baptist Health Medical Center                               Little Rock, AR
+        Baptist Health Medical Center North Little Rock             North Little Rock, AR
+        Baptist Health Medical Center-Arkadelphia                   Arkadelphia, AR
+        Baptist Health Medical Center-Conway                        Conway, AR
+        Baptist Health Medical Center-Heber Springs                 Heber Springs, AR
+        Baptist Health Medical Center-Hot Spring County             Malvern, AR
+        Baptist Health Medical Center-Stuttgart                     Stuttgart, AR
+        Baptist Health Rehabilitation Institute                     Little Rock, AR
+        Baptist Health-Van Buren                                    Van Buren, AR
+        Baptist Memorial Hospital-Crittenden                        West Memphis, AR
+        Baxter Regional Medical Center                              Mountain Home, AR
+        Bradley County Medical Center                               Warren, AR
+        Cabot Emergency Hospital                                    Cabot , AR
+        Carroll Regional Medical Center                             Berryville, AR
+        Central Arkansas Veterans Healthcare System                 Little Rock, AR
+        Chambers Memorial Hospital                                  Danville, AR
+        CHI St. Vincent Hospital Hot Springs                        Hot Springs, AR
+        CHI St. Vincent Hot Springs Rehabilitation Hospital         Hot Springs, AR
+        CHI St. Vincent Infirmary                                   Little Rock, AR
+        CHI St. Vincent Morrilton                                   Morrilton, AR
+        CHI St. Vincent North                                       Sherwood, AR
+        CHI St. Vincent Rehabilitation Hospital                     Sherwood, AR
+        Chicot Memorial Medical Center                              Lake Village, AR
+        Christus Dubuis Hospital                                    Fort Smith, AR
+        Christus Dubuis of Hot Springs                              Hot Springs, AR
+        Conway Regional Medical Center                              Conway, AR
+        Conway Regional Rehabilitation Hospital                     Conway, AR
+        Cornerstone Hospital Little Rock                            Little Rock, AR
+        Cornerstone Specialty Hospital                              Little Rock, AR
+        CrossRidge Community Hospital                               Wynne, AR
+        Dallas County Medical Center                                Fordyce, AR
+        Dardanelle Regional Medical Center                          Dardanelle, AR
+        De Queen Medical Center                                     De Queen, AR
+        Delta Memorial Hospital                                     Dumas, AR
+        DeWitt Hospital & Nursing Home                              DeWitt, AR
+        Drew Memorial Hospital                                      Monticello, AR
+        Encompass Health Rehabilitation Hospital                    Fort Smith, AR
+        Encompass Health Rehabilitation Hospital                    Fayetteville, AR
+        Encompass Health Rehabilitation Hospital of Jonesboro       Jonesboro, AR
+        Eureka Springs Hospital                                     Eureka Springs, AR
+        Forrest City Medical Center                                 Forrest City, AR
+        Freedom Behavioral Hospital of Central Arkansas             Jacksonville, AR
+        Fulton County Hospital                                      Salem, AR
+        Great River Medical Center                                  Blytheville, AR
+        Harris Hospital                                             Newport, AR
+        Helena Regional Medical Center                              Helena-West Helena, AR
+        Howard Memorial Hospital                                    Nashville, AR
+        Izard County Medical Center                                 Calico Rock, AR
+        Jefferson Regional Medical Center                           Pine Bluff, AR
+        John L. McClellan Memorial Veterans Hospital                Little Rock, AR
+        Johnson Regional Medical Center                             Clarksville, AR
+        Lawrence Memorial Hospital                                  Walnut Ridge, AR
+        Levi Hospital                                               Hot Springs, AR
+        Little River Memorial Hospital                              Ashdown, AR
+        Magnolia Regional Medical Center                            Magnolia, AR
+        McGehee Hospital                                            McGehee, AR
+        Medical Center of South Arkansas                            El Dorado, AR
+        Mena Regional Health System                                 Mena, AR
+        Mercy Emergency Department                                  Bella Vista, AR
+        Mercy Hospital Berryville                                   Berryville, AR
+        Mercy Hospital Booneville                                   Booneville, AR
+        Mercy Hospital Fort Smith                                   Fort Smith, AR
+        Mercy Hospital Hot Springs                                  Hot Springs, AR
+        Mercy Hospital Northwest Arkansas                           Springdale, AR
+        Mercy Hospital Northwest Arkansas                           Rogers, AR
+        Mercy Hospital Ozark                                        Ozark, AR
+        Mercy Hospital Paris                                        Paris, AR
+        Mercy Hospital Waldron                                      Waldron, AR
+        Mercy Orthopedic Hospital                                   Fort Smith, AR
+        Methodist Behavioral Hospital                               Maumelle, AR
+        National Park Medical Center                                Hot Springs, AR
+        NEA Baptist Memorial Hospital                               Jonesboro, AR
+        NEA Medical Center                                          Jonesboro, AR
+        North Arkansas Regional Medical Center                      Harrison, AR
+        North Metro Medical Center                                  Jacksonville, AR
+        Northwest Health Emergency Department                       Fayetteville, AR
+        Northwest Health Physicians' Specialty Hospital             Fayetteville, AR
+        Northwest Medical Center                                    Springdale, AR
+        Northwest Medical Center - Willow Creek Women's Hospital    Johnson, AR
+        Northwest Medical Center Behavioral Health Unit             Springdale, AR
+        Northwest Medical Center-Bentonville                        Bentonville, AR
+        Ouachita County Medical Center                              Camden, AR
+        Ozark Health Medical Center                                 Clinton, AR
+        Ozarks Community Hospital                                   Gravette, AR
+        Parkhill The Clinic for Women                               Fayetteville, AR
+        Piggott Health System                                       Piggott, AR
+        Pinnacle Pointe Hospital                                    Little Rock, AR
+        Rebsamen Regional Medical Center                            Jacksonville, AR
+        Regency Hospital                                            Springdale, AR
+        Rivendell Behavioral Health Services                        Benton, AR
+        River Valley Medical Center                                 Dardanelle, AR
+        Riverview Behavioral Health                                 Texarkana, AR
+        Saline Memorial Hospital                                    Benton, AR
+        Select Specialty Hospital                                   Fort Smith, AR
+        Select Specialty Hospital-Fort Smith                        Fort Smith, AR
+        Siloam Springs Regional Hospital                            Siloam Springs, AR
+        South Mississippi County Regional Medical Center            Osceola, AR
+        Springwoods Behavioral Health Services                      Fayetteville, AR
+        St. Anthony's Healthcare Center                             Morrilton, AR
+        St. Bernards Behavioral Health Hospital                     Jonesboro, AR
+        St. Bernards Five Rivers Medical Center                     Pocahontas, AR
+        St. Bernards Medical Center                                 Jonesboro, AR
+        St. Mary's Regional Medical Center                          Russellville, AR
+        Stone County Medical Center                                 Mountain View, AR
+        Summit Medical Center                                       Van Buren, AR
+        Surgical Hospital of Jonesboro                              Jonesboro, AR
+        The BridgeWay                                               North Little Rock, AR
+        UAMS Medical Center                                         Little Rock, AR
+        Unity Health                                                Searcy, AR
+        Valley Behavioral Health System                             Barling, AR
+        Vantage Point Behavioral Health Hospital                    Fayetteville, AR
+        Vantage Point of Northwest Arkansas                         Fayetteville, AR
+        Veterans Health Care System of the Ozarks                   Fayetteville, AR
+        Wadley Regional Medical Center at Hope                      Hope, AR
+        Washington Regional Medical Center                          Fayetteville, AR
+        White River Medical Center                                  Batesville, AR
+
+
+        AdventHealth Avista                                         Louisville
+        AdventHealth Castle Rock                                    Castle Rock
+        AdventHealth Littleton                                      Littleton
+        AdventHealth Parker                                         Parker
+        AdventHealth Porter                                         Denver
+        Animas Surgical Hospital                                    Durango
+        Arkansas Valley Regional Medical Center                     La Junta
+        Aspen Valley Hospital                                       Aspen
+        Banner Fort Collins Medical Center                          Fort Collins
+        Cedar Springs Behavioral Hospital                           Colorado Springs
+        Centennial Peaks Hospital                                   Louisville
+        Children's Hospital Colorado                                Aurora
+        Children's Hospital Colorado, Colorado Springs              Colorado Springs
+        Children's Hospital Colorado North Campus                   Broomfield
+        Children's Hospital Colorado South Campus                   Highlands Ranch
+        Clear View Behavioral Health                                Johnstown
+        Colorado Acute Long Term Hospital                           Denver
+        Colorado Mental Health Institute at Fort Logan              Denver
+        Colorado Mental Health Institute at Pueblo                  Pueblo
+        St. Elizabeth Hospital                                      Fort Morgan
+        Community Hospital                                          Grand Junction
+        Conejos County Hospital                                     La Jara
+        Craig Hospital                                              Englewood
+        Delta County Memorial Hospital                              Delta
+        Denver Health Medical Center                                Denver
+        Denver Springs                                              Englewood
+        East Morgan County Hospital                                 Brush
+        Eating Recovery Center a Behavioral Hospital                Denver
+        Eating Recovery Center a Behavioral Hospital for Children   Denver
+        Eating Recovery Center Behavioral Health                    Denver
+        Estes Park Medical Center                                   Estes Park
+        Evans Army Community Hospital                               Fort Carson
+        Family Health West Hospital                                 Fruita
+        Foothills Hospital                                          Boulder
+        Good Samaritan Medical Center                               Lafayette
+        Grand River Health                                          Rifle
+        Gunnison Valley Hospital                                    Gunnison
+        Haxtun Hospital District                                    Haxtun
+        HealthSouth Rehabilitation Hospital of Colorado Springs     Colorado Springs
+        HealthSouth Rehabilitation Hospital of Littleton            Littleton
+        Heart of the Rockies Regional Medical Center                Salida
+        Highlands Behavioral Health System                          Highlands Ranch
+        Keefe Memorial Hospital                                     Cheyenne Wells
+        Kindred Hospital - Denver                                   Denver
+        Kindred Hospital - Denver                                   South Denver
+        Kindred Hospital Aurora                                     Aurora
+        Kit Carson County Memorial Hospital                         Burlington
+        Lincoln Community Hospital                                  Hugo
+        Longmont United Hospital                                    Longmont
+        Longs Peak Hospital                                         Longmont
+        Lutheran Medical Center                                     Wheat Ridge
+        McKee Medical Center                                        Loveland
+        Medical Center of the Rockies                               Loveland
+        Melissa Memorial Hospital                                   Holyoke
+        Memorial Hospital Central                                   Colorado Springs
+        Memorial Hospital North                                     Colorado Springs
+        Mercy Regional Medical Center                               Durango
+        Middle Park Medical Center                                  Kremmling
+        Middle Park Medical Center - Granby                         Granby
+        Montrose Memorial Hospital                                  Montrose
+        Mt. San Rafael Hospital                                     Trinidad
+        National Jewish Health                                      Denver
+        North Colorado Medical Center                               Greeley
+        North Suburban Medical Center                               Thornton
+        Northern Colorado Long Term Acute Hospital                  Johnstown
+        Northern Colorado Rehabilitation Hospital                   Johnstown
+        OrthoColorado Hospital at St. Anthony Medical Campus        Lakewood
+        Pagosa Springs Medical Center                               Pagosa Springs
+        Parkview Medical Center                                     Pueblo
+        Peak View Behavioral Health                                 Colorado Springs
+        Penrose Hospital                                            Colorado Springs
+        Pikes Peak Regional Hospital                                Woodland
+        Pioneers Medical Center                                     Meeker
+        Platte Valley Medical Center                                Brighton
+        Poudre Valley Hospital                                      Fort Collins
+        Presbyterian/St. Luke's Medical Center                      Denver
+        Prowers Medical Center                                      Lamar
+        Rangely District Hospital                                   Rangely
+        Rio Grande Hospital                                         Del Norte
+        Rose Medical Center                                         Denver
+        Saint Joseph Hospital                                       Denver
+        San Luis Valley Regional Medical Center                     Alamosa
+        SCL Health Community Hospital - Northglenn                  Northglenn
+        SCL Health Community Hospital - Southwest                   Littleton
+        SCL Health Community Hospital - Westminster                 Westminster
+        Sedgwick County Memorial Hospital                           Julesburg
+        Sky Ridge Medical Center                                    Lone Tree
+        Southeast Colorado Hospital                                 Springfield
+        Southwest Memorial Hospital                                 Cortez
+        Spalding Rehabilitation Hospital                            Aurora
+        Spanish Peaks Regional Health Center                        Walsenberg
+        St. Anthony Hospital                                        Lakewood
+        St. Anthony North Health Campus                             Westminster
+        St. Anthony Summit Medical Center                           Frisco
+        St. Elizabeth Hospital                                      Fort Morgan
+        St. Francis Medical Center                                  Colorado Springs
+        St Francis Hospital - Interquest                            Colorado Springs
+        St. Mary's Medical Center                                   Grand Junction
+        St. Mary-Corwin Medical Center                              Pueblo
+        St. Thomas More Hospital                                    Cañon City
+        St. Vincent General Hospital District                       Leadville
+        Sterling Regional MedCenter                                 Sterling
+        Swedish Medical Center                                      Englewood
+        Telluride Regional Medical Center                           Telluride
+        The Medical Center of Aurora                                Aurora
+        The Memorial Hospital                                       Craig
+        UCHealth Broomfield Hospital                                Broomfield
+        UCHealth Grandview Hospital                                 Colorado Springs
+        UCHealth Highlands Ranch Hospital                           Highlands Ranch
+        UCHealth Greeley Hospital                                   Greeley
+        University of Colorado Hospital                             Aurora
+        Vail Health Hospital                                        Vail
+        Valley View Hospital                                        Glenwood Springs
+        Vibra Long Term Acute Care Hospital                         Thornton
+        Weisbrod Memorial County Hospital                           Eads
+        West Springs Hospital                                       Grand Junction
+        Wray Community District Hospital                            Wray
+        Yampa Valley Medical Center Steamboat                       Springs
+        Yuma District Hospital                                      Yuma
+
+
+========== defunct ==========
+
                 
+
+
+        Carraway Methodist Medical Center                           Birmingham, AL
+        Chilton Medical Center                                      Clanton, AL
+        Cooper Green Mercy Hospital                                 Birmingham, AL
+        Elba General Hospital                                       Elba, AL
+        Eliza Coffee Memorial Hospital                              Florence, AL
+        Florala Memorial Hospital                                   Florala, AL
+        Georgiana Medical Center                                    Georgiana, AL
+        Greil Memorial Psychiatric Hospital                         Montgomery, AL
+        Hartselle Medical Center                                    Hartselle, AL
+        Infirmary West                                              Mobile, AL
+        Lamar Regional Hospital                                     Vernon, AL
+        North Alabama Regional Hospital                             Decatur, AL
+        Pickens County Medical Center                               Carrollton, AL
+        Randolph Medical Center                                     Roanoke, AL
+        Regional Medical Center of Jacksonville                     Jacksonville, AL
+        Searcy Hospital                                             Mount Vernon, AL
+        W. D. Partlow Developmental Center                          Tuscaloosa, AL
+        Woodland Medical Center                                     Cullman, AL
+
+        St. Luke's Medical Center                                   Phoenix, AZ
+        Valleywise Behavioral Health Center Maryvale                Phoenix, AZ
+            f.  Abrazo Maryvale Campus                              Phoenix, AZ
+            f.  Maryvale Hospital Medical Center                    Phoenix, AZ
+
+
 
 =======================================
 ======== US Housing Authorities =======
 =======================================
+
+
+
 
 Notes: From https://www.aahaak.org/our-members ,
             https://affordablehousingonline.com/housing-authority
