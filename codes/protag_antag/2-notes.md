@@ -1,6 +1,6 @@
 ### (21) United States Police
 
-A moderately comprehensive list of US police agencies can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_state_and_local_law_enforcement_agencies). This list goes state by state, and each sublist tends to include all Sheriff's Offices, municipal dolice departments, tribal/reservation police agencies, university police, special districts, and the various forms of state police. 
+A moderately comprehensive list of US police agencies can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_state_and_local_law_enforcement_agencies). This list goes state by state, and each sublist tends to include all Sheriff's Offices, municipal police departments, tribal/reservation police agencies, university police, special districts, and the various forms of state police. 
 
 * Alabama - 100% Sheriff's (both org styles), 100% Constable's, 42% Local, 88% College/University  
   *One local uses "City of [local] Police Department" style, one college doesn't seem to exist (Russell), other two are satellite campuses.*
