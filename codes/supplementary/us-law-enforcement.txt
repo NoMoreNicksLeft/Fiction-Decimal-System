@@ -29,68 +29,107 @@ Notes:
    that org isn't "x" class, as long as the style is appropriate, and there isn't
    another entry for it with the correct class.
 
-00 - [federal] Criminal Investigation Division
-01 - [federal] Criminal Investigative Service
-02 - [federal] Office of Criminal Investigations
-03 - [federal] Office of Inspector General
-04 - [federal] Office of Law Enforcement
-04 - [federal] Office of Protective Services
-05 - [federal] Police
-06 - [federal] Protective Service Division
+Total: 62 lines... still room to grow.
 
-30 - [state] Bureau of Investigation
-31 - [state] Bureau of Narcotics, Bureau of Narcotics Enforcement
-32 - [state] Department of Law Enforcement
-33 - [state] Department of Public Safety
-34 - [state] Drug Enforcement Agency
-35 - [state] Highway Patrol
-36 - [state] Highway Police
-37 - [state] Mounted Police
-38 - Narcotics Enforcement Division
-39 - [state ]Park Police
-40 - [state] Rangers
-41 - [state] State Highway Patrol
-42 - Marine Patrol
-43 - State Marshal
-44 - State Park Rangers
-45 - [state] State Patrol
-46 - [state] State Police
-47 - [state] State Sheriff's Office/Department
-48 - [state] State Troopers
+# Very rarely, a private police force might have the style baked into the name. In such cases (or as otherwise appropriate), use this where it imples a blank style.
+00 - [any] <none>
 
-60 - [local] Sheriff's Office
-61 - [local] Police Department
-62 - [local] Constable's Office
-63 - [local] Marshal's Office
- - Constables
+# Narcotics-oriented org styles
+01 - [any] Drug Enforcement Agency
+02 - [any] Bureau of Narcotics 
+   - Bureau of Narcotics Enforcement
+03 - Narcotics Enforcement Division
 
-70 - [special] Railroad Police
-71 - [special] Railway Police
-72 - [any] Patrol Special Police
-73 - [any] Patrol
-74 - [any] Police Division
+# Patrol-oriented org styles
+10 - [state] State Highway Patrol
+11 - [state] State Patrol
+12 - [state] State Troopers
+13 - [any] Highway Patrol
+14 - [any] Highway Police
+15 - [any] Mounted Police
+16 - [any] Patrol Special Police
+17 - [any] Patrol
+18 - [any] Marine Patrol
+   - Marine Patrol
 
-80 - [any] Police Service
+# County org styles
+20 - [any] Sheriff's Office
+21 - [any] Sheriff's Department
+23 - [any] Constable's Office
+24 - Constables
+25 - [any] Marshal's Office
+26 - [any] Bureau of Police
+27 - [county] Prosecutor's Office Police
 
- - Campus Police
- - Public Safety Department
- - Warden Service
- - [tribe] Tribal Police
- - [county] Bureau of Police
- - [county] Sheriff's Department
- - [university] Campus Police Department
- - [university] Police Authority
- - [school] Campus Enforcement Department
- - [county] Police Cooperative
- - [local] Law Enforcement Department
- - [tribe] Law Enforcement Services
- - [local] Metropolitan Police Department
- - [county] Prosecutor's Office Police
- - [county] SPCA Law Enforcement Division
- - [county] SPCA Humane Police
- - [state] SPCA Law Enforcement
- - [state] SPCA Human Law Enforcement Division
- - City of [local] Police Department
+# Municipal org styles
+30 - [any] Police Department
+   - County of [local] Police Department
+   - City of [local] Police Department
+   - Town of [local] Police Department
+   - Village of [local] Police Department
+31 - [local] Metropolitan Police Department
+
+# Department/Office/Bureau org styles
+40 - [any] Bureau of Investigation
+41 - [any] Office of Criminal Investigations
+42 - [any] Criminal Investigation Division
+43 - [any] Criminal Investigative Service
+44 - [any] Office of Law Enforcement
+45 - [any] Department of Law Enforcement
+   - [any] Law Enforcement Department
+46 - [any] Law Enforcement Services
+47 - [any] Office of Protective Services
+48 - [any] Protective Service Division
+49 - [any] Department of Public Safety
+   - [any] Public Safety Department
+50 - [any] Office of Inspector General
+
+# Generic org styles
+55 - [any] Police
+56 - [any] Police Division
+57 - [any] Police Service
+58 - [any] Police Cooperative
+59 - [state] State Police
+
+# Private/company-oriented org styles
+60 - [railroad] Railroad Police
+61 - [railroad] Railway Police
+62 - [any] Company Police
+63 - [any] Company Police Department
+64 - [any] Special Police
+65 - [any] Private Police
+
+? - Public Safety
+
+68 - State Marshal
+69 - [state] State Sheriff's Office
+   - [state] State Sheriff's Department
+
+# Special jurisdiction org styles
+70 - Campus Police
+71 - [school] Campus Police Department
+72 - [school] Campus Law Enforcement
+73 - [school] Campus Enforcement Department
+74 - [any] Police Authority
+75 - [tribe] Tribal Police
+
+
+# Other org styles
+80 - [any] SPCA Law Enforcement Division
+   - [any] SPCA Humane Law Enforcement Division
+81 - [any] SPCA Law Enforcement
+82 - [any] SPCA Humane Police
+
+
+# Park/warden/ranger org styles
+85 - [any] Rangers
+86 - State Park Rangers
+87 - Warden Service
+88 - [state] Park Police
+
+# Academies
+90 - Police Academy
+91 - Law Enforcement Academy
 
 =======================================
 ======= Law Enforcenemtn Ranks ========
@@ -122,47 +161,46 @@ Notes:
 25 - Inspector (Investigative)
 26 - Special Agent
 27 - Investigator
- - Special Investigator
-28 - Deputy Inspector (Supervisory)
-29 - Inspector (Supervisory)
-30 - Chief Inspector
-31 - Asst. to the Chief
-32 - Deputy Chief
-33 - Executive Deputy Chief
-34 - Asst. Chief
-35 - Executive Asst. Chief
-36 - Chief
-37 - Bureau Chief
-38 - Dept. Chief
-39 - Asst. Deputy Superintendent
-40 - Deputy Superintendent
-41 - First Deputy Superintendent
-42 - Superintendent
-43 - Deputy Commissioner
-44 - First Deputy Commissioner
-45 - Commissioner
-
- - Supervisory Special Investigator
- - Executive Officer
- - Asst. Director
- - Director
+28 - Special Investigator
+29 - Supervisory Special Investigator
+30 - Deputy Inspector (Supervisory)
+31 - Inspector (Supervisory)
+32 - Chief Inspector
+33 - Asst. to the Chief
+34 - Deputy Chief
+35 - Executive Deputy Chief
+36 - Asst. Chief
+37 - Executive Asst. Chief
+38 - Chief
+39 - Bureau Chief
+40 - Dept. Chief
+41 - Executive Officer
+42 - Asst. Director
+43 - Director
+44 - Asst. Deputy Superintendent
+45 - Deputy Superintendent
+46 - First Deputy Superintendent
+47 - Superintendent
+48 - Deputy Commissioner
+49 - First Deputy Commissioner
+50 - Commissioner
 
 # Sheriff, constable, & marshal-style titles
 
-50 - Deputy
-51 - Senior Deputy
-52 - Asst. Chief Deputy
-53 - Chief Deputy
-54 - Asst. Sheriff
-55 - Undersheriff
-56 - Sheriff
-57 - High Sheriff
-58 - Asst. Constable
-59 - Constable
-60 - Asst. Marshal
-61 - Marshal
-62 - Chief Deputy Jailer
-63 - Jailer
+54 - Deputy
+55 - Senior Deputy
+56 - Asst. Chief Deputy
+57 - Chief Deputy
+58 - Asst. Sheriff
+59 - Undersheriff
+60 - Sheriff
+61 - High Sheriff
+62 - Asst. Constable
+63 - Constable
+64 - Asst. Marshal
+65 - Marshal
+66 - Chief Deputy Jailer
+67 - Jailer
 
 # State trooper-style titles
 
@@ -172,6 +210,8 @@ Notes:
 73 - Senior Trooper
 74 - Master Trooper
 75 - Trooper First Class
+
+# Warden-style titles
 
 # Federal-style titles
 
@@ -191,6 +231,8 @@ Notes:
 94 - Bridge Guard
 95 - Yard Guard
 96 - Foot Collector
+
+? - instructors?
 
 =======================================
 ============ Areas of Duty ============
@@ -219,3 +261,56 @@ Notes:
 52 - Other Administrative Duty
 70 - Auxilliary/Reserve
 
+
+=======================================
+========== US Private Police ==========
+=======================================
+
+Note: Portions of the name enclosed in curly brackets {} can be dropped/ignored as needed. Areas of operation included. Private company police are mostly confined to North Carolina in the modern era.
+
+00              Blue Ridge Public Safety                                    NC
+01              Delta {Protection Agency}                                   NC
+02              Down East Protection Systems {Security Group}               NC
+03              Duke Power                                                  NC
+04              Elite Police                                                NC
+05              Enforcement {Enterprises LLC}                               NC
+06              G4S Secure Solutions                                        NC
+07              Global One {Protective Services LLC}                        NC
+08              King {Special Police Ltd}                                   NC
+09              Kodiak {International Inc}                                  NC
+10              Lake Royale {Company Police}                                NC
+11              Lankford {Protective Services Inc}                          NC
+12              Mountain Security Patrol                                    NC
+13              N.C. Special Police (A Services Group)                      NC
+14              Night Hawk {Security & Consulting}                          NC
+15              North State Security Group                                  NC
+16              Nova Agency                                                 NC
+17              ODS {Company Police Inc}                                    NC
+18              On Point {Protection Agency}                                NC
+19              OS-NQS {Special Police Corp}                                NC
+20              Pacific Unified {Company Police}                            NC
+21              Phoenix {Special Police LLC}                                NC
+22              Pinnacle {Special Police Inc}                               NC
+23              Precision {Special Police Department LLC}                   NC
+24              Professional {Police Services Inc}                          NC
+25              SAS Institute                                               NC
+26              Sheepdog {Public Safety}                                    NC
+27              Southeastern Public Safety {Group}                          NC
+28              S.P.E.A.R. {Special Police Inc}                             NC
+29              State {Special Police LLC}                                  NC
+30              Statewide {Company Police Inc}                              NC
+31              Wackenhut                                                   National
+32              Williams                                                    NC
+
+=======================================
+======= Defunct Private Police ========
+=======================================
+
+    
+33              Baldwin–Felts Detective Agency                              National
+34              Coal and Iron                                               PA
+35              Never Quit Services                                         NC
+36              North-Western Police Agency                                 National
+37              Pinkerton National Detective Agency                         National
+38              United {Special Police LLC}                                 NC
+39              William J. Burns International Detective Agency             National
