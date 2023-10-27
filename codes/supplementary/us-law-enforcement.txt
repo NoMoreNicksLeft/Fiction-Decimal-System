@@ -106,12 +106,15 @@ Total: 62 lines... still room to grow.
    - [state] State Sheriff's Department
 
 # Special jurisdiction org styles
-70 - Campus Police
-71 - [school] Campus Police Department
-72 - [school] Campus Law Enforcement
-73 - [school] Campus Enforcement Department
-74 - [any] Police Authority
-75 - [tribe] Tribal Police
+70 - State Capitol Police
+71 - State Fair Police
+72 - State Fairgrounds Police
+73 - Campus Police
+74 - [school] Campus Police Department
+75 - [school] Campus Law Enforcement
+76 - [school] Campus Enforcement Department
+77 - [any] Police Authority
+78 - [tribe] Tribal Police
 
 
 # Other org styles
