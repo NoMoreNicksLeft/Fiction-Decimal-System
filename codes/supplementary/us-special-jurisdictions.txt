@@ -12,7 +12,7 @@
 1350 - 1699 - US Zoos and Museums
 1700 - 5499 - US Housing Authorities
 
-xxxx - xxxx - US Hospitals
+5500 - xxxx - US Hospitals
 
 xxxx - xxxx - US State Fairs
 
@@ -977,6 +977,7 @@ Notes: Sorted by state, name.
 1365            Baton Rouge Zoo                                                     Baker, LA
 1366            Baylor University Bear Habitat                                      Waco, TX
 1367            Bergen County Zoological Park                                       Paramus, NJ
+                Biltmore Estate                                                     Buncombe County, NC
 1368            Binder Park Zoo                                                     Battle Creek, MI
 1369            Binghamton Zoo at Ross Park                                         Binghamton, NY
 1370            Birch Aquarium at Scripps                                           La Jolla, CA
