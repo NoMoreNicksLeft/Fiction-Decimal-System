@@ -85,7 +85,13 @@ A plural code can also be included in a list if necessary, like so:
 
 Occasionally, a complex character can't be described very well with a single code. *Indiana Jones* need not be coded both as an archaeologist and an adventurer (though he is surely both), because the "adventurer" part is the conceit of the films. They do not show him doing boring field management work over a bunch of interns and grad students and surly porters. But, from the same era we have *Buckaroo Banzai* who is a brain surgeon, rock star, *and* theoretical physicist. (Note: This is a special case where a three-faceted code could be justified, normally only two should be permitted.)
 
+The codes should be combined with an `&` mark. The order that these codes should appear in is from least to greatest. For example, this is correct:
 
+`p=1234&256`
+
+But this is incorrect
+
+`p=256&1234`
 
 ### Transformed Characters
 
@@ -93,12 +99,12 @@ Let us start with examples. Our first is a story for a small child, perhaps as a
 
 The codes for these characters will look like the following:
 
-*Butterfly-once-caterpillar* - `p=8123>8456`  
-*Spiritually-awakened-man* - `0789>0246`  
-*Former alcoholic* - `0357>0999`  
-*Broken man* - `0222>0888`  
+*Butterfly-once-caterpillar* - `p=8123>>8456`  
+*Spiritually-awakened-man* - `p=0789>>0246`  
+*Former alcoholic* - `p=0357>>0999`  
+*Broken man* - `p=0222>>0888`  
 
-Each of these will use the `>` closing angle bracket (greater than) as punctuation that combines two codes to indicate a single code. In typeset print intended only for eyes using a right-pointing arrow is also acceptible (`0222→0888`), though in digital systems the punctuation **MUST** be the closing angle bracket.
+Each of these will use the double `>>` closing angle bracket (greater than) as punctuation that combines two codes to indicate a single code. In typeset print intended only for eyes using a double right-pointing arrow is also acceptible (`0222⇉0888`), though in digital systems the punctuation **MUST** be the closing angle bracket. The earlier code must always be to the left of the later code.
 
 It is not recommended to use multiple transformations for a single code number. Very rarely would a story demand it, no obvious examples exist. Perhaps a "rags to riches to rags" character might, but fiction rarely depicts these double transformations except as cliched utterances, hardly stories themselves.
 
