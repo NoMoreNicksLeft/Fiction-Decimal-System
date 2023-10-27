@@ -11,11 +11,7 @@
 1100 - 1349 - Defunct Racetracks
 1350 - 1699 - US Zoos and Museums
 1700 - 5499 - US Housing Authorities
-
 5500 - xxxx - US Hospitals
-
-xxxx - xxxx - US State Fairs
-
 
 =======================================
 ================ Notes ================
@@ -959,6 +955,7 @@ Notes: Sorted by state, name.
 ========== US Zoos & Museums ==========
 =======================================
 
+        
 1350            Abilene Zoological Gardens                                          Abilene, TX
 1351            Adventure Aquarium                                                  Camden, NJ
 1352            African Safari Wildlife Park                                        Port Clinton, OH
@@ -977,253 +974,253 @@ Notes: Sorted by state, name.
 1365            Baton Rouge Zoo                                                     Baker, LA
 1366            Baylor University Bear Habitat                                      Waco, TX
 1367            Bergen County Zoological Park                                       Paramus, NJ
-                Biltmore Estate                                                     Buncombe County, NC
-1368            Binder Park Zoo                                                     Battle Creek, MI
-1369            Binghamton Zoo at Ross Park                                         Binghamton, NY
-1370            Birch Aquarium at Scripps                                           La Jolla, CA
-1371            Birmingham Zoo                                                      Birmingham, AL
-1372            Blank Park Zoo                                                      Des Moines, IA
-1373            Boonshoft Museum of Discovery                                       Dayton, OH
-1374            Bramble Park Zoo                                                    Watertown, SD
-1375            Brandywine Zoo                                                      Wilmington, DE
-1376            Brevard Zoo                                                         Melbourne, FL
-1377            Bronx Zoo                                                           Bronx, NY
-1378            Brookfield Zoo                                                      Brookfield, IL
-1379            Brookgreen Gardens                                                  Pawleys Island, SC
-1380            Buffalo Zoo                                                         Buffalo, NY
-1381            Busch Gardens                                                       Tampa, FL
-1382            Butterfly House, The                                                Chesterfield, MO
-1383            Butterfly Pavilion                                                  Westminster, CO
-1384            Buttonwood Park Zoo                                                 New Bedford, MA
-1385            Cabrillo Marine Aquarium                                            San Pedro, CA
-1386            Caldwell Zoo                                                        Tyler, TX
-1387            California Academy of Sciences                                      San Francisco, CA
-1388            California Science Center                                           Los Angeles, CA
+1368            Biltmore Estate                                                     Buncombe County, NC
+1369            Binder Park Zoo                                                     Battle Creek, MI
+1370            Binghamton Zoo at Ross Park                                         Binghamton, NY
+1371            Birch Aquarium at Scripps                                           La Jolla, CA
+1372            Birmingham Zoo                                                      Birmingham, AL
+1373            Blank Park Zoo                                                      Des Moines, IA
+1374            Boonshoft Museum of Discovery                                       Dayton, OH
+1375            Bramble Park Zoo                                                    Watertown, SD
+1376            Brandywine Zoo                                                      Wilmington, DE
+1377            Brevard Zoo                                                         Melbourne, FL
+1378            Bronx Zoo                                                           Bronx, NY
+1379            Brookfield Zoo                                                      Brookfield, IL
+1380            Brookgreen Gardens                                                  Pawleys Island, SC
+1381            Buffalo Zoo                                                         Buffalo, NY
+1382            Busch Gardens                                                       Tampa, FL
+1383            Butterfly House, The                                                Chesterfield, MO
+1384            Butterfly Pavilion                                                  Westminster, CO
+1385            Buttonwood Park Zoo                                                 New Bedford, MA
+1386            Cabrillo Marine Aquarium                                            San Pedro, CA
+1387            Caldwell Zoo                                                        Tyler, TX
+1388            California Academy of Sciences                                      San Francisco, CA
 1389            California Science Center                                           Los Angeles, CA
-1390            Cameron Park Zoo                                                    Waco, TX
-1391            Cape May County Park Zoo                                            Cape May County Court House, NJ
-1392            Capron Park Zoo                                                     Attleboro, MA
-1393            Central Florida Zoological Park                                     Sanford, FL
-1394            Central Park Zoo                                                    New York City, NY
-1395            Charles Paddock Zoo                                                 Atascadero, CA
-1396            Chattanooga Zoo at Warner Park                                      Chattanooga, TN
-1397            Chehaw Park                                                         Albany, GA
-1398            Cheyenne Mountain Zoological Park                                   Colorado Springs, CO
-1399            Cincinnati Zoo and Botanical Garden                                 Cincinnati, OH
-1400            Cleveland Metroparks Zoo                                            Cleveland, OH
-1401            Clyde Peeling's Reptiland                                           Allenwood, PA
-1402            Columbus Zoo and Aquarium                                           Powell, OH
-1403            Como Park Zoo and Conservatory                                      Saint Paul, MN
-1404            Connecticut's Beardsley Zoo                                         Bridgeport, CT
-1405            Cosley Zoo                                                          Wheaton, IL
-1406            CuriOdyssey                                                         San Mateo, CA
-1407            Dakota Zoo                                                          Bismarck, ND
-1408            Dallas World Aquarium                                               Dallas, TX
-1409            Dallas Zoo                                                          Dallas, TX
-1410            David Traylor Zoo of Emporia                                        Emporia, KS
-1411            De Young Museum                                                     San Francisco, CA
-1412            Denver Art Museum                                                   Denver, CO
-1413            Denver Museum of Nature and Science                                 Denver, CO
-1414            Denver Zoo                                                          Denver, CO
-1415            Detroit Zoo                                                         Royal Oak, MI
-1416            Dickerson Park Zoo                                                  Springfield, MO
-1417            Discovery Cove                                                      Orlando, FL
-1418            Disney's Animal Kingdom                                             Bay Lake, FL
-1419            El Paso Zoo                                                         El Paso, TX
-1420            Ellen Trout Zoo                                                     Lufkin, TX
-1421            Elmwood Park Zoo                                                    Norristown, PA
-1422            Erie Zoo                                                            Erie, PA
-1423            Field Museum of Natural History                                     Chicago, IL
-1424            Florida Aquarium                                                    Tampa, FL
-1425            Fort Wayne Children's Zoo                                           Fort Wayne, IN
-1426            Fort Worth Zoo                                                      Fort Worth, TX
-1427            Fossil Rim Wildlife Center                                          Glen Rose, TX
-1428            Franklin Park Zoo                                                   Boston, MA
-1429            Fresno Chaffee Zoo                                                  Fresno, CA
-1430            Georgia Aquarium                                                    Atlanta, GA
-1431            Getty Center                                                        Los Angeles, CA
-1432            Gladys Porter Zoo                                                   Brownsville, TX
-1433            Great Plains Zoo and Museum                                         Sioux Falls, SD
-1434            Greensboro Science Center                                           Greensboro, NC
-1435            Greenville Zoo                                                      Greenville, SC
-1436            Grizzly & Wolf Discovery Center                                     West Yellowstone, MT
-1437            Happy Hollow Park & Zoo                                             San Jose, CA
-1438            Henry Vilas Zoo                                                     Madison, WI
-1439            Henson Robinson Zoo                                                 Springfield, IL
-1440            Hirshhorn Museum and Sculpture Garden                               Washington, DC
-1441            Honolulu Zoo                                                        Honolulu, HI
-1442            Houston Museum of Fine Arts                                         Houston, TX
-1443            Houston Museum of Natural Science                                   Houston, TX
-1444            Houston Zoo                                                         Houston, TX
-1445            Huntington Library                                                  San Marino, CA
-1446            Hutchinson Zoo                                                      Hutchinson, KS
-1447            Idaho Falls Zoo at Tautphaus Park                                   Idaho Falls, ID
-1448            Indianapolis Zoo                                                    Indianapolis, IN
-1449            International Crane Foundation                                      Baraboo, WI
-1450            Jackson Zoo                                                         Jackson, MS
-1451            Jacksonville Zoo and Gardens                                        Jacksonville, FL
-1452            Jenkinson's Aquarium Point                                          Pleasant Beach, NJ
-1453            John Ball Zoological Garden                                         Grand Rapids, MI
-1454            John G. Shedd Aquarium                                              Chicago, IL
-1455            Kansas City Zoo         in Swope Park                               Kansas City, MO
-1456            Lake Superior Zoo                                                   Duluth, MN
-1457            Landry's Downtown Aquarium                                          Denver, CO
-1458            Landry's Houston Aquarium                                           Houston, TX
-1459            Lee G. Simmons Conservation Park and Wildlife Safari                Ashland, NE
-1460            Lee Richardson Zoo                                                  Garden City, KS
-1461            Lehigh Valley Zoo                                                   Schnecksville, PA
-1462            Lincoln Children's Zoo                                              Lincoln, NE
-1463            Lincoln Park Zoo                                                    Chicago, IL
-1464            Lion Country Safari                                                 Loxahatchee, FL
-1465            Little Rock Zoological Gardens                                      Little Rock, AR
-1466            Living Desert Zoo and Gardens                                       Palm Desert, CA
-1467            Living Desert Zoo and Gardens State Park                            Carlsbad, NM
-1468            Los Angeles County Museum of Art                                    Los Angeles, CA
-1469            Los Angeles Zoo                                                     Los Angeles, CA
-1470            Louisville Zoological Garden                                        Louisville, KY
-1471            Loveland Living Planet Aquarium                                     Draper, UT
-1472            Marineland of Florida                                               St. Augustine, FL
-1473            Maritime Aquarium at Norwalk                                        Norwalk, CT
-1474            Maryland Zoo in Baltimore                                           Baltimore, MD
-1475            Memphis Zoo                                                         Memphis, TN
-1476            Mesker Park Zoo and Botanic Garden                                  Evansville, IN
-1477            Metropolitan Museum of Art                                          New York City, NY
-1478            Mill Mountain Zoo                                                   Roanoke, VA
-1479            Miller Park Zoo                                                     Bloomington, IL
-1480            Milwaukee County Zoo                                                Milwaukee, WI
-1481            Minneapolis Institute of Art                                        Minneapolis, MN
-1482            Minnesota Zoo                                                       Apple Valley, MN
-1483            Monterey Bay Aquarium                                               Monterey, CA
-1484            Montgomery Zoo                                                      Montgomery, AL
-1485            Moody Gardens Rainforest and Aquarium                               Galveston, TX
-1486            Mote Marine Aquarium                                                Sarasota, FL
-1487            Museum of Life and Science                                          Durham, NC
-1488            Museum of Modern Art                                                New York City, NY
-1489            Museum of Science                                                   Boston, MA
+1390            California Science Center                                           Los Angeles, CA
+1391            Cameron Park Zoo                                                    Waco, TX
+1392            Cape May County Park Zoo                                            Cape May County Court House, NJ
+1393            Capron Park Zoo                                                     Attleboro, MA
+1394            Central Florida Zoological Park                                     Sanford, FL
+1395            Central Park Zoo                                                    New York City, NY
+1396            Charles Paddock Zoo                                                 Atascadero, CA
+1397            Chattanooga Zoo at Warner Park                                      Chattanooga, TN
+1398            Chehaw Park                                                         Albany, GA
+1399            Cheyenne Mountain Zoological Park                                   Colorado Springs, CO
+1400            Cincinnati Zoo and Botanical Garden                                 Cincinnati, OH
+1401            Cleveland Metroparks Zoo                                            Cleveland, OH
+1402            Clyde Peeling's Reptiland                                           Allenwood, PA
+1403            Columbus Zoo and Aquarium                                           Powell, OH
+1404            Como Park Zoo and Conservatory                                      Saint Paul, MN
+1405            Connecticut's Beardsley Zoo                                         Bridgeport, CT
+1406            Cosley Zoo                                                          Wheaton, IL
+1407            CuriOdyssey                                                         San Mateo, CA
+1408            Dakota Zoo                                                          Bismarck, ND
+1409            Dallas World Aquarium                                               Dallas, TX
+1410            Dallas Zoo                                                          Dallas, TX
+1411            David Traylor Zoo of Emporia                                        Emporia, KS
+1412            De Young Museum                                                     San Francisco, CA
+1413            Denver Art Museum                                                   Denver, CO
+1414            Denver Museum of Nature and Science                                 Denver, CO
+1415            Denver Zoo                                                          Denver, CO
+1416            Detroit Zoo                                                         Royal Oak, MI
+1417            Dickerson Park Zoo                                                  Springfield, MO
+1418            Discovery Cove                                                      Orlando, FL
+1419            Disney's Animal Kingdom                                             Bay Lake, FL
+1420            El Paso Zoo                                                         El Paso, TX
+1421            Ellen Trout Zoo                                                     Lufkin, TX
+1422            Elmwood Park Zoo                                                    Norristown, PA
+1423            Erie Zoo                                                            Erie, PA
+1424            Field Museum of Natural History                                     Chicago, IL
+1425            Florida Aquarium                                                    Tampa, FL
+1426            Fort Wayne Children's Zoo                                           Fort Wayne, IN
+1427            Fort Worth Zoo                                                      Fort Worth, TX
+1428            Fossil Rim Wildlife Center                                          Glen Rose, TX
+1429            Franklin Park Zoo                                                   Boston, MA
+1430            Fresno Chaffee Zoo                                                  Fresno, CA
+1431            Georgia Aquarium                                                    Atlanta, GA
+1432            Getty Center                                                        Los Angeles, CA
+1433            Gladys Porter Zoo                                                   Brownsville, TX
+1434            Great Plains Zoo and Museum                                         Sioux Falls, SD
+1435            Greensboro Science Center                                           Greensboro, NC
+1436            Greenville Zoo                                                      Greenville, SC
+1437            Grizzly & Wolf Discovery Center                                     West Yellowstone, MT
+1438            Happy Hollow Park & Zoo                                             San Jose, CA
+1439            Henry Vilas Zoo                                                     Madison, WI
+1440            Henson Robinson Zoo                                                 Springfield, IL
+1441            Hirshhorn Museum and Sculpture Garden                               Washington, DC
+1442            Honolulu Zoo                                                        Honolulu, HI
+1443            Houston Museum of Fine Arts                                         Houston, TX
+1444            Houston Museum of Natural Science                                   Houston, TX
+1445            Houston Zoo                                                         Houston, TX
+1446            Huntington Library                                                  San Marino, CA
+1447            Hutchinson Zoo                                                      Hutchinson, KS
+1448            Idaho Falls Zoo at Tautphaus Park                                   Idaho Falls, ID
+1449            Indianapolis Zoo                                                    Indianapolis, IN
+1450            International Crane Foundation                                      Baraboo, WI
+1451            Jackson Zoo                                                         Jackson, MS
+1452            Jacksonville Zoo and Gardens                                        Jacksonville, FL
+1453            Jenkinson's Aquarium Point                                          Pleasant Beach, NJ
+1454            John Ball Zoological Garden                                         Grand Rapids, MI
+1455            John G. Shedd Aquarium                                              Chicago, IL
+1456            Kansas City Zoo         in Swope Park                               Kansas City, MO
+1457            Lake Superior Zoo                                                   Duluth, MN
+1458            Landry's Downtown Aquarium                                          Denver, CO
+1459            Landry's Houston Aquarium                                           Houston, TX
+1460            Lee G. Simmons Conservation Park and Wildlife Safari                Ashland, NE
+1461            Lee Richardson Zoo                                                  Garden City, KS
+1462            Lehigh Valley Zoo                                                   Schnecksville, PA
+1463            Lincoln Children's Zoo                                              Lincoln, NE
+1464            Lincoln Park Zoo                                                    Chicago, IL
+1465            Lion Country Safari                                                 Loxahatchee, FL
+1466            Little Rock Zoological Gardens                                      Little Rock, AR
+1467            Living Desert Zoo and Gardens                                       Palm Desert, CA
+1468            Living Desert Zoo and Gardens State Park                            Carlsbad, NM
+1469            Los Angeles County Museum of Art                                    Los Angeles, CA
+1470            Los Angeles Zoo                                                     Los Angeles, CA
+1471            Louisville Zoological Garden                                        Louisville, KY
+1472            Loveland Living Planet Aquarium                                     Draper, UT
+1473            Marineland of Florida                                               St. Augustine, FL
+1474            Maritime Aquarium at Norwalk                                        Norwalk, CT
+1475            Maryland Zoo in Baltimore                                           Baltimore, MD
+1476            Memphis Zoo                                                         Memphis, TN
+1477            Mesker Park Zoo and Botanic Garden                                  Evansville, IN
+1478            Metropolitan Museum of Art                                          New York City, NY
+1479            Mill Mountain Zoo                                                   Roanoke, VA
+1480            Miller Park Zoo                                                     Bloomington, IL
+1481            Milwaukee County Zoo                                                Milwaukee, WI
+1482            Minneapolis Institute of Art                                        Minneapolis, MN
+1483            Minnesota Zoo                                                       Apple Valley, MN
+1484            Monterey Bay Aquarium                                               Monterey, CA
+1485            Montgomery Zoo                                                      Montgomery, AL
+1486            Moody Gardens Rainforest and Aquarium                               Galveston, TX
+1487            Mote Marine Aquarium                                                Sarasota, FL
+1488            Museum of Life and Science                                          Durham, NC
+1489            Museum of Modern Art                                                New York City, NY
 1490            Museum of Science                                                   Boston, MA
-1491            Museum of Science and Industry                                      Chicago, IL
-1492            Mystic Aquarium & Institute for Exploration                         Mystic, CT
-1493            Naples Zoo                                                          Naples, FL
-1494            Nashville Zoo                                                       Nashville, TN
-1495            National Air and Space Museum                                       Washington, DC
-1496            National Aviary                                                     Pittsburgh, PA
-1497            National Gallery of Art                                             Washington, DC
-1498            National Mississippi River Museum & Aquarium                        Port of Dubuque, IA
-1499            National Museum of African American History and Culture             Washington, DC
-1500            National Museum of American History                                 Washington, DC
-1501            National Museum of Natural History                                  Washington, DC
-1502            National Museum of the American Indian                              Washington, DC
-1503            National Portrait Gallery                                           Washington, DC
-1504            New England Aquarium                                                Boston, MA
-1505            New York Aquarium                                                   Brooklyn, NY
-1506            Newport Aquarium                                                    Newport, KY
-1507            Niabi Zoo                                                           Coal Valley, IL
-1508            North Carolina Aquarium at Fort Fisher                              Kure Beach, NC
-1509            North Carolina Aquarium at Pine Knoll Shores                        Atlantic Beach, NC
-1510            North Carolina Aquarium on Roanoke Island                           Manteo, NC
-1511            North Carolina Zoological Park                                      Asheboro, NC
-1512            Northeastern Wisconsin Zoo                                          Green Bay, WI
-1513            Northwest Trek Wildlife Park                                        Eatonville, WA
-1514            Oakland Zoo                                                         Oakland, CA
-1515            OdySea Aquarium                                                     Scottsdale, AZ
-1516            Oglebay's Good Zoo                                                  Wheeling, WV
-1517            Oklahoma City Zoological Park                                       Oklahoma City, OK
-1518            Omaha's Henry Doorly Zoo                                            Omaha, NE
-1519            Oregon Coast Aquarium                                               Newport, OR
-1520            Oregon Zoo                                                          Portland, OR
-1521            Pacific Science Center                                              Seattle, WA
-1522            Palm Beach Zoo                                                      West Palm Beach, FL
-1523            Peoria Zoo                                                          Peoria, IL
-1524            Philadelphia Zoo                                                    Philadelphia, PA
-1525            Phoenix Zoo                                                         Phoenix, AZ
-1526            Pittsburgh Zoo & PPG Aquarium                                       Pittsburgh, PA
-1527            Point Defiance Zoo & Aquarium                                       Tacoma, WA
-1528            Potawatomi Zoo                                                      South Bend, IN
-1529            Potter Park Zoo                                                     Lansing, MI
-1530            Prospect Park Zoo                                                   Brooklyn, NY
-1531            Pueblo Zoo                                                          Pueblo, CO
-1532            Queens Zoo                                                          Flushing, NY
-1533            Racine Zoo                                                          Racine, WI
-1534            Red River Zoo                                                       Fargo, ND
-1535            Reid Park Zoo                                                       Tucson, AZ
-1536            Ripley's Aquarium at Myrtle Beach                                   Myrtle Beach, SC
-1537            Ripley's Aquarium of the Smokies                                    Gatlinburg, TN
-1538            Riverbanks Zoological Park                                          Columbia, SC
-1539            Roger Williams Park Zoo                                             Providence, RI
-1540            Rolling Hills Zoo                                                   Salina, KS
-1541            Roosevelt Park Zoo                                                  Minot, ND
-1542            Rosamond Gifford Zoo                                                Syracuse, NY
-1543            Sacramento Zoo                                                      Sacramento, CA
-1544            Safari West                                                         Sonoma County, CA
-1545            Saginaw Children's Zoo                                              Saginaw, MI
-1546            Saint Louis Zoo                                                     Saint Louis, MO
-1547            Salisbury Zoo                                                       Salisbury, MD
-1548            San Antonio Zoological Gardens & Aquarium                           San Antonio, TX
-1549            San Diego Zoo                                                       San Diego, CA
-1550            San Diego Zoo Safari Park                                           Escondido, CA
-1551            San Francisco Zoological Gardens                                    San Francisco, CA
-1552            Santa Ana Zoo                                                       Santa Ana, CA
-1553            Santa Barbara Zoo                                                   Santa Barbara, CA
-1554            Santa Fe College Teaching Zoo                                       Gainesville, FL
-1555            Scovill Zoo                                                         Decatur, IL
-1556            Sea Life Arizona                                                    Tempe, AZ
-1557            SEA LIFE Carlsbad Aquarium                                          Carlsbad, CA
-1558            Sea Life Charlotte-Concord                                          Concord, NC
-1559            Sea Life Grapevine                                                  Grapevine, TX
-1560            Sea Life Kansas City                                                Kansas City, MO
-1561            Sea Life Michigan                                                   Auburn Hills, MI
-1562            Sea Life Orlando Aquarium                                           Orlando, FL
-1563            Seas with Nemo & Friendsm The                                       Bay Lake, FL
-1564            SeaWorld Orlando                                                    Orlando, FL
-1565            SeaWorld San Antonio                                                San Antonio, TX
-1566            SeaWorld San Diego                                                  San Diego, CA
-1567            Sedgwick County Zoo                                                 Wichita, KS
-1568            Seneca Park Zoo                                                     Rochester, NY
-1569            Sequoia Park Zoo                                                    Eureka, CA
-1570            Shark Reef at Mandalay Bay                                          Las Vegas, NV
-1571            Six Flags Discovery Kingdom                                         Vallejo, CA
-1572            Smithsonian American Art Museum                                     Washington, DC
-1573            Smithsonian Institution                                             Washington, DC
-1574            Smithsonian National Zoological Park                                Washington, DC
-1575            Solomon Guggenheim Museum                                           New York City, NY
-1576            South Carolina Aquarium                                             Charleston, SC
-1577            Squam Lakes Natural Science Center                                  Holderness, NH
-1578            St. Augustine Alligator Farm                                        St. Augustine, FL
-1579            Staten Island Zoo                                                   Staten Island, NY
-1580            Steinhart Aquarium                                                  San Francisco, CA
-1581            Stone Zoo                                                           Stoneham, MA
-1582            Sunset Zoological Park                                              Manhattan, KS
-1583            Tennessee Aquarium                                                  Chattanooga, TN
-1584            Texas State Aquarium                                                Corpus Christi, TX
-1585            Texas Zoo, The                                                      Victoria, TX
-1586            The Broad                                                           Los Angeles, CA
-1587            Toledo Zoological Gardens                                           Toledo, OH
-1588            Topeka Zoo                                                          Topeka, KS
-1589            Tracy Aviary                                                        Salt Lake City, UT
-1590            Trevor Zoo                                                          Millbrook, NY
-1591            Tulsa Zoo                                                           Tulsa, OK
-1592            Turtle Back Zoo                                                     West Orange, NJ
-1593            Utah's Hogle Zoo                                                    Salt Lake City, UT
-1594            Utica Zoo                                                           Utica, NY
-1595            Virginia Aquarium and Marine Science Center                         Virginia Beach, VA
-1596            Virginia Living Museum                                              Newport News, VA
-1597            Virginia Zoological Park                                            Norfolk, VA
-1598            Western North Carolina Nature Center                                Asheville, NC
-1599            Whitney Museum of American Art                                      New York City, NY
-1600            Wildlife Safari                                                     Winston, OR
-1601            Wildlife World Zoo and Aquarium                                     Litchfield Park, AZ
-1602            Wilds, The                                                          Cumberland, OH
-1603            Wonders of Wildlife Museum & Aquarium                               Springfield, MO
-1604            Woodland Park Zoo                                                   Seattle, WA
-1605            Zoo Atlanta                                                         Atlanta, GA
-1606            Zoo Boise                                                           Boise, ID
-1607            Zoo Knoxville                                                       Knoxville, TN
-1608            Zoo Miami                                                           Miami, FL
-1609            Zoo Northwest Florida, The                                          Gulf Breeze, FL
-1610            ZooAmerica                                                          Hershey, PA
-1611            ZooMontana                                                          Billings, MT
-1612            ZooTampa at Lowry Park                                              Tampa, FL
-    1613-1697 - [RESERVED FOR CREATION OF NEW ZOOS & MUSEUMS]
+1491            Museum of Science                                                   Boston, MA
+1492            Museum of Science and Industry                                      Chicago, IL
+1493            Mystic Aquarium & Institute for Exploration                         Mystic, CT
+1494            Naples Zoo                                                          Naples, FL
+1495            Nashville Zoo                                                       Nashville, TN
+1496            National Air and Space Museum                                       Washington, DC
+1497            National Aviary                                                     Pittsburgh, PA
+1498            National Gallery of Art                                             Washington, DC
+1499            National Mississippi River Museum & Aquarium                        Port of Dubuque, IA
+1500            National Museum of African American History and Culture             Washington, DC
+1501            National Museum of American History                                 Washington, DC
+1502            National Museum of Natural History                                  Washington, DC
+1503            National Museum of the American Indian                              Washington, DC
+1504            National Portrait Gallery                                           Washington, DC
+1505            New England Aquarium                                                Boston, MA
+1506            New York Aquarium                                                   Brooklyn, NY
+1507            Newport Aquarium                                                    Newport, KY
+1508            Niabi Zoo                                                           Coal Valley, IL
+1509            North Carolina Aquarium at Fort Fisher                              Kure Beach, NC
+1510            North Carolina Aquarium at Pine Knoll Shores                        Atlantic Beach, NC
+1511            North Carolina Aquarium on Roanoke Island                           Manteo, NC
+1512            North Carolina Zoological Park                                      Asheboro, NC
+1513            Northeastern Wisconsin Zoo                                          Green Bay, WI
+1514            Northwest Trek Wildlife Park                                        Eatonville, WA
+1515            Oakland Zoo                                                         Oakland, CA
+1516            OdySea Aquarium                                                     Scottsdale, AZ
+1517            Oglebay's Good Zoo                                                  Wheeling, WV
+1518            Oklahoma City Zoological Park                                       Oklahoma City, OK
+1519            Omaha's Henry Doorly Zoo                                            Omaha, NE
+1520            Oregon Coast Aquarium                                               Newport, OR
+1521            Oregon Zoo                                                          Portland, OR
+1522            Pacific Science Center                                              Seattle, WA
+1523            Palm Beach Zoo                                                      West Palm Beach, FL
+1524            Peoria Zoo                                                          Peoria, IL
+1525            Philadelphia Zoo                                                    Philadelphia, PA
+1526            Phoenix Zoo                                                         Phoenix, AZ
+1527            Pittsburgh Zoo & PPG Aquarium                                       Pittsburgh, PA
+1528            Point Defiance Zoo & Aquarium                                       Tacoma, WA
+1529            Potawatomi Zoo                                                      South Bend, IN
+1530            Potter Park Zoo                                                     Lansing, MI
+1531            Prospect Park Zoo                                                   Brooklyn, NY
+1532            Pueblo Zoo                                                          Pueblo, CO
+1533            Queens Zoo                                                          Flushing, NY
+1534            Racine Zoo                                                          Racine, WI
+1535            Red River Zoo                                                       Fargo, ND
+1536            Reid Park Zoo                                                       Tucson, AZ
+1537            Ripley's Aquarium at Myrtle Beach                                   Myrtle Beach, SC
+1538            Ripley's Aquarium of the Smokies                                    Gatlinburg, TN
+1539            Riverbanks Zoological Park                                          Columbia, SC
+1540            Roger Williams Park Zoo                                             Providence, RI
+1541            Rolling Hills Zoo                                                   Salina, KS
+1542            Roosevelt Park Zoo                                                  Minot, ND
+1543            Rosamond Gifford Zoo                                                Syracuse, NY
+1544            Sacramento Zoo                                                      Sacramento, CA
+1545            Safari West                                                         Sonoma County, CA
+1546            Saginaw Children's Zoo                                              Saginaw, MI
+1547            Saint Louis Zoo                                                     Saint Louis, MO
+1548            Salisbury Zoo                                                       Salisbury, MD
+1549            San Antonio Zoological Gardens & Aquarium                           San Antonio, TX
+1550            San Diego Zoo                                                       San Diego, CA
+1551            San Diego Zoo Safari Park                                           Escondido, CA
+1552            San Francisco Zoological Gardens                                    San Francisco, CA
+1553            Santa Ana Zoo                                                       Santa Ana, CA
+1554            Santa Barbara Zoo                                                   Santa Barbara, CA
+1555            Santa Fe College Teaching Zoo                                       Gainesville, FL
+1556            Scovill Zoo                                                         Decatur, IL
+1557            Sea Life Arizona                                                    Tempe, AZ
+1558            SEA LIFE Carlsbad Aquarium                                          Carlsbad, CA
+1559            Sea Life Charlotte-Concord                                          Concord, NC
+1560            Sea Life Grapevine                                                  Grapevine, TX
+1561            Sea Life Kansas City                                                Kansas City, MO
+1562            Sea Life Michigan                                                   Auburn Hills, MI
+1563            Sea Life Orlando Aquarium                                           Orlando, FL
+1564            Seas with Nemo & Friendsm The                                       Bay Lake, FL
+1565            SeaWorld Orlando                                                    Orlando, FL
+1566            SeaWorld San Antonio                                                San Antonio, TX
+1567            SeaWorld San Diego                                                  San Diego, CA
+1568            Sedgwick County Zoo                                                 Wichita, KS
+1569            Seneca Park Zoo                                                     Rochester, NY
+1570            Sequoia Park Zoo                                                    Eureka, CA
+1571            Shark Reef at Mandalay Bay                                          Las Vegas, NV
+1572            Six Flags Discovery Kingdom                                         Vallejo, CA
+1573            Smithsonian American Art Museum                                     Washington, DC
+1574            Smithsonian Institution                                             Washington, DC
+1575            Smithsonian National Zoological Park                                Washington, DC
+1576            Solomon Guggenheim Museum                                           New York City, NY
+1577            South Carolina Aquarium                                             Charleston, SC
+1578            Squam Lakes Natural Science Center                                  Holderness, NH
+1579            St. Augustine Alligator Farm                                        St. Augustine, FL
+1580            Staten Island Zoo                                                   Staten Island, NY
+1581            Steinhart Aquarium                                                  San Francisco, CA
+1582            Stone Zoo                                                           Stoneham, MA
+1583            Sunset Zoological Park                                              Manhattan, KS
+1584            Tennessee Aquarium                                                  Chattanooga, TN
+1585            Texas State Aquarium                                                Corpus Christi, TX
+1586            Texas Zoo, The                                                      Victoria, TX
+1587            The Broad                                                           Los Angeles, CA
+1588            Toledo Zoological Gardens                                           Toledo, OH
+1589            Topeka Zoo                                                          Topeka, KS
+1590            Tracy Aviary                                                        Salt Lake City, UT
+1591            Trevor Zoo                                                          Millbrook, NY
+1592            Tulsa Zoo                                                           Tulsa, OK
+1593            Turtle Back Zoo                                                     West Orange, NJ
+1594            Utah's Hogle Zoo                                                    Salt Lake City, UT
+1595            Utica Zoo                                                           Utica, NY
+1596            Virginia Aquarium and Marine Science Center                         Virginia Beach, VA
+1597            Virginia Living Museum                                              Newport News, VA
+1598            Virginia Zoological Park                                            Norfolk, VA
+1599            Western North Carolina Nature Center                                Asheville, NC
+1600            Whitney Museum of American Art                                      New York City, NY
+1601            Wildlife Safari                                                     Winston, OR
+1602            Wildlife World Zoo and Aquarium                                     Litchfield Park, AZ
+1603            Wilds, The                                                          Cumberland, OH
+1604            Wonders of Wildlife Museum & Aquarium                               Springfield, MO
+1605            Woodland Park Zoo                                                   Seattle, WA
+1606            Zoo Atlanta                                                         Atlanta, GA
+1607            Zoo Boise                                                           Boise, ID
+1608            Zoo Knoxville                                                       Knoxville, TN
+1609            Zoo Miami                                                           Miami, FL
+1610            Zoo Northwest Florida, The                                          Gulf Breeze, FL
+1611            ZooAmerica                                                          Hershey, PA
+1612            ZooMontana                                                          Billings, MT
+1613            ZooTampa at Lowry Park                                              Tampa, FL
+    1614-1697 - [RESERVED FOR CREATION OF NEW ZOOS & MUSEUMS]
 1698            Zoo Fabricated by Author
 1699            Museum Fabricated by Author
 
