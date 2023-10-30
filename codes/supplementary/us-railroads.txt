@@ -6,7 +6,7 @@
 0750 - 0999 - Defunct Railroads
 0100 - 0449 - US Train Stations
 0100 - 0449 - Defunct US Train Stations
-0100 - 0449 - Rail Transit Systems
+0100 - 0449 - Rail Transit Authorities
 
 0100 - 0449 - Other Rail Companies
 
@@ -824,8 +824,77 @@ Note: From https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroad
 =======================================
 
 =======================================
-========== US Transit Systems =========
+======== US Transit Authorities =======
 =======================================
+
+Notes: Includes light rail (underground and above), commuter rail, and other similar systems all designed primarily to move people. For passenger rail, see `0018 Amtrak`.
+
+From https://en.wikipedia.org/wiki/List_of_United_States_rapid_transit_systems , 
+     https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States ,
+     https://en.wikipedia.org/wiki/List_of_suburban_and_commuter_rail_systems
+
+--- rapid transit ---
+
+NYCTA   New York City Transit Authority                             NY
+CTA     Chicago Transit Authority                                   IL
+WMATA   Washington Metropolitan Area Transit Authority              DC
+MBTA    Massachusetts Bay Transportation Authority                  MA
+SEPTA   Southeastern Pennsylvania Transportation Authority          PA
+BART    Bay Area Rapid Transit District                             CA
+MARTA   Metropolitan Atlanta Rapid Transit Authority                GA
+LACMTA  Los Angeles County Metropolitan Transportation Authority    CA
+MDT     Miami-Dade Transit                                          FL
+PATCO   Port Authority Transit Corporation                          PA
+SIRTOA  Staten Island Rapid Transit Operating Authority             NY
+GCRTA   Greater Cleveland Regional Transit Authority                OH
+ATI     Autoridad de Transporte Integrado                           PR
+MTA     Maryland Transit Administration                             MD
+HART    Honolulu Authority for Rapid Transportation                 HI
+
+--- commuter rail ---
+
+NMRX    New Mexico Rail Runner Express                              NM
+CMTA    Capital Metropolitan Transportation Authority               TX
+METX    Metra                                                       IL
+NICD    South Shore Line                                            IN
+TRE     Trinity Railway Express                                     TX
+DCTA    Denton County Transportation Authority                      TX
+FWTA    Fort Worth Transportation Authority (TEXRail)               TX
+RTD     Regional Transportation District                            CO
+SCRRA   Southern California Regional Rail Authority (Metrolink)     CA
+SFRTA   South Florida Regional Transportation Authority             FL
+MNRX    Northstar                                                   MN
+MVTA    Minnesota Valley Transit Authority                          MN
+TRA     Tennessee Regional Transportation Authority                 TN
+NRTX    WeGo Star                                                   TN
+CNDX    CT Rail                                                     CT
+MTA     Metropolitan Transportation Authority                       NY
+LI      Long Island Rail Road                                       NY
+MNCW    Metro-North Railroad                                        NY
+NJTR    NJ Transit Rail Operations                                  NJ
+CFRC    Central Florida Commuter Rail Commission (SunRail)          FL
+TriMet  Tri-County Metropolitan Transportation District of Oregon   OR
+WES     Westside Express Service                                    OR
+UTA     Utah Transit Authority                                      UT
+UTAX    FrontRunner                                                 UT
+NCTD    North County Transit District                               CA
+PCJPB   Peninsula Corridor Joint Powers Board                       CA
+SCCTD   Santa Clara Valley Transportation Authority                 CA
+SFMTA   San Francisco Municipal Transportation Agency               CA
+        San Mateo County Transit District                           CA
+SJJPA   San Joaquin Joint Powers Authority                          CA
+SJRRC   San Joaquin Regional Rail Commission                        CA
+SMART   Sonoma-Marin Area Rail Transit                              CA
+SDRX    Sound Transit                                               WA
+MARC    Maryland Area Rail Commuter                                 MD
+VREX    Virginia Railway Express                                    VA
+PRTC    Potomac and Rappahannock Transportation Commission          VA
+NVTC    Northern Virginia Transportation Commission                 VA
+
+---------- defunct? --------------
+
+OE      Oregon Eletric Railway                                      OR
+        San Francisco Municipal Railway                             CA
 
 =======================================
 ======= Defunct Transit Systems =======
