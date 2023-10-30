@@ -1,0 +1,517 @@
+=======================================
+================ Index ================
+=======================================
+
+0000 - 0099 - US Small Towns & Villages
+
+
+=======================================
+================ Notes ================
+=======================================
+
+Despite the number of specific municipalities available in the other file, it is only possible to specify less than 50% of those listed with Wikipedia's state-by-state list of law enforcement agencies. Ideally, a second numberspace of 10,000 can capture towns and villages to populations less than 1000.
+
+=======================================
+====== US Small Towns & Villages ======
+=======================================
+
+0000	Harrington                      DE
+0001	Heflin                          AL
+0002	Breckenridge                    CO
+0003	Centreville                     MD
+0004	Ferriday                        LA
+0005	Gaylord                         MI
+0006	Hardin                          MT
+0007	Oxford                          MI
+0008	Ozark                           AR
+0009	Rigby                           ID
+0010	Piney Point Village             TX
+0011	Albia                           IA
+0012	Justin                          TX
+0013	Superior                        AZ
+0014	Shelby                          MT
+0015	Lordstown                       OH
+0016	Alma                            GA
+0017	Horicon                         WI
+0018	Waldron                         AR
+0019	Hobart                          OK
+0020	Shadyside                       OH
+0021	Sheffield                       OH
+0022	Mora                            MN
+0023	Belle Meade                     TN
+0024	Mount Shasta                    CA
+0025	Deer Lodge                      MT
+0026	Newport                         MN
+0027	Aledo                           IL
+0028	Kiel                            WI
+0029	Harrisburg                      OR
+0030	Williamstown                    KY
+0031	Northumberland                  PA
+0032	Pulaski                         WI
+0033	Post                            TX
+0034	Mifflinburg                     PA
+0035	Roland                          OK
+0036	Walhalla                        SC
+0037	Clifton                         TX
+0038	Crystal River                   FL
+0039	Port St. Joe                    FL
+0040	Red Springs                     NC
+0041	Lewisburg                       WV
+0042	Maiden                          NC
+0043	Indian Hills                    KY
+0044	Umatilla                        FL
+0045	Lockland                        OH
+0046	Johnston City                   IL
+0047	Springdale                      PA
+0048	Scott City                      KS
+0049	Oak Ridge North                 TX
+0050	West Point                      GA
+0051	Parkesburg                      PA
+0052	Cotulla                         TX
+0053	Ely                             MN
+0054	Coopertown                      TN
+0055	Morton                          MS
+0056	Essexville                      MI
+0057	Stilwell                        OK
+0058	Belleville                      MI
+0059	Spencerport                     NY
+0060	Manchester                      MD
+0061	Sunbury                         OH
+0062	Needville                       TX
+0063	Quartzsite                      AZ
+0064	Troy                            NC
+0065	Bargersville                    IN
+0066	Checotah                        OK
+0067	Centre                          AL
+0068	Evergreen                       AL
+0069	Hamburg                         NJ
+0070	St. Augusta                     MN
+0071	Smithton                        IL
+0072	Hugoton                         KS
+0073	Palmyra                         MO
+0074	Indian River Shores             FL
+0075	Riverdale                       NJ
+0076	Hanceville                      AL
+0077	St. Anthony                     ID
+0078	Scandia                         MN
+0079	Connell                         WA
+0080	Kearny                          AZ
+0081	Lodi                            OH
+0082	Lansing                         NY
+0083	Hinton                          OK
+0084	Myrtle Creek                    OR
+0085	Metamora                        IL
+0086	Sloan                           NY
+0087	Palmyra                         NY
+0088	Bald Knob                       AR
+0089	Osage                           IA
+0090	Lillington                      NC
+0091	Algood                          TN
+0092	Bishop                          CA
+0093	Cuthbert                        GA
+0094	South Blooming Grove            NY
+0095	Lutcher                         LA
+0096	Haworth                         NJ
+0097	Providence                      KY
+0098	Greenwood Lake                  NY
+0099	Adairsville                     GA
+0100	Verona                          MS
+0101	Morgan                          UT
+0102	Omro                            WI
+0103	Piggott                         AR
+0104	Georgetown                      IL
+0105	Jefferson                       OH
+0106	Spring City                     PA
+0107	Chesapeake Beach                MD
+0108	South Glens Falls               NY
+0109	Newcastle                       WY
+0110	Black River Falls               WI
+0111	Spencer                         NC
+0112	Millstadt                       IL
+0113	Lyons                           KS
+0114	Lyons                           NY
+0115	Georgetown                      OH
+0116	New Hampton                     IA
+0117	Pagedale                        MO
+0118	Garden Ridge                    TX
+0119	Midland                         NC
+0120	Freeland                        PA
+0121	Port Richey                     FL
+0122	Hicksville                      OH
+0123	Rossville                       GA
+0124	Seymour                         WI
+0125	Story City                      IA
+0126	Ingram                          PA
+0127	Sleepy Eye                      MN
+0128	Stanford                        KY
+0129	Coplay                          PA
+0130	Rochester                       WI
+0131	Millen                          GA
+0132	Mount Angel                     OR
+0133	Willard                         MO
+0134	Newburgh                        IN
+0135	Brighton                        AL
+0136	Mamou                           LA
+0137	Ketchum                         ID
+0138	Trappe                          PA
+0139	Vinton                          LA
+0140	deCordova                       TX
+0141	South Nyack                     NY
+0142	Juno Beach                      FL
+0143	North Baltimore                 OH
+0144	Clarksville                     TX
+0145	Seaside Heights                 NJ
+0146	Lake Clarke Shores              FL
+0147	Westfield                       NY
+0148	Deer Park                       IL
+0149	Mabank                          TX
+0150	Oliver Springs                  TN
+0151	Forks                           WA
+0152	West Liberty                    KY
+0153	Woodstown                       NJ
+0154	Double Oak                      TX
+0155	Manti                           UT
+0156	Maize                           KS
+0157	Stanley                         WI
+0158	Jasper                          GA
+0159	Masontown                       PA
+0160	Pawhuska                        OK
+0161	Blairsville                     PA
+0162	Boonsboro                       MD
+0163	Virden                          IL
+0164	Port Washington North           NY
+0165	Pine Island                     MN
+0166	Ravena                          NY
+0167	Bamberg                         SC
+0168	Altavista                       VA
+0169	Williams                        AZ
+0170	Carlyle                         IL
+0171	Pike Road                       AL
+0172	Baldwyn                         MS
+0173	West Burlington                 IA
+0174	Basalt                          CO
+0175	Paulding                        OH
+0176	Dewey                           OK
+0177	Homer                           LA
+0178	Pitcairn                        PA
+0179	Bloomer                         WI
+0180	Minoa                           NY
+0181	Linden                          MI
+0182	Wesleyville                     PA
+0183	Jackson                         MN
+0184	Bayport                         MN
+0185	Karnes City                     TX
+0186	Knob Noster                     MO
+0187	Johnson                         AR
+0188	Kitty Hawk                      NC
+0189	Red Bay                         AL
+0190	Union City                      IN
+0191	Nesquehoning                    PA
+0192	Crane                           TX
+0193	Hollywood Park                  TX
+0194	Pennsburg                       PA
+0195	Wewoka                          OK
+0196	Delmar                          MD
+0197	Taft                            TX
+0198	Galena                          IL
+0199	Waverly                         NE
+0200	West Hazleton                   PA
+0201	Anchorage                       KY
+0202	Dundee                          FL
+0203	Sharpsburg                      PA
+0204	Yountville                      CA
+0205	Tipton                          MO
+0206	Union City                      PA
+0207	New York Mills                  NY
+0208	Summersville                    WV
+0209	DeQuincy                        LA
+0210	Blanding                        UT
+0211	Southgate                       KY
+0212	Ashville                        OH
+0213	Dexter                          MI
+0214	West Point                      NE
+0215	Kenedy                          TX
+0216	Holton                          KS
+0217	Brightwaters                    NY
+0218	Yuma                            CO
+0219	Toledo                          OR
+0220	Marion                          AL
+0221	Pine City                       MN
+0222	Shavano Park                    TX
+0223	Marshville                      NC
+0224	Two Harbors                     MN
+0225	Yellow Springs                  OH
+0226	Mingo Junction                  OH
+0227	Soperton                        GA
+0228	Cedar Springs                   MI
+0229	Wellsville                      UT
+0230	Ladysmith                       WI
+0231	Hoosick Falls                   NY
+0232	Kenova                          WV
+0233	Gibson City                     IL
+0234	Morganfield                     KY
+0235	Mansfield                       PA
+0236	Unadilla                        GA
+0237	Havana                          IL
+0238	Corunna                         MI
+0239	Welsh                           LA
+0240	Eagle Grove                     IA
+0241	Peshtigo                        WI
+0242	Polk City                       IA
+0243	Abingdon                        IL
+0244	Attica                          IN
+0245	Olney                           TX
+0246	Cassville                       MO
+0247	Montgomery                      MN
+0248	Corning                         AR
+0249	Cadiz                           OH
+0250	New Baden                       IL
+0251	Cleveland                       OK
+0252	Little Flock                    AR
+0253	Sheridan                        IN
+0254	O'Neill                         NE
+0255	Fairport Harbor                 OH
+0256	Kimberly                        ID
+0257	Brackenridge                    PA
+0258	Melrose                         MN
+0259	Rochester                       IL
+0260	Georgetown                      IN
+0261	Wellsboro                       PA
+0262	Greensboro                      GA
+0263	Jamestown                       NC
+0264	Southport                       NC
+0265	Orange                          OH
+0266	Plainview                       MN
+0267	North Wales                     PA
+0268	Bal Harbour                     FL
+0269	Orchard City                    CO
+0270	Buffalo                         MO
+0271	Wheatland                       WY
+0272	National Park                   NJ
+0273	Winnebago                       IL
+0274	Combined Locks                  WI
+0275	Moulton                         AL
+0276	Gramercy                        LA
+0277	North Barrington                IL
+0278	Dadeville                       AL
+0279	Germantown Hills                IL
+0280	Auburn                          NE
+0281	Churchill                       PA
+0282	Cottleville                     MO
+0283	Wise                            VA
+0284	Duncan                          SC
+0285	Waterloo                        WI
+0286	Reno                            TX
+0287	Netcong                         NJ
+0288	Lindsborg                       KS
+0289	West Lake Hills                 TX
+0290	Tishomingo                      OK
+0291	Springtown                      TX
+0292	Paw Paw                         MI
+0293	Oakridge                        OR
+0294	Blue Earth                      MN
+0295	Delta                           UT
+0296	Bicknell                        IN
+0297	Heavener                        OK
+0298	Sloatsburg                      NY
+0299	Centerville                     PA
+0300	Middlebury                      IN
+0301	Lebanon                         VA
+0302	Ripley                          WV
+0303	Bandon                          OR
+0304	Carrollton                      OH
+0305	Stanley                         NC
+0306	Broadway                        VA
+0307	Gooding                         ID
+0308	Carter Lake                     IA
+0309	Wood Village                    OR
+0310	Medina                          WA
+0311	DeWitt                          AR
+0312	Nocona                          TX
+0313	Dermott                         AR
+0314	South Jacksonville              IL
+0315	Frontenac                       KS
+0316	Granite Falls                   WA
+0317	Shannon Hills                   AR
+0318	Henrietta                       TX
+0319	Mattawa                         WA
+0320	Mariemont                       OH
+0321	Mulberry                        FL
+0322	Thiensville                     WI
+0323	Homer                           NY
+0324	Savanna                         IL
+0325	Lewes                           DE
+0326	Ava                             MO
+0327	Breckenridge                    MN
+0328	McDonald                        OH
+0329	Folkston                        GA
+0330	Islandia                        NY
+0331	Berryville                      VA
+0332	Carolina Shores                 NC
+0333	Hiawatha                        KS
+0334	Rio Dell                        CA
+0335	Athens                          PA
+0336	Warsaw                          NC
+0337	Columbus                        KS
+0338	Llano                           TX
+0339	Kingstree                       SC
+0340	Ford Heights                    IL
+0341	Dell Rapids                     SD
+0342	Chandler                        IN
+0343	Grand Saline                    TX
+0344	Tonkawa                         OK
+0345	Windsor                         MO
+0346	Seward                          AK
+0347	Hallsville                      TX
+0348	Milbank                         SD
+0349	Newbern                         TN
+0350	Cramerton                       NC
+0351	Hutchins                        TX
+0352	Garnett                         KS
+0353	Bayou La Batre                  AL
+0354	Muldrow                         OK
+0355	Annandale                       MN
+0356	Rock Valley                     IA
+0357	Calais                          ME
+0358	Roslyn                          NY
+0359	West Point                      VA
+0360	Santa Rosa                      TX
+0361	Paddock Lake                    WI
+0362	Howards Grove                   WI
+0363	Warrior                         AL
+0364	Cut Bank                        MT
+0365	Pendleton                       SC
+0366	Kotzebue                        AK
+0367	Myerstown                       PA
+0368	Malvern                         PA
+0369	East Dundee                     IL
+0370	Algoma                          WI
+0371	Nolensville                     TN
+0372	Verdigris                       OK
+0373	Jefferson                       OR
+0374	Gillespie                       IL
+0375	Madison                         OH
+0376	Lowville                        NY
+0377	Mobridge                        SD
+0378	Salmon                          ID
+0379	Blissfield                      MI
+0380	Macungie                        PA
+0381	Broken Bow                      NE
+0382	Boscobel                        WI
+0383	River Bend                      NC
+0384	Pleasant Valley                 WV
+0385	Williston                       SC
+0386	Greenfield                      MN
+0387	Melbourne Beach                 FL
+0388	Graymoor-Devondale              KY
+0389	Edgewood                        PA
+0390	Gentry                          AR
+0391	Wilkesboro                      NC
+0392	Bishop                          TX
+0393	Ocilla                          GA
+0394	Mount Morris                    MI
+0395	Ford City                       PA
+0396	Grangeville                     ID
+0397	Landis                          NC
+0398	Parker                          AZ
+0399	Galena                          KS
+0400	Beaver Dam                      KY
+0401	Walton                          KY
+0402	Sauk City                       WI
+0403	Sherrill                        NY
+0404	Walbridge                       OH
+0405	Boyne City                      MI
+0406	Northfield                      VT
+0407	Elma                            WA
+0408	Rolesville                      NC
+0409	Bee Cave                        TX
+0410	Granger                         WA
+0411	Marysville                      KS
+0412	South Pittsburg                 TN
+0413	Ponce Inlet                     FL
+0414	Soda Springs                    ID
+0415	Mountain View                   AR
+0416	Fowlerville                     MI
+0417	Brodhead                        WI
+0418	Weaverville                     NC
+0419	Mayfield                        OH
+0420	New Holstein                    WI
+0421	Ellsworth                       WI
+0422	Barron                          WI
+0423	Avalon                          CA
+0424	Silver Lake                     OH
+0425	Mount Morris                    IL
+0426	Waynesville                     OH
+0427	Ashland                         PA
+0428	Loxahatchee Groves              FL
+0429	Rockwood                        MI
+0430	Wright City                     MO
+0431	Fairfax                         SC
+0432	Tallapoosa                      GA
+0433	Reno                            TX
+0434	Riverside                       MO
+0435	Mohnton                         PA
+0436	Lucedale                        MS
+0437	Buckeye Lake                    OH
+0438	Zumbrota                        MN
+0439	Trafford                        PA
+0440	England                         AR
+0441	Jasper                          TN
+0442	New Bremen                      OH
+0443	Beecher                         IL
+0444	Mount Penn                      PA
+0445	Brinkley                        AR
+0446	Biscayne Park                   FL
+0447	Dundee                          OR
+0448	Green Forest                    AR
+0449	Cornwall-on-Hudson              NY
+0450	Rogersville                     MO
+0451	Stanton                         KY
+0452	Liberty                         SC
+0453	West Union                      OH
+0454	Youngwood                       PA
+0455	Bean Station                    TN
+0456	Lonsdale                        MN
+0457	Floydada                        TX
+0458	Severance                       CO
+0459	Momence                         IL
+0460	Clare                           MI
+0461	Tilton                          IL
+0462	Ferrysburg                      MI
+0463	Nags Head                       NC
+0464	Woodbury Heights                NJ
+0465	Castroville                     TX
+0466	Stamford                        TX
+0467	Atoka                           OK
+0468	Loudonville                     OH
+0469	Riverton                        IL
+0470	Westworth Village               TX
+0471	Marion                          KY
+0472	Bethany                         MO
+0473	Parker                          TX
+0474	Manistique                      MI
+0475	Kingwood                        WV
+0476	Boardman                        OR
+0477	Oak Point                       TX
+0478	Bunnell                         FL
+0479	Moreland Hills                  OH
+0480	Sonora                          TX
+0481	Orchard Park                    NY
+0482	Lyman                           SC
+0483	Flat Rock                       NC
+0484	East Prairie                    MO
+0485	Pickens                         SC
+0486	Gunnison                        UT
+0487	Tularosa                        NM
+0488	Lake Park                       NC
+0489	East Greenville                 PA
+0490	Windsor                         NC
+0491	Statham                         GA
+0492	Lakewood                        NY
+0493	Evendale                        OH
+0494	Williamson                      WV
+0495	Weed                            CA
+0496	Rhinebeck                       NY
+0497	Hooks                           TX
+0498	Hudson                          NC
+0499	Brazoria                        TX
