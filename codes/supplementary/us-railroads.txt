@@ -4,12 +4,11 @@
 
 0000 - 0749 - US Railroads
 0750 - 0999 - Defunct Railroads
-
-0100 - 0449 - Rail Transit Authorities
-
-0100 - 0449 - Other Rail Companies
-0100 - 0449 - US Train Stations
-0100 - 0449 - Defunct US Train Stations
+1000 - 1199 - Railroad Adjacent Authorities
+1200 - 1399 - Defunct Rail Systems
+1400 - 1449 - Other Rail Companies
+1450 - xxxx - US Train Stations
+xxxx - xxxx - Defunct US Train Stations
 
 
 =======================================
@@ -917,6 +916,7 @@ From https://en.wikipedia.org/wiki/List_of_United_States_rapid_transit_systems ,
 =======================================
 
 1400    REA    American Railway Express
+    1401-1449 - [RESERVED FOR CREATION/DISCOVERY OF OTHER RAIL COMPANIES]
 
 =======================================
 ========== US Train Stations ==========
