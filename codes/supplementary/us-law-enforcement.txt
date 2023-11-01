@@ -235,6 +235,7 @@ Total: 62 lines... still room to grow.
 95 - Yard Guard
 96 - Foot Collector
 
+99 - Posse Comitatus
 ? - instructors?
 
 =======================================
@@ -246,6 +247,8 @@ Total: 62 lines... still room to grow.
 11 - Court Services
 20 - Patrol
 21 - Traffic Enforcement & Accident Investigation
+22 - Canine Unit
+23 - Security Detail
 30 - Criminal Investigation, General
 31 - Criminal Investigation, Fraud
 32 - Criminal Investigation, Robbery
@@ -309,7 +312,6 @@ Note: Portions of the name enclosed in curly brackets {} can be dropped/ignored 
 ======= Defunct Private Police ========
 =======================================
 
-    
 33              Baldwin–Felts Detective Agency                              National
 34              Coal and Iron                                               PA
 35              Never Quit Services                                         NC
