@@ -308,4 +308,18 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
 0840    WC      Wisconsin Central Ltd.
     0841-0999 - [RESERVED FOR NEW DISCOVERY OF DEFUNCT US RAILROADS]
 
+=======================================
+==== <a id="defunct-railroads">Railroad Adjacent Authorities</a> ====
+====       <a id="defunct-railroads">& Commuter Rail</a>         ====
+\=======================================
+
+Notes: Includes light rail (underground and above), commuter rail, and other similar systems all designed primarily to move people. For passenger rail, see [0018 Amtrak](us-railroads.md#us-railroads). 
+
+This list includes a mix of special jurisdictions/districts (usually ending with the label "Authority") and rapid transit/commuter rail systems. In cases where a system has both Rail reporting marks, and an "Authority", both are listed. It's simply difficult to predict which of the two would field a police department, since their status as a railroad would permit that federally, but state law likely allows the special jurisdiction to do so as well.
+
+From [Wikipedia - List of US rapid transit systems](https://en.wikipedia.org/wiki/List_of_United_States_rapid_transit_systems) , 
+     [Wikipedia - List of bus tranist systems](https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States) ,
+     [Wikipedia - List of commuter rail systems](https://en.wikipedia.org/wiki/List_of_suburban_and_commuter_rail_systems) , 
+     [Wikipedia - List of light rail systems](https://en.wikipedia.org/wiki/List_of_tram_and_light_rail_transit_systems#North_America)
+
 </code>
