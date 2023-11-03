@@ -4,8 +4,8 @@
 ================ Index ================
 \=======================================
 
-[0000 - 0749 - US Railroads](us-railroads.md#)
-[0750 - 0999 - Defunct Railroads](us-railroads.md#z)
+[0000 - 0749 - US Railroads](us-railroads.md#us-railroads)
+[0750 - 0999 - Defunct Railroads](us-railroads.md#defunct-railroads)
 [1000 - 1199 - Railroad Adjacent Authorities](us-railroads.md#)
 [1200 - 1399 - Defunct Rail Systems](us-railroads.md#)
 [1400 - 1449 - Other Rail Companies](us-railroads.md#)
@@ -14,7 +14,7 @@
   
   
 =======================================
-============ US Railroads =============
+============ <a href="#us-railroads">US Railroads</a> =============
 \=======================================
 
 Note: From [Wikipedia - List of common carrier freight railroads](https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroads_in_the_United_States
@@ -208,7 +208,100 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
     0671-0749 - [RESERVED FOR CREATION OF NEW US RAILROADS]
 
 =======================================
-======== <a href="#z">Defunct US Railroads</a> =========
+======== <a href="#defunct-railroads">Defunct US Railroads</a> =========
 \=======================================
-    
+
+0750    AC      Algoma Central Railway
+0751    ATSF    Atchison, Topeka and Santa Fe Railway
+0752    ACL     Atlantic Coast Line Railroad
+0753    AUT     Auto-Train Corporation
+0754    B&O     Baltimore and Ohio Railroad
+0755    BAR     Bangor and Aroostook Railroad
+0756    BSL&W   Beaumont, Sour Lake and Western Railway
+0757    B&A     Boston and Albany Railroad
+0758    BM      Boston and Maine Corporation
+0759    BBB&C   Buffalo Bayou, Brazos & Colorado Railway
+0760    BCR&N   Burlington, Cedar Rapids and Northern Railway
+0761    BN      Burlington Northern Railroad
+0762    CG      Central of Georgia Railway
+0763    CPRR    Central Pacific Railroad
+0764    CNJ     Central Railroad of New Jersey (Jersey Central)
+0765    CV      Central Vermont
+0766    CO      Chesapeake and Ohio Railway
+0767    CBQ     Chicago, Burlington and Quincy Railroad
+0768    MILW    Chicago, Milwaukee, St. Paul and Pacific Railroad
+0769    CGW     Chicago Great Western Railway
+0770    RI      Chicago, Rock Island and Pacific Railroad
+0771    CNW     Chicago and North Western Transportation Company
+0772    CJ&M    Cincinnati, Jackson and Mackinaw Railroad
+0773            Cincinnati, Saginaw, and Mackinaw Railroad
+0774    C&S     Colorado and Southern Railway
+0775            Columbia Tap Railway
+0776    CR      Conrail
+0777    D&RGW   Denver and Rio Grande Western Railroad
+0778    DT&M    Detroit, Toledo and Milwaukee Railroad
+0779    D&P     Detroit and Pontiac Railroad
+0780    DGH&M   Detroit, Grand Haven and Milwaukee Railway
+0781    DTI     Detroit, Toledo & Ironton Railroad
+0782    ERIE    Erie Railroad
+0783            Florida Overseas Railroad
+0784            Galveston, Harrisburg and San Antonio Railroad
+0785    GT      Grand Trunk
+0786    GN      Great Northern Railway
+0787    GC&SF   Gulf, Colorado and Santa Fe Railway
+0788            Fernley and Lassen Railway
+0789    F&N     Fredericksburg and Northern Railway
+0790    HBR     Hudson Bay Railway
+0791    HB&T    Houston Belt & Terminal Railroad
+0792            Houston, East & West Texas Railroad
+0793    H&TC    Houston & Texas Central Railway
+0794    IC      Illinois Central Railroad
+0795            Inter-California Railway
+0796    IRC     Intercolonial Railway of Canada
+0797    I&GN    International–Great Northern Railroad
+0798            LaPorte Houston Northern Railway
+0799    LV      Lehigh Valley Railroad
+0800            Lackawanna Railroad
+0801    LN      Louisville and Nashville Railroad
+0802    M&B     Macon and Birmingham Railway
+0803    MEC     Maine Central
+0804    MSTL    Minneapolis and St. Louis Railway
+0805    MKT     Missouri–Kansas–Texas Railroad
+0806    MP      Missouri Pacific Railroad
+0807    NTR     National Transcontinental Railway
+0808            New Orleans and Carrollton Railroad
+0809            New Orleans, Jackson and Great Northern Railroad
+0810            New Orleans & Nashville Railroad
+0811    NYC     New York Central
+0812    NH      New York, New Haven and Hartford Railroad
+0813    OW      New York, Ontario and Western Railroad
+0814    NKP     New York, Chicago and St. Louis Railroad
+0815    NW      Norfolk and Western Railway
+0816    NP      Northern Pacific Railway
+0817    NRC     Northern Railway of Canada
+0818    PC      Penn Central
+0819    PRR     Pennsylvania Railroad
+0820            Pontchartrain Railroad
+0821    D&P     Detroit and Pontiac Railroad
+0822    PEIR    Prince Edward Island Railway
+0823            Raleigh and Gaston Railroad
+0824    RDG     Reading Railroad
+0825    SLB&M   St. Louis, Brownsville & Mexico Railway
+0826    SAAP    San Antonio & Aransas Pass Railway
+0827    SAL     Seaboard Air Line Railroad
+0828    SP      Southern Pacific Transportation Company
+0829    SPSR    Spokane, Portland and Seattle Railway
+0830    TNO     Texas and New Orleans Railroad
+0831    TAA&N   Toledo, Ann Arbor, and North Michigan Railway Company
+0832    TS&M    Toledo, Saginaw, and Mackinaw Railroad
+0833    TBV     Trinity & Brazos Valley Railway
+0834    TRR     Tuckerton Railroad
+0835            Tuskegee Railroad
+0836    W&OV    Warren and Ouachita Valley
+0837    WM      Western Maryland Railway
+0838    WP      Western Pacific Railroad
+0839    W&W     Wilmington and Raleigh Railroad
+0840    WC      Wisconsin Central Ltd.
+    0841-0999 - [RESERVED FOR NEW DISCOVERY OF DEFUNCT US RAILROADS]
+
 </code>
