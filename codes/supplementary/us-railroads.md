@@ -6,7 +6,7 @@
 
 [0000 - 0749 - US Railroads](us-railroads.md#us-railroads)
 [0750 - 0999 - Defunct Railroads](us-railroads.md#defunct-railroads)
-[1000 - 1199 - Railroad Adjacent Authorities](us-railroads.md#)
+[1000 - 1199 - Railroad Adjacent Authorities](us-railroads.md#railroad-adjacent)
 [1200 - 1399 - Defunct Rail Systems](us-railroads.md#)
 [1400 - 1449 - Other Rail Companies](us-railroads.md#)
 [1450 - xxxx - US Train Stations](us-railroads.md#)
@@ -309,8 +309,8 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
     0841-0999 - [RESERVED FOR NEW DISCOVERY OF DEFUNCT US RAILROADS]
 
 =======================================
-==== <a id="defunct-railroads">Railroad Adjacent Authorities</a> ====
-====       <a id="defunct-railroads">& Commuter Rail</a>         ====
+==== <a id="railroad-adjacent">Railroad Adjacent Authorities</a> ====
+====       <a id="railroad-adjacent">& Commuter Rail</a>         ====
 \=======================================
 
 Notes: Includes light rail (underground and above), commuter rail, and other similar systems all designed primarily to move people. For passenger rail, see [0018 Amtrak](us-railroads.md#us-railroads). 
