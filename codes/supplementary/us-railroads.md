@@ -1,7 +1,7 @@
 <code>
 
 =======================================
-================ Index ================
+================ <a id="index">Index</a> ================
 \=======================================
 
 [0000 - 0749 - US Railroads](us-railroads.md#us-railroads)
@@ -16,6 +16,8 @@
 =======================================
 ============ <a id="us-railroads">US Railroads</a> =============
 \=======================================
+
+<a id="#index">Back to index</a>
 
 Note: From [Wikipedia - List of common carrier freight railroads](https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroads_in_the_United_States
 )
@@ -210,6 +212,8 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
 =======================================
 ======== <a id="defunct-railroads">Defunct US Railroads</a> =========
 \=======================================
+
+<a id="#index">Back to index</a>
 
 0750    AC      Algoma Central Railway
 0751    ATSF    Atchison, Topeka and Santa Fe Railway
