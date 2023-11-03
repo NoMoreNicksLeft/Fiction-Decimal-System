@@ -14,7 +14,7 @@
   
   
 =======================================
-============ <a href="#us-railroads">US Railroads</a> =============
+============ <a id="us-railroads">US Railroads</a> =============
 \=======================================
 
 Note: From [Wikipedia - List of common carrier freight railroads](https://en.wikipedia.org/wiki/List_of_common_carrier_freight_railroads_in_the_United_States
@@ -208,7 +208,7 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
     0671-0749 - [RESERVED FOR CREATION OF NEW US RAILROADS]
 
 =======================================
-======== <a id="defunct-railroads" href="#defunct-railroads">Defunct US Railroads</a> =========
+======== <a id="defunct-railroads">Defunct US Railroads</a> =========
 \=======================================
 
 0750    AC      Algoma Central Railway
