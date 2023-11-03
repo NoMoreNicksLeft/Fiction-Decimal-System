@@ -208,7 +208,7 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
     0671-0749 - [RESERVED FOR CREATION OF NEW US RAILROADS]
 
 =======================================
-======== <a href="#defunct-railroads">Defunct US Railroads</a> =========
+======== <a id="defunct-railroads" href="#defunct-railroads">Defunct US Railroads</a> =========
 \=======================================
 
 0750    AC      Algoma Central Railway
