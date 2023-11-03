@@ -7,10 +7,10 @@
 [0000 - 0749 - US Railroads](us-railroads.md#us-railroads)
 [0750 - 0999 - Defunct Railroads](us-railroads.md#defunct-railroads)
 [1000 - 1199 - Railroad Adjacent Authorities](us-railroads.md#railroad-adjacent)
-[1200 - 1399 - Defunct Rail Systems](us-railroads.md#)
-[1400 - 1449 - Other Rail Companies](us-railroads.md#)
-[1450 - xxxx - US Train Stations](us-railroads.md#)
-[xxxx - xxxx - Defunct US Train Stations](us-railroads.md#)
+[1200 - 1399 - Defunct Rail Systems](us-railroads.md#defunct-rail-systems)
+[1400 - 1449 - Other Rail Companies](us-railroads.md#other-rail-companies)
+[1450 - xxxx - US Train Stations](us-railroads.md#us-train-stations)
+[xxxx - xxxx - Defunct US Train Stations](us-railroads.md#defunct-train-stations)
   
   
 =======================================
@@ -313,6 +313,8 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
 ====       <a id="railroad-adjacent">& Commuter Rail</a>         ====
 \=======================================
 
+[Back to index](us-railroads.md#index)
+
 Notes: Includes light rail (underground and above), commuter rail, and other similar systems all designed primarily to move people. For passenger rail, see [0018 Amtrak](us-railroads.md#us-railroads). 
 
 This list includes a mix of special jurisdictions/districts (usually ending with the label "Authority") and rapid transit/commuter rail systems. In cases where a system has both Rail reporting marks, and an "Authority", both are listed. It's simply difficult to predict which of the two would field a police department, since their status as a railroad would permit that federally, but state law likely allows the special jurisdiction to do so as well.
@@ -321,5 +323,112 @@ From [Wikipedia - List of US rapid transit systems](https://en.wikipedia.org/wik
      [Wikipedia - List of bus tranist systems](https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States) ,
      [Wikipedia - List of commuter rail systems](https://en.wikipedia.org/wiki/List_of_suburban_and_commuter_rail_systems) , 
      [Wikipedia - List of light rail systems](https://en.wikipedia.org/wiki/List_of_tram_and_light_rail_transit_systems#North_America)
+
+1000    ATI     Autoridad de Transporte Integrado                           PR
+1001    BART    Bay Area Rapid Transit District                             CA
+1002    BSDA    Bi-State Development Agency                                 Multiple
+1003    CMTA    Capital Metropolitan Transportation Authority               TX
+1004    CFRC    Central Florida Commuter Rail Commission (SunRail)          FL
+1005    CATS    Charlotte Area Transit System                               NC
+1006    CTA     Chicago Transit Authority                                   IL
+1007    CNDX    CT Rail                                                     CT
+1008    DART    Dallas Area Rapid Transit                                   TX
+1009    DCTA    Denton County Transportation Authority                      TX
+1010    FWTA    Fort Worth Transportation Authority (TEXRail)               TX
+1011    UTAX    FrontRunner                                                 UT
+1012    GCRTA   Greater Cleveland Regional Transit Authority                OH
+1013    HART    Hillsborough Area Regional Transit                          FL
+1014    HART    Honolulu Authority for Rapid Transportation                 HI
+1015            Kansas City Streetcar Authority                             MO
+1016    LI      Long Island Rail Road                                       NY
+1017    LACMTA  Los Angeles County Metropolitan Transportation Authority    CA
+1018    MARC    Maryland Area Rail Commuter                                 MD
+1019    MTA     Maryland Transit Administration                             MD
+1020    MBTA    Massachusetts Bay Transportation Authority                  MA
+1021    MATA    Memphis Area Transit Authority                              TN
+1022    METX    Metra                                                       IL
+1023    MNCW    Metro-North Railroad                                        NY
+1024    MARTA   Metropolitan Atlanta Rapid Transit Authority                GA
+1025            Metropolitan Transit Authority of Harris County             TX
+1026    MTA     Metropolitan Transportation Authority                       NY
+1027    MDT     Miami-Dade Transit                                          FL
+1028    MVTA    Minnesota Valley Transit Authority                          MN
+1029    NMRX    New Mexico Rail Runner Express                              NM
+1030    RTA     New Orleans Regional Transit Authority                      LA
+1031    NYCTA   New York City Transit Authority                             NY
+1032    NFTA    Niagara Frontier Transportation Authority                   NY
+1033    NJT     NJ Transit                                                  NJ
+1034    NCTD    North County Transit District                               CA
+1035    NVTC    Northern Virginia Transportation Commission                 VA
+1036    MNRX    Northstar                                                   MN
+1037    PCJPB   Peninsula Corridor Joint Powers Board                       CA
+1038    PRT     Pittsburgh Regional Transit                                 PA
+1039    PATCO   Port Authority Transit Corporation                          PA
+1040    PRTC    Potomac and Rappahannock Transportation Commission          VA
+1041    RTA     Regional Transit Authority of Southeast Michigan            MI
+1042    RTD     Regional Transportation District                            CO
+1043            Rock Region Metropolitan Transit Authority                  AR
+1044    RT      Sacramento Regional Transit District                        CA
+1045    SDMTS   San Diego Metropolitan Transit System                       CA
+1046    SFMTA   San Francisco Municipal Transportation Agency               CA
+1047    SJJPA   San Joaquin Joint Powers Authority                          CA
+1048    SJRRC   San Joaquin Regional Rail Commission                        CA
+1049            San Mateo County Transit District                           CA
+1050    SCCTD   Santa Clara Valley Transportation Authority                 CA
+1051    SMART   Sonoma-Marin Area Rail Transit                              CA
+1052    SDRX    Sound Transit                                               WA
+1053    SFRTA   South Florida Regional Transportation Authority             FL
+1054    NICD    South Shore Line                                            IN
+1055    SEPTA   Southeastern Pennsylvania Transportation Authority          PA
+1056    SCRRA   Southern California Regional Rail Authority (Metrolink)     CA
+1057    SORTA   Southwest Ohio Regional Transit Authority                   OH
+1058    SIRTOA  Staten Island Rapid Transit Operating Authority             NY
+1059    TRA     Tennessee Regional Transportation Authority                 TN
+1060    TriMet  Tri-County Metropolitan Transportation District of Oregon   OR
+1061    TRE     Trinity Railway Express                                     TX
+1062    UTA     Utah Transit Authority                                      UT
+1063            Valley Metro Regional Public Transportation Authority       AZ
+1064    VREX    Virginia Railway Express                                    VA
+1065    WMATA   Washington Metropolitan Area Transit Authority              DC
+1066    NRTX    WeGo Star                                                   TN
+1067    WES     Westside Express Service                                    OR
+    1068-1199 - [RESERVED FOR CREATION OF NEW LIGHT RAIL & AUTHORITIES]
+
+=======================================
+========= <a id="defunct-rail-systems">Defunct Rail Systems</a> ========
+\=======================================
+
+[Back to index](us-railroads.md#index)
+
+1200    CSR     Cincinnati Street Railway                                   OH
+1201            Cincinnati Subway                                           OH
+1202    CTI     Cincinnati Transit Commission                               OH
+1203    HRT     Hampton Roads Transit                                       VA
+1204    IRC     International Railway Company                               NY
+1205    OE      Oregon Eletric Railway                                      OR
+1206            San Francisco Municipal Railway                             CA
+1207    SCAT    Sun City Area Transit                                       TX
+    1208-1399 - [RESERVED FOR NEW DISCOVERY OF DEFUNCT RAIL SYSTEMS]
+
+=======================================
+========= <a id="other-rail-companies">Other Rail Companies</a> ========
+\=======================================
+
+[Back to index](us-railroads.md#index)
+
+1400    REA    American Railway Express
+    1401-1449 - [RESERVED FOR CREATION/DISCOVERY OF OTHER RAIL COMPANIES]
+
+=======================================
+========== <a id="us-train-stations">US Train Stations</a> ==========
+\=======================================
+
+[Back to index](us-railroads.md#index)
+
+=======================================
+====== <a id="defunct-train-stations">Defunct US Train Stations</a> ======
+\=======================================
+
+[Back to index](us-railroads.md#index)
 
 </code>
