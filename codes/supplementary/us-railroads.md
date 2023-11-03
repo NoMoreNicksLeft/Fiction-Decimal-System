@@ -205,7 +205,7 @@ Note: From [Wikipedia - List of common carrier freight railroads](https://en.wik
 0668    YVRR    Yadkin Valley Railroad
 0669    YW      Yreka Western Railroad
 0670    ZEMBA   Zemba Rail Services
-  0671-0749 - [RESERVED FOR CREATION OF NEW US RAILROADS]
+    0671-0749 - [RESERVED FOR CREATION OF NEW US RAILROADS]
 
 =======================================
 ======== #Defunct US Railroads =========
