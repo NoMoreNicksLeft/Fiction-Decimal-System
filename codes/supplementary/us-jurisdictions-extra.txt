@@ -9514,3 +9514,4 @@ Despite the number of specific municipalities available in the other file, it is
 9497	Hackensack                      MN
 9498	Bison                           SD
 9499	Alberta                         VA
+    9500-9899 - [RESERVED FOR TOWNS & VILLAGES NEWLY POPULATED ABOVE 300]
