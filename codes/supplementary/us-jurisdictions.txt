@@ -4797,7 +4797,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 4966    Keizer                          OR
 4967    Bartlesville                    OK
 4968    Rome                            GA
-4969    Lake Worth                      FL
+4969    Lake Worth Beach                FL
 4970    Alamogordo                      NM
 4971    Dunedin                         FL
 4972    Wheeling                        IL
@@ -4949,7 +4949,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 5117    Deer Park                       TX
 5118    La Vergne                       TN
 5119    Copperas Cove                   TX
-5120    Juneau city and                 AK
+5120    Juneau                          AK
 5121    Royal Palm Beach                FL
 5122    Kearney                         NE
 5123    Hinesville                      GA
@@ -5483,7 +5483,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 5640    Sebastian                       FL
 5641    Portsmouth                      NH
 5642    Lockport                        NY
-5643    La Ca� Flintridge               CA
+5643    La Cañada Flintridge            CA
 5644    College Park                    GA
 5645    Lino Lakes                      MN
 5646    Crest Hill                      IL
@@ -5772,7 +5772,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 5927    Belle Glade                     FL
 5928    El Reno                         OK
 5929    Highland Village                TX
-5930    Menasha                         WI
+5930    Fox Crossing                    WI
 5931    Dumont                          NJ
 5932    Bartow                          FL
 5933    Anacortes                       WA
@@ -6266,7 +6266,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 6418    Avon                            IN
 6419    La Grande                       OR
 6420    St. Augustine                   FL
-6421    West Carrollton City            OH
+6421    West Carrollton                 OH
 6422    Plano                           IL
 6423    Glen Carbon                     IL
 6424    North Mankato                   MN
@@ -6803,7 +6803,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 6952    Sugar Grove                     IL
 6953    Monmouth                        OR
 6954    Clinton                         TN
-6955    Espanola                        NM
+6955    Española                        NM
 6956    Damascus                        OR
 6957    Howell                          MI
 6958    Marathon                        FL
@@ -7007,7 +7007,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 7155    Rockingham                      NC
 7156    Grimes                          IA
 7157    Rawlins                         WY
-7158    Anaconda-Deer Lodge County      MT
+     1352    Anaconda-Deer Lodge County      MT
 7159    Willowbrook                     IL
 7160    Barre                           VT
 7161    East Rutherford                 NJ
@@ -7744,7 +7744,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 7891    Gridley                         CA
 7892    Canal Winchester                OH
 7893    Cherry Hills Village            CO
-7894    Islamorada, Village of Islands  FL
+7894    Islamorada                      FL
 7895    Keene                           TX
 7896    Moraine                         OH
 7897    Rochester                       IN
@@ -7893,7 +7893,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 8037    Mount Healthy                   OH
 8038    Thurmont                        MD
 8039    Sandersville                    GA
-8040    Lynchburg, Moore County         TN
+           2593    Lynchburg                   TN
 8041    Wharton                         NJ
 8042    Paulsboro                       NJ
 8043    Aspen                           CO
@@ -9143,7 +9143,7 @@ Note: Some cities may have non-sequential codes since some are considered county
 9286    Fulton                          IL
 9287    Bordentown                      NJ
 9288    Hohenwald                       TN
-9289    Castle Pines North              CO
+9289    Castle Pines                    CO
 9290    Wayland                         MI
 9291    Perryville                      MD
 9292    Frederick                       OK
