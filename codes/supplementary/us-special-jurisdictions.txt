@@ -4103,869 +4103,868 @@ Notes: From https://www.aahaak.org/our-members ,
 4569            Cumberland Housing Authority                                        RI
 4570            East Greenwich Housing Authority                                    RI
 4571            East Providence Housing Authority                                   RI
-4572            Gateway Healthcare Inc.                                             RI
-4573            Jamestown Housing Authority                                         RI
-4574            Johnston Housing Authority                                          RI
-4575            Kent County Mental Health Center                                    RI
-4576            Lincoln Housing Authority                                           RI
-4577            Narragansett Housing Authority                                      RI
-4578            Neighborhood Foundations                                            RI
-4579            Housing Authority of the City of Newport                            RI
-4580            North Providence Housing Authority                                  RI
-4581            Pawtucket Housing Authority                                         RI
-4582            Portsmouth Housing Authority                                        RI
-4583            Providence Housing Authority                                        RI
-4584            Rhode Island Housing                                                RI
-4585            Smithfield Housing Authority                                        RI
-4586            South Kingstown Housing Authority                                   RI
-4587            Tiverton Housing Authority                                          RI
-4588            Warren Housing Authority                                            RI
-4589            Warwick Housing Authority                                           RI
-4590            West Warwick Housing Authority                                      RI
-4591            Westerly Housing Authority                                          RI
-4592            Woonsocket Housing Authority                                        RI
-4593            Housing Authority of Abbeville                                      SC
-4594            Anderson Housing Authority                                          SC
-4595            Housing Authority of Atlantic Beach                                 SC
-4596            Beaufort Housing Authority                                          SC
-4597            Housing Authority of Bennettsville                                  SC
-4598            Cayce Housing Authority                                             SC
-4599            Charleston County Housing and Redevelopment Authority               SC
-4600            Housing Authority of Cheraw                                         SC
-4601            Chester Housing Authority                                           SC
-4602            City of Aiken Housing Authority                                     SC
-4603            Columbia Housing                                                    SC
-4604            Housing Authority of Conway                                         SC
-4605            Housing Authority of Darlington                                     SC
-4606            Housing Authority of Easley                                         SC
-4607            Housing Authority of Florence                                       SC
-4608            Housing Authority of Fort Mill                                      SC
-4609            Gaffney Housing Authority                                           SC
-4610            Georgetown Housing Authority                                        SC
-4611            Greenville Housing Authority                                        SC
-4612            Housing Authority of Greenwood                                      SC
-4613            Housing Authority of Greer                                          SC
-4614            Housing Authority of Hartsville                                     SC
-4615            Housing Authority of Kingstree                                      SC
-4616            Lake City Housing Authority                                         SC
-4617            Housing Authority of Lancaster                                      SC
-4618            Laurens City Housing Authority                                      SC
-4619            Housing Authority of Marion                                         SC
-4620            Housing and Community Redevelopment Authority of Marlboro County    SC
-4621            Housing Authority of McColl                                         SC
-4622            Housing Authority of Mullins                                        SC
-4623            Housing Authority of Myrtle Beach                                   SC
-4624            Housing Authority of Newberry                                       SC
-4625            North Charleston Housing Authority                                  SC
-4626            Rock Hill Housing Authority                                         SC
-4627            South Carolina Regional Housing Authority No. 1                     SC
-4628            South Carolina Regional Housing Authority No. 3                     SC
-4629            South Carolina State Housing Finance and Development Authority      SC
-4630            Spartanburg Housing Authority                                       SC
-4631            Sumter Housing Authority                                            SC
-4632            Housing Authority of the City of Charleston                         SC
-4633            Housing Authority of Union                                          SC
-4634            Housing Authority of Woodruff                                       SC
-4635            Housing Authority of York                                           SC
-4636            Aberdeen Housing Authority                                          SD
-4637            Brookings Housing and Redevelopment Commission                      SD
-4638            Burke Housing And Redevelopment Commission                          SD
-4639            Butte County Housing Authority                                      SD
-4640            Canton Housing and Redevopment Commission                           SD
-4641            City of Mitchell Housing and Redevolpment Commission                SD
-4642            De Smet Housing and Redevelopment Commission                        SD
-4643            Hot Springs Housing And Redevelopment Commission                    SD
-4644            Howard Housing And Redevelopment Commission                         SD
-4645            Huron Housing Authority                                             SD
-4646            Kennebec Housing and Redevelopment Commission                       SD
-4647            Lake Andes Housing And Redevelopment Commission                     SD
-4648            Lake Norden Housing And Redevelopment Commission                    SD
-4649            Lawrence County Housing and Redevelopment Commission                SD
-4650            Lemmon Housing and Redevelopment Commission                         SD
-4651            Lennox Housing and Redevelopment Commission                         SD
-4652            Madison Housing And Redevelopment Commission                        SD
-4653            Martin Housing and Redevelopment Commission                         SD
-4654            Meade County Housing and Redevelopment Commission                   SD
-4655            Milbank Housing and Redevelopment Commission                        SD
-4656            Miller Housing and Redevelopment Commision                          SD
-4657            Mobridge Housing and Redevlopment Commission                        SD
-4658            Murdo Housing And Redevelopment Commission                          SD
-4659            Parker Housing and Redevelopment Commission                         SD
-4660            Pennington County Housing and Redevelopment Commission              SD
-4661            Pierre Housing and Redevelopment Commision                          SD
-4662            Redfield Housing And Redevelopment Commission                       SD
-4663            Sioux Falls Housing and Redevelopment Commission                    SD
-4664            Sisseton Housing and Redevelopment Commission                       SD
-4665            Vermillion Housing And Redevelopment Commission                     SD
-4666            Volga Housing And Redevelopment Commission                          SD
-4667            Watertown Housing and Redevelopment Commission                      SD
-4668            Webster Housing And Redevelopment Commision                         SD
-4669            Wessington Springs Housing And Redevelopment Commission             SD
-4670            Yankton Housing and Redevelopment Commission                        SD
-4671            Athens Housing Authority                                            TN
-4672            Bolivar Housing Authority                                           TN
-4673            Bristol Housing                                                     TN
-4674            Brownsville Housing Authority                                       TN
-4675            Chattanooga Housing Authority                                       TN
-4676            Clarksville Housing Authority                                       TN
-4677            Cleveland Housing Authority                                         TN
-4678            Clinton Housing Authority                                           TN
-4679            Columbia Housing and Redevelopment Corporation                      TN
-4680            Cookeville Housing Authority                                        TN
-4681            Covington Housing Authority                                         TN
-4682            Crossville Housing Authority                                        TN
-4683            Dayton Housing Authority                                            TN
-4684            Dickson Housing Authority                                           TN
-4685            Dyersburg Housing Authority                                         TN
-4686            East Tennessee Human Resource Agency                                TN
-4687            Elizabethton Housing and Development Agency                         TN
-4688            Erin Housing Authority                                              TN
-4689            Erwin Housing Authority                                             TN
-4690            Etowah Housing Authority                                            TN
-4691            Fayetteville Housing Authority                                      TN
-4692            Franklin Housing Authority                                          TN
-4693            Gallatin Housing Authority                                          TN
-4694            Gallaway Housing Authority                                          TN
-4695            Greeneville Housing Authority                                       TN
-4696            Grundy Housing Authority                                            TN
-4697            Harriman Housing Authority                                          TN
-4698            Hartsville Housing Authority                                        TN
-4699            Hohenwald Housing Authority                                         TN
-4700            Humboldt Housing Authority                                          TN
-4701            Huntingdon Housing Authority                                        TN
-4702            Jackson Housing Authority                                           TN
-4703            Jefferson City Housing Authority                                    TN
-4704            Jellico Housing Authority                                           TN
-4705            Johnson City Housing Authority                                      TN
-4706            Kingsport Housing And Redevelopment Authority                       TN
-4707            Knoxville Community Development Corporation                         TN
-4708            LaFollette Housing Authority                                        TN
-4709            Lawrenceburg Housing Authority                                      TN
-4710            Lebanon Housing Authority                                           TN
-4711            Lenoir City Housing Authority                                       TN
-4712            Lewisburg Housing Authority                                         TN
-4713            Lexington Housing Authority                                         TN
-4714            Loudon Housing Authority                                            TN
-4715            Manchester Housing Authority                                        TN
-4716            Martin Housing Authority                                            TN
-4717            Maryville Housing Authority                                         TN
-4718            McKenzie Housing Authority                                          TN
-4719            McMinnville Housing Authority                                       TN
-4720            Memphis Housing Authority                                           TN
-4721            Metropolitan Development and Housing Agency                         TN
-4722            Milan Housing Authority                                             TN
-4723            Millington Housing Authority                                        TN
-4724            Morristown Housing Authority                                        TN
-4725            Mt. Pleasant Housing Authority                                      TN
-4726            Murfreesboro Housing Authority                                      TN
-4727            Newbern Housing Authority                                           TN
-4728            Newport Housing Authority                                           TN
-4729            Oak Ridge Housing Authority                                         TN
-4730            Oliver Springs Housing Authority                                    TN
-4731            Paris Housing Authority                                             TN
-4732            Parsons-Decaturville Housing Authority                              TN
-4733            Portland Housing Authority                                          TN
-4734            Pulaski Housing Authority                                           TN
-4735            Ripley Housing Authority                                            TN
-4736            Rockwood Housing Authority                                          TN
-4737            Rogersville Housing Authority                                       TN
-4738            Savannah Housing Authority                                          TN
-4739            Sevierville Housing Authority                                       TN
-4740            Shelby County Housing Authority                                     TN
-4741            Shelbyville Housing Authority                                       TN
-4742            Smithville Housing Authority                                        TN
-4743            South Carthage Housing Authority                                    TN
-4744            South Pittsburg Housing Authority                                   TN
-4745            Sparta Housing Authority                                            TN
-4746            Springfield Housing Authority                                       TN
-4747            Sweetwater Housing Authority                                        TN
-4748            Trenton Housing Authority                                           TN
-4749            Tullahoma Housing Authority                                         TN
-4750            Union City Housing Authority                                        TN
-4751            Waverly Housing Authority                                           TN
-4752            Woodbury Housing Authority                                          TN
-4753            Abilene Housing Authority                                           TX
-4754            Alamo Area Council of Governments                                   TX
-4755            Alamo Housing Authority                                             TX
-4756            Housing Authority of Alba                                           TX
-4757            Alice Housing Authority                                             TX
-4758            Housing Authority City of Alpine                                    TX
-4759            Alto Housing Authority                                              TX
-4760            City of Amarillo Community Development Department                   TX
-4761            Anderson County Housing Authority                                   TX
-4762            Housing Authority of Anson                                          TX
-4763            Housing Authority of Anthony                                        TX
-4764            Aransas Pass Housing Authority                                      TX
-4765            Housing Authority of Archer City                                    TX
-4766            Ark-Tex Council of Governments                                      TX
-4767            Arlington Housing Authority                                         TX
-4768            Aspermont Housing Authority                                         TX
-4769            Athens Housing Authority                                            TX
-4770            Housing Authority of Atlanta                                        TX
-4771            Housing Authority of the City of Austin                             TX
-4772            Housing Authority of Avery                                          TX
-4773            Housing Authority of Avinger                                        TX
-4774            Housing Authority of Baird                                          TX
-4775            Balch Springs Housing Authority                                     TX
-4776            Housing Authority of Ballinger                                      TX
-4777            Housing Authority of Balmorhea                                      TX
-4778            Housing Authority of Bangs                                          TX
-4779            Housing Authority of Bartlett                                       TX
-4780            Bastrop Housing Authority                                           TX
-4781            Housing Authority of the City of Bay City                           TX
-4782            Baytown Housing Authority                                           TX
-4783            Beaumont Housing Authority                                          TX
-4784            Beckville Housing Authority                                         TX
-4785            Beeville Housing Authority                                          TX
-4786            Housing Authority of Bells                                          TX
-4787            Housing Authority of the City of Bellville                          TX
-4788            Housing Authority of Belton                                         TX
-4789            Housing Authority of Bexar County                                   TX
-4790            Housing Authority of Big Sandy                                      TX
-4791            Big Spring Housing Authority                                        TX
-4792            Housing Authority of Blooming Grove                                 TX
-4793            Housing Authority of Blossom                                        TX
-4794            Boerne Housing Authority                                            TX
-4795            Housing Authority of Bogata                                         TX
-4796            Housing Authority of Bonham                                         TX
-4797            Housing Authority of Borger                                         TX
-4798            Bowie County Housing Authority                                      TX
-4799            Brackettville Housing Authority                                     TX
-4800            Housing Authority of Brady                                          TX
-4801            Brazoria County Housing Authority                                   TX
-4802            Brazos Valley Council of Governments                                TX
-4803            Housing Authority of Breckenridge                                   TX
-4804            Housing Authority of the City of Bremond                            TX
-4805            Brenham Housing Authority                                           TX
-4806            Housing Authority of Bridgeport                                     TX
-4807            Housing Authority of Bronte                                         TX
-4808            Housing Authority of the City of Brownsville                        TX
-4809            Housing Authority of the City of Brownwood                          TX
-4810            Housing Authority of the City of Bryan                              TX
-4811            Housing Authority of Bryson                                         TX
-4812            Housing Authority of the City of Buffalo                            TX
-4813            Housing Authority of Burkburnett                                    TX
-4814            Burkburnett Housing Assistance Program                              TX
-4815            Burnet Housing Authority                                            TX
-4816            Housing Authority of Caddo Mills                                    TX
-4817            Housing Authority of the City of Caldwell                           TX
-4818            Housing Authority of the City of Calvert                            TX
-4819            Housing Authority of Cameron                                        TX
-4820            Cameron County Housing Authority                                    TX
-4821            Housing Authority of Canyon                                         TX
-4822            Carrizo Springs Housing Authority                                   TX
-4823            Housing Authority of Celeste                                        TX
-4824            Housing Authority of Center                                         TX
-4825            Centerville Housing Authority                                       TX
-4826            Central Texas Council of Governments                                TX
-4827            Housing Authority of Childress                                      TX
-4828            Housing Authority of Cisco                                          TX
-4829            Housing Authority of the City of Clarksville                        TX
-4830            Cleburne Housing Agency                                             TX
-4831            Housing Authority of Cleveland                                      TX
-4832            Housing Authority of Clifton                                        TX
-4833            Housing Authority of Coleman                                        TX
-4834            Housing Authority of Colorado City                                  TX
-4835            Housing Authority of Comanche                                       TX
-4836            Commerce Housing Authority                                          TX
-4837            Housing Authority of Como                                           TX
-4838            Housing Authority of Coolidge                                       TX
-4839            Housing Authority of Cooper                                         TX
-4840            Housing Authority of Copperas Cove                                  TX
-4841            Corpus Christi Housing Authority                                    TX
-4842            Housing Authority of Corrigan                                       TX
-4843            Corsicana Housing Authority                                         TX
-4844            Cotulla Housing Authority                                           TX
-4845            Crockett Housing Authority                                          TX
-4846            Housing Authority of Crosbyton                                      TX
-4847            Housing Authority of Cross Plains                                   TX
-4848            Housing Authority of the City of Crowell                            TX
-4849            Crystal City Housing Authority                                      TX
-4850            Cuero Housing Authority                                             TX
-4851            Housing Authority of Cumby                                          TX
-4852            Housing Authority of Daingerfield                                   TX
-4853            Dallas County Housing Agency                                        TX
-4854            Dallas Housing Authority                                            TX
-4855            Housing Authority of Dawson                                         TX
-4856            Housing Authority of the City of Dayton                             TX
-4857            Housing Authority of De Kalb                                        TX
-4858            Housing Authority of Decatur                                        TX
-4859            Deep East Texas Regional Housing Authority                          TX
-4860            Del Rio Housing Authority                                           TX
-4861            Housing Authority of Deleon                                         TX
-4862            Housing Authority of Denison                                        TX
-4863            Denton Housing Authority                                            TX
-4864            Housing Authority of Deport                                         TX
-4865            Housing Authority of Detroit                                        TX
-4866            Devine Housing Authority                                            TX
-4867            Housing Authority of Diboll                                         TX
-4868            Dilley Housing Authority                                            TX
-4869            Donna Housing Authority                                             TX
-4870            Housing Authority of Dublin                                         TX
-4871            Duval County Housing Authority                                      TX
-4872            Eagle Pass Housing Authority                                        TX
-4873            Housing Authority of Ector                                          TX
-4874            Edcouch Housing Authority                                           TX
-4875            Housing Authority of Eden                                           TX
-4876            Housing Authority of Edgewood                                       TX
-4877            Edinburg Housing Authority                                          TX
-4878            Edna Housing Authority                                              TX
-4879            Housing Authority of the City of El Campo                           TX
-4880            Housing Authority of the City of El Paso                            TX
-4881            El Paso County Housing Authority                                    TX
-4882            Housing Authority of Eldorado                                       TX
-4883            Electra Housing Authority                                           TX
-4884            Elgin Housing Authority                                             TX
-4885            Elsa Housing Authority                                              TX
-4886            Housing Authority of Ennis                                          TX
-4887            Falfurrias Housing Authority                                        TX
-4888            Falls City Housing Authority                                        TX
-4889            Housing Authority of Farmersville                                   TX
-4890            Housing Authority of Ferris                                         TX
-4891            Flatonia Housing Authority                                          TX
-4892            Floresville Housing Authority                                       TX
-4893            Floydada Housing Authority                                          TX
-4894            Fort Stockton Housing Authority                                     TX
-4895            Fort Worth Housing Solutions                                        TX
-4896            Housing Authority of the City of Franklin                           TX
-4897            Housing Authority of the City of Frisco                             TX
-4898            Housing Authority of Fruitvale                                      TX
-4899            Gainesville Housing Authority                                       TX
-4900            Galveston Housing Authority                                         TX
-4901            Garland Housing Agency                                              TX
-4902            Housing Authority of Garrison                                       TX
-4903            Housing Authority of Gatesville                                     TX
-4904            Georgetown Housing Authority                                        TX
-4905            Housing Authority of Gilmer                                         TX
-4906            Housing Authority of the City of Gladewater                         TX
-4907            Housing Authority of Goldthwaite                                    TX
-4908            Goliad Housing Authority                                            TX
-4909            Gonzales Housing Authority                                          TX
-4910            Housing Authority of Gorman                                         TX
-4911            Housing Authority of Granbury                                       TX
-4912            Grand Prairie Housing and Neighborhood Services                     TX
-4913            Housing Authority of Grand Saline                                   TX
-4914            Housing Authority of Grandfalls                                     TX
-4915            Grandview Housing Authority                                         TX
-4916            Granger Housing Authority                                           TX
-4917            Housing Authority of Grapeland                                      TX
-4918            Grapevine Housing Authority                                         TX
-4919            Housing Authority of Grayson County                                 TX
-4920            Greenville Housing Authority                                        TX
-4921            Gregory Housing Authority                                           TX
-4922            Housing Authority of Groesbeck                                      TX
-4923            Housing Authority of the City of Groveton                           TX
-4924            Housing Authority of Gunter                                         TX
-4925            Housing Authority of Hale Center                                    TX
-4926            Hale County Housing Authority                                       TX
-4927            Hallettsville Housing Authority                                     TX
-4928            Haltom City Housing Authority                                       TX
-4929            Housing Authority of Hamilton                                       TX
-4930            Housing Authority of Hamlin                                         TX
-4931            Harlingen Housing Authority                                         TX
-4932            Harris County Housing Authority                                     TX
-4933            Harris County-Other Dhap Only                                       TX
-4934            Housing Authority of Haskell                                        TX
-4935            Housing Authority of the City of Hearne                             TX
-4936            Housing Authority of Hemphill                                       TX
-4937            Housing Authority of Henderson                                      TX
-4938            Housing Authority of Henrietta                                      TX
-4939            Housing Authority of Hico                                           TX
-4940            Hidalgo Housing Authority                                           TX
-4941            Housing Authority of Honey Grove                                    TX
-4942            Housing Authority the City of Mineral Wells                         TX
-4943            Houston Housing Authority                                           TX
-4944            Housing Authority of Howe                                           TX
-4945            Housing Authority of Hubbard                                        TX
-4946            Hughes Springs Housing Authority                                    TX
-4947            Housing Authority of Huntington                                     TX
-4948            Housing Authority of the City of Huntsville                         TX
-4949            Ingleside Housing Authority                                         TX
-4950            Jacksonville Housing Authority                                      TX
-4951            Housing Authority of Jasper                                         TX
-4952            Housing Authority of Jefferson                                      TX
-4953            Jim Hogg County Housing Authority                                   TX
-4954            Johnson City Housing Authority                                      TX
-4955            Housing Authority of Junction                                       TX
-4956            Housing Authority of Kemp                                           TX
-4957            Kenedy Housing Authority                                            TX
-4958            Housing Authority of Kerens                                         TX
-4959            Kermit Housing Authority                                            TX
-4960            Killeen Housing Authority                                           TX
-4961            Kingsville Housing Authority                                        TX
-4962            Housing Authority of Kirbyville                                     TX
-4963            Housing Authority of the City of Knox City                          TX
-4964            Kyle Housing Authority                                              TX
-4965            La Grange Housing Authority                                         TX
-4966            La Joya Housing Authority                                           TX
-4967            City of La Marque Housing Authority                                 TX
-4968            Housing Authority of Ladonia                                        TX
-4969            Lamesa Housing Authority                                            TX
-4970            Lancaster Housing Authority                                         TX
-4971            Housing Authority of the City of Laredo                             TX
-4972            Housing Authority of City of Leonard                                TX
-4973            Housing Authority of Levelland                                      TX
-4974            Liberty County Housing Authority                                    TX
-4975            Housing Authority of Livingston                                     TX
-4976            Llano Housing Authority                                             TX
-4977            Lockhart Housing Authority                                          TX
-4978            Housing Authority of Lockney                                        TX
-4979            Housing Authority of Lometa                                         TX
-4980            Longview Housing Authority                                          TX
-4981            Housing Authority of Loraine                                        TX
-4982            Los Fresnos Housing Authority                                       TX
-4983            Housing Authority of Lott                                           TX
-4984            Housing Authority of Lubbock                                        TX
-4985            Luling Housing Authority                                            TX
-4986            Housing Authority of Mabank                                         TX
-4987            Housing Authority of the City of Madisonville                       TX
-4988            Housing Authority of Malakoff                                       TX
-4989            Marble Falls Housing Authority                                      TX
-4990            Housing Authority of Marfa                                          TX
-4991            Housing Authority of Marlin                                         TX
-4992            Marshall Housing Authority                                          TX
-4993            Mart Housing Authority                                              TX
-4994            Housing Authority of Mason                                          TX
-4995            Mathis Housing Authority                                            TX
-4996            Housing Authority of Maud                                           TX
-4997            McAllen Housing Authority                                           TX
-4998            Housing Authority of McGregor                                       TX
-4999            McKinney Housing Authority - Public Housing                         TX
-5000            McKinney Housing Authority - Section 8                              TX
-5001            Housing Authority of McLean                                         TX
-5002            Housing Authority of Memphis                                        TX
-5003            Mercedes Housing Authority                                          TX
-5004            Housing Authority of Meridian                                       TX
-5005            Housing Authority of Merkel                                         TX
-5006            Mesquite Housing Division                                           TX
-5007            Mexia Housing Authority                                             TX
-5008            Housing Authority of Midland                                        TX
-5009            Midland County Housing Authority                                    TX
-5010            Housing Authority of the City of Mineola                            TX
-5011            Mission Housing Authority                                           TX
-5012            Housing Authority of the City of Monahans                           TX
-5013            Montgomery County Housing Authority                                 TX
-5014            Housing Authority of City of Moody                                  TX
-5015            Mount Pleasant Housing Authority                                    TX
-5016            Housing Authority of Mount Vernon                                   TX
-5017            Housing Authority of the City of Munday                             TX
-5018            Nacogdoches Housing Authority                                       TX
-5019            Housing Authority of Naples                                         TX
-5020            Housing Authority of City of Navasota                               TX
-5021            New Braunfels Housing Authority                                     TX
-5022            Housing Authority of Newcastle                                      TX
-5023            Housing Authority of Newton                                         TX
-5024            Nixon Housing Authority                                             TX
-5025            Housing Authority of the City of Nocona                             TX
-5026            Housing Authority of O'Donnell                                      TX
-5027            Housing Authority of Odessa                                         TX
-5028            Housing Authority of City of Oglesby                                TX
-5029            Housing Authority of Olney                                          TX
-5030            Housing Authority of Olton                                          TX
-5031            Housing Authority of the City of Orange                             TX
-5032            Housing Authority of Orange County                                  TX
-5033            Housing Authority of Overton                                        TX
-5034            Housing Authority of Paducah                                        TX
-5035            Housing Authority of the City of Palacios                           TX
-5036            Panhandle Community Services                                        TX
-5037            Paris Housing Authority                                             TX
-5038            City of Pasadena Housing Department                                 TX
-5039            Housing Authority of the City of Pearsall                           TX
-5040            Housing Authority of Pecos                                          TX
-5041            Pharr Housing Authority                                             TX
-5042            Housing Authority of Pineland                                       TX
-5043            Housing Authority of Pittsburg                                      TX
-5044            Plano Housing Authority                                             TX
-5045            Pleasanton Housing Authority                                        TX
-5046            Housing Authority of Point                                          TX
-5047            Port Arthur Housing Authority                                       TX
-5048            Port Isabel Housing Authority                                       TX
-5049            Port Lavaca Housing Authority                                       TX
-5050            Housing Authority of Post                                           TX
-5051            Poteet Housing Authority                                            TX
-5052            Housing Authority of Pottsboro                                      TX
-5053            Housing Authority of Princeton                                      TX
-5054            Housing Authority of Quanah                                         TX
-5055            Housing Authority of Ralls                                          TX
-5056            Housing Authority of Ranger                                         TX
-5057            Housing Authority of Rankin                                         TX
-5058            Housing Authority of Robert Lee                                     TX
-5059            Robstown Housing Authority                                          TX
-5060            Housing Authority of Roby                                           TX
-5061            Housing Authority of Rockdale                                       TX
-5062            Housing Authority of Rockwall                                       TX
-5063            Rogers Housing Authority                                            TX
-5064            Roma Housing Authority                                              TX
-5065            Housing Authority of Rosebud                                        TX
-5066            Rosenberg Housing Authority                                         TX
-5067            Housing Authority of Rotan                                          TX
-5068            Round Rock Housing Authority                                        TX
-5069            Housing Authority of Royse City                                     TX
-5070            Runge Housing Authority                                             TX
-5071            Rusk Housing Authority                                              TX
-5072            San Angelo Housing Authority                                        TX
-5073            San Antonio Housing Authority                                       TX
-5074            Housing Authority of San Augustine                                  TX
-5075            San Benito Housing Authority                                        TX
-5076            San Juan Housing Authority                                          TX
-5077            San Marcos Housing Authority                                        TX
-5078            Housing Authority of the City of San Saba                           TX
-5079            Housing Authority of Santa Anna                                     TX
-5080            Housing Authority of Savoy                                          TX
-5081            Schertz Housing Authority                                           TX
-5082            Schulenburg Housing Authority                                       TX
-5083            Housing Authority of Seagraves                                      TX
-5084            Seguin Housing Authority                                            TX
-5085            Housing Authority of Seymour                                        TX
-5086            Sherman Housing Authority                                           TX
-5087            Sinton Housing Authority                                            TX
-5088            Housing Authority of Slaton                                         TX
-5089            Smiley Housing Authority                                            TX
-5090            Smithville Housing Authority                                        TX
-5091            South Plains Regional Housing Authority                             TX
-5092            Housing Authority of Spearman                                       TX
-5093            Housing Authority of Spur                                           TX
-5094            Housing Authority of Stamford                                       TX
-5095            Housing Authority of Stanton                                        TX
-5096            Starr County Housing Authority                                      TX
-5097            Stockdale Housing Authority                                         TX
-5098            Housing Authority of Strawn                                         TX
-5099            Housing Authority of Sweetwater                                     TX
-5100            Taft Housing Authority                                              TX
-5101            Tahoka Housing Authority                                            TX
-5102            Housing Authority of Talco                                          TX
-5103            Tarrant County Housing Assistance Office                            TX
-5104            Tatum Housing Authority                                             TX
-5105            Taylor Housing Authority                                            TX
-5106            Housing Authority of Teague                                         TX
-5107            Temple Housing Authority                                            TX
-5108            Housing Authority of Tenaha                                         TX
-5109            Terrell Housing Department                                          TX
-5110            Housing Authority of Texarkana                                      TX
-5111            Texas City Housing Authority                                        TX
-5112            Texas Department of Housing and Community Affairs                   TX
-5113            Texoma Council of Governments                                       TX
-5114            Housing Authority of the County of Hidalgo                          TX
-5115            Housing Authority of Thorndale                                      TX
-5116            Three Rivers Housing Authority                                      TX
-5117            Housing Authority of Throckmorton                                   TX
-5118            Housing Authority of Timpson                                        TX
-5119            Housing Authority of Tioga                                          TX
-5120            Housing Authority of Tom Bean                                       TX
-5121            Housing Authority of Travis County                                  TX
-5122            Housing Authority of Trenton                                        TX
-5123            Trinidad Housing Authority                                          TX
-5124            Housing Authority of Tulia                                          TX
-5125            City of Tyler Housing Agency                                        TX
-5126            Uvalde Housing Authority                                            TX
-5127            Housing Authority of Van                                            TX
-5128            Housing Authority of Van Alstyne                                    TX
-5129            Housing Authority of Van Horn                                       TX
-5130            Housing Authority of Vernon                                         TX
-5131            Victoria Housing Authority                                          TX
-5132            Waco Housing Authority and Affiliates                               TX
-5133            Waelder Housing Authority                                           TX
-5134            Walker County Housing Authority                                     TX
-5135            Waxahachie Housing Authority                                        TX
-5136            Weatherford Housing Authority                                       TX
-5137            Housing Authority of Wellington                                     TX
-5138            Weslaco Housing Authority                                           TX
-5139            Housing Authority of Whitesboro                                     TX
-5140            Housing Authority of Whitewright                                    TX
-5141            Housing Authority of Whitney                                        TX
-5142            Housing Authority of Wichita Falls                                  TX
-5143            Wichita Falls Housing Assistance Program                            TX
-5144            Willacy County Housing Authority                                    TX
-5145            Housing Authority of Wills Point                                    TX
-5146            Housing Authority of Windom                                         TX
-5147            Housing Authority of Wink                                           TX
-5148            Housing Authority of Winnsboro                                      TX
-5149            Housing Authority of the City of Winters                            TX
-5150            Housing Authority of Wolfe City                                     TX
-5151            Housing Authority of the City of Woodville                          TX
-5152            Housing Authority of Wortham                                        TX
-5153            Yoakum Housing Authority                                            TX
-5154            Yorktown Housing Authority                                          TX
-5155            Bear River Regional Housing Authority                               UT
-5156            Beaver Housing Authority                                            UT
-5157            Housing Authority of Carbon County                                  UT
-5158            Cedar City Housing Authority                                        UT
-5159            Davis Community Housing Authority                                   UT
-5160            Emery County Housing Authority                                      UT
-5161            Logan City Housing Authority                                        UT
-5162            Myton City Housing Authority                                        UT
-5163            Ogden Housing Authority                                             UT
-5164            Provo City Housing Authority                                        UT
-5165            Roosevelt City Housing Authority                                    UT
-5166            Housing Authority of Salt Lake City                                 UT
-5167            Housing Authority of Southeastern Utah                              UT
-5168            St. George Housing Authority                                        UT
-5169            Tooele County Housing Authority                                     UT
-5170            Housing Authority of Utah County                                    UT
-5171            Weber Housing Authority                                             UT
-5172            West Valley City Housing Authority                                  UT
-5173            Barre Housing Authority                                             VT
-5174            Bennington Housing Authority                                        VT
-5175            Brattleboro Housing Authority                                       VT
-5176            Burlington Housing Authority                                        VT
-5177            Montpelier Housing Authority                                        VT
-5178            Rutland Housing Authority                                           VT
-5179            Springfield Housing Authority                                       VT
-5180            Vermont State Housing Authority                                     VT
-5181            Winooski Housing Authority                                          VT
-5182            Virgin Islands Housing Authority                                    VI
-5183            Abingdon Redevelopment And Housing Authority                        VA
-5184            Accomack-Northampton Regional Housing Authority                     VA
-5185            Albemarle County Office of Housing                                  VA
-5186            Alexandria Redevelopment and Housing Authority                      VA
-5187            Arlington County Dept of Human Services                             VA
-5188            Big Stone Gap Redevelopment And Housing Authority                   VA
-5189            Bristol Redevelopment and Housing Authority                         VA
-5190            Central Virginia Housing Coalition                                  VA
-5191            Charlottesville Redevelopment and Housing Authority                 VA
-5192            Chesapeake Redevelopment and Housing Authority                      VA
-5193            City of Manassas Housing Office                                     VA
-5194            Clinch Valley Community Action                                      VA
-5195            Covington Redevelopment and Housing Authority                       VA
-5196            Cumberland Plateau Regional Housing Authority                       VA
-5197            Danville Redevelopment and Housing Authority                        VA
-5198            Fairfax County Redevelopment and Housing Authority                  VA
-5199            Fluvanna-Louisa County Housing Foundation                           VA
-5200            Franklin Redevelopment And Housing Authority                        VA
-5201            Hampton Redevelopment and Housing Authority                         VA
-5202            Hanover Community Services Board                                    VA
-5203            Harrisonburg Redevelopment and Housing Authority                    VA
-5204            Henrico Area Mental Health and Developmental Services               VA
-5205            Hopewell Redevelopment and Housing Authority                        VA
-5206            James City County Office of Housing                                 VA
-5207            Lee County Redevelopment and Housing Authority                      VA
-5208            Loudoun County Department of Housing and Community Development      VA
-5209            Lynchburg Redevelopment and Housing Authority                       VA
-5210            Marion Redevelopment and Housing Authority                          VA
-5211            Nelson County Community Development Foundation                      VA
-5212            Newport News Redevelopment and Housing Authority                    VA
-5213            Norfolk Redevelopment and Housing Authority                         VA
-5214            Norton Redevelopment and Housing Authority                          VA
-5215            Petersburg Redevelopment and Housing Authority                      VA
-5216            Piedmont Housing Alliance                                           VA
-5217            Portsmouth Redevelopment and Housing Authority                      VA
-5218            Prince William County Office of Housing and Community Development   VA
-5219            Radford City Rental Assistance Office                               VA
-5220            Rappahannock Rapidan Community Services                             VA
-5221            Richmond Redevelopment and Housing Authority                        VA
-5222            Roanoke Redevelopment and Housing Authority                         VA
-5223            Rockbridge Area Rental Assistance Office                            VA
-5224            Rooftop of Virginia Community Action Program                        VA
-5225            Scott County Redevelopment and Housing Authority                    VA
-5226            Shenandoah County Department of Social Services                     VA
-5227            Staunton Redevelopment and Housing Authority                        VA
-5228            Suffolk Redevelopment and Housing Authority                         VA
-5229            Sussex County Housing Office                                        VA
-5230            Waynesboro Redevelopment and Housing Authority                      VA
-5231            Williamsburg Redevelopment and Housing Authority                    VA
-5232            Wise County Redevelopment and Housing Authority                     VA
-5233            Wytheville Redev. and Housing Authority                             VA
-5234            York County Housing Office                                          VA
-5235            Housing Authority of Asotin County                                  WA
-5236            Bellingham Housing Authority                                        WA
-5237            Bremerton Housing Authority                                         WA
-5238            Housing Authority of Chelan County and the City of Wenatchee        WA
-5239            Community Action Center Whitman                                     WA
-5240            Everett Housing Authority                                           WA
-5241            Ferry County Joint Housing Authority                                WA
-5242            Housing Authority of Grant County                                   WA
-5243            Grays Harbor Housing Authority                                      WA
-5244            Island County Housing Authority                                     WA
-5245            Joint Pacific County Housing Authority                              WA
-5246            Kalama Housing Authority                                            WA
-5247            Kelso Housing Authority                                             WA
-5248            Kennewick Housing Authority                                         WA
-5249            King County Housing Authority                                       WA
-5250            Housing Kitsap                                                      WA
-5251            Kittitas County Housing Authority                                   WA
-5252            Housing Authority of Okanogan County                                WA
-5253            Housing Authority of City of Othello                                WA
-5254            Housing Authority of the City of Pasco and Franklin County          WA
-5255            Peninsula Housing Authority                                         WA
-5256            Pierce County Housing Authority                                     WA
-5257            Renton Housing Authority                                            WA
-5258            Housing Authority of City of Richland                               WA
-5259            Rural Resources Community Action                                    WA
-5260            Seattle Housing Authority                                           WA
-5261            Housing Authority of City of Sedro Woolley                          WA
-5262            Housing Authority of Skagit County                                  WA
-5263            Housing Authority of Snohomish County                               WA
-5264            Housing Opportunities of South West Washington                      WA
-5265            Spokane Housing Authority                                           WA
-5266            Housing Authority of City of Sunnyside                              WA
-5267            Tacoma Housing Authority                                            WA
-5268            Housing Authority of Thurston County                                WA
-5269            Vancouver Housing Authority                                         WA
-5270            Housing Authority of City of Walla Walla                            WA
-5271            Whatcom County Housing Authority                                    WA
-5272            Yakima Housing Authority                                            WA
-5273            Housing Authority of Benwood And McMechen                           WV
-5274            Bluefield Housing Authority                                         WV
-5275            Housing Authority of Boone County                                   WV
-5276            Housing Authority of Mingo County                                   WV
-5277            Housing Authority of Raleigh County                                 WV
-5278            Housing Authority of the City of Beckley                            WV
-5279            Housing Authority of the City of Buckhannon                         WV
-5280            Charleston-Kanawha Housing Authority                                WV
-5281            Clarksburg-Harrison Regional Housing Authority                      WV
-5282            Housing Authority of the City of Dunbar                             WV
-5283            Housing Authority of the City of Elkins                             WV
-5284            Fairmont-Morgantown Housing Authority                               WV
-5285            Housing Authority of the City of Grafton                            WV
-5286            Grant County Housing Authority                                      WV
-5287            Greenbrier County Housing Authority                                 WV
-5288            Huntington Housing Authority                                        WV
-5289            Housing Authority of the County of Jackson                          WV
-5290            Housing Authority of the City of Keyser                             WV
-5291            Housing Authority of the City of Martinsburg                        WV
-5292            Housing Authority of the City of Moundsville                        WV
-5293            Housing Authority of the City of Mount Hope                         WV
-5294            Parkersburg Housing Authority                                       WV
-5295            Housing Authority of the City of Piedmont                           WV
-5296            Housing Authority of the City of Point Pleasant                     WV
-5297            Randolph County Housing Authority                                   WV
-5298            Housing Authority of the City of Romney                             WV
-5299            Housing Authority of the City of South Charleston                   WV
-5300            Housing Authority of the City of Spencer                            WV
-5301            Housing Authority of the City of St. Albans                         WV
-5302            Housing Authority of the City of Weirton                            WV
-5303            Housing Authority of the City of Weston                             WV
-5304            Wheeling Housing Authority                                          WV
-5305            Housing Authority of the City of Williamson                         WV
-5306            Abbotsford Housing Authority                                        WI
-5307            Albany Housing Authority                                            WI
-5308            Algoma Housing Authority                                            WI
-5309            Altoona Housing Authority                                           WI
-5310            Amery Housing Authority                                             WI
-5311            Antigo Housing Authority                                            WI
-5312            Appleton Housing Authority                                          WI
-5313            Ashland County Housing Authority                                    WI
-5314            Ashland Housing Authority                                           WI
-5315            Baraboo Community Development Authority                             WI
-5316            Housing Authority of the City of Barron                             WI
-5317            Beloit Housing Authority                                            WI
-5318            Boscobel Housing Authority                                          WI
-5319            Brillion Housing Authority                                          WI
-5320            Brown County Housing Authority                                      WI
-5321            Bruce Housing Authority                                             WI
-5322            Burnett County Housing Authority                                    WI
-5323            Chetek Housing Authority                                            WI
-5324            Chilton Housing Authority                                           WI
-5325            Chippewa County Housing Authority                                   WI
-5326            Clintonville Housing Authority                                      WI
-5327            Crawford County Housing Authority                                   WI
-5328            Housing Authority of Cumberland                                     WI
-5329            Dane County Housing Authority                                       WI
-5330            Deforest Housing Authority                                          WI
-5331            Depere Housing Authority                                            WI
-5332            Dodge County Housing Authority                                      WI
-5333            Dodgeville Housing Authority                                        WI
-5334            Door County Housing Authority                                       WI
-5335            Dunn County Housing Authority                                       WI
-5336            Eau Claire County Housing Authority                                 WI
-5337            Eau Claire Housing Authority                                        WI
-5338            City of Edgerton Housing Authority                                  WI
-5339            Evansville Housing Authority                                        WI
-5340            Fond Du Lac County Housing Authority                                WI
-5341            Fond du Lac Housing Authority                                       WI
-5342            Frederic Housing Authority                                          WI
-5343            Grantsburg Housing Authority                                        WI
-5344            Green Bay Housing Authority                                         WI
-5345            Greenwood Housing Authority                                         WI
-5346            Hudson Housing Authority                                            WI
-5347            Hurley Housing Authority                                            WI
-5348            Janesville Neighborhood and Community Services                      WI
-5349            Jefferson Housing Authority                                         WI
-5350            Kaukauna Housing Authority                                          WI
-5351            Kenosha Housing Authority                                           WI
-5352            La Crosse County Housing Authority                                  WI
-5353            La Crosse Housing Authority                                         WI
-5354            Ladysmith Housing Authority                                         WI
-5355            Lafayette County Housing Authority                                  WI
-5356            Lake Mills Housing Authority                                        WI
-5357            Lincoln County Housing Authority                                    WI
-5358            Luck Housing Authority                                              WI
-5359            Community Development Authority of the City of Madison              WI
-5360            Manitowoc Housing Authority                                         WI
-5361            Marinette County Housing Authority                                  WI
-5362            Marinette Housing Authority                                         WI
-5363            Marshfield Community Development Authority                          WI
-5364            City of Mauston Housing Authority                                   WI
-5365            Menomonie Housing Authority                                         WI
-5366            Merrill Housing Authority                                           WI
-5367            Housing Authority of the City of Milwaukee                          WI
-5368            Milwaukee County Housing Division                                   WI
-5369            Mondovi Housing Authority                                           WI
-5370            Monroe County Housing Authority                                     WI
-5371            Monroe Housing Authority                                            WI
-5372            New Berlin Housing Authority                                        WI
-5373            New London Housing Authority                                        WI
-5374            Housing Authority of the City of New Richmond                       WI
-5375            Oconto County Housing Authority                                     WI
-5376            Oconto Housing Authority                                            WI
-5377            Osceola Housing Authority                                           WI
-5378            Oshkosh Housing Authority                                           WI
-5379            Park Falls Housing Authority                                        WI
-5380            Peshtigo Housing Authority                                          WI
-5381            Platteville Housing Authority                                       WI
-5382            Plymouth Housing Authority                                          WI
-5383            Portage County Housing Authority                                    WI
-5384            Prairie du Chien Housing Authority                                  WI
-5385            Pulaski Housing Authority                                           WI
-5386            Racine County Housing Authority                                     WI
-5387            Reedsville Housing Authority                                        WI
-5388            Rhinelander Housing Authority                                       WI
-5389            Rice Lake Housing Authority                                         WI
-5390            Richland Center Housing Authority                                   WI
-5391            Richland County Housing Authority                                   WI
-5392            River Falls Housing Authority                                       WI
-5393            Sauk City Housing Authority                                         WI
-5394            Sauk County Housing Authority                                       WI
-5395            Sawyer County Housing Authority                                     WI
-5396            Shawano City Housing Authority                                      WI
-5397            Shawano County Housing Authority                                    WI
-5398            Sheboygan Housing Authority                                         WI
-5399            Housing Authority of the City of Shell Lake                         WI
-5400            Slinger Housing Authority                                           WI
-5401            South Milwaukee Community Development Authority                     WI
-5402            Sparta Housing Authority                                            WI
-5403            Spooner Housing Authority                                           WI
-5404            Stanley Housing Authority                                           WI
-5405            Stevens Point Housing Authority                                     WI
-5406            Superior Housing Authority                                          WI
-5407            Taylor County Housing Authority                                     WI
-5408            Thorp Housing Authority                                             WI
-5409            Tomah Public Housing Authority                                      WI
-5410            Housing Authority of Trempealeau County                             WI
-5411            Viroqua Housing Authority                                           WI
-5412            Walworth County Housing Authority                                   WI
-5413            City of Washburn and County of Bayfield Housing Authority           WI
-5414            Watertown Housing Authority                                         WI
+4572            Jamestown Housing Authority                                         RI
+4573            Johnston Housing Authority                                          RI
+4574            Kent County Mental Health Center                                    RI
+4575            Lincoln Housing Authority                                           RI
+4576            Narragansett Housing Authority                                      RI
+4577            Neighborhood Foundations                                            RI
+4578            Housing Authority of the City of Newport                            RI
+4579            North Providence Housing Authority                                  RI
+4580            Pawtucket Housing Authority                                         RI
+4581            Portsmouth Housing Authority                                        RI
+4582            Providence Housing Authority                                        RI
+4583            Rhode Island Housing                                                RI
+4584            Smithfield Housing Authority                                        RI
+4585            South Kingstown Housing Authority                                   RI
+4586            Tiverton Housing Authority                                          RI
+4587            Warren Housing Authority                                            RI
+4588            Warwick Housing Authority                                           RI
+4589            West Warwick Housing Authority                                      RI
+4590            Westerly Housing Authority                                          RI
+4591            Woonsocket Housing Authority                                        RI
+4592            Housing Authority of Abbeville                                      SC
+4593            Anderson Housing Authority                                          SC
+4594            Housing Authority of Atlantic Beach                                 SC
+4595            Beaufort Housing Authority                                          SC
+4596            Housing Authority of Bennettsville                                  SC
+4597            Cayce Housing Authority                                             SC
+4598            Charleston County Housing and Redevelopment Authority               SC
+4599            Housing Authority of Cheraw                                         SC
+4600            Chester Housing Authority                                           SC
+4601            City of Aiken Housing Authority                                     SC
+4602            Columbia Housing                                                    SC
+4603            Housing Authority of Conway                                         SC
+4604            Housing Authority of Darlington                                     SC
+4605            Housing Authority of Easley                                         SC
+4606            Housing Authority of Florence                                       SC
+4607            Housing Authority of Fort Mill                                      SC
+4608            Gaffney Housing Authority                                           SC
+4609            Georgetown Housing Authority                                        SC
+4610            Greenville Housing Authority                                        SC
+4611            Housing Authority of Greenwood                                      SC
+4612            Housing Authority of Greer                                          SC
+4613            Housing Authority of Hartsville                                     SC
+4614            Housing Authority of Kingstree                                      SC
+4615            Lake City Housing Authority                                         SC
+4616            Housing Authority of Lancaster                                      SC
+4617            Laurens City Housing Authority                                      SC
+4618            Housing Authority of Marion                                         SC
+4619            Housing and Community Redevelopment Authority of Marlboro County    SC
+4620            Housing Authority of McColl                                         SC
+4621            Housing Authority of Mullins                                        SC
+4622            Housing Authority of Myrtle Beach                                   SC
+4623            Housing Authority of Newberry                                       SC
+4624            North Charleston Housing Authority                                  SC
+4625            Rock Hill Housing Authority                                         SC
+4626            South Carolina Regional Housing Authority No. 1                     SC
+4627            South Carolina Regional Housing Authority No. 3                     SC
+4628            South Carolina State Housing Finance and Development Authority      SC
+4629            Spartanburg Housing Authority                                       SC
+4630            Sumter Housing Authority                                            SC
+4631            Housing Authority of the City of Charleston                         SC
+4632            Housing Authority of Union                                          SC
+4633            Housing Authority of Woodruff                                       SC
+4634            Housing Authority of York                                           SC
+4635            Aberdeen Housing Authority                                          SD
+4636            Brookings Housing and Redevelopment Commission                      SD
+4637            Burke Housing And Redevelopment Commission                          SD
+4638            Butte County Housing Authority                                      SD
+4639            Canton Housing and Redevopment Commission                           SD
+4640            City of Mitchell Housing and Redevolpment Commission                SD
+4641            De Smet Housing and Redevelopment Commission                        SD
+4642            Hot Springs Housing And Redevelopment Commission                    SD
+4643            Howard Housing And Redevelopment Commission                         SD
+4644            Huron Housing Authority                                             SD
+4645            Kennebec Housing and Redevelopment Commission                       SD
+4646            Lake Andes Housing And Redevelopment Commission                     SD
+4647            Lake Norden Housing And Redevelopment Commission                    SD
+4648            Lawrence County Housing and Redevelopment Commission                SD
+4649            Lemmon Housing and Redevelopment Commission                         SD
+4650            Lennox Housing and Redevelopment Commission                         SD
+4651            Madison Housing And Redevelopment Commission                        SD
+4652            Martin Housing and Redevelopment Commission                         SD
+4653            Meade County Housing and Redevelopment Commission                   SD
+4654            Milbank Housing and Redevelopment Commission                        SD
+4655            Miller Housing and Redevelopment Commision                          SD
+4656            Mobridge Housing and Redevlopment Commission                        SD
+4657            Murdo Housing And Redevelopment Commission                          SD
+4658            Parker Housing and Redevelopment Commission                         SD
+4659            Pennington County Housing and Redevelopment Commission              SD
+4660            Pierre Housing and Redevelopment Commision                          SD
+4661            Redfield Housing And Redevelopment Commission                       SD
+4662            Sioux Falls Housing and Redevelopment Commission                    SD
+4663            Sisseton Housing and Redevelopment Commission                       SD
+4664            Vermillion Housing And Redevelopment Commission                     SD
+4665            Volga Housing And Redevelopment Commission                          SD
+4666            Watertown Housing and Redevelopment Commission                      SD
+4667            Webster Housing And Redevelopment Commision                         SD
+4668            Wessington Springs Housing And Redevelopment Commission             SD
+4669            Yankton Housing and Redevelopment Commission                        SD
+4670            Athens Housing Authority                                            TN
+4671            Bolivar Housing Authority                                           TN
+4672            Bristol Housing                                                     TN
+4673            Brownsville Housing Authority                                       TN
+4674            Chattanooga Housing Authority                                       TN
+4675            Clarksville Housing Authority                                       TN
+4676            Cleveland Housing Authority                                         TN
+4677            Clinton Housing Authority                                           TN
+4678            Columbia Housing and Redevelopment Corporation                      TN
+4679            Cookeville Housing Authority                                        TN
+4680            Covington Housing Authority                                         TN
+4681            Crossville Housing Authority                                        TN
+4682            Dayton Housing Authority                                            TN
+4683            Dickson Housing Authority                                           TN
+4684            Dyersburg Housing Authority                                         TN
+4685            East Tennessee Human Resource Agency                                TN
+4686            Elizabethton Housing and Development Agency                         TN
+4687            Erin Housing Authority                                              TN
+4688            Erwin Housing Authority                                             TN
+4689            Etowah Housing Authority                                            TN
+4690            Fayetteville Housing Authority                                      TN
+4691            Franklin Housing Authority                                          TN
+4692            Gallatin Housing Authority                                          TN
+4693            Gallaway Housing Authority                                          TN
+4694            Greeneville Housing Authority                                       TN
+4695            Grundy Housing Authority                                            TN
+4696            Harriman Housing Authority                                          TN
+4697            Hartsville Housing Authority                                        TN
+4698            Hohenwald Housing Authority                                         TN
+4699            Humboldt Housing Authority                                          TN
+4700            Huntingdon Housing Authority                                        TN
+4701            Jackson Housing Authority                                           TN
+4702            Jefferson City Housing Authority                                    TN
+4703            Jellico Housing Authority                                           TN
+4704            Johnson City Housing Authority                                      TN
+4705            Kingsport Housing And Redevelopment Authority                       TN
+4706            Knoxville Community Development Corporation                         TN
+4707            LaFollette Housing Authority                                        TN
+4708            Lawrenceburg Housing Authority                                      TN
+4709            Lebanon Housing Authority                                           TN
+4710            Lenoir City Housing Authority                                       TN
+4711            Lewisburg Housing Authority                                         TN
+4712            Lexington Housing Authority                                         TN
+4713            Loudon Housing Authority                                            TN
+4714            Manchester Housing Authority                                        TN
+4715            Martin Housing Authority                                            TN
+4716            Maryville Housing Authority                                         TN
+4717            McKenzie Housing Authority                                          TN
+4718            McMinnville Housing Authority                                       TN
+4719            Memphis Housing Authority                                           TN
+4720            Metropolitan Development and Housing Agency                         TN
+4721            Milan Housing Authority                                             TN
+4722            Millington Housing Authority                                        TN
+4723            Morristown Housing Authority                                        TN
+4724            Mt. Pleasant Housing Authority                                      TN
+4725            Murfreesboro Housing Authority                                      TN
+4726            Newbern Housing Authority                                           TN
+4727            Newport Housing Authority                                           TN
+4728            Oak Ridge Housing Authority                                         TN
+4729            Oliver Springs Housing Authority                                    TN
+4730            Paris Housing Authority                                             TN
+4731            Parsons-Decaturville Housing Authority                              TN
+4732            Portland Housing Authority                                          TN
+4733            Pulaski Housing Authority                                           TN
+4734            Ripley Housing Authority                                            TN
+4735            Rockwood Housing Authority                                          TN
+4736            Rogersville Housing Authority                                       TN
+4737            Savannah Housing Authority                                          TN
+4738            Sevierville Housing Authority                                       TN
+4739            Shelby County Housing Authority                                     TN
+4740            Shelbyville Housing Authority                                       TN
+4741            Smithville Housing Authority                                        TN
+4742            South Carthage Housing Authority                                    TN
+4743            South Pittsburg Housing Authority                                   TN
+4744            Sparta Housing Authority                                            TN
+4745            Springfield Housing Authority                                       TN
+4746            Sweetwater Housing Authority                                        TN
+4747            Trenton Housing Authority                                           TN
+4748            Tullahoma Housing Authority                                         TN
+4749            Union City Housing Authority                                        TN
+4750            Waverly Housing Authority                                           TN
+4751            Woodbury Housing Authority                                          TN
+4752            Abilene Housing Authority                                           TX
+4753            Alamo Area Council of Governments                                   TX
+4754            Alamo Housing Authority                                             TX
+4755            Housing Authority of Alba                                           TX
+4756            Alice Housing Authority                                             TX
+4757            Housing Authority City of Alpine                                    TX
+4758            Alto Housing Authority                                              TX
+4759            City of Amarillo Community Development Department                   TX
+4760            Anderson County Housing Authority                                   TX
+4761            Housing Authority of Anson                                          TX
+4762            Housing Authority of Anthony                                        TX
+4763            Aransas Pass Housing Authority                                      TX
+4764            Housing Authority of Archer City                                    TX
+4765            Ark-Tex Council of Governments                                      TX
+4766            Arlington Housing Authority                                         TX
+4767            Aspermont Housing Authority                                         TX
+4768            Athens Housing Authority                                            TX
+4769            Housing Authority of Atlanta                                        TX
+4770            Housing Authority of the City of Austin                             TX
+4771            Housing Authority of Avery                                          TX
+4772            Housing Authority of Avinger                                        TX
+4773            Housing Authority of Baird                                          TX
+4774            Balch Springs Housing Authority                                     TX
+4775            Housing Authority of Ballinger                                      TX
+4776            Housing Authority of Balmorhea                                      TX
+4777            Housing Authority of Bangs                                          TX
+4778            Housing Authority of Bartlett                                       TX
+4779            Bastrop Housing Authority                                           TX
+4780            Housing Authority of the City of Bay City                           TX
+4781            Baytown Housing Authority                                           TX
+4782            Beaumont Housing Authority                                          TX
+4783            Beckville Housing Authority                                         TX
+4784            Beeville Housing Authority                                          TX
+4785            Housing Authority of Bells                                          TX
+4786            Housing Authority of the City of Bellville                          TX
+4787            Housing Authority of Belton                                         TX
+4788            Housing Authority of Bexar County                                   TX
+4789            Housing Authority of Big Sandy                                      TX
+4790            Big Spring Housing Authority                                        TX
+4791            Housing Authority of Blooming Grove                                 TX
+4792            Housing Authority of Blossom                                        TX
+4793            Boerne Housing Authority                                            TX
+4794            Housing Authority of Bogata                                         TX
+4795            Housing Authority of Bonham                                         TX
+4796            Housing Authority of Borger                                         TX
+4797            Bowie County Housing Authority                                      TX
+4798            Brackettville Housing Authority                                     TX
+4799            Housing Authority of Brady                                          TX
+4800            Brazoria County Housing Authority                                   TX
+4801            Brazos Valley Council of Governments                                TX
+4802            Housing Authority of Breckenridge                                   TX
+4803            Housing Authority of the City of Bremond                            TX
+4804            Brenham Housing Authority                                           TX
+4805            Housing Authority of Bridgeport                                     TX
+4806            Housing Authority of Bronte                                         TX
+4807            Housing Authority of the City of Brownsville                        TX
+4808            Housing Authority of the City of Brownwood                          TX
+4809            Housing Authority of the City of Bryan                              TX
+4810            Housing Authority of Bryson                                         TX
+4811            Housing Authority of the City of Buffalo                            TX
+4812            Housing Authority of Burkburnett                                    TX
+4813            Burkburnett Housing Assistance Program                              TX
+4814            Burnet Housing Authority                                            TX
+4815            Housing Authority of Caddo Mills                                    TX
+4816            Housing Authority of the City of Caldwell                           TX
+4817            Housing Authority of the City of Calvert                            TX
+4818            Housing Authority of Cameron                                        TX
+4819            Cameron County Housing Authority                                    TX
+4820            Housing Authority of Canyon                                         TX
+4821            Carrizo Springs Housing Authority                                   TX
+4822            Housing Authority of Celeste                                        TX
+4823            Housing Authority of Center                                         TX
+4824            Centerville Housing Authority                                       TX
+4825            Central Texas Council of Governments                                TX
+4826            Housing Authority of Childress                                      TX
+4827            Housing Authority of Cisco                                          TX
+4828            Housing Authority of the City of Clarksville                        TX
+4829            Cleburne Housing Agency                                             TX
+4830            Housing Authority of Cleveland                                      TX
+4831            Housing Authority of Clifton                                        TX
+4832            Housing Authority of Coleman                                        TX
+4833            Housing Authority of Colorado City                                  TX
+4834            Housing Authority of Comanche                                       TX
+4835            Commerce Housing Authority                                          TX
+4836            Housing Authority of Como                                           TX
+4837            Housing Authority of Coolidge                                       TX
+4838            Housing Authority of Cooper                                         TX
+4839            Housing Authority of Copperas Cove                                  TX
+4840            Corpus Christi Housing Authority                                    TX
+4841            Housing Authority of Corrigan                                       TX
+4842            Corsicana Housing Authority                                         TX
+4843            Cotulla Housing Authority                                           TX
+4844            Crockett Housing Authority                                          TX
+4845            Housing Authority of Crosbyton                                      TX
+4846            Housing Authority of Cross Plains                                   TX
+4847            Housing Authority of the City of Crowell                            TX
+4848            Crystal City Housing Authority                                      TX
+4849            Cuero Housing Authority                                             TX
+4850            Housing Authority of Cumby                                          TX
+4851            Housing Authority of Daingerfield                                   TX
+4852            Dallas County Housing Agency                                        TX
+4853            Dallas Housing Authority                                            TX
+4854            Housing Authority of Dawson                                         TX
+4855            Housing Authority of the City of Dayton                             TX
+4856            Housing Authority of De Kalb                                        TX
+4857            Housing Authority of Decatur                                        TX
+4858            Deep East Texas Regional Housing Authority                          TX
+4859            Del Rio Housing Authority                                           TX
+4860            Housing Authority of Deleon                                         TX
+4861            Housing Authority of Denison                                        TX
+4862            Denton Housing Authority                                            TX
+4863            Housing Authority of Deport                                         TX
+4864            Housing Authority of Detroit                                        TX
+4865            Devine Housing Authority                                            TX
+4866            Housing Authority of Diboll                                         TX
+4867            Dilley Housing Authority                                            TX
+4868            Donna Housing Authority                                             TX
+4869            Housing Authority of Dublin                                         TX
+4870            Duval County Housing Authority                                      TX
+4871            Eagle Pass Housing Authority                                        TX
+4872            Housing Authority of Ector                                          TX
+4873            Edcouch Housing Authority                                           TX
+4874            Housing Authority of Eden                                           TX
+4875            Housing Authority of Edgewood                                       TX
+4876            Edinburg Housing Authority                                          TX
+4877            Edna Housing Authority                                              TX
+4878            Housing Authority of the City of El Campo                           TX
+4879            Housing Authority of the City of El Paso                            TX
+4880            El Paso County Housing Authority                                    TX
+4881            Housing Authority of Eldorado                                       TX
+4882            Electra Housing Authority                                           TX
+4883            Elgin Housing Authority                                             TX
+4884            Elsa Housing Authority                                              TX
+4885            Housing Authority of Ennis                                          TX
+4886            Falfurrias Housing Authority                                        TX
+4887            Falls City Housing Authority                                        TX
+4888            Housing Authority of Farmersville                                   TX
+4889            Housing Authority of Ferris                                         TX
+4890            Flatonia Housing Authority                                          TX
+4891            Floresville Housing Authority                                       TX
+4892            Floydada Housing Authority                                          TX
+4893            Fort Stockton Housing Authority                                     TX
+4894            Fort Worth Housing Solutions                                        TX
+4895            Housing Authority of the City of Franklin                           TX
+4896            Housing Authority of the City of Frisco                             TX
+4897            Housing Authority of Fruitvale                                      TX
+4898            Gainesville Housing Authority                                       TX
+4899            Galveston Housing Authority                                         TX
+4900            Garland Housing Agency                                              TX
+4901            Housing Authority of Garrison                                       TX
+4902            Housing Authority of Gatesville                                     TX
+4903            Georgetown Housing Authority                                        TX
+4904            Housing Authority of Gilmer                                         TX
+4905            Housing Authority of the City of Gladewater                         TX
+4906            Housing Authority of Goldthwaite                                    TX
+4907            Goliad Housing Authority                                            TX
+4908            Gonzales Housing Authority                                          TX
+4909            Housing Authority of Gorman                                         TX
+4910            Housing Authority of Granbury                                       TX
+4911            Grand Prairie Housing and Neighborhood Services                     TX
+4912            Housing Authority of Grand Saline                                   TX
+4913            Housing Authority of Grandfalls                                     TX
+4914            Grandview Housing Authority                                         TX
+4915            Granger Housing Authority                                           TX
+4916            Housing Authority of Grapeland                                      TX
+4917            Grapevine Housing Authority                                         TX
+4918            Housing Authority of Grayson County                                 TX
+4919            Greenville Housing Authority                                        TX
+4920            Gregory Housing Authority                                           TX
+4921            Housing Authority of Groesbeck                                      TX
+4922            Housing Authority of the City of Groveton                           TX
+4923            Housing Authority of Gunter                                         TX
+4924            Housing Authority of Hale Center                                    TX
+4925            Hale County Housing Authority                                       TX
+4926            Hallettsville Housing Authority                                     TX
+4927            Haltom City Housing Authority                                       TX
+4928            Housing Authority of Hamilton                                       TX
+4929            Housing Authority of Hamlin                                         TX
+4930            Harlingen Housing Authority                                         TX
+4931            Harris County Housing Authority                                     TX
+4932            Harris County-Other Dhap Only                                       TX
+4933            Housing Authority of Haskell                                        TX
+4934            Housing Authority of the City of Hearne                             TX
+4935            Housing Authority of Hemphill                                       TX
+4936            Housing Authority of Henderson                                      TX
+4937            Housing Authority of Henrietta                                      TX
+4938            Housing Authority of Hico                                           TX
+4939            Hidalgo Housing Authority                                           TX
+4940            Housing Authority of Honey Grove                                    TX
+4941            Housing Authority the City of Mineral Wells                         TX
+4942            Houston Housing Authority                                           TX
+4943            Housing Authority of Howe                                           TX
+4944            Housing Authority of Hubbard                                        TX
+4945            Hughes Springs Housing Authority                                    TX
+4946            Housing Authority of Huntington                                     TX
+4947            Housing Authority of the City of Huntsville                         TX
+4948            Ingleside Housing Authority                                         TX
+4949            Jacksonville Housing Authority                                      TX
+4950            Housing Authority of Jasper                                         TX
+4951            Housing Authority of Jefferson                                      TX
+4952            Jim Hogg County Housing Authority                                   TX
+4953            Johnson City Housing Authority                                      TX
+4954            Housing Authority of Junction                                       TX
+4955            Housing Authority of Kemp                                           TX
+4956            Kenedy Housing Authority                                            TX
+4957            Housing Authority of Kerens                                         TX
+4958            Kermit Housing Authority                                            TX
+4959            Killeen Housing Authority                                           TX
+4960            Kingsville Housing Authority                                        TX
+4961            Housing Authority of Kirbyville                                     TX
+4962            Housing Authority of the City of Knox City                          TX
+4963            Kyle Housing Authority                                              TX
+4964            La Grange Housing Authority                                         TX
+4965            La Joya Housing Authority                                           TX
+4966            City of La Marque Housing Authority                                 TX
+4967            Housing Authority of Ladonia                                        TX
+4968            Lamesa Housing Authority                                            TX
+4969            Lancaster Housing Authority                                         TX
+4970            Housing Authority of the City of Laredo                             TX
+4971            Housing Authority of City of Leonard                                TX
+4972            Housing Authority of Levelland                                      TX
+4973            Liberty County Housing Authority                                    TX
+4974            Housing Authority of Livingston                                     TX
+4975            Llano Housing Authority                                             TX
+4976            Lockhart Housing Authority                                          TX
+4977            Housing Authority of Lockney                                        TX
+4978            Housing Authority of Lometa                                         TX
+4979            Longview Housing Authority                                          TX
+4980            Housing Authority of Loraine                                        TX
+4981            Los Fresnos Housing Authority                                       TX
+4982            Housing Authority of Lott                                           TX
+4983            Housing Authority of Lubbock                                        TX
+4984            Luling Housing Authority                                            TX
+4985            Housing Authority of Mabank                                         TX
+4986            Housing Authority of the City of Madisonville                       TX
+4987            Housing Authority of Malakoff                                       TX
+4988            Marble Falls Housing Authority                                      TX
+4989            Housing Authority of Marfa                                          TX
+4990            Housing Authority of Marlin                                         TX
+4991            Marshall Housing Authority                                          TX
+4992            Mart Housing Authority                                              TX
+4993            Housing Authority of Mason                                          TX
+4994            Mathis Housing Authority                                            TX
+4995            Housing Authority of Maud                                           TX
+4996            McAllen Housing Authority                                           TX
+4997            Housing Authority of McGregor                                       TX
+4998            McKinney Housing Authority - Public Housing                         TX
+4999            McKinney Housing Authority - Section 8                              TX
+5000            Housing Authority of McLean                                         TX
+5001            Housing Authority of Memphis                                        TX
+5002            Mercedes Housing Authority                                          TX
+5003            Housing Authority of Meridian                                       TX
+5004            Housing Authority of Merkel                                         TX
+5005            Mesquite Housing Division                                           TX
+5006            Mexia Housing Authority                                             TX
+5007            Housing Authority of Midland                                        TX
+5008            Midland County Housing Authority                                    TX
+5009            Housing Authority of the City of Mineola                            TX
+5010            Mission Housing Authority                                           TX
+5011            Housing Authority of the City of Monahans                           TX
+5012            Montgomery County Housing Authority                                 TX
+5013            Housing Authority of City of Moody                                  TX
+5014            Mount Pleasant Housing Authority                                    TX
+5015            Housing Authority of Mount Vernon                                   TX
+5016            Housing Authority of the City of Munday                             TX
+5017            Nacogdoches Housing Authority                                       TX
+5018            Housing Authority of Naples                                         TX
+5019            Housing Authority of City of Navasota                               TX
+5020            New Braunfels Housing Authority                                     TX
+5021            Housing Authority of Newcastle                                      TX
+5022            Housing Authority of Newton                                         TX
+5023            Nixon Housing Authority                                             TX
+5024            Housing Authority of the City of Nocona                             TX
+5025            Housing Authority of O'Donnell                                      TX
+5026            Housing Authority of Odessa                                         TX
+5027            Housing Authority of City of Oglesby                                TX
+5028            Housing Authority of Olney                                          TX
+5029            Housing Authority of Olton                                          TX
+5030            Housing Authority of the City of Orange                             TX
+5031            Housing Authority of Orange County                                  TX
+5032            Housing Authority of Overton                                        TX
+5033            Housing Authority of Paducah                                        TX
+5034            Housing Authority of the City of Palacios                           TX
+5035            Panhandle Community Services                                        TX
+5036            Paris Housing Authority                                             TX
+5037            City of Pasadena Housing Department                                 TX
+5038            Housing Authority of the City of Pearsall                           TX
+5039            Housing Authority of Pecos                                          TX
+5040            Pharr Housing Authority                                             TX
+5041            Housing Authority of Pineland                                       TX
+5042            Housing Authority of Pittsburg                                      TX
+5043            Plano Housing Authority                                             TX
+5044            Pleasanton Housing Authority                                        TX
+5045            Housing Authority of Point                                          TX
+5046            Port Arthur Housing Authority                                       TX
+5047            Port Isabel Housing Authority                                       TX
+5048            Port Lavaca Housing Authority                                       TX
+5049            Housing Authority of Post                                           TX
+5050            Poteet Housing Authority                                            TX
+5051            Housing Authority of Pottsboro                                      TX
+5052            Housing Authority of Princeton                                      TX
+5053            Housing Authority of Quanah                                         TX
+5054            Housing Authority of Ralls                                          TX
+5055            Housing Authority of Ranger                                         TX
+5056            Housing Authority of Rankin                                         TX
+5057            Housing Authority of Robert Lee                                     TX
+5058            Robstown Housing Authority                                          TX
+5059            Housing Authority of Roby                                           TX
+5060            Housing Authority of Rockdale                                       TX
+5061            Housing Authority of Rockwall                                       TX
+5062            Rogers Housing Authority                                            TX
+5063            Roma Housing Authority                                              TX
+5064            Housing Authority of Rosebud                                        TX
+5065            Rosenberg Housing Authority                                         TX
+5066            Housing Authority of Rotan                                          TX
+5067            Round Rock Housing Authority                                        TX
+5068            Housing Authority of Royse City                                     TX
+5069            Runge Housing Authority                                             TX
+5070            Rusk Housing Authority                                              TX
+5071            San Angelo Housing Authority                                        TX
+5072            San Antonio Housing Authority                                       TX
+5073            Housing Authority of San Augustine                                  TX
+5074            San Benito Housing Authority                                        TX
+5075            San Juan Housing Authority                                          TX
+5076            San Marcos Housing Authority                                        TX
+5077            Housing Authority of the City of San Saba                           TX
+5078            Housing Authority of Santa Anna                                     TX
+5079            Housing Authority of Savoy                                          TX
+5080            Schertz Housing Authority                                           TX
+5081            Schulenburg Housing Authority                                       TX
+5082            Housing Authority of Seagraves                                      TX
+5083            Seguin Housing Authority                                            TX
+5084            Housing Authority of Seymour                                        TX
+5085            Sherman Housing Authority                                           TX
+5086            Sinton Housing Authority                                            TX
+5087            Housing Authority of Slaton                                         TX
+5088            Smiley Housing Authority                                            TX
+5089            Smithville Housing Authority                                        TX
+5090            South Plains Regional Housing Authority                             TX
+5091            Housing Authority of Spearman                                       TX
+5092            Housing Authority of Spur                                           TX
+5093            Housing Authority of Stamford                                       TX
+5094            Housing Authority of Stanton                                        TX
+5095            Starr County Housing Authority                                      TX
+5096            Stockdale Housing Authority                                         TX
+5097            Housing Authority of Strawn                                         TX
+5098            Housing Authority of Sweetwater                                     TX
+5099            Taft Housing Authority                                              TX
+5100            Tahoka Housing Authority                                            TX
+5101            Housing Authority of Talco                                          TX
+5102            Tarrant County Housing Assistance Office                            TX
+5103            Tatum Housing Authority                                             TX
+5104            Taylor Housing Authority                                            TX
+5105            Housing Authority of Teague                                         TX
+5106            Temple Housing Authority                                            TX
+5107            Housing Authority of Tenaha                                         TX
+5108            Terrell Housing Department                                          TX
+5109            Housing Authority of Texarkana                                      TX
+5110            Texas City Housing Authority                                        TX
+5111            Texas Department of Housing and Community Affairs                   TX
+5112            Texoma Council of Governments                                       TX
+5113            Housing Authority of the County of Hidalgo                          TX
+5114            Housing Authority of Thorndale                                      TX
+5115            Three Rivers Housing Authority                                      TX
+5116            Housing Authority of Throckmorton                                   TX
+5117            Housing Authority of Timpson                                        TX
+5118            Housing Authority of Tioga                                          TX
+5119            Housing Authority of Tom Bean                                       TX
+5120            Housing Authority of Travis County                                  TX
+5121            Housing Authority of Trenton                                        TX
+5122            Trinidad Housing Authority                                          TX
+5123            Housing Authority of Tulia                                          TX
+5124            City of Tyler Housing Agency                                        TX
+5125            Uvalde Housing Authority                                            TX
+5126            Housing Authority of Van                                            TX
+5127            Housing Authority of Van Alstyne                                    TX
+5128            Housing Authority of Van Horn                                       TX
+5129            Housing Authority of Vernon                                         TX
+5130            Victoria Housing Authority                                          TX
+5131            Waco Housing Authority and Affiliates                               TX
+5132            Waelder Housing Authority                                           TX
+5133            Walker County Housing Authority                                     TX
+5134            Waxahachie Housing Authority                                        TX
+5135            Weatherford Housing Authority                                       TX
+5136            Housing Authority of Wellington                                     TX
+5137            Weslaco Housing Authority                                           TX
+5138            Housing Authority of Whitesboro                                     TX
+5139            Housing Authority of Whitewright                                    TX
+5140            Housing Authority of Whitney                                        TX
+5141            Housing Authority of Wichita Falls                                  TX
+5142            Wichita Falls Housing Assistance Program                            TX
+5143            Willacy County Housing Authority                                    TX
+5144            Housing Authority of Wills Point                                    TX
+5145            Housing Authority of Windom                                         TX
+5146            Housing Authority of Wink                                           TX
+5147            Housing Authority of Winnsboro                                      TX
+5148            Housing Authority of the City of Winters                            TX
+5149            Housing Authority of Wolfe City                                     TX
+5150            Housing Authority of the City of Woodville                          TX
+5151            Housing Authority of Wortham                                        TX
+5152            Yoakum Housing Authority                                            TX
+5153            Yorktown Housing Authority                                          TX
+5154            Bear River Regional Housing Authority                               UT
+5155            Beaver Housing Authority                                            UT
+5156            Housing Authority of Carbon County                                  UT
+5157            Cedar City Housing Authority                                        UT
+5158            Davis Community Housing Authority                                   UT
+5159            Emery County Housing Authority                                      UT
+5160            Logan City Housing Authority                                        UT
+5161            Myton City Housing Authority                                        UT
+5162            Ogden Housing Authority                                             UT
+5163            Provo City Housing Authority                                        UT
+5164            Roosevelt City Housing Authority                                    UT
+5165            Housing Authority of Salt Lake City                                 UT
+5166            Housing Authority of Southeastern Utah                              UT
+5167            St. George Housing Authority                                        UT
+5168            Tooele County Housing Authority                                     UT
+5169            Housing Authority of Utah County                                    UT
+5170            Weber Housing Authority                                             UT
+5171            West Valley City Housing Authority                                  UT
+5172            Barre Housing Authority                                             VT
+5173            Bennington Housing Authority                                        VT
+5174            Brattleboro Housing Authority                                       VT
+5175            Burlington Housing Authority                                        VT
+5176            Montpelier Housing Authority                                        VT
+5177            Rutland Housing Authority                                           VT
+5178            Springfield Housing Authority                                       VT
+5179            Vermont State Housing Authority                                     VT
+5180            Winooski Housing Authority                                          VT
+5181            Virgin Islands Housing Authority                                    VI
+5182            Abingdon Redevelopment And Housing Authority                        VA
+5183            Accomack-Northampton Regional Housing Authority                     VA
+5184            Albemarle County Office of Housing                                  VA
+5185            Alexandria Redevelopment and Housing Authority                      VA
+5186            Arlington County Dept of Human Services                             VA
+5187            Big Stone Gap Redevelopment And Housing Authority                   VA
+5188            Bristol Redevelopment and Housing Authority                         VA
+5189            Central Virginia Housing Coalition                                  VA
+5190            Charlottesville Redevelopment and Housing Authority                 VA
+5191            Chesapeake Redevelopment and Housing Authority                      VA
+5192            City of Manassas Housing Office                                     VA
+5193            Clinch Valley Community Action                                      VA
+5194            Covington Redevelopment and Housing Authority                       VA
+5195            Cumberland Plateau Regional Housing Authority                       VA
+5196            Danville Redevelopment and Housing Authority                        VA
+5197            Fairfax County Redevelopment and Housing Authority                  VA
+5198            Fluvanna-Louisa County Housing Foundation                           VA
+5199            Franklin Redevelopment And Housing Authority                        VA
+5200            Hampton Redevelopment and Housing Authority                         VA
+5201            Hanover Community Services Board                                    VA
+5202            Harrisonburg Redevelopment and Housing Authority                    VA
+5203            Henrico Area Mental Health and Developmental Services               VA
+5204            Hopewell Redevelopment and Housing Authority                        VA
+5205            James City County Office of Housing                                 VA
+5206            Lee County Redevelopment and Housing Authority                      VA
+5207            Loudoun County Department of Housing and Community Development      VA
+5208            Lynchburg Redevelopment and Housing Authority                       VA
+5209            Marion Redevelopment and Housing Authority                          VA
+5210            Nelson County Community Development Foundation                      VA
+5211            Newport News Redevelopment and Housing Authority                    VA
+5212            Norfolk Redevelopment and Housing Authority                         VA
+5213            Norton Redevelopment and Housing Authority                          VA
+5214            Petersburg Redevelopment and Housing Authority                      VA
+5215            Piedmont Housing Alliance                                           VA
+5216            Portsmouth Redevelopment and Housing Authority                      VA
+5217            Prince William County Office of Housing and Community Development   VA
+5218            Radford City Rental Assistance Office                               VA
+5219            Rappahannock Rapidan Community Services                             VA
+5220            Richmond Redevelopment and Housing Authority                        VA
+5221            Roanoke Redevelopment and Housing Authority                         VA
+5222            Rockbridge Area Rental Assistance Office                            VA
+5223            Rooftop of Virginia Community Action Program                        VA
+5224            Scott County Redevelopment and Housing Authority                    VA
+5225            Shenandoah County Department of Social Services                     VA
+5226            Staunton Redevelopment and Housing Authority                        VA
+5227            Suffolk Redevelopment and Housing Authority                         VA
+5228            Sussex County Housing Office                                        VA
+5229            Waynesboro Redevelopment and Housing Authority                      VA
+5230            Williamsburg Redevelopment and Housing Authority                    VA
+5231            Wise County Redevelopment and Housing Authority                     VA
+5232            Wytheville Redev. and Housing Authority                             VA
+5233            York County Housing Office                                          VA
+5234            Housing Authority of Asotin County                                  WA
+5235            Bellingham Housing Authority                                        WA
+5236            Bremerton Housing Authority                                         WA
+5237            Housing Authority of Chelan County and the City of Wenatchee        WA
+5238            Community Action Center Whitman                                     WA
+5239            Everett Housing Authority                                           WA
+5240            Ferry County Joint Housing Authority                                WA
+5241            Housing Authority of Grant County                                   WA
+5242            Grays Harbor Housing Authority                                      WA
+5243            Island County Housing Authority                                     WA
+5244            Joint Pacific County Housing Authority                              WA
+5245            Kalama Housing Authority                                            WA
+5246            Kelso Housing Authority                                             WA
+5247            Kennewick Housing Authority                                         WA
+5248            King County Housing Authority                                       WA
+5249            Housing Kitsap                                                      WA
+5250            Kittitas County Housing Authority                                   WA
+5251            Housing Authority of Okanogan County                                WA
+5252            Housing Authority of City of Othello                                WA
+5253            Housing Authority of the City of Pasco and Franklin County          WA
+5254            Peninsula Housing Authority                                         WA
+5255            Pierce County Housing Authority                                     WA
+5256            Renton Housing Authority                                            WA
+5257            Housing Authority of City of Richland                               WA
+5258            Rural Resources Community Action                                    WA
+5259            Seattle Housing Authority                                           WA
+5260            Housing Authority of City of Sedro Woolley                          WA
+5261            Housing Authority of Skagit County                                  WA
+5262            Housing Authority of Snohomish County                               WA
+5263            Housing Opportunities of South West Washington                      WA
+5264            Spokane Housing Authority                                           WA
+5265            Housing Authority of City of Sunnyside                              WA
+5266            Tacoma Housing Authority                                            WA
+5267            Housing Authority of Thurston County                                WA
+5268            Vancouver Housing Authority                                         WA
+5269            Housing Authority of City of Walla Walla                            WA
+5270            Whatcom County Housing Authority                                    WA
+5271            Yakima Housing Authority                                            WA
+5272            Housing Authority of Benwood And McMechen                           WV
+5273            Bluefield Housing Authority                                         WV
+5274            Housing Authority of Boone County                                   WV
+5275            Housing Authority of Mingo County                                   WV
+5276            Housing Authority of Raleigh County                                 WV
+5277            Housing Authority of the City of Beckley                            WV
+5278            Housing Authority of the City of Buckhannon                         WV
+5279            Charleston-Kanawha Housing Authority                                WV
+5280            Clarksburg-Harrison Regional Housing Authority                      WV
+5281            Housing Authority of the City of Dunbar                             WV
+5282            Housing Authority of the City of Elkins                             WV
+5283            Fairmont-Morgantown Housing Authority                               WV
+5284            Housing Authority of the City of Grafton                            WV
+5285            Grant County Housing Authority                                      WV
+5286            Greenbrier County Housing Authority                                 WV
+5287            Huntington Housing Authority                                        WV
+5288            Housing Authority of the County of Jackson                          WV
+5289            Housing Authority of the City of Keyser                             WV
+5290            Housing Authority of the City of Martinsburg                        WV
+5291            Housing Authority of the City of Moundsville                        WV
+5292            Housing Authority of the City of Mount Hope                         WV
+5293            Parkersburg Housing Authority                                       WV
+5294            Housing Authority of the City of Piedmont                           WV
+5295            Housing Authority of the City of Point Pleasant                     WV
+5296            Randolph County Housing Authority                                   WV
+5297            Housing Authority of the City of Romney                             WV
+5298            Housing Authority of the City of South Charleston                   WV
+5299            Housing Authority of the City of Spencer                            WV
+5300            Housing Authority of the City of St. Albans                         WV
+5301            Housing Authority of the City of Weirton                            WV
+5302            Housing Authority of the City of Weston                             WV
+5303            Wheeling Housing Authority                                          WV
+5304            Housing Authority of the City of Williamson                         WV
+5305            Abbotsford Housing Authority                                        WI
+5306            Albany Housing Authority                                            WI
+5307            Algoma Housing Authority                                            WI
+5308            Altoona Housing Authority                                           WI
+5309            Amery Housing Authority                                             WI
+5310            Antigo Housing Authority                                            WI
+5311            Appleton Housing Authority                                          WI
+5312            Ashland County Housing Authority                                    WI
+5313            Ashland Housing Authority                                           WI
+5314            Baraboo Community Development Authority                             WI
+5315            Housing Authority of the City of Barron                             WI
+5316            Beloit Housing Authority                                            WI
+5317            Boscobel Housing Authority                                          WI
+5318            Brillion Housing Authority                                          WI
+5319            Brown County Housing Authority                                      WI
+5320            Bruce Housing Authority                                             WI
+5321            Burnett County Housing Authority                                    WI
+5322            Chetek Housing Authority                                            WI
+5323            Chilton Housing Authority                                           WI
+5324            Chippewa County Housing Authority                                   WI
+5325            Clintonville Housing Authority                                      WI
+5326            Crawford County Housing Authority                                   WI
+5327            Housing Authority of Cumberland                                     WI
+5328            Dane County Housing Authority                                       WI
+5329            Deforest Housing Authority                                          WI
+5330            Depere Housing Authority                                            WI
+5331            Dodge County Housing Authority                                      WI
+5332            Dodgeville Housing Authority                                        WI
+5333            Door County Housing Authority                                       WI
+5334            Dunn County Housing Authority                                       WI
+5335            Eau Claire County Housing Authority                                 WI
+5336            Eau Claire Housing Authority                                        WI
+5337            City of Edgerton Housing Authority                                  WI
+5338            Evansville Housing Authority                                        WI
+5339            Fond Du Lac County Housing Authority                                WI
+5340            Fond du Lac Housing Authority                                       WI
+5341            Frederic Housing Authority                                          WI
+5342            Grantsburg Housing Authority                                        WI
+5343            Green Bay Housing Authority                                         WI
+5344            Greenwood Housing Authority                                         WI
+5345            Hudson Housing Authority                                            WI
+5346            Hurley Housing Authority                                            WI
+5347            Janesville Neighborhood and Community Services                      WI
+5348            Jefferson Housing Authority                                         WI
+5349            Kaukauna Housing Authority                                          WI
+5350            Kenosha Housing Authority                                           WI
+5351            La Crosse County Housing Authority                                  WI
+5352            La Crosse Housing Authority                                         WI
+5353            Ladysmith Housing Authority                                         WI
+5354            Lafayette County Housing Authority                                  WI
+5355            Lake Mills Housing Authority                                        WI
+5356            Lincoln County Housing Authority                                    WI
+5357            Luck Housing Authority                                              WI
+5358            Community Development Authority of the City of Madison              WI
+5359            Manitowoc Housing Authority                                         WI
+5360            Marinette County Housing Authority                                  WI
+5361            Marinette Housing Authority                                         WI
+5362            Marshfield Community Development Authority                          WI
+5363            City of Mauston Housing Authority                                   WI
+5364            Menomonie Housing Authority                                         WI
+5365            Merrill Housing Authority                                           WI
+5366            Housing Authority of the City of Milwaukee                          WI
+5367            Milwaukee County Housing Division                                   WI
+5368            Mondovi Housing Authority                                           WI
+5369            Monroe County Housing Authority                                     WI
+5370            Monroe Housing Authority                                            WI
+5371            New Berlin Housing Authority                                        WI
+5372            New London Housing Authority                                        WI
+5373            Housing Authority of the City of New Richmond                       WI
+5374            Oconto County Housing Authority                                     WI
+5375            Oconto Housing Authority                                            WI
+5376            Osceola Housing Authority                                           WI
+5377            Oshkosh Housing Authority                                           WI
+5378            Park Falls Housing Authority                                        WI
+5379            Peshtigo Housing Authority                                          WI
+5380            Platteville Housing Authority                                       WI
+5381            Plymouth Housing Authority                                          WI
+5382            Portage County Housing Authority                                    WI
+5383            Prairie du Chien Housing Authority                                  WI
+5384            Pulaski Housing Authority                                           WI
+5385            Racine County Housing Authority                                     WI
+5386            Reedsville Housing Authority                                        WI
+5387            Rhinelander Housing Authority                                       WI
+5388            Rice Lake Housing Authority                                         WI
+5389            Richland Center Housing Authority                                   WI
+5390            Richland County Housing Authority                                   WI
+5391            River Falls Housing Authority                                       WI
+5392            Sauk City Housing Authority                                         WI
+5393            Sauk County Housing Authority                                       WI
+5394            Sawyer County Housing Authority                                     WI
+5395            Shawano City Housing Authority                                      WI
+5396            Shawano County Housing Authority                                    WI
+5397            Sheboygan Housing Authority                                         WI
+5398            Housing Authority of the City of Shell Lake                         WI
+5399            Slinger Housing Authority                                           WI
+5400            South Milwaukee Community Development Authority                     WI
+5401            Sparta Housing Authority                                            WI
+5402            Spooner Housing Authority                                           WI
+5403            Stanley Housing Authority                                           WI
+5404            Stevens Point Housing Authority                                     WI
+5405            Superior Housing Authority                                          WI
+5406            Taylor County Housing Authority                                     WI
+5407            Thorp Housing Authority                                             WI
+5408            Tomah Public Housing Authority                                      WI
+5409            Housing Authority of Trempealeau County                             WI
+5410            Viroqua Housing Authority                                           WI
+5411            Walworth County Housing Authority                                   WI
+5412            City of Washburn and County of Bayfield Housing Authority           WI
+5413            Watertown Housing Authority                                         WI
+5414            Waukesha Housing Authority                                          WI
 5415            Waukesha Housing Authority                                          WI
-5416            Waukesha Housing Authority                                          WI
-5417            Wausau Community Development Authority                              WI
-5418            Wausaukee Housing Authority                                         WI
-5419            Community Development Authority of the City of West Allis           WI
-5420            West Bend Housing Authority                                         WI
-5421            Westby Housing Authority                                            WI
-5422            Winnebago County Housing Authority                                  WI
-5423            Wisconsin Rapids Housing Authority                                  WI
-5424            Wittenberg Housing Authority                                        WI
-5425            Woodville Housing Authority                                         WI
-5426            Housing Authority of the City of Buffalo                            WY
-5427    CHA     Casper Housing Authority                                            WY
-5428            Housing Authority of the City of Cheyenne                           WY
-5429            Housing Authority of the Town of Douglas                            WY
-5430    EHA     Evanston Housing Authority                                          WY
-5431    HHA     Hanna Housing Authority                                             WY
-5432            Lusk Housing Authority                                              WY
-5433    RSHA    Rock Springs Housing Authority                                      WY
-    5434-5498 - [RESERVED FOR CREATION OF NEW HOUSING AUTHORITIES]
+5416            Wausau Community Development Authority                              WI
+5417            Wausaukee Housing Authority                                         WI
+5418            Community Development Authority of the City of West Allis           WI
+5419            West Bend Housing Authority                                         WI
+5420            Westby Housing Authority                                            WI
+5421            Winnebago County Housing Authority                                  WI
+5422            Wisconsin Rapids Housing Authority                                  WI
+5423            Wittenberg Housing Authority                                        WI
+5424            Woodville Housing Authority                                         WI
+5425            Housing Authority of the City of Buffalo                            WY
+5426    CHA     Casper Housing Authority                                            WY
+5427            Housing Authority of the City of Cheyenne                           WY
+5428            Housing Authority of the Town of Douglas                            WY
+5429    EHA     Evanston Housing Authority                                          WY
+5430    HHA     Hanna Housing Authority                                             WY
+5431            Lusk Housing Authority                                              WY
+5432    RSHA    Rock Springs Housing Authority                                      WY
+    5433-5498 - [RESERVED FOR CREATION OF NEW HOUSING AUTHORITIES]
 5499           Housing Authority Fabricated by Author
 
 =======================================
@@ -5231,6 +5230,476 @@ MGRMC   Mount Graham Regional Medical Center                        Safford, AZ
         Winslow Indian Healthcare Center                            Winslow, AZ
         Yavapai Regional Medical Center                             Prescott, AZ
         Yuma Regional Medical Center                                Yuma, AZ
+
+        Adventist Health Simi Valley                                Simi Valley, CA
+            f. Simi Valley Hospital                                 Simi Valley, CA
+        Adventist Health St. Helena                                 St. Helena, CA
+            f. St. Helena Hospital                                  St. Helena, CA
+        Adventist Health Vallejo                                    Vallejo, CA
+            f. California Specialty Hospital                        Vallejo, CA
+        Adventist Medical Center                                    Hanford, CA
+        Adventist Medical Center                                    Reedley, CA
+            f. Sierra Kings Hospital                                Reedley, CA
+        Alameda Hospital                                            Alameda, CA
+        Alhambra Hospital Medical Center                            Alhambra, CA
+        Alpine County Hospital                                      Alpine County, CA
+        Alta Bates Summit Medical Center                            East Bay, CA
+        Alvarado Hospital Medical Center                            San Diego, CA
+        Anaheim General Hospital                                    Anaheim, CA
+        Anaheim General Hospital                                    Buena Park Campus, CA
+        Anaheim Regional Medical Center                             Anaheim, CA
+        Antelope Valley Hospital Medical Center                     Lancaster, CA
+        Arrowhead Regional Medical Center                           Colton, CA
+        Arroyo Grande Community Hospital                            Arroyo Grande, CA
+        Atascadero State Hospital                                   Atascadero, CA
+        Aurora Las Encinas Hospital                                 Pasadena, CA
+        Avalon Municipal Hospital                                   Los Angeles, CA
+        Bakersfield Heart Hospital                                  Bakersfield, CA
+        Bakersfield Memorial Hospital                               Bakersfield, CA
+        Baldwin Park Hospital                                       Baldwin Park, CA
+        Banner Lassen Medical Center                                Susanville, CA
+        Barlow Respiratory Hospital                                 Los Angeles, CA
+        Barstow Community Hospital                                  Barstow, CA
+        Barton Memorial Hospital                                    El Dorado County, CA
+        Bear Valley Community Hospital                              Big Bear Lake, CA
+        Bellflower Medical Center                                   Bellflower, CA
+        Beverly Hospital                                            Montebello, CA
+        Brotman Medical Center                                      Culver City, CA
+        California Hospital Medical Center                          Los Angeles, CA
+        Canyon Ridge Hospital                                       Chino, CA
+        Casa Colina Hospital For Rehab Medicine                     Pomona, CA
+        Cedars-Sinai Medical Center                                 Beverly Hills, CA
+        Centinela Freeman Regional Medical Center, Centinela Campus Inglewood, CA
+        Centinela Freeman Regional Medical Center, Marina Campus    Marina del Rey, CA
+        Central Valley General Hospital                             Kings County, CA
+        Chapman Medical Center                                      Orange, CA
+        Children's Hospital and Health Center                       San Diego, CA
+        Children's Hospital Los Angeles                             Los Angeles, CA
+        Children's Hospital of Orange County                        Orange, CA
+        Children's Hospital of Orange County at Mission             Mission Viejo, CA
+        Children's Hospital of San Diego                            San Diego, CA
+        Chino Valley Medical Center                                 Chino, CA
+        CHoNC Pediatric Hospital                                    Campbell, CA
+        City of Hope National Medical Center                        Duarte, CA
+        Coalinga State Hospital                                     Coalinga, CA
+        Coast Plaza Hospital                                        Norwalk, CA
+        Coastal Communities Hospital                                Santa Ana, CA
+        College Hospital                                            Cerritos, CA
+        College Hospital Costa Mesa                                 Costa Mesa, CA
+        College Medical Center                                      Long Beach, CA
+        Colorado River Medical Center                               Needles, CA
+        Colusa Regional Medical Center                              Colusa County, CA
+        Community Hospital of Gardena                               Gardena, CA
+        Community Hospital of Huntington Park                       Huntington Park, CA
+        Community Hospital of Long Beach                            Long Beach, CA
+        Community Hospital of San Bernardino                        San Bernardino, CA
+        Community Hospital of the Monterey Peninsula                Monterey, CA
+        Community Medical Center-Clovis                             Clovis, CA
+        Community Memorial Hospital                                 Ventura, CA
+        Community Regional Medical Center                           Fresno, CA
+        Contra Costa Regional Medical Center                        Martinez, CA
+        Corcoran District Hospital                                  Kings County, CA
+        Corona Regional Medical Center                              Corona, CA
+        Cottage Children's Hospital                                 Santa Barbara, CA
+        Dameron Hospital                                            Stockton, CA
+        David Grant USAF Medical Center                             Travis Air Force Base, CA
+        Davis Medical Center                                        Sacramento County, CA
+        Delano Regional Medical Center                              Delano, CA
+        Desert Regional Medical Center                              Palm Springs, CA
+        Desert Valley Hospital                                      Victorville, CA
+        Doctors Hospital of Manteca                                 Manteca, CA
+        Doctors Hospital Of West Covina                             West Covina, CA
+        Doctors Medical Center of Modesto                           Modesto, CA
+        Doctor’s Hospital Montclair Medical Center                  Montclair, CA
+        Dominican Hospital                                          Santa Cruz, CA
+        Downey Regional Medical Center                              Downey, CA
+        East Los Angeles Doctors Hospital                           East Los Angeles, CA
+        Eastern Plumas District Hospital                            Plumas County, CA
+        Eden Medical Center                                         Castro Valley, CA
+        Eisenhower Medical Center                                   Rancho Mirage, CA
+        El Camino Hospital                                          Santa Clara County, CA
+        El Centro Regional Medical Center                           Imperial County, CA
+        Emanate Health/Foothill Presbyterian Hospital               Glendora, CA
+        Emanate Health/Inter-community Hospital                     Covina, CA
+        Emanate Health/Queen of the Valley Hospital                 West Covina, CA
+        Emanate Health/Queen of the Valley Hospital                 West Covina, CA
+        Emanuel Medical Center                                      Turlock, CA
+        Encino Hospital Medical Center                              Encino, CA
+        Enloe Medical Center                                        Chico, CA
+        Fairchild Medical Center                                    Yreka, CA
+        Fairmont Rehabilitation and Wellness Center                 San Leandro, CA
+        Fountain Valley Regional Hospital and Medical Center        Fountain Valley, CA
+        Frank R. Howard Memorial Hospital                           Willits, CA
+        Fremont Hospital                                            Fremont, CA
+        Fremont Memorial Hospital                                   Yuba City, CA
+        French Hospital Medical Center                              San Luis Obispo, CA
+        Fresno Heart & Surgical Hospital                            Fresno, CA
+        Fresno Surgical Hospital                                    Fresno, CA
+        Garden Grove Hospital and Medical Center                    Garden Grove, CA
+        Gardens Regional Hospital & Medical Center                  Hawaiian Gardens, CA
+            f. Tri-City Regional Medical Center                     Hawaiian Gardens, CA
+        Garfield Medical Center                                     Monterey Park, CA
+        George L. Mee Memorial Hospital                             King City, CA
+        Glendale Adventist Medical Center                           Glendale, CA
+        Glendale Memorial Hospital and Health Center                Glendale, CA
+        Glendale Research Hospital                                  Glendale, CA
+        Glendora Community Hospital                                 Glendora, CA
+            f. East Valley Hospital                                 Glendora, CA
+        Glenn Medical Center                                        Willows, CA
+        Goleta Valley Cottage Hospital                              Santa Barbara, CA
+        Good Samaritan Hospital                                     Los Angeles, CA
+        Good Samaritan Hospital                                     San Jose, CA
+        Greater El Monte Community Hospital                         South El Monte, CA
+        Harbor-UCLA Medical Center                                  West Carson, CA
+        Hazel Hawkins Memorial Hospital                             San Benito County, CA
+        Healdsburg District Hospital                                Healdsburg, CA
+        HealthBridge Children's Rehabilitation Hospital             Orange, CA
+        Hemet Global Medical Center                                 Hemet, CA
+        Henry Mayo Newhall Memorial Hospital                        Valencia, CA
+        Hi-Desert Medical Center                                    Joshua Tree, CA
+        Highland Hospital                                           Oakland, CA
+        Highland Springs Surgical Center                            Beaumont, CA
+        Hoag Memorial Hospital Presbyterian                         Irvine, CA
+        Hoag Memorial Hospital Presbyterian                         Newport Beach, CA
+        Hollywood Community Hospital of Hollywood                   Hollywood, CA
+        Hollywood Community Hospital of Van Nuys                    Van Nuys, CA
+        Hollywood Presbyterian Medical Center                       Los Angeles, CA
+        Huntington Beach Hospital and Medical Center                Huntington Beach, CA
+        Huntington Hospital                                         Pasadena, CA
+        Indian Valley Hospital                                      Plumas County, CA
+        Inland Valley Regional Medical Center                       Wildomar, CA
+        Inter-Community Medical Center                              West Covina, CA
+        Irvine Medical Center                                       Orange, CA
+        Jacobs Medical Center                                       La Jolla, CA
+        Jerold Phelps Community Hospital                            Garberville, CA
+        John C. Fremont Hospital                                    Mariposa County, CA
+        John Douglas French Center                                  Los Alamitos, CA
+        John F. Kennedy Memorial Hospital                           Indio, CA
+        John George Psychiatric Pavilion                            San Leandro, CA
+        John Muir Concord Medical Center                            Concord, CA
+            f. Mt. Diablo Medical Center                            Concord, CA
+        John Muir Walnut Creek Medical Center                       Walnut Creek, CA
+        Kaiser Foundation Hospital                                  Anaheim, CA
+        Kaiser Foundation Hospital                                  Bellflower, CA
+        Kaiser Foundation Hospital                                  Carson, CA
+        Kaiser Foundation Hospital                                  Fontana, CA
+        Kaiser Foundation Hospital                                  Harbor City, CA
+        Kaiser Foundation Hospital                                  Irvine, CA
+        Kaiser Foundation Hospital                                  Lakeview, CA
+        Kaiser Foundation Hospital                                  North Sacramento, CA
+        Kaiser Foundation Hospital                                  Ontario, CA
+        Kaiser Foundation Hospital                                  Redwood City, CA
+        Kaiser Foundation Hospital                                  Riverside, CA
+        Kaiser Foundation Hospital                                  San Rafael, CA
+        Kaiser Foundation Hospital                                  South Sacramento, CA
+        Kaiser Foundation Hospital - Chatsworth                     Chatsworth, CA, CA
+        Kaiser Foundation Hospital - Panorama City                  Panorama City, CA
+        Kaiser Foundation Hospital - West Los Angeles               West Los Angeles, CA
+        Kaiser Foundation Hospital - Woodland Hills                 Woodland Hills, CA
+        Kaiser Foundation Hospital Sunset                           Los Angeles, CA
+        Kaiser Fremont Medical Center (Kaiser Permanente)           Fremont, CA
+        Kaiser Fresno Medical Center                                Fresno, CA
+        Kaiser Hospital                                             San Diego, CA
+        Kaiser Manteca Medical Center                               Manteca, CA
+        Kaiser Medical Center                                       Modesto, CA
+        Kaiser Oakland Medical Center                               Oakland, CA
+        Kaiser Permanente Medical Center                            Baldwin Park, CA
+        Kaiser Permanente Medical Center                            Roseville, CA
+        Kaiser Permanente Medical Center                            San Diego, CA
+        Kaiser Permanente Medical Center                            Vacaville, CA
+        Kaiser Permanente Medical Center                            Vallejo, CA
+        Kaiser Permanente Medical Center Santa Rosa                 Santa Rosa, CA
+        Kaiser Permanente San Francisco Medical Center              San Francisco, CA
+        Kaiser Permanente Santa Clara Medical Center                Santa Clara, CA
+        Kaiser Permanente Santa Teresa Medical Center               San Jose, CA
+        Kaiser Richmond Medical Center                              Richmond, CA
+        Kaiser San Leandro Medical Center                           San Leandro, CA
+        Kaiser South San Francisco Medical Center                   South San Francisco, CA
+        Kaiser Walnut Creek Medical Center                          Walnut Creek, CA
+        Kaweah Delta Medical Center                                 Visalia, CA
+        Keck Hospital of USC                                        Los Angeles, CA
+            f. USC University Hospital                              Los Angeles, CA
+LTACH   Kentfield Hospital                                          Marin County, CA
+        Kern Medical Center                                         Bakersfield, CA
+        Kern Valley                                                 Lake Isabella, CA
+        Kindred Hospital                                            Brea, CA
+        Kindred Hospital                                            San Diego, CA
+        Kindred Hospital                                            Santa Ana, CA
+        Kindred Hospital                                            Westminster, CA
+LTACH   Kindred Hospital - San Francisco Bay Area                   San Leandro, CA
+        LA Downtown Medical Center                                  Los Angeles, CA
+            f. Silver Lake Medical Center                           Los Angeles, CA
+            f. Los Angeles Downtown Medical Center                  Los Angeles, CA
+            f. City of Angels Medical Center                        Los Angeles, CA
+        La Palma Intercommunity Hospital                            La Palma, CA
+        Laguna Honda Hospital                                       San Francisco, CA
+        Lakeside Hospital                                           Perris, CA
+        Lakewood Regional Medical Center                            Lakewood, CA
+        Lakewood Regional Medical Center                            Los Angeles, CA
+        Lanterman Developmental Center                              Pomona, CA
+        Little Company of Mary Hospital                             San Pedro, CA
+        Little Company of Mary Hospital                             Torrance, CA
+        Livermore VA Hospital                                       Livermore, CA
+        Lodi Memorial Hospital                                      Lodi, CA
+        Loma Linda University Children's Hospital                   Loma Linda, CA
+        Loma Linda University Medical Center                        Loma Linda, CA
+        Loma Linda University Medical Center                        Murrieta, CA
+        Loma Linda University Medical Center-East                   Loma Linda, CA
+        Loma Linda Veterans Affairs Medical Center                  Loma Linda, CA
+        Lompoc Valley Medical Center                                Lompoc, CA
+        Long Beach Community Hospital                               Long Beach, CA
+        Long Beach Memorial Medical Center                          Long Beach, CA
+        Los Alamitos Medical Center                                 Los Alamitos, CA
+        Los Angeles Community Hospital                              Los Angeles, CA
+        Los Angeles Community Hospital of Norwalk                   Norwalk, CA
+        Los Angeles County Los Amigos Medical Center                Los Angeles, CA
+        Los Angeles General Medical Center                          Los Angeles, CA
+            f. Los Angeles County+USC Medical Center                Los Angeles, CA
+        Los Angeles Metropolitan Med Center - Hawthorne Campus      Hawthorne, CA
+        Los Banos Community Hospital                                Merced County, CA
+        Los Medanos Community Hospital                              Pittsburg, CA
+        Los Robles Hospital & Medical Center                        Thousand Oaks, CA
+        Lucile Salter Packard Children's Hospital at Stanford       Palo Alto, CA
+        Mad River Community Hospital                                Arcata, CA
+        Madera Community Hospital                                   Madera, CA
+        Mammoth Hospital                                            Mono County, CA
+        Marian Regional Medical Center                              Santa Maria, CA
+        Marina Del Rey Hospital                                     Marina Del Rey, CA
+        MarinHealth Medical Center                                  Greenbrae, CA
+            f. Marin General Hospital                               Greenbrae, CA
+        Mark Twain St. Joseph                                       Calaveras County, CA
+        Marshall Medical Center                                     El Dorado County, CA
+        Martin Luther Hospital Medical Center                       Orange County, CA
+        Martin Luther King Jr. - Harbor Hospital                    Willowbrook, CA
+        Mattel Children's Hospital UCLA                             Los Angeles, CA
+        Mayers Memorial Hospital District                           Fall River Mills, CA
+        Memorial Hospital Of Gardena                                Gardena, CA
+        Memorial Medical Center                                     Modesto, CA
+        Mendocino Coast District Hospital                           Fort Bragg, CA
+        Menifee Global Medical Center                               Menifee, CA
+        Menlo Park Surgical Hospital                                Menlo Park, CA
+        Menlo Park VA Hospital                                      Menlo Park, CA
+        Mercy General Hospital                                      Sacramento County, CA
+        Mercy Hospital                                              Bakersfield, CA
+            f. Mercy Truxton                                        Bakersfield, CA
+        Mercy Hospital                                              Folsom, CA
+        Mercy Medical Center                                        Mount Shasta, CA
+        Mercy Medical Center (Redding)                              Redding, CA
+        Mercy Medical Center Merced Community Campus                Merced County, CA
+        Mercy Medical Center Merced Dominican Campus                Merced County, CA
+        Mercy San Juan Medical Center                               Sacramento County, CA
+        Mercy Southwest                                             Bakersfield, CA
+        Methodist Hospital of Sacramento                            Sacramento, CA
+        Methodist Hospital of Southern California                   Arcadia, CA
+        Miller Children's Hospital                                  Long Beach, CA
+        Mills-Peninsula Medical Center                              Burlingame, CA
+        Mission Community Hospital                                  Panorama Campus, CA
+        Mission Hospital of Huntington Park                         Huntington Park, CA
+        Mission Valley Medical Center                               Lake Elsinore, CA
+        Modoc Medical Center                                        Modoc County, CA
+        Monterey Park Hospital                                      Monterey Park, CA
+        Moreno Valley Community Hospital                            Moreno Valley, CA
+        Motion Picture & Television Hospital                        Woodland Hills, CA
+        Mountain Community Medical Services                         Weaverville, CA
+        Mountains Community Hospital                                Lake Arrowhead, CA
+        Napa State Hospital                                         Napa, CA
+        Natividad Medical Center                                    Salinas, CA
+        Naval Hospital Lemoore                                      Kings County, CA
+        Naval Medical Center San Diego                              San Diego, CA
+        NorthBay Medical Center                                     Fairfield, CA
+        NorthBay VacaValley Hospital                                Vacaville, CA
+        Northern Inyo Hospital                                      Inyo County, CA
+        Northridge Hospital Medical Center                          Northridge, CA
+        Norwalk State Hospital                                      Norwalk, CA
+        Novato Community Hospital                                   Marin County, CA
+        O'Connor Hospital                                           San Jose, CA
+        Oak Valley Hospital                                         Oakdale, CA
+        Olive View-UCLA Medical Center                              Sylmar, CA
+        Olympia Medical Center                                      Los Angeles, CA
+        Orange Coast Memorial Medical Center                        Fountain Valley, CA
+        Orange County Community Hospital                            Buena Park, CA
+        Orange County Global Medical Center                         Santa Ana, CA
+        Orchard Hospital                                            Biggs-Gridley, CA
+        Oroville Hospital                                           Oroville, CA
+        Pacific Alliance Medical Center                             Los Angeles, CA
+        Pacifica Hospital Of The Valley                             Sun Valley, CA
+        Palmdale Regional Medical Center                            Palmdale, CA
+        Palo Verde Hospital                                         Blythe, CA
+        Palomar Medical Center                                      Escondido, CA
+        Paradise Valley Hospital                                    National City, CA
+        Parkview Community Hospital Medical Center                  Riverside, CA
+        Patton State Hospital                                       San Bernardino, CA
+        Petaluma Valley Hospital                                    Petaluma, CA
+        Pico Rivera Medical Center                                  Pico Rivera, CA
+        Pioneers Memorial Hospital                                  Imperial County, CA
+        Placentia-Linda Community Hospital                          Placentia, CA
+        Plumas District Hospital                                    Plumas County, CA
+        Pomerado Hospital                                           Poway, CA
+        Pomona Valley Hospital Medical Center                       Pomona, CA
+        Porterville Developmental Center                            Porterville, CA
+        Presbyterian Intercommunity Hospital                        Los Angeles, CA
+        Promise Hospital of East Los Angeles                        Los Angeles, CA
+        Providence Holy Cross Medical Center                        Mission Hills, CA
+        Providence Little Co. of Mary Medical Center - San Pedro    Los Angeles, CA
+        Providence Mission Hospital                                 Mission Viejo, CA
+        Providence Mission Hospital Laguna Beach                    Laguna Beach, CA
+        Providence St. Joseph Medical Center                        Burbank, CA
+        Providence Tarzana Medical Center                           Tarzana, CA
+        Queen of the Valley Hospital                                West Covina, CA
+        Queen of the Valley Medical Center                          Napa, CA
+        Rady Children's Hospital                                    San Diego County, CA
+        Rancho Los Amigos National Rehabilitation Center            Downey, CA
+        Rancho Springs Medical Center                               Murrieta, CA
+        Redlands Community Hospital                                 Redlands, CA
+        Redwood Memorial Hospital                                   Fortuna, CA
+        Regional Medical Center of San Jose                         San Jose, CA
+        Resnick Neuropsychiatric Hospital at UCLA                   Los Angeles, CA
+        Ridgecrest Regional Hospital                                Ridgecrest, CA
+        Rio Hondo Hospital                                          Downey, CA
+        Riverside Community Hospital                                Riverside, CA
+        Riverside County Regional Medical Center                    Moreno Valley, CA
+        Robert H. Ballard Rehabilitation Hospital                   San Bernardino, CA
+        Ronald Reagan UCLA Medical Center                           Los Angeles, CA
+        Saddleback Memorial Medical Center                          Laguna Hills, CA
+        Saint Agnes Medical Center                                  Fresno, CA
+        Saint Elizabeth Community Hospital                          Red Bluff, CA
+        Saint Francis Medical Center                                Santa Barbara, CA
+        Saint Francis Memorial Hospital                             San Francisco, CA
+        Saint Louise Regional Hospital                              Gilroy, CA
+        Salinas Surgery Center                                      Salinas, CA
+        Salinas Valley Health Medical Center                        Salinas, CA
+        San Antonio Community Hospital                              Upland, CA
+        San Clemente Hospital and Medical Center                    San Clemente, CA
+        San Diego County Psychiatric Hospital                       San Diego, CA
+        San Dimas Community Hospital                                Los Angeles, CA
+        San Francisco Chinese Hospital                              San Francisco, CA
+SFDPH   San Francisco General Hospital                              San Francisco, CA
+        San Francisco VA Medical Center                             San Francisco, CA
+        San Gabriel Valley Medical Center                           San Gabriel, CA
+        San Gorgonio Memorial Hospital                              Banning, CA
+        San Joaquin General Hospital                                French Camp, CA
+        San Joaquin Medical Center                                  Bakersfield, CA
+        San Joaquin Valley Rehabilitation Hospital                  San Joaquin, CA
+        San Jose Medical Center                                     San Jose, CA
+        San Leandro Hospital                                        San Leandro, CA
+        San Luis Rey Hospital                                       Encinitas, CA
+        San Mateo Medical Center                                    San Mateo, CA
+        San Ramon Regional Medical Center                           San Ramon, CA
+        San Vicente Hospital                                        Los Angeles, CA
+        Santa Ana Hospital Medical Center                           Santa Ana, CA
+        Santa Barbara Cottage Hospital                              Santa Barbara, CA
+        Santa Clara Valley Medical Center                           San Jose, CA
+        Santa Paula Hospital                                        Santa Paula, CA
+        Santa Rosa Memorial Hospital                                Santa Rosa, CA
+        Santa Ynez Valley Cottage Hospital                          Solvang, CA
+        Scripps Green Hospital                                      La Jolla, CA
+        Scripps Memorial Hospital                                   Encinitas, CA
+        Scripps Memorial Hospital                                   La Jolla, CA
+        Scripps Mercy Hospital                                      Chula Vista, CA
+        Scripps Mercy Hospital                                      San Diego, CA
+        Selma Community Hospital                                    Selma, CA
+        Seneca Hospital                                             Plumas County, CA
+        Sequoia Hospital                                            Redwood City, CA
+        Seton Medical Center                                        Daly City, CA
+        Seton Medical Center - Coastside                            Moss Beach, CA, CA
+        Sharp Chula Vista Medical Center                            Chula Vista, CA
+        Sharp Coronado Hospital                                     Coronado, CA
+        Sharp Grossmont Hospital                                    La Mesa, CA
+        Sharp Mary Birch Hospital for Women                         San Diego, CA
+        Sharp Memorial Hospital                                     San Diego, CA
+        Sharp Mesa Vista                                            San Diego, CA
+        Shasta Regional Medical Center                              Redding, CA
+        Sherman Oaks Hospital and the Grossman Burn Center          Sherman Oaks, CA
+        Shriners Hospital                                           Los Angeles, CA
+        Shriners Hospitals for Children Northern California         Sacramento County, CA
+        Sierra Nevada Memorial Hospital                             Grass Valley, CA
+        Sierra View District Hospital                               Porterville, CA
+        Sierra Vista Hospital                                       Sacramento County, CA
+        Sierra Vista Regional Medical Center                        San Luis Obispo, CA
+        Silver Lake Medical Center, Ingleside Campus                Rosemead, CA
+        Sonoma Developmental Center                                 Eldridge, CA
+        Sonoma Speciality Hospital                                  Sebastopol, CA
+            f. Sonoma West Medical Center                           Sebastopol, CA
+            f. Palm Drive Hospital                                  Sebastopol, CA
+        Sonoma Valley Hospital                                      Sonoma, CA
+        Sonora Regional Medical Center                              Sonora, CA
+        Southern Inyo Hospital                                      Inyo County, CA
+        Specialty Hospital of Southern California                   Los Angeles, CA
+        St. Bernardine Medical Center                               San Bernardino, CA
+        St. Francis Medical Center                                  Lynwood, CA
+        St. Helena Hospital Clearlake                               Lake County, CA
+        St. John's Health Center                                    Santa Monica, CA
+        St. John's Hospital Camarillo                               Camarillo, CA
+        St. John's Regional Medical Center                          Oxnard, CA
+        St. Joseph Hospital                                         Eureka, CA
+        St. Joseph Hospital                                         Orange, CA
+        St. Joseph's Medical Center                                 Stockton, CA
+        St. Jude Medical Center                                     Fullerton, CA
+        St. Mary Medical Center                                     Long Beach, CA
+        St. Mary Regional Medical Center                            Apple Valley, CA
+        St. Mary's Medical Center                                   San Francisco, CA
+        St. Rose Hospital                                           Hayward, CA
+        St. Vincent Medical Center                                  Los Angeles, CA
+        Stanford University Medical Center                          Stanford, CA
+        Suburban Medical Center                                     Paramount, CA
+        Surprise Valley Community Hospital                          Modoc County, CA
+        Sutter Amador Hospital                                      Jackson, CA
+        Sutter Auburn Faith Hospital                                Placer County, CA
+        Sutter California Pacific Medical Center                    San Francisco, CA
+        Sutter Coast Hospital                                       Del Norte County, CA
+        Sutter Davis Hospital                                       Davis, CA
+        Sutter Delta Medical Center                                 Antioch, CA
+        Sutter Lakeside Hospital                                    Lake County, CA
+        Sutter Maternity and Surgery Hospital                       Santa Cruz, CA
+        Sutter Medical Center                                       Sacramento, CA
+        Sutter Medical Center of Santa Rosa                         Santa Rosa, CA
+        Sutter Roseville Medical Center                             Placer County, CA
+        Sutter Solano Medical Center                                Vallejo, CA
+        Sutter Tracy Community Hospital                             Tracy, CA
+        Tahoe Forest Hospital                                       Truckee, CA
+        Temecula Valley Hospital                                    Temecula, CA
+        Torrance Memorial Medical Center                            Los Angeles, CA
+        Tri-City Medical Center                                     Oceanside, CA
+        Tulare Regional Medical Center                              Tulare, CA
+        Tustin Hospital Medical Center                              Orange County, CA
+        Tustin Rehabilitation Hospital                              Orange County, CA
+        Twin Cities Community Hospital                              Templeton, CA
+        U.S. Naval Hospital                                         Camp Pendleton, CA
+        UC San Diego Medical Center, Hillcrest                      San Diego, CA
+        UCLA Medical Center, Santa Monica                           Santa Monica, CA
+        UCSF Benioff Children's Hospital Oakland                    Oakland, CA
+        UCSF Medical Center                                         San Francisco, CA
+        Ukiah Valley Medical Center                                 Ukiah, CA
+        USC Kenneth Norris Jr. Cancer Hospital                      Los Angeles, CA
+        USC Verdugo Hills Hospital                                  Glendale, CA
+        VA Greater Los Angeles Healthcare Center                    Los Angeles, CA
+        VA Palo Alto Hospital                                       Palo Alto, CA
+        Valley Children’s Hospital                                  Madera, CA
+        Valley Plaza Doctors Hospital                               Riverside County, CA
+        Valley Presbyterian Hospital                                Van Nuys, CA
+        ValleyCare Medical Center                                   Pleasanton, CA
+        Vencor Hospital                                             Brea, CA
+        Vencor Hospital                                             Ontario, CA
+        Vencor Hospital                                             Orange County, CA
+        Vencor Hospital                                             Sacramento, CA
+        Vencor Hospital - Los Angeles                               Los Angeles, CA, CA
+        Ventura County Medical Center                               Ventura, CA
+        Veterans Affairs Medical Center San Diego                   La Jolla, CA
+        Victor Valley Hospital                                      Victorville, CA
+        Washington Hospital                                         Fremont, CA
+        Watsonville Community Hospital                              Watsonville, CA
+        West Anaheim Medical Center                                 Anaheim, CA
+        West Hills Hospital                                         West Hills, CA
+        West Hills Regional Medical Center                          West Hills, CA
+        West Los Angeles Memorial Hospital                          Los Angeles, CA
+        West Los Angeles VA Medical Center                          Los Angeles, CA
+        West Valley Hospital And Health Center                      Canoga Park, CA
+        Western Medical Center                                      Anaheim, CA
+        Westlake Outpatient Medical Center                          Westlake Village, CA
+        Westside Hospital                                           Los Angeles, CA
+        White Memorial Medical Center                               Los Angeles, CA
+        Whittier Hospital Medical Center                            Los Angeles, CA
+        Woodland Memorial Hospital                                  Woodland, CA
 
         Advanced Care Hospital of White County                      Searcy, AR
         Arkansas Children's Hospital                                Little Rock, AR
@@ -5512,6 +5981,64 @@ MGRMC   Mount Graham Regional Medical Center                        Safford, AZ
             f.  Maryvale Hospital Medical Center                    Phoenix, AZ
 
 
-
+        Providence Hospital                                         East Bay, CA
+        Peralta Hospital                                            East Bay, CA
+        Samuel Merritt Hospital                                     East Bay, CA
+        Anderson Sanatorium                                         Oakland, CA
+        Fabiola Hospital                                            Oakland, CA
+        Hayward Hospital                                            Hayward, CA
+        Kaiser Hayward                                              Hayward, CA
+        Naval Hospital Oakland                                      Oakland, CA
+        San Leandro Naval Hospital                                  Oakland, CA
+        Livermore Sanitarium                                        Livermore, CA
+        Doctors Medical Center                                      Contra Costa County, CA
+        Kaiser Martinez Medical Center                              Martinez, CA
+        Coalinga Regional Medical Center                            Coalinga, CA
+        Kingsburg Medical Center                                    Kingsburg, CA
+        Sanger General Hospital                                     Sanger, CA
+        Mendocino State Hospital                                    Talmage, CA
+        Brea Community Hospital                                     Brea, CA
+        DeWitt General Hospital                                     Placer County, CA
+        Banning General Hospital                                    Banning, CA
+        Almshouse San Francisco                                     San Francisco, CA
+        Scobie Memorial Sanitarium                                  San Francisco, CA
+        Public Health Service Hospital                              San Francisco, CA
+        San Francisco Marine Hospital                               San Francisco, CA
+        St. Joseph's Hospital                                       San Francisco, CA
+        Stockton State Hospital                                     San Joaquin County, CA
+        San Luis Obispo General Hospital                            San Luis Obispo County, CA
+        Gardner Sanitarium                                          Belmont, CA
+        Hassler Health Farm                                         San Carlos, CA
+        Community Hospital of Los Gatos                             Santa Clara County, CA
+        Hammond General Hospital                                    Stanislaus County, CA
+        Modesto State Hospital                                      Modesto, CA
+        Camarillo State Mental Hospital                             Camarillo, CA
+        SHC Specialty Hospital                                      Westlake Village, CA
+        Century City Hospital                                       Los Angeles, CA
+        Estelle Doheny Eye Hospital                                 Los Angeles, CA
+        Granada Hills Community Hospital                            Granada Hills, CA
+        Lancaster Community Hospital                                Lancaster, CA
+        Los Angeles County High Desert Hospital                     Lancaster, CA
+        Los Angeles Metropolitan Medical Center                     Los Angeles, CA
+        Monrovia Community Hospital                                 Los Angeles, CA
+        Northridge Hospital Medical Center - Sherman Way Campus     Los Angeles, CA
+        Robert F. Kennedy Medical Center                            Hawthorne, CA
+        St Luke Medical Center                                      Sierra Madre, CA
+        Santa Marta Hospital                                        Los Angeles, CA
+        Santa Teresita Hospital                                     Duarte, CA
+        Temple Community Hospital                                   Los Angeles, CA
+        Thompson Memorial Medical Center Hospital                   Burbank, CA
+            f. Burbank Community Hospital                           Burbank, CA
+        Bay Harbor Hospital                                         Los Angeles, CA
+        Bellwood General Hospital                                   Bellflower, CA
+        Broadway Community Hospital                                 Los Angeles, CA
+        Centinela Freeman Regional Medical Center, Memorial Campus  Inglewood, CA
+        Daniel Freeman Memorial Hospital                            Inglewood, CA
+        Elastar Community Hospital                                  East Los Angeles, CA
+        Long Beach Doctors Hospital                                 Long Beach, CA
+        Morningside Hospital                                        Los Angeles, CA
+        Hollydale Medical center                                    Downey, CA
+        Robert F. Kennedy Medical Center                            Los Angeles, CA
+        University Hospital                                         Los Angeles, CA
 
 
