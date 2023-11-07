@@ -733,7 +733,7 @@ From https://en.wikipedia.org/wiki/Category:Toll_road_authorities_of_the_United_
 ============ US Racetracks ============
 =======================================
 
-Notes: Sorted by state, name.
+Notes: Sorted by state, name. Horse (harness and ) and greyhound/dog.
 
 1000            Arizona Downs                                               Prescott Valley, AZ
 1001            Turf Paradise Race Course                                   Phoenix, AZ
@@ -811,145 +811,218 @@ Notes: Sorted by state, name.
 1073            Sam Houston Race Park                                       Houston, TX
 1074            Emerald Downs                                               Auburn, WA
 1075            Charles Town Races                                          Jefferson County, WV
-1076            Mountaineer Racetrack                                       New Cumberland, WV
-1077            Cheyenne Frontier Days Arena                                Cheyenne, WY
-    1078-1098 - [RESERVED FOR CREATION OF NEW RACETRACKS]
-1099            Racetrack Fabricated by Author
+1076            Mardi Gras Racetrack                                        Cross Lanes, WV           dog
+1077            Mountaineer Racetrack                                       New Cumberland, WV
+1078            WHeeling Island Racetrack                                   Wheeling, WV              dog
+1079            Cheyenne Frontier Days Arena                                Cheyenne, WY
+    1080-1097 - [RESERVED FOR CREATION OF NEW RACETRACKS]
+1098            Dog Racetrack Fabricated by Author
+1099            Horse Racetrack by Author
 
 
 =======================================
 ========= Defunct Racetracks ==========
 =======================================
 
-1100            Prescott Downs                                              Prescott Valley, AZ
-1101            Yavapai Downs                                               Prescott Valley, AZ
-1102            Oaklawn Park Racetrack                                      Hot Springs, AR
-1103            Bay Meadows Racetrack                                       San Mateo, CA
-1104            Bay View Racetrack                                          San Francisco, CA
-1105            Barretts Sales and Racing, Los Angeles County Fairplex      Pomona, CA
-1106            California State Fairgrounds Racetrack                      Sacramento, CA
-1107            Devonshire Downs                                            Northridge, CA
-1108            Hollywood Park Racetrack                                    Inglewood, CA
-1109            Ingleside Racetrack                                         San Francisco, CA
-1110            Pioneer Racetrack                                           San Francisco, CA
-1111            Tanforan Racetrack                                          San Bruno, CA
-1112            Tournament Park                                             Pasadena, CA
-1113            Union Race Course                                           San Francisco, CA
-1114            Dover Downs                                                 Dover, DE
-1115            Kent and Sussex Raceway                                     Kent County, DE
-1116            Tropical Park Racetrack                                     Coral Gables, FL
-1117            Arlington Park Jockey Club                                  Arlington Heights, IL
-1118            Arlington International Racecourse                          Arlington Heights, IL
-1119            Aurora Downs                                                Aurora, IL
-1120            Fox Fields                                                  Aurora, IL
-1121            Balmoral Park                                               Crete, IL
-1122            Cahokia Downs                                               Alorton, IL
-1123            Sportsman's Park                                            Cicero, IL
-1124            Dexter Park                                                 Chicago, IL
-1125            Harlem Racetrack                                            Forest Park, IL
-1126            Maywood Park                                                Melrose Park, IL
-1127    EMD     East Moline Downs                                           East Moline, IL
-1128    QCD     Quad City Downs                                             East Moline, IL
-1129            Washington Park Racetrack                                   Homewood, IL
-1130            Fairmount Park Racetrack                                    Collinsville, IL
-1131            Indiana Downs                                               Shelbyville, IN
-1132            Union Racetrack                                             New Orleans, LA
-1133            Creole Racetrack                                            New Orleans, LA
-1134            Eclipse Track                                               New Orleans, LA
-1135            Metairie Race Course                                        New Orleans, LA
-1136            Bingaman Racetrack                                          New Orleans, LA
-1137            City Park Racetrack                                         New Orleans, LA
-1138            Jefferson Park Racetrack                                    New Orleans, LA 
-1139            Jefferson Downs Racetrack                                   New Orleans, LA
-1140            Scarborough Downs                                           Scarborough, ME
-1141            Kite Track                                                  Old Orchard Beach, ME
-1142            Rigby Park                                                  South Portland, ME
-1143            Bowie Racetrack                                             Bowie, MD
-1144            Cumberland Racetrack                                        Cumberland, MD
-1145            Fairgo Racetrack                                            Cumberland, MD
-1146            Freestate Raceway                                           Howard County, MD
-1147            Havre de Grace Racetrack                                    Havre de Grace, MD
-1148            Laurel Race Course                                          Laurel, MD
-1149            Rosecroft Raceway                                           Fort Washington, MD
-1150            Bay State Raceway                                           Foxborough, MA
-1151            New England Harness Raceway                                 Foxborough, MA
-1152            Foxboro Raceway                                             Foxborough, MA
-1153            Foxboro Park                                                Foxborough, MA
-1154            Suffolk Downs                                               East Boston, MA
-1155            Agawam Park                                                 Agawam, MA
-1156            Berkshire Downs                                             Hancock, MA
-1157            Charles River Speedway                                      Aliston, MA
-1158            Franklin Park                                               Saugus, MA
-1159            Franklin Trotting Park                                      Saugus, MA
-1160            Franklin Driving Park                                       Saugus, MA
-1161            Old Saugus Race Course                                      Saugus, MA
-1162            Old Saugus Racetrack                                        Saugus, MA 
-1163            Great Barrington Fair                                       Great Barrington, MA
-1164            Marshfield Fair                                             Marshfield, MA
-1165            Northampton Fair                                            Northampton, MA
-1166            Topsfield Fair                                              MA
-1167            Brockton Fair                                               MA
-1168            Raceland                                                    Framingham, MA
-1169            Readville Racetrack                                         Readville, MA
-1170            Worcester Agricultural Fairgrounds                          Worcester, MA
-1171            Detroit Race Course                                         Detroit, MI
-1172            Wolverine Raceway                                           Detroit, MI
-1173            Great Lakes Downs                                           Fruitport, MI
-1174            Muskegon Race Course                                        Fruitport, MI
-1175            Pinnacle Race Course                                        Huron, MI
-1176            Canterbury Downs                                            Shakopee, MN
-1177            Ak-Sar-Ben Racetrack                                        Omaha, NE
-1178            Atokad Downs                                                South Sioux City, NE
-1179            Omaha Driving Park                                          North Omaha, NE
-1180            Sunset Driving Park                                         North Omaha, NE
-1181            Sunset Speedway                                             North Omaha, NE
-1182            Hinsdale Raceway                                            Hinsdale, NH
-1183            Rockingham Park                                             Salem, NH
-1184    ACRC    Atlantic City Race Course                                   Mays Landing, NJ
-1185            Garden State Park Racetrack                                 Cherry Hill, NJ
-1186            La Mesa Park                                                Raton, NM
-1187            Driving Park                                                Rochester, NY
-1188            Empire Race Course                                          Albany, NY
-1189            Good Time Park                                              Goshen, NY
-1190            Monroe Racetrack                                            Monroe, NY
-1191            Orange County Fair Speedway                                 Middletown, NY
-1192            Roosevelt Raceway                                           Westbury, NY
-1193            Suffolk Meadows                                             Long Island, NY
-1194            Parr Meadows                                                Long Island, NY
-1195            Watertown Speedway                                          Watertown, NY
-1196            Brighton Beach Race Course                                  New York City, NY
-1197            Fashion Race Course                                         New York City, NY
-1198            Fleetwood Park Racetrack                                    New York City, NY
-1199            Gravesend Racetrack                                         New York City, NY
-1200            Jamaica Racetrack                                           New York City, NY
-1201            Jerome Park Racetrack                                       New York City, NY
-1202            Morris Park Racecourse                                      New York City, NY
-1203            Sheepshead Bay Racetrack                                    New York City, NY
-1204            Union Course                                                New York City, NY
-1205            Ascot Park                                                  Cuyahoga Falls, OH
-1206            River Downs                                                 Anderson, OH
-1207            Beulah Park                                                 Grove City, OH
-1208            Lebanon Raceway                                             Lebanon, OH
-1209            Portland Meadows                                            Portland, OR
-1210            Pocono Downs                                                Wilkes-Barre, PA
-1211            Philadelphia Park Racetrack                                 Bensalem, PA
-1212            Keystone Racetrack                                          Bensalem, PA
-1213            Liberty Bell Park Racetrack                                 Philadelphia, PA
-1214            El Nuevo Comandante                                         Canóvanas, PR
-1215            Narragansett Park                                           Pawtucket, RI
-1216            Montgomery Park Racetrack                                   Memphis, TN
-1217            Arlington Downs                                             Arlington, TX
-1218            Houston Driving Park                                        Houston, TX
-1219            Green Mountain Racetrack                                    Pownal, VT
-1220            Longacres                                                   Renton, WA
-1221            Seattle Race Course                                         Seattle, WA
-1222            Meadows                                                     Seattle, WA
-1223            Playfair Race Course                                        Spokane, WA
-1224            Yakima Meadows                                              Yakima, WA
-1225            Shenandoah Downs                                            Charles Town, WV
-1226            Waterford Downs                                             New Cumberland, WV
-    1227-1348 - [RESERVED FOR NEW DISCOVERY OF HISTORICAL RACETRACKS]
-1349            Historical Racetrack Fabricated by Author
+1100            Birmingham Race Course                                      Birmingham, AL            dog
+1101            Greenetrack                                                 Eutaw, AL                 dog
+1102            Mobile Greyhound Park                                       Theodore, AL              dog
+1103            Victoryland                                                 Shorter, AL               dog
+1104            Amado Greyhound Park                                        Amado, AZ                 dog
+1105            Apache Greyhound Park                                       Apache Junction, AZ       dog
+1106            Black Canyon Greyhound Park                                 Black Canyon City, AZ     dog
+1107            Phoenix Greyhound Park                                      Phoenix, AZ               dog
+1108            Prescott Downs                                              Prescott Valley, AZ
+1109            Tucson Greyhound Park                                       South Tucson, AZ          dog
+1110            Yavapai Downs                                               Prescott Valley, AZ
+1111            Yuma Greyhound Park                                         Yuma, AZ                  dog
+1112            Oaklawn Park Racetrack                                      Hot Springs, AR
+1113            Southland Park Gaming and Racing                            West Memphis, AR          dog
+1114            Baden Kennel Club                                           San Francisco, CA         dog
+1115            Bay Meadows Racetrack                                       San Mateo, CA
+1116            Bay View Racetrack                                          San Francisco, CA
+1117            Barretts Sales and Racing, Los Angeles County Fairplex      Pomona, CA
+1118            Blue Star Amusement Park                                    Emeryville, CA            dog
+1119            California State Fairgrounds Racetrack                      Sacramento, CA
+1120            Devonshire Downs                                            Northridge, CA
+1121            Hollywood Park Racetrack                                    Inglewood, CA
+1122            Ingleside Racetrack                                         San Francisco, CA
+1123            Pioneer Racetrack                                           San Francisco, CA
+1124            Tanforan Racetrack                                          San Bruno, CA
+1125            Tournament Park                                             Pasadena, CA
+1126            Union Race Course                                           San Francisco, CA
+1127            Clover Leaf                                                 Loveland, CO              dog
+1128            Interstate                                                  Byers, CO                 dog
+1129            Mile High                                                   Commerce City, CO         dog
+1130            Pueblo Greyhound Park                                       Pueblo, CO                dog
+1131            Rocky Mountain Greyhound Park                               Colorado Springs, CO      dog
+1132            Plainfield Greyhound Park                                   Plainfield, CT            dog
+1133            Shoreline Star Greyhound Park                               Bridgeport, CT            dog
+1134            Dover Downs                                                 Dover, DE
+1135            Kent and Sussex Raceway                                     Kent County, DE
+1136            Biscayne Greyhound Track                                    Miami Shores, FL          dog
+1137            Daytona Beach Racing and Card Club                          Daytona Beach, FL         dog
+1138            Derby Lane Greyhound Track                                  St. Petersburg, FL        dog
+1139            Ebro Greyhound Track                                        Ebro, FL                  dog
+1140            Flagler Greyhound Track                                     Miami, FL                 dog
+1141            Hialeah Park Race Track                                     Miami, FL                 dog
+1142            Hollywood Greyhound Track                                   Hallandale Beach, FL      dog
+1143            Jacksonville Greyhound Track                                Jacksonville, FL          dog
+1144            Jefferson County Kennel Club                                Monticello, FL            dog
+1145            Key West Greyhound Track                                    Key West, FL              dog
+1146            Miami Beach Kennel Club                                     Miami Beach, FL           dog
+1147            Melbourne Greyhound Park                                    Melbourne, FL             dog
+1148            Naples-Fort Myers Track and Entertainment Center            Bonita Springs, FL        dog
+1149            Orange Park Kennel Club                                     Orange Park, FL           dog
+1150            Palm Beach Kennel Club                                      West Palm Beach, FL       dog
+1151            Pensacola Greyhound Track                                   Pensacola, FL             dog
+1152            St. Johns Bayard Greyhound Track                            Jacksonville, FL          dog
+1153            Sanford-Orlando Kennel Club                                 Longwood, FL              dog
+1154            Sarasota Kennel Club                                        Sarasota, FL              dog
+1155            Seminole Greyhound Park                                     Casselberry, FL           dog
+1156            Tropical Park Racetrack                                     Coral Gables, FL
+1157            Tampa Greyhound Track                                       Tampa, FL                 dog
+1158            Coeur d’Alene Greyhound Park                                Post Falls, ID            dog
+1159            Arlington Park Jockey Club                                  Arlington Heights, IL
+1160            Arlington International Racecourse                          Arlington Heights, IL
+1161            Aurora Downs                                                Aurora, IL
+1162            Fox Fields                                                  Aurora, IL
+1163            Balmoral Park                                               Crete, IL
+1164            Cahokia Downs                                               Alorton, IL
+1165            Sportsman's Park                                            Cicero, IL
+1166            Dexter Park                                                 Chicago, IL
+1167            Grove Park Greyhound Track                                  Glenview, IL              dog
+1168            Harlem Racetrack                                            Forest Park, IL
+1169            Maywood Park                                                Melrose Park, IL
+1170    EMD     East Moline Downs                                           East Moline, IL
+1171    QCD     Quad City Downs                                             East Moline, IL
+1172            Washington Park Racetrack                                   Homewood, IL
+1173            Fairmount Park Racetrack                                    Collinsville, IL
+1174            Indiana Downs                                               Shelbyville, IN
+1175            Bluffs Run                                                  Council Bluffs, IA        dog
+1176            Dubuque Greyhound Park                                      Dubuque, IA               dog
+1177            Waterloo Greyhound Park                                     Waterloo, IA              dog
+1178            Camptown Greyhound Park                                     Frontenac, KS             dog
+1179            Wichita Greyhound Park                                      Wichita, KS               dog
+1180            Woodlands, The                                              Kansas City, KS           dog
+1181            Union Racetrack                                             New Orleans, LA
+1182            Creole Racetrack                                            New Orleans, LA
+1183            Eclipse Track                                               New Orleans, LA
+1184            Metairie Race Course                                        New Orleans, LA
+1185            Bingaman Racetrack                                          New Orleans, LA
+1186            City Park Racetrack                                         New Orleans, LA
+1187            Jefferson Park Racetrack                                    New Orleans, LA
+1188            Jefferson Downs Racetrack                                   New Orleans, LA
+1189            Scarborough Downs                                           Scarborough, ME
+1190            Kite Track                                                  Old Orchard Beach, ME
+1191            Rigby Park                                                  South Portland, ME
+1192            Bowie Racetrack                                             Bowie, MD
+1193            Cumberland Racetrack                                        Cumberland, MD
+1194            Fairgo Racetrack                                            Cumberland, MD
+1195            Freestate Raceway                                           Howard County, MD
+1196            Havre de Grace Racetrack                                    Havre de Grace, MD
+1197            Laurel Race Course                                          Laurel, MD
+1198            Rosecroft Raceway                                           Fort Washington, MD
+1199            Agawam Park                                                 Agawam, MA
+1200            Bay State Raceway                                           Foxborough, MA
+1201            Berkshire Downs                                             Hancock, MA
+1202            Brockton Fair                                               MA
+1203            Charles River Speedway                                      Aliston, MA
+1204            Foxboro Park                                                Foxborough, MA
+1205            Foxboro Raceway                                             Foxborough, MA
+1206            Franklin Driving Park                                       Saugus, MA
+1207            Franklin Park                                               Saugus, MA
+1208            Franklin Trotting Park                                      Saugus, MA
+1209            Great Barrington Fair                                       Great Barrington, MA
+1210            Marshfield Fair                                             Marshfield, MA
+1211            New England Harness Raceway                                 Foxborough, MA
+1212            Northampton Fair                                            Northampton, MA
+1213            Old Saugus Race Course                                      Saugus, MA
+1214            Old Saugus Racetrack                                        Saugus, MA
+1215            Raceland                                                    Framingham, MA
+1216            Raynham Greyhound Park                                      Raynham, MA               dog
+1217            Readville Racetrack                                         Readville, MA
+1218            Suffolk Downs                                               East Boston, MA
+1219            Topsfield Fair                                              MA
+1220            Wonderland Greyhound Park                                   Revere, MA                dog
+1221            Worcester Agricultural Fairgrounds                          Worcester, MA
+1222            Detroit Race Course                                         Detroit, MI
+1223            Wolverine Raceway                                           Detroit, MI
+1224            Great Lakes Downs                                           Fruitport, MI
+1225            Muskegon Race Course                                        Fruitport, MI
+1226            Pinnacle Race Course                                        Huron, MI
+1227            Canterbury Downs                                            Shakopee, MN
+1228            Great Falls Dog Track                                       Great Falls, MT           dog
+1229            Ak-Sar-Ben Racetrack                                        Omaha, NE
+1230            Atokad Downs                                                South Sioux City, NE
+1231            Omaha Driving Park                                          North Omaha, NE
+1232            Sunset Driving Park                                         North Omaha, NE
+1233            Sunset Speedway                                             North Omaha, NE
+1234            Las Vegas Downs                                             Henderson, NV             dog
+1235            Belmont Lakes Region Greyhound Track                        Belmont, NH               dog
+1236            Hinsdale Greyhound Park                                     Hinsdale, NH              dog
+1237            Hinsdale Raceway                                            Hinsdale, NH              dog, horse
+1238            Rockingham Park                                             Salem, NH
+1239            Seabrook Greyhound Park                                     Seabrook                  dog
+1240    ACRC    Atlantic City Race Course                                   Mays Landing, NJ
+1241            Garden State Park Racetrack                                 Cherry Hill, NJ
+1242            Union Kennel Club                                           Linden, NJ                dog
+1243            Brighton Beach Race Course                                  New York City, NY
+1244            Driving Park                                                Rochester, NY
+1245            Empire Race Course                                          Albany, NY
+1246            Fashion Race Course                                         New York City, NY
+1247            Fleetwood Park Racetrack                                    New York City, NY
+1248            Good Time Park                                              Goshen, NY
+1249            Gravesend Racetrack                                         New York City, NY
+1250            Jamaica Racetrack                                           New York City, NY
+1251            Jerome Park Racetrack                                       New York City, NY
+1252            La Mesa Park                                                Raton, NM
+1253            Monroe Racetrack                                            Monroe, NY
+1254            Morris Park Racecourse                                      New York City, NY
+1255            Nassau Kennel Club                                          Long Island, NY           dog
+1256            Orange County Fair Speedway                                 Middletown, NY
+1257            Parr Meadows                                                Long Island, NY
+1258            Roosevelt Raceway                                           Westbury, NY
+1259            Sheepshead Bay Racetrack                                    New York City, NY
+1260            Suffolk Meadows                                             Long Island, NY
+1261            Union Course                                                New York City, NY
+1262            Watertown Speedway                                          Watertown, NY
+1263            Ascot Park                                                  Cuyahoga Falls, OH
+1264            River Downs                                                 Anderson, OH
+1265            Beulah Park                                                 Grove City, OH
+1266            Lebanon Raceway                                             Lebanon, OH
+1267            Multnomah Greyhound Park                                    Fairview, OR              dog
+1268            Portland Meadows                                            Portland, OR
+1269            Pocono Downs                                                Wilkes-Barre, PA
+1270            Philadelphia Park Racetrack                                 Bensalem, PA
+1271            Keystone Racetrack                                          Bensalem, PA
+1272            Liberty Bell Park Racetrack                                 Philadelphia, PA
+1273            El Nuevo Comandante                                         Canóvanas, PR
+1274            Lincoln Greyhound Park                                      Lincoln, RI               dog
+1274            Narragansett Park                                           Pawtucket, RI
+1275            Black Hills                                                 Rapid City, SD            dog
+1276            Sodrac Park                                                 Sioux City, SD            dog
+1277            Montgomery Park Racetrack                                   Memphis, TN
+1278            Arlington Downs                                             Arlington, TX
+1279            Gulf Coast Racing                                           Corpus Christi            dog
+1280            Gulf Greyhound Park                                         La Marque                 dog
+1281            Houston Driving Park                                        Houston, TX
+1282            Valley Race Park                                            Harlingen                 dog
+1283            Green Mountain Racetrack                                    Pownal, VT                dog, horse
+1284            Longacres                                                   Renton, WA
+1285            Seattle Race Course                                         Seattle, WA
+1286            Meadows                                                     Seattle, WA
+1287            Playfair Race Course                                        Spokane, WA
+1288            Yakima Meadows                                              Yakima, WA
+1289            Dairlyland Greyhound Park                                   Kenosha, WI               dog
+1290            Fox Valley Greyhound Park                                   Kaukauna, WI              dog
+1291            Geneva Lakes Kennel Club                                    Delavan, WI               dog
+1292            St Croix Meadows Greyhound Race Park                        Hudson, WI                dog
+1293            Wisconsin Dells                                             Lake Delton, WI           dog
+1294            Shenandoah Downs                                            Charles Town, WV
+1295            Tri-State Greyhound Park                                    Wheeling, WV              dog
+1296            Waterford Downs                                             New Cumberland, WV
+    1297-1349 - [RESERVED FOR NEW DISCOVERY OF HISTORICAL RACETRACKS]
 
 =======================================
 ========== US Zoos & Museums ==========
