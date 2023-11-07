@@ -5304,6 +5304,134 @@ MGRMC   Mount Graham Regional Medical Center                        Safford, AZ
         Yavapai Regional Medical Center                             Prescott, AZ
         Yuma Regional Medical Center                                Yuma, AZ
 
+        Advanced Care Hospital of White County                      Searcy, AR
+        Arkansas Children's Hospital                                Little Rock, AR
+        Arkansas Children's Northwest Hospital                      Springdale, AR
+        Arkansas Heart Hospital                                     Little Rock, AR
+        Arkansas Methodist Medical Center                           Paragould, AR
+        Arkansas State Hospital                                     Little Rock, AR
+        Arkansas State Psychiatric Hospital                         Little Rock, AR
+        Arkansas Surgical Hospital                                  North Little Rock, AR
+        Ashley County Medical Center                                Crossett, AR
+        Baptist Health Extended Care Hospital                       Little Rock, AR
+        Baptist Health Fort Smith                                   Fort Smith, AR
+        Baptist Health Medical Center                               Little Rock, AR
+        Baptist Health Medical Center North Little Rock             North Little Rock, AR
+        Baptist Health Medical Center-Arkadelphia                   Arkadelphia, AR
+        Baptist Health Medical Center-Conway                        Conway, AR
+        Baptist Health Medical Center-Heber Springs                 Heber Springs, AR
+        Baptist Health Medical Center-Hot Spring County             Malvern, AR
+        Baptist Health Medical Center-Stuttgart                     Stuttgart, AR
+        Baptist Health Rehabilitation Institute                     Little Rock, AR
+        Baptist Health-Van Buren                                    Van Buren, AR
+        Baptist Memorial Hospital-Crittenden                        West Memphis, AR
+        Baxter Regional Medical Center                              Mountain Home, AR
+        Bradley County Medical Center                               Warren, AR
+        Cabot Emergency Hospital                                    Cabot , AR
+        Carroll Regional Medical Center                             Berryville, AR
+        Central Arkansas Veterans Healthcare System                 Little Rock, AR
+        Chambers Memorial Hospital                                  Danville, AR
+        CHI St. Vincent Hospital Hot Springs                        Hot Springs, AR
+        CHI St. Vincent Hot Springs Rehabilitation Hospital         Hot Springs, AR
+        CHI St. Vincent Infirmary                                   Little Rock, AR
+        CHI St. Vincent Morrilton                                   Morrilton, AR
+        CHI St. Vincent North                                       Sherwood, AR
+        CHI St. Vincent Rehabilitation Hospital                     Sherwood, AR
+        Chicot Memorial Medical Center                              Lake Village, AR
+        Christus Dubuis Hospital                                    Fort Smith, AR
+        Christus Dubuis of Hot Springs                              Hot Springs, AR
+        Conway Regional Medical Center                              Conway, AR
+        Conway Regional Rehabilitation Hospital                     Conway, AR
+        Cornerstone Hospital Little Rock                            Little Rock, AR
+        Cornerstone Specialty Hospital                              Little Rock, AR
+        CrossRidge Community Hospital                               Wynne, AR
+        Dallas County Medical Center                                Fordyce, AR
+        Dardanelle Regional Medical Center                          Dardanelle, AR
+        De Queen Medical Center                                     De Queen, AR
+        Delta Memorial Hospital                                     Dumas, AR
+        DeWitt Hospital & Nursing Home                              DeWitt, AR
+        Drew Memorial Hospital                                      Monticello, AR
+        Encompass Health Rehabilitation Hospital                    Fort Smith, AR
+        Encompass Health Rehabilitation Hospital                    Fayetteville, AR
+        Encompass Health Rehabilitation Hospital of Jonesboro       Jonesboro, AR
+        Eureka Springs Hospital                                     Eureka Springs, AR
+        Forrest City Medical Center                                 Forrest City, AR
+        Freedom Behavioral Hospital of Central Arkansas             Jacksonville, AR
+        Fulton County Hospital                                      Salem, AR
+        Great River Medical Center                                  Blytheville, AR
+        Harris Hospital                                             Newport, AR
+        Helena Regional Medical Center                              Helena-West Helena, AR
+        Howard Memorial Hospital                                    Nashville, AR
+        Izard County Medical Center                                 Calico Rock, AR
+        Jefferson Regional Medical Center                           Pine Bluff, AR
+        John L. McClellan Memorial Veterans Hospital                Little Rock, AR
+        Johnson Regional Medical Center                             Clarksville, AR
+        Lawrence Memorial Hospital                                  Walnut Ridge, AR
+        Levi Hospital                                               Hot Springs, AR
+        Little River Memorial Hospital                              Ashdown, AR
+        Magnolia Regional Medical Center                            Magnolia, AR
+        McGehee Hospital                                            McGehee, AR
+        Medical Center of South Arkansas                            El Dorado, AR
+        Mena Regional Health System                                 Mena, AR
+        Mercy Emergency Department                                  Bella Vista, AR
+        Mercy Hospital Berryville                                   Berryville, AR
+        Mercy Hospital Booneville                                   Booneville, AR
+        Mercy Hospital Fort Smith                                   Fort Smith, AR
+        Mercy Hospital Hot Springs                                  Hot Springs, AR
+        Mercy Hospital Northwest Arkansas                           Springdale, AR
+        Mercy Hospital Northwest Arkansas                           Rogers, AR
+        Mercy Hospital Ozark                                        Ozark, AR
+        Mercy Hospital Paris                                        Paris, AR
+        Mercy Hospital Waldron                                      Waldron, AR
+        Mercy Orthopedic Hospital                                   Fort Smith, AR
+        Methodist Behavioral Hospital                               Maumelle, AR
+        National Park Medical Center                                Hot Springs, AR
+        NEA Baptist Memorial Hospital                               Jonesboro, AR
+        NEA Medical Center                                          Jonesboro, AR
+        North Arkansas Regional Medical Center                      Harrison, AR
+        North Metro Medical Center                                  Jacksonville, AR
+        Northwest Health Emergency Department                       Fayetteville, AR
+        Northwest Health Physicians' Specialty Hospital             Fayetteville, AR
+        Northwest Medical Center                                    Springdale, AR
+        Northwest Medical Center - Willow Creek Women's Hospital    Johnson, AR
+        Northwest Medical Center Behavioral Health Unit             Springdale, AR
+        Northwest Medical Center-Bentonville                        Bentonville, AR
+        Ouachita County Medical Center                              Camden, AR
+        Ozark Health Medical Center                                 Clinton, AR
+        Ozarks Community Hospital                                   Gravette, AR
+        Parkhill The Clinic for Women                               Fayetteville, AR
+        Piggott Health System                                       Piggott, AR
+        Pinnacle Pointe Hospital                                    Little Rock, AR
+        Rebsamen Regional Medical Center                            Jacksonville, AR
+        Regency Hospital                                            Springdale, AR
+        Rivendell Behavioral Health Services                        Benton, AR
+        River Valley Medical Center                                 Dardanelle, AR
+        Riverview Behavioral Health                                 Texarkana, AR
+        Saline Memorial Hospital                                    Benton, AR
+        Select Specialty Hospital                                   Fort Smith, AR
+        Select Specialty Hospital-Fort Smith                        Fort Smith, AR
+        Siloam Springs Regional Hospital                            Siloam Springs, AR
+        South Mississippi County Regional Medical Center            Osceola, AR
+        Springwoods Behavioral Health Services                      Fayetteville, AR
+        St. Anthony's Healthcare Center                             Morrilton, AR
+        St. Bernards Behavioral Health Hospital                     Jonesboro, AR
+        St. Bernards Five Rivers Medical Center                     Pocahontas, AR
+        St. Bernards Medical Center                                 Jonesboro, AR
+        St. Mary's Regional Medical Center                          Russellville, AR
+        Stone County Medical Center                                 Mountain View, AR
+        Summit Medical Center                                       Van Buren, AR
+        Surgical Hospital of Jonesboro                              Jonesboro, AR
+        The BridgeWay                                               North Little Rock, AR
+        UAMS Medical Center                                         Little Rock, AR
+        Unity Health                                                Searcy, AR
+        Valley Behavioral Health System                             Barling, AR
+        Vantage Point Behavioral Health Hospital                    Fayetteville, AR
+        Vantage Point of Northwest Arkansas                         Fayetteville, AR
+        Veterans Health Care System of the Ozarks                   Fayetteville, AR
+        Wadley Regional Medical Center at Hope                      Hope, AR
+        Washington Regional Medical Center                          Fayetteville, AR
+        White River Medical Center                                  Batesville, AR
+
         Adventist Health Simi Valley                                Simi Valley, CA
             f. Simi Valley Hospital                                 Simi Valley, CA
         Adventist Health St. Helena                                 St. Helena, CA
@@ -5774,254 +5902,183 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Whittier Hospital Medical Center                            Los Angeles, CA
         Woodland Memorial Hospital                                  Woodland, CA
 
-        Advanced Care Hospital of White County                      Searcy, AR
-        Arkansas Children's Hospital                                Little Rock, AR
-        Arkansas Children's Northwest Hospital                      Springdale, AR
-        Arkansas Heart Hospital                                     Little Rock, AR
-        Arkansas Methodist Medical Center                           Paragould, AR
-        Arkansas State Hospital                                     Little Rock, AR
-        Arkansas State Psychiatric Hospital                         Little Rock, AR
-        Arkansas Surgical Hospital                                  North Little Rock, AR
-        Ashley County Medical Center                                Crossett, AR
-        Baptist Health Extended Care Hospital                       Little Rock, AR
-        Baptist Health Fort Smith                                   Fort Smith, AR
-        Baptist Health Medical Center                               Little Rock, AR
-        Baptist Health Medical Center North Little Rock             North Little Rock, AR
-        Baptist Health Medical Center-Arkadelphia                   Arkadelphia, AR
-        Baptist Health Medical Center-Conway                        Conway, AR
-        Baptist Health Medical Center-Heber Springs                 Heber Springs, AR
-        Baptist Health Medical Center-Hot Spring County             Malvern, AR
-        Baptist Health Medical Center-Stuttgart                     Stuttgart, AR
-        Baptist Health Rehabilitation Institute                     Little Rock, AR
-        Baptist Health-Van Buren                                    Van Buren, AR
-        Baptist Memorial Hospital-Crittenden                        West Memphis, AR
-        Baxter Regional Medical Center                              Mountain Home, AR
-        Bradley County Medical Center                               Warren, AR
-        Cabot Emergency Hospital                                    Cabot , AR
-        Carroll Regional Medical Center                             Berryville, AR
-        Central Arkansas Veterans Healthcare System                 Little Rock, AR
-        Chambers Memorial Hospital                                  Danville, AR
-        CHI St. Vincent Hospital Hot Springs                        Hot Springs, AR
-        CHI St. Vincent Hot Springs Rehabilitation Hospital         Hot Springs, AR
-        CHI St. Vincent Infirmary                                   Little Rock, AR
-        CHI St. Vincent Morrilton                                   Morrilton, AR
-        CHI St. Vincent North                                       Sherwood, AR
-        CHI St. Vincent Rehabilitation Hospital                     Sherwood, AR
-        Chicot Memorial Medical Center                              Lake Village, AR
-        Christus Dubuis Hospital                                    Fort Smith, AR
-        Christus Dubuis of Hot Springs                              Hot Springs, AR
-        Conway Regional Medical Center                              Conway, AR
-        Conway Regional Rehabilitation Hospital                     Conway, AR
-        Cornerstone Hospital Little Rock                            Little Rock, AR
-        Cornerstone Specialty Hospital                              Little Rock, AR
-        CrossRidge Community Hospital                               Wynne, AR
-        Dallas County Medical Center                                Fordyce, AR
-        Dardanelle Regional Medical Center                          Dardanelle, AR
-        De Queen Medical Center                                     De Queen, AR
-        Delta Memorial Hospital                                     Dumas, AR
-        DeWitt Hospital & Nursing Home                              DeWitt, AR
-        Drew Memorial Hospital                                      Monticello, AR
-        Encompass Health Rehabilitation Hospital                    Fort Smith, AR
-        Encompass Health Rehabilitation Hospital                    Fayetteville, AR
-        Encompass Health Rehabilitation Hospital of Jonesboro       Jonesboro, AR
-        Eureka Springs Hospital                                     Eureka Springs, AR
-        Forrest City Medical Center                                 Forrest City, AR
-        Freedom Behavioral Hospital of Central Arkansas             Jacksonville, AR
-        Fulton County Hospital                                      Salem, AR
-        Great River Medical Center                                  Blytheville, AR
-        Harris Hospital                                             Newport, AR
-        Helena Regional Medical Center                              Helena-West Helena, AR
-        Howard Memorial Hospital                                    Nashville, AR
-        Izard County Medical Center                                 Calico Rock, AR
-        Jefferson Regional Medical Center                           Pine Bluff, AR
-        John L. McClellan Memorial Veterans Hospital                Little Rock, AR
-        Johnson Regional Medical Center                             Clarksville, AR
-        Lawrence Memorial Hospital                                  Walnut Ridge, AR
-        Levi Hospital                                               Hot Springs, AR
-        Little River Memorial Hospital                              Ashdown, AR
-        Magnolia Regional Medical Center                            Magnolia, AR
-        McGehee Hospital                                            McGehee, AR
-        Medical Center of South Arkansas                            El Dorado, AR
-        Mena Regional Health System                                 Mena, AR
-        Mercy Emergency Department                                  Bella Vista, AR
-        Mercy Hospital Berryville                                   Berryville, AR
-        Mercy Hospital Booneville                                   Booneville, AR
-        Mercy Hospital Fort Smith                                   Fort Smith, AR
-        Mercy Hospital Hot Springs                                  Hot Springs, AR
-        Mercy Hospital Northwest Arkansas                           Springdale, AR
-        Mercy Hospital Northwest Arkansas                           Rogers, AR
-        Mercy Hospital Ozark                                        Ozark, AR
-        Mercy Hospital Paris                                        Paris, AR
-        Mercy Hospital Waldron                                      Waldron, AR
-        Mercy Orthopedic Hospital                                   Fort Smith, AR
-        Methodist Behavioral Hospital                               Maumelle, AR
-        National Park Medical Center                                Hot Springs, AR
-        NEA Baptist Memorial Hospital                               Jonesboro, AR
-        NEA Medical Center                                          Jonesboro, AR
-        North Arkansas Regional Medical Center                      Harrison, AR
-        North Metro Medical Center                                  Jacksonville, AR
-        Northwest Health Emergency Department                       Fayetteville, AR
-        Northwest Health Physicians' Specialty Hospital             Fayetteville, AR
-        Northwest Medical Center                                    Springdale, AR
-        Northwest Medical Center - Willow Creek Women's Hospital    Johnson, AR
-        Northwest Medical Center Behavioral Health Unit             Springdale, AR
-        Northwest Medical Center-Bentonville                        Bentonville, AR
-        Ouachita County Medical Center                              Camden, AR
-        Ozark Health Medical Center                                 Clinton, AR
-        Ozarks Community Hospital                                   Gravette, AR
-        Parkhill The Clinic for Women                               Fayetteville, AR
-        Piggott Health System                                       Piggott, AR
-        Pinnacle Pointe Hospital                                    Little Rock, AR
-        Rebsamen Regional Medical Center                            Jacksonville, AR
-        Regency Hospital                                            Springdale, AR
-        Rivendell Behavioral Health Services                        Benton, AR
-        River Valley Medical Center                                 Dardanelle, AR
-        Riverview Behavioral Health                                 Texarkana, AR
-        Saline Memorial Hospital                                    Benton, AR
-        Select Specialty Hospital                                   Fort Smith, AR
-        Select Specialty Hospital-Fort Smith                        Fort Smith, AR
-        Siloam Springs Regional Hospital                            Siloam Springs, AR
-        South Mississippi County Regional Medical Center            Osceola, AR
-        Springwoods Behavioral Health Services                      Fayetteville, AR
-        St. Anthony's Healthcare Center                             Morrilton, AR
-        St. Bernards Behavioral Health Hospital                     Jonesboro, AR
-        St. Bernards Five Rivers Medical Center                     Pocahontas, AR
-        St. Bernards Medical Center                                 Jonesboro, AR
-        St. Mary's Regional Medical Center                          Russellville, AR
-        Stone County Medical Center                                 Mountain View, AR
-        Summit Medical Center                                       Van Buren, AR
-        Surgical Hospital of Jonesboro                              Jonesboro, AR
-        The BridgeWay                                               North Little Rock, AR
-        UAMS Medical Center                                         Little Rock, AR
-        Unity Health                                                Searcy, AR
-        Valley Behavioral Health System                             Barling, AR
-        Vantage Point Behavioral Health Hospital                    Fayetteville, AR
-        Vantage Point of Northwest Arkansas                         Fayetteville, AR
-        Veterans Health Care System of the Ozarks                   Fayetteville, AR
-        Wadley Regional Medical Center at Hope                      Hope, AR
-        Washington Regional Medical Center                          Fayetteville, AR
-        White River Medical Center                                  Batesville, AR
+        AdventHealth Avista                                         Louisville, CO
+        AdventHealth Castle Rock                                    Castle Rock, CO
+        AdventHealth Littleton                                      Littleton, CO
+        AdventHealth Parker                                         Parker, CO
+        AdventHealth Porter                                         Denver, CO
+        Animas Surgical Hospital                                    Durango, CO
+        Arkansas Valley Regional Medical Center                     La Junta, CO
+        Aspen Valley Hospital                                       Aspen, CO
+        Banner Fort Collins Medical Center                          Fort Collins, CO
+        Cedar Springs Behavioral Hospital                           Colorado Springs, CO
+        Centennial Peaks Hospital                                   Louisville, CO
+        Children's Hospital Colorado                                Aurora, CO
+        Children's Hospital Colorado, Colorado Springs              Colorado Springs, CO
+        Children's Hospital Colorado North Campus                   Broomfield, CO
+        Children's Hospital Colorado South Campus                   Highlands Ranch, CO
+        Clear View Behavioral Health                                Johnstown, CO
+        Colorado Acute Long Term Hospital                           Denver, CO
+        Colorado Mental Health Institute at Fort Logan              Denver, CO
+        Colorado Mental Health Institute at Pueblo                  Pueblo, CO
+        St. Elizabeth Hospital                                      Fort Morgan, CO
+        Community Hospital                                          Grand Junction, CO
+        Conejos County Hospital                                     La Jara, CO
+        Craig Hospital                                              Englewood, CO
+        Delta County Memorial Hospital                              Delta, CO
+        Denver Health Medical Center                                Denver, CO
+        Denver Springs                                              Englewood, CO
+        East Morgan County Hospital                                 Brush, CO
+        Eating Recovery Center a Behavioral Hospital                Denver, CO
+        Eating Recovery Center a Behavioral Hospital for Children   Denver, CO
+        Eating Recovery Center Behavioral Health                    Denver, CO
+        Estes Park Medical Center                                   Estes Park, CO
+        Evans Army Community Hospital                               Fort Carson, CO
+        Family Health West Hospital                                 Fruita, CO
+        Foothills Hospital                                          Boulder, CO
+        Good Samaritan Medical Center                               Lafayette, CO
+        Grand River Health                                          Rifle, CO
+        Gunnison Valley Hospital                                    Gunnison, CO
+        Haxtun Hospital District                                    Haxtun, CO
+        HealthSouth Rehabilitation Hospital of Colorado Springs     Colorado Springs, CO
+        HealthSouth Rehabilitation Hospital of Littleton            Littleton, CO
+        Heart of the Rockies Regional Medical Center                Salida, CO
+        Highlands Behavioral Health System                          Highlands Ranch, CO
+        Keefe Memorial Hospital                                     Cheyenne Wells, CO
+        Kindred Hospital - Denver                                   Denver, CO
+        Kindred Hospital - Denver                                   South Denver, CO
+        Kindred Hospital Aurora                                     Aurora, CO
+        Kit Carson County Memorial Hospital                         Burlington, CO
+        Lincoln Community Hospital                                  Hugo, CO
+        Longmont United Hospital                                    Longmont, CO
+        Longs Peak Hospital                                         Longmont, CO
+        Lutheran Medical Center                                     Wheat Ridge, CO
+        McKee Medical Center                                        Loveland, CO
+        Medical Center of the Rockies                               Loveland, CO
+        Melissa Memorial Hospital                                   Holyoke, CO
+        Memorial Hospital Central                                   Colorado Springs, CO
+        Memorial Hospital North                                     Colorado Springs, CO
+        Mercy Regional Medical Center                               Durango, CO
+        Middle Park Medical Center                                  Kremmling, CO
+        Middle Park Medical Center - Granby                         Granby, CO
+        Montrose Memorial Hospital                                  Montrose, CO
+        Mt. San Rafael Hospital                                     Trinidad, CO
+        National Jewish Health                                      Denver, CO
+        North Colorado Medical Center                               Greeley, CO
+        North Suburban Medical Center                               Thornton, CO
+        Northern Colorado Long Term Acute Hospital                  Johnstown, CO
+        Northern Colorado Rehabilitation Hospital                   Johnstown, CO
+        OrthoColorado Hospital at St. Anthony Medical Campus        Lakewood, CO
+        Pagosa Springs Medical Center                               Pagosa Springs, CO
+        Parkview Medical Center                                     Pueblo, CO
+        Peak View Behavioral Health                                 Colorado Springs, CO
+        Penrose Hospital                                            Colorado Springs, CO
+        Pikes Peak Regional Hospital                                Woodland, CO
+        Pioneers Medical Center                                     Meeker, CO
+        Platte Valley Medical Center                                Brighton, CO
+        Poudre Valley Hospital                                      Fort Collins, CO
+        Presbyterian/St. Luke's Medical Center                      Denver, CO
+        Prowers Medical Center                                      Lamar, CO
+        Rangely District Hospital                                   Rangely, CO
+        Rio Grande Hospital                                         Del Norte, CO
+        Rose Medical Center                                         Denver, CO
+        Saint Joseph Hospital                                       Denver, CO
+        San Luis Valley Regional Medical Center                     Alamosa, CO
+        SCL Health Community Hospital - Northglenn                  Northglenn, CO
+        SCL Health Community Hospital - Southwest                   Littleton, CO
+        SCL Health Community Hospital - Westminster                 Westminster, CO
+        Sedgwick County Memorial Hospital                           Julesburg, CO
+        Sky Ridge Medical Center                                    Lone Tree, CO
+        Southeast Colorado Hospital                                 Springfield, CO
+        Southwest Memorial Hospital                                 Cortez, CO
+        Spalding Rehabilitation Hospital                            Aurora, CO
+        Spanish Peaks Regional Health Center                        Walsenberg, CO
+        St. Anthony Hospital                                        Lakewood, CO
+        St. Anthony North Health Campus                             Westminster, CO
+        St. Anthony Summit Medical Center                           Frisco, CO
+        St. Elizabeth Hospital                                      Fort Morgan, CO
+        St. Francis Medical Center                                  Colorado Springs, CO
+        St Francis Hospital - Interquest                            Colorado Springs, CO
+        St. Mary's Medical Center                                   Grand Junction, CO
+        St. Mary-Corwin Medical Center                              Pueblo, CO
+        St. Thomas More Hospital                                    Cañon City, CO
+        St. Vincent General Hospital District                       Leadville, CO
+        Sterling Regional MedCenter                                 Sterling, CO
+        Swedish Medical Center                                      Englewood, CO
+        Telluride Regional Medical Center                           Telluride, CO
+        The Medical Center of Aurora                                Aurora, CO
+        The Memorial Hospital                                       Craig, CO
+        UCHealth Broomfield Hospital                                Broomfield, CO
+        UCHealth Grandview Hospital                                 Colorado Springs, CO
+        UCHealth Highlands Ranch Hospital                           Highlands Ranch, CO
+        UCHealth Greeley Hospital                                   Greeley, CO
+        University of Colorado Hospital                             Aurora, CO
+        Vail Health Hospital                                        Vail, CO
+        Valley View Hospital                                        Glenwood Springs, CO
+        Vibra Long Term Acute Care Hospital                         Thornton, CO
+        Weisbrod Memorial County Hospital                           Eads, CO
+        West Springs Hospital                                       Grand Junction, CO
+        Wray Community District Hospital                            Wray, CO
+        Yampa Valley Medical Center Steamboat                       Springs, CO
+        Yuma District Hospital                                      Yuma, CO
 
+        Backus Hospital                                             Norwich, CT
+        Bridgeport Hospital                                         Bridgeport, CT
+        Bristol Hospital                                            Bristol, CT
+        Charlotte Hungerford Hospital                               Torrington, CT
+        Connecticut Children's Medical Center                       Hartford, CT
+        Connecticut Hospice                                         Branford, CT
+        Connecticut Valley Hospital                                 Middletown, CT
+        Danbury Hospital                                            Danbury, CT
+        Day Kimball Hospital                                        Putnam, CT
+        Gaylord Hospital                                            Wallingford, CT
+        Greenwich Hospital                                          Greenwich, CT
+        Griffin Hospital                                            Derby, CT
+        Hartford Hospital                                           Hartford, CT
+        Hospital for Special Care                                   New Britain, CT
+        Hospital of Central Connecticut, The (Bradley Memorial)     Southington, CT
+        Hospital of Central Connecticut, The (New Britain)          New Britain, CT
+        John Dempsey Hospital                                       Farmington, CT
+        Johnson Memorial Hospital                                   Stafford Springs, CT
+        Lawrence+Memorial Hospital                                  New London, CT
+        Manchester Memorial Hospital                                Manchester, CT
+        Middlesex Hospital                                          Middletown, CT
+        MidState Medical Center                                     Meriden, CT
+        Milford Hospital                                            Milford, CT
+        Mt. Sinai Hospital                                          Hartford, CT
+        Natchaug Hospital                                           Mansfield, CT
+        New Milford Hospital                                        New Milford, CT
+        Newington Campus                                            Newington, CT
+        Norwalk Hospital                                            Norwalk, CT
+        Rockville General Hospital                                  Vernon, CT
+        Saint Francis Hospital & Medical Center                     Hartford, CT
+        Saint Mary's Hospital                                       Waterbury, CT
+        Sharon Hospital                                             Sharon, CT
+        Silver Hill Hospital                                        New Canaan, CT
+        St. Vincent's Medical Center                                Bridgeport, CT
+        Stamford Hospital                                           Stamford, CT
+        The Institute of Living                                     Hartford, CT
+        Waterbury Hospital                                          Waterbury, CT
+        West Haven Campus                                           West Haven, CT
+        Windham Hospital                                            Willimantic, CT
+        Yale New Haven Children's Hospital                          New Haven, CT
+        Yale New Haven Hospital                                     New Haven, CT
+        Yale New Haven Psychiatric Hospital                         New Haven, CT
 
-        AdventHealth Avista                                         Louisville
-        AdventHealth Castle Rock                                    Castle Rock
-        AdventHealth Littleton                                      Littleton
-        AdventHealth Parker                                         Parker
-        AdventHealth Porter                                         Denver
-        Animas Surgical Hospital                                    Durango
-        Arkansas Valley Regional Medical Center                     La Junta
-        Aspen Valley Hospital                                       Aspen
-        Banner Fort Collins Medical Center                          Fort Collins
-        Cedar Springs Behavioral Hospital                           Colorado Springs
-        Centennial Peaks Hospital                                   Louisville
-        Children's Hospital Colorado                                Aurora
-        Children's Hospital Colorado, Colorado Springs              Colorado Springs
-        Children's Hospital Colorado North Campus                   Broomfield
-        Children's Hospital Colorado South Campus                   Highlands Ranch
-        Clear View Behavioral Health                                Johnstown
-        Colorado Acute Long Term Hospital                           Denver
-        Colorado Mental Health Institute at Fort Logan              Denver
-        Colorado Mental Health Institute at Pueblo                  Pueblo
-        St. Elizabeth Hospital                                      Fort Morgan
-        Community Hospital                                          Grand Junction
-        Conejos County Hospital                                     La Jara
-        Craig Hospital                                              Englewood
-        Delta County Memorial Hospital                              Delta
-        Denver Health Medical Center                                Denver
-        Denver Springs                                              Englewood
-        East Morgan County Hospital                                 Brush
-        Eating Recovery Center a Behavioral Hospital                Denver
-        Eating Recovery Center a Behavioral Hospital for Children   Denver
-        Eating Recovery Center Behavioral Health                    Denver
-        Estes Park Medical Center                                   Estes Park
-        Evans Army Community Hospital                               Fort Carson
-        Family Health West Hospital                                 Fruita
-        Foothills Hospital                                          Boulder
-        Good Samaritan Medical Center                               Lafayette
-        Grand River Health                                          Rifle
-        Gunnison Valley Hospital                                    Gunnison
-        Haxtun Hospital District                                    Haxtun
-        HealthSouth Rehabilitation Hospital of Colorado Springs     Colorado Springs
-        HealthSouth Rehabilitation Hospital of Littleton            Littleton
-        Heart of the Rockies Regional Medical Center                Salida
-        Highlands Behavioral Health System                          Highlands Ranch
-        Keefe Memorial Hospital                                     Cheyenne Wells
-        Kindred Hospital - Denver                                   Denver
-        Kindred Hospital - Denver                                   South Denver
-        Kindred Hospital Aurora                                     Aurora
-        Kit Carson County Memorial Hospital                         Burlington
-        Lincoln Community Hospital                                  Hugo
-        Longmont United Hospital                                    Longmont
-        Longs Peak Hospital                                         Longmont
-        Lutheran Medical Center                                     Wheat Ridge
-        McKee Medical Center                                        Loveland
-        Medical Center of the Rockies                               Loveland
-        Melissa Memorial Hospital                                   Holyoke
-        Memorial Hospital Central                                   Colorado Springs
-        Memorial Hospital North                                     Colorado Springs
-        Mercy Regional Medical Center                               Durango
-        Middle Park Medical Center                                  Kremmling
-        Middle Park Medical Center - Granby                         Granby
-        Montrose Memorial Hospital                                  Montrose
-        Mt. San Rafael Hospital                                     Trinidad
-        National Jewish Health                                      Denver
-        North Colorado Medical Center                               Greeley
-        North Suburban Medical Center                               Thornton
-        Northern Colorado Long Term Acute Hospital                  Johnstown
-        Northern Colorado Rehabilitation Hospital                   Johnstown
-        OrthoColorado Hospital at St. Anthony Medical Campus        Lakewood
-        Pagosa Springs Medical Center                               Pagosa Springs
-        Parkview Medical Center                                     Pueblo
-        Peak View Behavioral Health                                 Colorado Springs
-        Penrose Hospital                                            Colorado Springs
-        Pikes Peak Regional Hospital                                Woodland
-        Pioneers Medical Center                                     Meeker
-        Platte Valley Medical Center                                Brighton
-        Poudre Valley Hospital                                      Fort Collins
-        Presbyterian/St. Luke's Medical Center                      Denver
-        Prowers Medical Center                                      Lamar
-        Rangely District Hospital                                   Rangely
-        Rio Grande Hospital                                         Del Norte
-        Rose Medical Center                                         Denver
-        Saint Joseph Hospital                                       Denver
-        San Luis Valley Regional Medical Center                     Alamosa
-        SCL Health Community Hospital - Northglenn                  Northglenn
-        SCL Health Community Hospital - Southwest                   Littleton
-        SCL Health Community Hospital - Westminster                 Westminster
-        Sedgwick County Memorial Hospital                           Julesburg
-        Sky Ridge Medical Center                                    Lone Tree
-        Southeast Colorado Hospital                                 Springfield
-        Southwest Memorial Hospital                                 Cortez
-        Spalding Rehabilitation Hospital                            Aurora
-        Spanish Peaks Regional Health Center                        Walsenberg
-        St. Anthony Hospital                                        Lakewood
-        St. Anthony North Health Campus                             Westminster
-        St. Anthony Summit Medical Center                           Frisco
-        St. Elizabeth Hospital                                      Fort Morgan
-        St. Francis Medical Center                                  Colorado Springs
-        St Francis Hospital - Interquest                            Colorado Springs
-        St. Mary's Medical Center                                   Grand Junction
-        St. Mary-Corwin Medical Center                              Pueblo
-        St. Thomas More Hospital                                    Cañon City
-        St. Vincent General Hospital District                       Leadville
-        Sterling Regional MedCenter                                 Sterling
-        Swedish Medical Center                                      Englewood
-        Telluride Regional Medical Center                           Telluride
-        The Medical Center of Aurora                                Aurora
-        The Memorial Hospital                                       Craig
-        UCHealth Broomfield Hospital                                Broomfield
-        UCHealth Grandview Hospital                                 Colorado Springs
-        UCHealth Highlands Ranch Hospital                           Highlands Ranch
-        UCHealth Greeley Hospital                                   Greeley
-        University of Colorado Hospital                             Aurora
-        Vail Health Hospital                                        Vail
-        Valley View Hospital                                        Glenwood Springs
-        Vibra Long Term Acute Care Hospital                         Thornton
-        Weisbrod Memorial County Hospital                           Eads
-        West Springs Hospital                                       Grand Junction
-        Wray Community District Hospital                            Wray
-        Yampa Valley Medical Center Steamboat                       Springs
-        Yuma District Hospital                                      Yuma
+        Bayhealth Emergency Center                                  Smyrna, DE
+        Bayhealth Hospital (Kent)                                   Dover, DE
+        Bayhealth Hospital (Sussex)                                 Milford , DE
+        Beebe Medical Center                                        Lewes, DE
+        Christiana Hospital                                         Newark, DE
+        Delaware Hospital for the Chronically Ill                   Smyrna, DE
+        Delaware Psychiatric Center                                 Wilmington, DE
+        Middletown Emergency Department                             Middletown, DE
+        Nemours Children's Hospital, Delaware                       Wilmington, DE
+        Saint Francis Healthcare                                    Wilmington, DE
+        South Coastal Health Campus Emergency Department            Millville, DE
+        TidalHealth Nanticoke                                       Seaford, DE
+        Wilmington Hospital                                         Wilmington, DE
+        Wilmington VA Medical Center                                Elsmere, DE
 
 
 ========== defunct ==========
@@ -6114,4 +6171,15 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Robert F. Kennedy Medical Center                            Los Angeles, CA
         University Hospital                                         Los Angeles, CA
 
+        Cedarcrest Hospital                                         Newington, CT
+        Elmcrest Hospital                                           Portland, CT
+        Hospital of Saint Raphael                                   New Haven, CT
+        Knight Hospital                                             Mansfield, CT
+        Newington Children's Hospital                               Newington, CT
+        Norwich State Hospital                                      Preston, CT
+        Park City Hospital                                          Bridgeport, CT
+        Seaside Regional Center                                     Waterford, CT
+        St. Joseph's Medical Center                                 Stamford, CT
+        Uncas on Thames Hospital                                    Norwich, CT
+        Winsted Memorial Hospital                                   Winsted, CT
 
