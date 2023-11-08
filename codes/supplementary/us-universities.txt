@@ -3768,9 +3768,9 @@ Note: Often times it's important to narrative to create a fictional corporation/
 9024    Union Graduate College                                          Schenectady, NY
 9025    Utica School of Commerce                                        Utica, NY
 9026    John Wesley University                                          High Point, NC
-9027    Assumption College                                                  Richardton, ND
-9028    Dakota Business College                                               Fargo, ND
-9029    North Dakota State Normal and Industrial School                       Ellendale, ND 
+9027    Assumption College                                              Richardton, ND
+9028    Dakota Business College                                         Fargo, ND
+9029    North Dakota State Normal and Industrial School                 Ellendale, ND 
 9030    Chancellor University                                           Cleveland, OH
 9031    Cincinnati Christian University                                 Cincinnati, OH
 9032    Edgecliff College                                               Cincinnati, OH
