@@ -3884,7 +3884,7 @@ Note: Often times it's important to narrative to create a fictional corporation/
 9140    Bishop College                                                  Marshall, TX
 9141    Guadalupe College                                               Seguin, TX
 9142    Ameritech College                                               Draper, UT
-9143    George Wythe University                                               Draper, UT
+9143    George Wythe University                                         Draper, UT
 9144    Burlington College                                              Burlington, VT
 9145    Castleton University                                            Castleton, VT
 9146    Castleton Medical College                                       Castleton, VT
