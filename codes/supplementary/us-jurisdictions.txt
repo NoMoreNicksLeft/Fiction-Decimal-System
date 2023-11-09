@@ -81,7 +81,7 @@ It's not as if we're going to be creating many new counties anytime soon.
 0048    West Virginia
 0049    Wisconsin
 0050    Wyoming
-    0050-0059 - [RESERVED FOR CREATION OF NEW US STATES]
+    0051-0059 - [RESERVED FOR CREATION OF NEW US STATES]
 0060    Guam
 0061    Northern Mariana Islands
 0062    Puerto Rico
