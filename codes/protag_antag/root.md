@@ -1,4 +1,4 @@
-<code>[0 - ]()  
+<code>[0 - People]()  
 [1 - Military]()  
 [2 - Law Enforcement](/codes/protag_antag/2.md)  
 [3 - Criminals]()  
