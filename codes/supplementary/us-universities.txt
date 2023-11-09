@@ -3261,7 +3261,63 @@ Note: Alphabetized by state, then by university name. In most cases, both a "cam
 
 Note: Often times it's important to narrative to create a fictional corporation/company/etc but not specify its location too precisely. Rather than have one code for "fictional US college", instead we'll have per-state and a few per-city codes.
 
-8500
+8500    College or University in United States Fabricated by Author
+8501    College or University in Alabama Fabricated by Author
+8502    College or University in Alaska Fabricated by Author
+8503    College or University in Arizona Fabricated by Author
+8504    College or University in Arkansas Fabricated by Author
+8505    College or University in California Fabricated by Author
+8506    College or University in Colorado Fabricated by Author
+8507    College or University in Connecticut Fabricated by Author
+8508    College or University in Delaware Fabricated by Author
+8509    College or University in Florida Fabricated by Author
+8510    College or University in Georgia Fabricated by Author
+8511    College or University in Hawaii Fabricated by Author
+8512    College or University in Idaho Fabricated by Author
+8513    College or University in Illinois Fabricated by Author
+8514    College or University in Indiana Fabricated by Author
+8515    College or University in Iowa Fabricated by Author
+8516    College or University in Kansas Fabricated by Author
+8517    College or University in Kentucky Fabricated by Author
+8518    College or University in Lousiana Fabricated by Author
+8519    College or University in Maine Fabricated by Author
+8520    College or University in Maryland Fabricated by Author
+8521    College or University in Massachusetts Fabricated by Author
+8522    College or University in Michigan Fabricated by Author
+8523    College or University in Minnesota Fabricated by Author
+8524    College or University in Mississippi Fabricated by Author
+8525    College or University in Missouri Fabricated by Author
+8526    College or University in Montana Fabricated by Author
+8527    College or University in Nebraska Fabricated by Author
+8528    College or University in Nevada Fabricated by Author
+8529    College or University in New Hampshire Fabricated by Author
+8530    College or University in New Jersey Fabricated by Author
+8531    College or University in New Mexico Fabricated by Author
+8532    College or University in New York Fabricated by Author
+8533    College or University in North Carolina Fabricated by Author
+8534    College or University in North Dakota Fabricated by Author
+8535    College or University in Ohio Fabricated by Author
+8536    College or University in Oklahoma Fabricated by Author
+8537    College or University in Oregon Fabricated by Author
+8538    College or University in Pennsylvania Fabricated by Author
+8539    College or University in Rhode Island Fabricated by Author
+8540    College or University in South Carolina Fabricated by Author
+8541    College or University in South Dakota Fabricated by Author
+8542    College or University in Tennessee Fabricated by Author
+8543    College or University in Texas Fabricated by Author
+8544    College or University in Utah Fabricated by Author
+8545    College or University in Vermont Fabricated by Author
+8546    College or University in Virginia Fabricated by Author
+8547    College or University in Washington Fabricated by Author
+8548    College or University in West Virginia Fabricated by Author
+8549    College or University in Wisconsin Fabricated by Author
+8550    College or University in Wyoming Fabricated by Author
+    8551-8559 - [RESERVED FOR CREATION OF NEW US STATES]
+8560    College or University in Guam Fabricated by Author
+8561    College or University in Northern Mariana Islands Fabricated by Author
+8562    College or University in Puerto Rico Fabricated by Author
+8563    College or University in US Virgin Islands Fabricated by Author
+    8564-8599 - [RESERVED]
 
 =======================================
 ======= Defunct US Universities =======
