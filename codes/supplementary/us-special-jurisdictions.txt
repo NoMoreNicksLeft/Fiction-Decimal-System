@@ -6762,6 +6762,341 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Wahiawa General Hospital                                    Wahiawa, HI
         Wilcox Memorial Hospital                                    Lihue, HI
 
+        Bear Lake Memorial Hospital                                 Montpelier, ID
+        Benewah Community Hospital                                  St. Maries, ID
+        Bingham Memorial Hospital                                   Blackfoot, ID
+        Boise Veterans Affairs Medical Center                       Boise, ID
+        Bonner General Hospital                                     Sandpoint, ID
+        Boundary Community Hospital                                 Bonners Ferry, ID
+        Caribou Memorial Hospital                                   Soda Springs, ID
+        Cascade Medical Center                                      Cascade, ID
+        Cassia Regional Medical Center                              Burley, ID
+        Clearwater Valley Hospital                                  Orofino, ID
+        Eastern Idaho Regional Medical Center                       Idaho Falls, ID
+        Franklin County Medical Center                              Preston, ID
+        Gritman Medical Center                                      Moscow, ID
+        Idaho Falls Community Hospital                              Idaho Falls, ID
+        Kootenai Health                                             Coeur d'Alene, ID
+        Lost Rivers Medical Center                                  Arco, ID
+        Madison Memorial Hospital                                   Rexburg, ID
+        Minidoka Memorial Hospital                                  Rupert, ID
+        Nell J. Redfield Memorial Hospital                          Malad, ID
+        North Canyon Medical Center                                 Gooding, ID
+        Portneuf Medical Center                                     Pocatello, ID
+        Power County Hospital                                       American Falls, ID
+        Saint Alphonsus Eagle                                       Eagle, ID
+        Saint Alphonsus Medical Center, Nampa                       Nampa, ID
+        Saint Alphonsus Neighborhood Hospital, South Nampa          Nampa, ID
+        Saint Alphonsus Regional Medical Center                     Boise, ID
+        Shoshone Medical Center                                     Kellogg, ID
+        St. Joseph Regional Medical Center                          Lewiston, ID
+        St. Luke's Boise Medical Center                             Boise, ID
+        St. Luke's Elmore Medical Center                            Mountain Home, ID
+        St. Luke's Fruitland                                        Fruitland, ID
+        St. Luke's Jerome                                           Jerome, ID
+        St. Luke's Magic Valley Medical Center                      Twin Falls, ID
+        St. Luke's McCall                                           McCall, ID
+        St. Luke's Meridian Medical Center                          Meridian, ID
+        St. Luke's Nampa Medical Center                             Nampa, ID
+        St. Luke's Wood River Medical Center                        Ketchum, ID
+        St. Mary's Hospital                                         Cottonwood, ID
+        Steele Memorial Medical Center                              Salmon, ID
+        Syringa General Hospital                                    Grangeville, ID
+        Teton Valley Hospital                                       Driggs, ID
+        Valor Health                                                Emmett, ID
+        Weiser Memorial Hospital                                    Weiser, ID
+        West Valley Medical Center                                  Caldwell, ID
+
+    Adams Memorial Hospital                                         Decatur, IN
+    Ascension St. Vincent Kokomo                                    Kokomo, IN
+    Bedford Regional Medical Center                                 Bedford, IN
+    BHC Valle Vista Hospital                                        Greenwood, IN
+    Bloomington Hospital of Orange County                           Paoli, IN
+    Bloomington Meadows Hospital                                    Bloomington, IN
+    Bluffton Regional Medical Center                                Bluffton, IN
+    Cameron Memorial Community Hospital                             Angola, IN
+    Clark Memorial Health                                           Jeffersonville, IN
+    Columbus Regional Health                                        Columbus, IN
+    Community Hospital                                              Munster, IN
+    Community Hospital, Anderson and Madison County                 Anderson, IN
+    Community Hospital, Bremen                                      Bremen, IN
+    Community Hospital East                                         Indianapolis, IN
+    Community Hospital North                                        Indianapolis, IN
+    Community Hospital South                                        Indianapolis, IN
+    Community Howard Regional Health                                Kokomo, IN
+    Community Mental Health Center                                  Lawrenceburg, IN
+    Daviess Community Hospital                                      Washington, IN
+    Deaconess Cross Pointe Center                                   Evansville, IN
+    Deaconess Gateway and Women's Hospital                          Newburgh, IN
+    Deaconess Hospital                                              Evansville, IN
+    Dearborn County Hospital                                        Lawrenceburg, IN
+    Decatur County Memorial Hospital                                Greensburg, IN
+    DeKalb Memorial Hospital                                        Auburn, IN
+    Dukes Memorial Hospital                                         Peru, IN
+    Dunn Memorial Hospital                                          Bedford, IN
+    Dupont Hospital                                                 Fort Wayne, IN
+    Elkhart General Hospital                                        Elkhart, IN
+    Evansville Psychiatric Children's Center                        Evansville, IN
+    Fayette Memorial Hospital Association                           Connersville, IN
+    Floyd Memorial Hospital and Health Services                     New Albany, IN
+    Four County Counseling Center                                   Logansport, IN
+    Franciscan Health, Carmel                                       Carmel, IN
+    Franciscan Health, Crawfordsville                               Crawfordsville, IN
+    Franciscan Health, Crown Point                                  Crown Point, IN
+    Franciscan Health, Dyer                                         Dyer, IN
+    Franciscan Health, Hammond                                      Hammond, IN
+    Franciscan Health, Indianapolis                                 Indianapolis, IN
+    Franciscan Health, Lafayette Central                            Lafayette, IN
+    Franciscan Health, Lafayette East                               Lafayette, IN
+    Franciscan Health, Michigan City                                Michigan City, IN
+    Franciscan Health, Mooresville                                  Mooresville, IN
+    Franciscan Health, Munster                                      Munster, IN
+    Franciscan Health, Rensselaer                                   Rensselaer, IN
+    Gibson General Hospital                                         Princeton, IN
+    Greene County General Hospital                                  Linton, IN
+    Good Samaritan Hospital                                         Vincennes, IN
+    Goshen General Hospital                                         Goshen, IN
+    Grant-Blackford Mental Health                                   Marion, IN
+    Greene County General Hospital                                  Linton, IN
+    Hamilton Center                                                 Terre Haute, IN
+    Hancock Regional Hospital                                       Greenfield, IN
+    Harrison County Hospital                                        Corydon, IN
+    HealthSouth Deaconess Rehabilitation Hospital                   Evansville, IN
+    HealthSouth Hospital of Terre Haute                             Terre Haute, IN
+    Heart Center of Indiana                                         Indianapolis, IN
+    Hendricks Regional Health                                       Danville, IN
+    Henry County Memorial Hospital                                  New Castle, IN
+    Hind General Hospital                                           Hobart, IN
+    Indiana University Health, Arnett Hospital                      Lafayette, IN
+    Indiana University Health, Ball Memorial Hospital               Muncie, IN
+    Indiana University Health, Blackford Hospital                   Hartford City, IN
+    Indiana University Health, Bloomington Hospital                 Bloomington, IN
+    Indiana University Health, La Porte Hospital                    La Porte, IN
+    Indiana University Health, Methodist Hospital                   Indianapolis, IN
+    Indiana University Health, North Hospital                       Carmel, IN
+    Indiana University Health, Saxony Hospital                      Fishers, IN
+    Indiana University Health, Jay Hospital                         Portland, IN
+    Indiana University Health, Starke Hospital                      Knox, IN
+    Indiana University Health, Tipton Hospital                      Tipton, IN
+    Indiana University Health, West Hospital                        Avon, IN
+    Indiana University Health, University Hospital                  Indianapolis, IN
+    Johnson Memorial Hospital                                       Franklin, IN
+    Kindred Hospital                                                Indianapolis, IN
+    King's Daughters Hospital and Health Services                   Madison, IN
+    Kosciusko Community Hospital                                    Warsaw, IN
+    Larue D. Carter Memorial Hospital                               Indianapolis, IN
+    Logansport Memorial Hospital                                    Logansport, IN
+    Logansport State Hospital                                       Logansport, IN
+    Lutheran Hospital of Indiana                                    Fort Wayne, IN
+    Madison State Hospital                                          Madison, IN
+    Major Hospital                                                  Shelbyville, IN
+    Margaret Mary Community Hospital                                Batesville, IN
+    Marion General Hospital                                         Marion, IN
+    Medical Behavioral Hospital, Mishawaka                          Mishawaka, IN
+    Medical Center of Southern Indiana                              Charlestown, IN
+    Memorial Hospital and Health Care Center                        Jasper, IN
+    Memorial Hospital of South Bend                                 South Bend, IN
+    Methodist Hospital                                              Gary, IN
+    Methodist Hospital                                              Merrillville, IN
+    Michiana Behavioral Health Center                               Plymouth, IN
+    Morgan Hospital & Medical Center                                Martinsville, IN
+    NeuroDiagnostic Institute                                       Indianapolis, IN
+    Northeastern Center                                             Auburn, IN
+    Oaklawn Psychiatric Center                                      Goshen, IN
+    OrthoIndy Hospital                                              Indianapolis, IN
+    Otis R. Bowen Center for Human Services                         Warsaw, IN
+    Our Lady of Peace Hospital                                      South Bend, IN
+    Parkview Hospital Randallia                                     Fort Wayne, IN
+    Parkview Huntington Hospital                                    Huntington, IN
+    Parkview LaGrange Hospital                                      LaGrange, IN
+    Parkview Noble Hospital                                         Kendallville, IN
+    Parkview Regional Medical Center                                Fort Wayne, IN
+    Parkview Whitley Hospital                                       Columbia City, IN
+    Perry County Memorial Hospital                                  Tell City, IN
+    Pinnacle Hospital                                               Crown Point, IN
+    Portage Hospital                                                Portage, IN
+    Porter Regional Hospital                                        Valparaiso, IN
+    Pulaski Memorial Hospital                                       Winamac, IN
+    Putnam County Hospital                                          Greencastle, IN
+    Regency Hospital of Northwest Indiana                           East Chicago, IN
+    Rehabilitation Hospital of Fort Wayne                           Fort Wayne, IN
+    Rehabilitation Hospital of Indiana                              Indianapolis, IN
+    Reid Hospital and Health Care Services                          Richmond, IN
+    Richmond State Hospital                                         Richmond, IN
+    Riley Hospital for Children                                     Indianapolis, IN
+    Riverside Hospital Corporation                                  South Bend, IN
+    Riverview Hospital                                              Noblesville, IN
+    Rush Memorial Hospital                                          Rushville, IN
+    Saint John's Health System                                      Anderson, IN
+    Schneck Medical Center                                          Seymour, IN
+    Scott County Memorial Hospital                                  Scottsburg, IN
+    Select Specialty Hospital, Beech Grove                          Beech Grove, IN
+    Select Specialty Hospital, Bloomington                          Bloomington, IN
+    Select Specialty Hospital, Evansville                           Evansville, IN
+    Select Specialty Hospital, Fort Wayne                           Fort Wayne, IN
+    Select Specialty Hospital, Indianapolis                         Indianapolis, IN
+    Select Specialty Hospital, Northwest Indiana                    Hammond, IN
+    Sidney & Lois Eskenazi Hospital                                 Indianapolis, IN
+    Southern Indiana Rehabilitation Hospital                        New Albany, IN
+    Southlake Center for Mental Health                              Merrillville, IN
+    St. Catherine Hospital                                          East Chicago, IN
+    St. Elizabeth Ann Seton Hospital, Carmel                        Carmel, IN
+    St. Elizabeth Ann Seton Hospital, Indianapolis                  Indianapolis, IN
+    St. Elizabeth Ann Seton Hospital, Kokomo                        Kokomo, IN
+    St. Joseph Hospital                                             Fort Wayne, IN
+    St. Joseph Hospital and Health Center                           Kokomo, IN
+    St. Joseph Regional Medical Center                              Mishawaka, IN
+    St. Joseph's Hospital, Huntingburg                              Huntingburg, IN
+    St. Joseph's Regional Medical Center                            Plymouth, IN
+    St. Mary Medical Center                                         Hobart, IN
+    St. Mary's Warrick Hospital                                     Boonville, IN
+    St. Vincent Anderson Regional Hospital                          Anderson, IN
+    St. Vincent Carmel Hospital                                     Carmel, IN
+    St. Vincent Clay Hospital                                       Brazil, IN
+    St. Vincent Evansville                                          Evansville, IN
+    St. Vincent Fishers Hospital                                    Fishers, IN
+    St. Vincent Frankfort Hospital                                  Frankfort, IN
+    St. Vincent Indianapolis Hospital                               Indianapolis, IN
+    St. Vincent Jennings Hospital                                   North Vernon, IN
+    St. Vincent Mercy Hospital                                      Elwood, IN
+    St. Vincent Pediatric Rehabilitation Center                     Indianapolis, IN
+    St. Vincent Randolph Hospital                                   Winchester, IN
+    St. Vincent Williamsport Hospital                               Williamsport, IN
+    Sullivan County Community Hospital                              Sullivan, IN
+    Terre Haute Regional Hospital                                   Terre Haute, IN
+    Union Hospital                                                  Terre Haute, IN
+    Wabash County Hospital                                          Wabash, IN
+    Wabash Valley Hospital                                          West Lafayette, IN
+    Washington County Memorial Hospital                             Salem, IN
+    Wellstone Regional Hospital                                     Jeffersonville, IN
+    West Central Community Hospital                                 Clinton, IN
+    White County Memorial Hospital                                  Monticello, IN
+    Witham Health Services                                          Lebanon, IN
+    Woodlawn Hospital                                               Rochester, IN
+
+        Adair County Health System                                  Greenfield, IA
+        Alegent Health Mercy Hospital                               Council Bluffs, IA
+        Audubon County Memorial Hospital and Clinics                Audubon, IA
+        Avera Holy Family Hospital                                  Estherville, IA
+        Avera Merrill Pioneer Hospital                              Rock Rapids, IA
+        Boone County Hospital                                       Boone, IA
+        Broadlawns Medical Center                                   Des Moines, IA
+        Buchanan County Health Center                               Independence, IA
+        Buena Vista Regional Medical Center                         Storm Lake, IA
+        Burgess Health Center                                       Onawa, IA
+        Cass County Health System                                   Atlantic, IA
+        Cherokee Regional Medical Center                            Cherokee, IA
+        CHI Health Mercy Corning                                    Corning, IA
+        CHI Health Mercy Council Bluffs                             Council Bluffs, IA
+        CHI Health Missouri Valley                                  Missouri Valley
+        Clarinda Regional Health Center                             Clarinda, IA
+        Clarke County Hospital                                      Osceola, IA
+        Community Memorial Hospital                                 Sumner, IA
+        Compass Memorial Healthcare                                 Marengo, IA
+        Crawford County Memorial Hospital                           Denison, IA
+        Dallas County Hospital                                      Perry, IA
+        Davis County Hospital and Clinics                           Bloomfield, IA
+        Decatur County Hospital                                     Leon, IA
+        Floyd County Medical Center                                 Charles City, IA
+        Floyd Valley Healthcare                                     Le Mars, IA
+        Fort Madison Community Hospital                             Fort Madison, IA
+        Genesis Medical Center-Davenport                            Davenport, IA
+        Genesis Medical Center-De Witt                              De Witt, IA
+        George C. Grape Community Hospital                          Hamburg, IA
+        Great River Health System                                   West Burlington, IA
+        Greater Regional Health                                     Creston, IA
+        Greene County Medical Center                                Jefferson, IA
+        Grundy County Memorial Hospital                             Grundy Center, IA
+        Gundersen Palmer Lutheran Hospital and Clinics              West Union, IA
+        Guthrie County Hospital                                     Guthrie Center, IA
+        Guttenberg Municipal Hospital                               Guttenberg, IA
+        Hancock County Health System                                Britt, IA
+        Hansen Family Hospital                                      Iowa Falls, IA
+        Hawarden Regional Healthcare                                Hawarden, IA
+        Hegg Health Center Avera                                    Rock Valley, IA
+        Henry County Health Center                                  Mount Pleasant, IA
+        Horn Memorial Hospital                                      Ida Grove, IA
+        Humboldt County Memorial Hospital                           Humboldt, IA
+        Iowa Specialty Hospital-Belmond                             Belmond, IA
+        Iowa Specialty Hospital-Clarion                             Clarion, IA
+        Jackson County Regional Health Center                       Maquoketa, IA
+        Jefferson County Health Center                              Fairfield, IA
+        Keokuk County Health Center                                 Sigourney, IA
+        Knoxville Hospital and Clinics                              Knoxville, IA
+        Kossuth Regional Health Center                              Algona, IA
+        Lakes Regional Healthcare                                   Spirit Lake, IA
+        Loring Hospital                                             Sac City, IA
+        Lucas County Health Center                                  Chariton, IA
+        Madison County Health Care System                           Winterset, IA
+        Mahaska Health                                              Oskaloosa, IA
+        Manning Regional Healthcare Center                          Manning, IA
+        Mary Greeley Medical Center                                 Ames, IA
+        Mercy Iowa City                                             Iowa City, IA
+        Mercy Medical Center-Cedar Rapids                           Cedar Rapids, IA
+        MercyOne Cedar Falls Medical Center                         Cedar Falls, IA
+        MercyOne Centerville Medical Center                         Centerville, IA
+        MercyOne Clinton Medical Center                             Clinton, IA
+        MercyOne Clive Rehabilitation Hospital                      Clive, IA
+        MercyOne Des Moines Medical Center                          Des Moines, IA
+        MercyOne Dubuque Medical Center                             Dubuque, IA
+        MercyOne Dyersville Medical Center                          Dyersville, IA
+        MercyOne Elkader Medical Center                             Elkader, IA
+        MercyOne New Hampton Medical Center                         New Hampton, IA
+        MercyOne Newton Medical Center                              Newton, IA
+        MercyOne North Iowa Medical Center                          Mason City, IA
+        MercyOne Oelwein Medical Center                             Oelwein, IA
+        MercyOne Primghar Medical Center                            Primghar, IA
+        MercyOne Siouxland Medical Center                           Sioux City, IA
+        MercyOne Waterloo Medical Center                            Waterloo, IA
+        MercyOne West Des Moines Medical Center                     West Des Moines, IA
+        Methodist Jennie Edmundson                                  Council Bluffs, IA
+        Mitchell County Regional Health Center                      Osage, IA
+        Monroe County Hospital and Clinics                          Albia, IA
+        Montgomery County Memorial Hospital                         Red Oak, IA
+        Myrtue Medical Center                                       Harlan, IA
+        Orange City Area Health System                              Orange City, IA
+        Osceola Regional Health Center                              Sibley, IA
+        Ottumwa Regional Health Center                              Ottumwa, IA
+        Palo Alto County Hospital                                   Emmetsburg, IA
+        Pella Regional Health Center                                Pella, IA
+        Pocahontas Community Hospital                               Pocahontas, IA
+        Regional Health Services of Howard County                   Cresco, IA
+        Regional Medical Center                                     Manchester, IA
+        Ringgold County Hospital                                    Mount Ayr, IA
+        Saint Anthony Regional Hospital                             Carroll, IA
+        Sanford Medical Center Sheldon                              Sheldon, IA
+        Select Specialty Hospital-Des Moines                        Des Moines, IA
+        Select Specialty Hospital-Quad Cities                       Davenport, IA
+        Shenandoah Medical Center                                   Shenandoah, IA
+        Sioux Center Health                                         Sioux Center, IA
+        Spencer Hospital                                            Spencer, IA
+        Stewart Memorial Community Hospital                         Lake City, IA
+        Story County Medical Center                                 Nevada, IA
+        UnityPoint Health-Allen Hospital                            Waterloo, IA
+        UnityPoint Health-Blank Children's Hospital                 Des Moines, IA
+        UnityPoint Health-Finley Hospital                           Dubuque, IA
+        UnityPoint Health-Grinnell Regional Medical Center          Grinnell, IA
+        UnityPoint Health-Iowa Lutheran Hospital                    Des Moines, IA
+        UnityPoint Health-Iowa Methodist Medical Center             Des Moines, IA
+        UnityPoint Health-Jones Regional Medical Center             Anamosa, IA
+        UnityPoint Health-Keokuk                                    Keokuk, IA
+        UnityPoint Health-Marshalltown                              Marshalltown, IA
+        UnityPoint Health-Methodist West Hospital                   West Des Moines, IA
+        UnityPoint Health-Saint Luke's Hospital                     Cedar Rapids, IA
+        UnityPoint Health-Saint Luke's, Sioux City                  Sioux City, IA
+        UnityPoint Health-Trinity Bettendorf                        Bettendorf, IA
+        UnityPoint Health-Trinity Muscatine                         Muscatine, IA
+        UnityPoint Health-Trinity Regional Medical Center           Fort Dodge, IA
+        University of Iowa Hospitals and Clinics                    Iowa City, IA
+        VA Central Iowa Health Care System-DSM                      Des Moines, IA
+        Van Buren County Hospital                                   Keosauqua, IA
+        Van Diest Medical Center                                    Webster City, IA
+        Veterans Memorial Hospital                                  Waukon, IA
+        Virginia Gay Hospital                                       Vinton, IA
+        Washington County Hospital and Clinics                      Washington, IA
+        Waverly Health Center                                       Waverly, IA
+        Wayne County Hospital and Clinic System                     Corydon, IA
+        Winneshiek Medical Center                                   Decorah, IA
 
 ========== defunct ==========
 
@@ -6913,3 +7248,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
             f. South Fulton Medical Center                          East Point, GA
         West Paces Ferry Hospital                                   Atlanta, GA
         Woodstock Hospital                                          Woodstock, GA
+
+        Mercy Capitol Hospital                                      Des Moines, IA
+        Mercy Covenant Clinics                                      Arlington, IA
+        Xavier Hospital                                             Dubuque, IA
