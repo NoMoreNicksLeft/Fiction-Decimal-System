@@ -5903,10 +5903,15 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Woodland Memorial Hospital                                  Woodland, CA
 
         AdventHealth Avista                                         Louisville, CO
+            f. Avista Adventist Hospital                            Louisville, CO
         AdventHealth Castle Rock                                    Castle Rock, CO
+            f. Castle Rock Adventist Hospital                       Castle Rock, CO
         AdventHealth Littleton                                      Littleton, CO
+            f. Little Adventist Hospital                            Littleton, CO
         AdventHealth Parker                                         Parker, CO
+            f. Parker Adventist Hospital                            Parker, CO
         AdventHealth Porter                                         Denver, CO
+            f. Porter Adventist Hospital                            Porter, CO
         Animas Surgical Hospital                                    Durango, CO
         Arkansas Valley Regional Medical Center                     La Junta, CO
         Aspen Valley Hospital                                       Aspen, CO
@@ -6021,6 +6026,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Wray Community District Hospital                            Wray, CO
         Yampa Valley Medical Center Steamboat                       Springs, CO
         Yuma District Hospital                                      Yuma, CO
+
         Backus Hospital                                             Norwich, CT
         Bridgeport Hospital                                         Bridgeport, CT
         Bristol Hospital                                            Bristol, CT
@@ -6077,6 +6083,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         St. Elizabeths Hospital                                     Washington, DC
         United Medical Center                                       Washington, DC
         Washington DC Veterans Affairs Medical Center               Washington, DC
+
         Bayhealth Emergency Center                                  Smyrna, DE
         Bayhealth Hospital (Kent)                                   Dover, DE
         Bayhealth Hospital (Sussex)                                 Milford , DE
@@ -6091,52 +6098,88 @@ SFDPH   San Francisco General Hospital                              San Francisc
         TidalHealth Nanticoke                                       Seaford, DE
         Wilmington Hospital                                         Wilmington, DE
         Wilmington VA Medical Center                                Elsmere, DE
+
         AdventHealth Altamonte Springs                              Altamonte Springs, FL
+            f. Florida Hospital Altamonte                           Altamonte Springs, FL
         AdventHealth Apopka                                         Apopka, FL
+            f. Florida Hospital Apopka                              Apopka, FL
         AdventHealth Brandon ER                                     Brandon, FL
         AdventHealth Carrollwood                                    Tampa, FL
+            f. Florida Hospital Carrollwood                         Tampa, FL
         AdventHealth Celebration                                    Celebration, FL
+            f. Florida Hospital Celebration                         Celebration, FL
         AdventHealth Central Pasco ER                               Lutz, FL
         AdventHealth Connerton                                      Land O'Lakes, FL
+            f. Florida Hospital at Connerton Long Term Acute Care   Land O'Lakes, FL
         AdventHealth Dade City                                      Dade City, FL
+            f. Florida Hospital Dade City                           Dade City, FL
         AdventHealth Daytona Beach                                  Daytona Beach, FL
+            f. Florida Hospital Memorial Medical                    Daytona Beach, FL
         AdventHealth DeLand                                         DeLand, FL
+            f. Florida Hospital DeLand                              Deland, FL
         AdventHealth Deltona ER                                     Deltona, FL
         AdventHealth East Orlando                                   Orlando, FL
+            f. Florida Hospital East Orlando                        Orlando, FL
         AdventHealth Fish Memorial                                  Orange City, FL
+            f. Florida Hospital Fish Memorial                       Orange City, FL
         AdventHealth for Children                                   Orlando, FL
+            f. Florida Hospital for Children                        Orlando, FL
         AdventHealth for Women                                      Orlando, FL
+            f. Florida Hospital for Women                           Orlando, FL
         AdventHealth Four Corners ER                                Winter Garden, FL
         AdventHealth Heart of Florida                               Davenport, FL
+            f. Heart of Florida Regional Medical Center             Davenport, FL
         AdventHealth Kissimmee                                      Kissimmee, FL
+            f. Florida Hospital Kissimmee                           Kissimmee, FL
         AdventHealth Lake Mary ER                                   Lake Mary, FL
         AdventHealth Lake Placid                                    Lake Placid, FL
+            f. Florida Hospital Heartland Medical Center Lake Placid Lake Placid, FL
         AdventHealth Lake Wales                                     Lake Wales, FL
+            f. Lake Wales Medical Center                            Lake Wales, FL
         AdventHealth New Smyrna Beach                               New Smyrna Beach, FL
+            f. Florida Hospital New Smyrna                          New Smyrna Beach, FL
         AdventHealth North Pinellas                                 Tarpon Springs, FL
+            f. Florida Hospital North Pinellas                      Tarpon Springs, FL
         AdventHealth Ocala                                          Ocala, FL
+            f. Florida Hospital Ocala                               Ocala, FL
         AdventHealth Orlando                                        Orlando, FL
+            f. Florida Hospital Orlando                             Orlando, FL
         AdventHealth Oviedo ER                                      Oviedo, FL
         AdventHealth Palm Coast                                     Palm Coast, FL
+            f. Memorial Hospital Flagler                            Palm Coast, FL
+            f. Florida Hospital Flagler                             Palm Coast, FL
         AdventHealth Palm Coast Parkway                             Palm Coast, FL
         AdventHealth Palm Harbor ER                                 Palm Harbor, FL
+            f. Florida Hospital ER Palm Harbor                      Palm Harbor, FL
         AdventHealth Pepin Heart Institute                          Tampa, FL
+            f. Florida Hospital Pepin Heart Institute               Tampa, FL
         AdventHealth Sebring                                        Sebring, FL
+            f. Florida Hospital Heartland Medical Center Sebring    Sebring, FL
         AdventHealth Tampa                                          Tampa, FL
+            f. Florida Hospital Tampa                               Tampa, FL
         AdventHealth TimberRidge ER                                 Ocala, FL
+            f. Florida Hospital Ocala Emergency Center              Ocala, FL
         AdventHealth Waterford Lakes ER                             Orlando, FL
         AdventHealth Waterman                                       Tavares, FL
+            f. Florida Hospital Waterman                            Tavares, FL
         AdventHealth Wauchula                                       Wauchula, FL
+            f. Florida Hospital Wauchula                            Wauchula, FL
         AdventHealth Wesley Chapel                                  Wesley Chapel, FL
+            f. Florida Hospital Wesley Chapel                       Wesley Chapel, FL
         AdventHealth Westchase ER                                   Tampa, FL
         AdventHealth Winter Garden                                  Winter Garden, FL
+            f. Florida Hospital Winter Garden                       Winter Garden, FL
         AdventHealth Winter Park                                    Winter Park, FL
+            f. Winter Park Memorial Hospital                        Winter Park, FL
         AdventHealth Zephyrhills                                    Zephyrhills, FL
+            f. Florida Hospital Zephyrhills                         Zephyrhills, FL
         Ascension Sacred Heart Bay                                  Panama City, FL
         Ascension Sacred Heart Hospital Emerald Coast               Miramar Beach, FL
+            f. Bay Medical Center                                   Miramar Beach, FL
         Baptist Children's Hospital                                 Miami, FL
         Baptist Health Baptist Hospital of Miami                    Miami, FL
         Baptist Health Bethesda Hospital East                       Boynton Beach, FL
+            f. Bethesda Memorial Hospital                           Boynton Beach, FL
         Baptist Health Bethesda Hospital West                       Boynton Beach, FL
         Baptist Health Boca Raton Regional Hospital                 Boca Raton, FL
         Baptist Health Doctors Hospital                             Coral Gables, FL
@@ -6154,11 +6197,19 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Bay Pines VA Healthcare System                              Bay Pines, FL
         BayCare Alliant Hospital                                    Dunedin, FL
         Bayfront Health St. Petersburg                              St. Petersburg, FL
+            f. Bayfront Medical Center                              St. Petersburg, FL
+            f. Mound Park Hospital                                  St. Petersburg, FL
         Bayfront Health St. Petersburg Emergency Room               Pinellas Park, FL
         Beraja Medical Institute                                    Coral Gables, FL
         Bravera Health Brooksville                                  Brooksville, FL
+            f. Brooksville Regional Medical Center                  Brooksville, FL
+            f. Bayfront Health Brooksville                          Brooksville, FL
         Bravera Health Seven Rivers                                 Crystal River, FL
+            f. Seven Rivers Regional Medical Center                 Crystal River, FL
+            f. Bayfront Health Seven Rivers                         Crystal River, FL
         Bravera Health Spring Hill                                  Spring Hill, FL
+            f. Spring Hill Regional Hospital                        Spring Hill, FL
+            f. Bayfront Health Spring Hill                          Spring Hill, FL
         Brooks Rehabilitation Hospital                              Jacksonville, FL
         Broward Health Coral Springs                                Coral Springs, FL
         Broward Health Imperial Point                               Fort Lauderdale, FL
@@ -6179,17 +6230,26 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Encompass Health Rehabilitation Hospital                    Stuart, FL
         Encompass Health Rehabilitation Hospital, Altamonte Springs Altamonte Springs, FL
         Encompass Health Rehabilitation Hospital, Largo             Largo, FL
+            f. HealthSouth Rehabilitation Hospital of Largo         Largo, FL
         Encompass Health Rehabilitation Hospital, Miami             Miami, FL
+            f. HealthSouth Rehabilitation Hospital of Miami         Miami, FL
         Encompass Health Rehabilitation Hospital, Ocala             Ocala, FL
         Encompass Health Rehabilitation Hospital, Panama City       Panama City, FL
+            f. HealthSouth Emerald Coast Rehabilitation Hospital    Panama City, FL
         Encompass Health Rehabilitation Hospital, Sarasota          Sarasota, FL
+            f. HealthSouth Rehabilitation Hospital of Sarasota      Sarasota, FL
         Encompass Health Rehabilitation Hospital, Spring Hill       Brooksville, FL
+            f. HealthSouth Rehabilitation Hospital of Spring Hill   Brooksville, FL
         Encompass Health Rehabilitation Hospital, Sunrise           Sunrise, FL
+            f. HealthSouth Sunrise Rehabilitation Hospital          Sunrise, FL
         Encompass Health Rehabilitation Hospital, Tallahassee       Tallahassee, FL
+            f. HealthSouth Rehabilitation Hospital of Tallahassee   Tallahassee, FL
         Encompass Health Rehabilitation Hospital, Treasure Coast    Vero Beach, FL
+            f. HealthSouth Treasure Coast Rehabilitation Hospital   Vero Beach, FL
         Flagler Hospital                                            St. Augustine, FL
         Florida Medical Center                                      Fort Lauderdale, FL
         Florida State Hospital                                      Chattahoochee, FL
+            f. Florida State Psychiatric                            Chattahoochee, FL
         Gadsden Community Hospital                                  Quincy, FL
         Gainesville VA Medical Center                               Gainesville, FL
         Golisano Children's Hospital of Southwest Florida           Fort Myers, FL
@@ -6200,58 +6260,103 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Halifax Health Medical Center of Daytona Beach              Daytona Beach, FL
         Halifax Health Medical Center of Port Orange                Port Orange, FL
         HCA Florida Aventura Hospital                               Aventura, FL
+            f. Aventura Hospital Medical Center                     Aventura, FL
         HCA Florida Bayonet Point Hospital                          Hudson, FL
+            f. Columbia Regional Medical Center Bayonet Point       Hudson, FL
+            f. Regional Medical Center Bayonet Point                Hudson, FL
         HCA Florida Blake Hospital                                  Bradenton, FL
+            f. Blake Medical Center                                 Bradenton, FL
         HCA Florida Brandon Hospital                                Brandon, FL
+            f. Brandon Regional Hospital                            Brandon, FL
         HCA Florida Capital Hospital                                Tallahassee, FL
+            f. Capital Regional Medical Center                      Tallahassee, FL
         HCA Florida Central Tampa Emergency                         Tampa, FL
         HCA Florida Citrus Hospital                                 Inverness, FL
+            f. Citrus Memorial Hospital                             Inverness, FL
         HCA Florida Clearwater Emergency                            Clearwater, FL
         HCA Florida Englewood Hospital                              Englewood, FL
+            f. Englewood Community Hospital                         Englewood, FL
         HCA Florida Fawcett Hospital                                Port Charlotte, FL
+            f. Fawcett Memorial Hospital                            Port Charlotte, FL
         HCA Florida Fort Walton-Destin Hospital                     Fort Walton Beach, FL
+            f. Fort Walton Beach Medical Center                     Fort Walton Beach, FL
         HCA Florida Gulf Coast Hospital                             Panama City, FL
+            f. Gulf Coast Regional Medical Center                   Panama City, FL
         HCA Florida Highlands Hospital                              Sebring, FL
+            f. Highlands Regional Medical Center                    Sebring, FL
         HCA Florida JFK Hospital                                    Atlantis, FL
+            f. JFK Medical Center                                   Atlantis, FL
         HCA Florida JFK North Hospital                              West Palm Beach, FL
+            f. West Palm Beach Hospital                             West Palm Beach, FL
+            f. FK Medical Center North Campus                       West Palm Beach, FL
         HCA Florida Kendall Hospital                                Miami, FL
+            f. Kendall Regional Medical Center                      Miami, FL
         HCA Florida Lake City Hospital                              Lake City, FL
+            f. Lake City Medical Center                             Lake City, FL
         HCA Florida Lake Monroe Hospital                            Sanford, FL
+            f. Central Florida Regional Hospital                    Sanford, FL
         HCA Florida Largo Hospital                                  Largo, FL
+            f. Largo Medical Center                                 Largo, FL
         HCA Florida Largo West Hospital                             Largo, FL
+            f. Sun Coast Hospital                                   Largo, FL
+            f. Largo Medical Center-Indian Rocks                    Largo, FL
         HCA Florida Lawnwood Hospital                               Fort Pierce, FL
+            f. Lawnwood Regional Medical Center                     Fort Pierce, FL
         HCA Florida Memorial Hospital                               Jacksonville, FL
+            f. Memorial Hospital Jacksonville                       Jacksonville, FL
         HCA Florida Mercy Hospital                                  Miami, FL
+            f. Mercy Hospital                                       Miami, FL
         HCA Florida North Florida Hospital                          Gainesville, FL
+            f. North Florida Regional Medical Center                Gainesville, FL
         HCA Florida Northside Hospital                              St. Petersburg, FL
         HCA Florida Northwest Hospital                              Margate, FL
+            f. Northwest Medical Center                             Margate, FL
         HCA Florida Oak Hill Hospital                               Brooksville, FL
         HCA Florida Ocala Hospital                                  Ocala, FL
+            f. Ocala Regional Medical Center                        Ocala, FL
         HCA Florida Orange Park Hospital                            Orange Park, FL
+            f. Orange Park Medical Center                           Orange Park, FL
         HCA Florida Osceola Hospital                                Kissimmee, FL
+            f. Osceola Regional Medical Center                      Kissimmee, FL
         HCA Florida Oviedo Medical Center                           Oviedo, FL
         HCA Florida Palms West Hospital                             Loxahatchee, FL
         HCA Florida Pasadena Hospital                               St. Petersburg, FL
+            f. Palms of Pasadena Hospital                           St. Petersburg, FL
         HCA Florida Plantation Emergency                            Plantation, FL
+            f. Plantation General Hospital                          Plantation, FL
         HCA Florida Poinciana Hospital                              Poinciana, FL
         HCA Florida Putnam Hospital                                 Palatka, FL
+            f. Putnam Community Medical Center                      Palatka, FL
         HCA Florida Raulerson Hospital                              Okeechobee, FL
+            f. Poinciana Medical Center                             Okeechobee, FL
         HCA Florida Sarasota Doctors Hospital                       Sarasota, FL
+            f. Doctors Hospital of Sarasota                         Sarasota, FL
         HCA Florida South Shore Hospital                            Sun City, FL
+            f. South Bay Hospital                                   Sun City, FL
         HCA Florida South Tampa Hospital                            Tampa, FL
+            f. Memorial Hospital of Tampa                           Tampa, FL
         HCA Florida St. Lucie Hospital                              Port Saint Lucie, FL
+            f. St. Lucie Medical Center                             Port Saint Lucie, FL
         HCA Florida St. Petersburg Hospital                         St. Petersburg, FL
+            f. St. Petersburg General Hospital                      St. Petersburg, FL
         HCA Florida Starke Emergency                                Starke, FL
+            f. Shands Starke, Lake City Medical Center Starke       Starke, FL
         HCA Florida Suwannee Emergency                              Live Oak, FL
+            f. Shands Live Oak, Lake City Medical Center Suwannee ER Live Oak, FL
         HCA Florida Trinity Hospital                                Trinity, FL
+            f. Medical Center of Trinity                            Trinity, FL
         HCA Florida Twin Cities Hospital                            Niceville, FL
         HCA Florida UCF Lake Nona Hospital                          Orlando, FL
         HCA Florida University Hospital                             Davie, FL
         HCA Florida West Hospital                                   Pensacola, FL
+            f. West Florida Healthcare                              Pensacola, FL
         HCA Florida West Marion Hospital                            Ocala, FL
         HCA Florida West Tampa Hospital ER                          Tampa, FL
+            f. Tampa Community Hospital                             Tampa, FL
         HCA Florida Westside Hospital                               Plantation, FL
+            f. Westside Regional Medical Center                     Plantation, FL
         HCA Florida Woodmont Hospital                               Tamarac, FL
+            f.  University Hospital and Medical Center              Tamarac, FL
         Healthmark Regional Medical Center                          DeFuniak Springs, FL
         HealthPark Medical Center                                   Fort Myers, FL
         Hendry Regional Medical Center                              Clewiston, FL
@@ -6263,6 +6368,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Jackson Hospital                                            Marianna, FL
         Jackson Memorial Hospital                                   Miami, FL
         Jackson North Medical Center                                North Miami Beach, FL
+            f. Parkway Regional Medical Center                      North Miami Beach, FL
         Jackson South Medical Center                                Miami, FL
         Jackson West Medical Center                                 Doral, FL
         Jay Hospital                                                Jay, FL
@@ -6270,6 +6376,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Johns Hopkins All Children's Hospital                       St. Petersburg, FL
         Jupiter Medical Center                                      Jupiter, FL
         Keralty Hospital Miami                                      Miami, FL
+            f. Westchester General Hospital                         Miami, FL
         Kindred Hospital Bay Area-St. Petersburg                    St. Petersburg, FL
         Kindred Hospital North Florida                              Green Cove Springs, FL
         Lake City VA Medical Center                                 Lake City, FL
@@ -6288,6 +6395,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Mease Dunedin Hospital                                      Dunedin, FL
         Medical Center Clinic                                       Pensacola, FL
         Melbourne Regional Medical Center                           Melbourne, FL
+            f. Wuesthoff Medical Center Melbourne                   Melbourne, FL
         Memorial Hospital Miramar                                   Miramar, FL
         Memorial Hospital Pembroke                                  Pembroke Pines, FL
         Memorial Hospital West                                      Pembroke Pines, FL
@@ -6323,26 +6431,35 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Orlando VA Medical Center                                   Orlando, FL
         Palm Bay Community Hospital                                 Palm Bay, FL
         Palm Beach Gardens Medical Center                           Palm Beach Gardens, FL
-        Palm Springs General Hospital                               Hialeah, FL
+        Larkin Community Hospital Palm Springs                      Hialeah, FL
+            f. Palm Springs General Hospital                        Hialeah, FL
         Palmetto General Hospital                                   Hialeah, FL
         PAM Health Specialty Hospital of Jacksonville               Jacksonville, FL
         PAM Specialty Hospital of Sarasota                          Sarasota, FL
+            f. HealthSouth RidgeLake Hospital                       Sarasota, FL
         Parrish Medical Center                                      Titusville, FL
         Physicians Regional Medical Center - Collier Boulevard      Naples, FL
         Physicians Regional Medical Center - Pine Ridge             Naples, FL
         Pinecrest Rehabilitation Hospital                           Delray Beach, FL
         Rehabilitation Hospital                                     Pensacola, FL
         River Point Behavioral Health                               Jacksonville, FL
+            f. Ten Broeck Hospital                                  Jacksonville, FL
         Rockledge Regional Medical Center                           Rockledge, FL
+            f. Wuesthoff Medical Center Rockledge                   Rockledge, FL
         Sacred Heart Hospital                                       Pensacola, FL
         Salah Foundation Children's Hospital                        Fort Lauderdale, FL
         Santa Rosa Medical Center                                   Milton, FL
         Sarasota Memorial Hospital                                  Sarasota, FL
         Sarasota Memorial Hospital - Venice                         Venice, FL
         Sea Pines Rehabilitation Hospital                           Melbourne, FL
+            f. HealthSouth Sea Pines Rehabilitation Hospital        Melbourne, FL
         Sebastian River Medical Center                              Sebastian, FL
         ShorePoint Health Port Charlotte                            Port Charlotte, FL
+            f. Peace River Regional Medical Center                  Port Charlotte, FL
+            f. Bayfront Health Port Charlotte                       Port Charlotte, FL
         ShorePoint Health Punta Gorda                               Punta Gorda, FL
+            f. Charlotte Regional Medical Center                    Punta Gorda, FL
+            f. Bayfront Health Punta Gorda                          Punta Gorda, FL
         South Florida Baptist Hospital                              Plant City, FL
         South Miami Hospital                                        South Miami, FL
         St. Anthony's Hospital                                      St. Petersburg, FL
@@ -6359,22 +6476,35 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Tri-County Hospital - Williston                             Williston, FL
         Trinity Community Hospital                                  Jasper, FL
         UF Health Jacksonville                                      Jacksonville, FL
+            f. University Medical Center                            Jacksonville, FL     
+            f. Methodist Medical Center                             Jacksonville, FL
+            f. Shands Jacksonville                                  Jacksonville, FL
         UF Health Leesburg Hospital                                 Leesburg, FL
+            f. Leesburg Regional Medical Center                     Leesburg, FL
         UF Health Medical Center of Deltona                         Deltona, FL
         UF Health North                                             Jacksonville, FL
         UF Health Shands Children's Hospital                        Gainesville, FL
+            f. Shands Children's Hospital                           Gainesville, FL
         UF Health Shands Hospital                                   Gainesville, FL
+            f. Shands Hospital                                      Gainesville, FL
         UF Health Shands Psychiatric Hospital                       Gainesville, FL
+            f. Shands Vista                                         Gainesville, FL
         UF Health Shands Rehab Hospital                             Gainesville, FL
+            f. Shands Rehab Hospital                                Gainesville, FL
         UF Health The Villages Hospital                             The Villages, FL
+            f. Villages Regional Hospital                           The Villages, FL
         University of Miami Hospital                                Miami, FL
         Viera Hospital                                              Viera, FL
         Wellington Regional Medical Center                          Wellington, FL
         West Boca Medical Center                                    Boca Raton, FL
         Winter Haven Hospital                                       Winter Haven, FL
+
         AdventHealth Gordon                                         Calhoun, GA
+            f. Gordon Hospital                                      Calhoun, GA
         AdventHealth Murray                                         Chatsworth, GA
+            f. Murray Medical Center                                Chatsworth, GA
         AdventHealth Redmond                                        Rome, GA
+            f. Redmond Regional Medical Center                      Rome, GA
         Anchor Hospital                                             College Park, GA
         Archbold - Brooks County Hospital                           Quitman, GA
         Archbold - Grady General Hospital                           Cairo, GA
@@ -6382,6 +6512,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Archbold Memorial Hospital                                  Thomasville, GA
         Atlanta VA Medical Center                                   Decatur, GA
         Atrium Health Navicent Baldwin                              Milledgeville, GA
+            f. Oconee Regional Medical Center                       Milledgeville, GA
         Atrium Health Navicent Peach                                Byron, GA
         Atrium Health Navicent Rehabilitation Hospital              Macon, GA
         Atrium Health Navicent The Medical Center                   Macon, GA
@@ -6397,6 +6528,8 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Charlie Norwood VA Medical Center                           Augusta, GA
         Chatuge Regional Hospital                                   Hiawassee, GA
         CHI Memorial Hospital Georgia                               Fort Oglethorpe, GA
+            f. Cornerstone Medical Center                           Fort Oglethorpe, GA
+            f. Hutcheson Medical Center                             Fort Oglethorpe, GA
         Children's Healthcare of Atlanta Egleston                   Atlanta, GA
         Children's Healthcare of Atlanta Hughes Spalding            Atlanta, GA
         Children's Healthcare of Atlanta Scottish Rite              Atlanta, GA
@@ -6413,6 +6546,7 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Dodge County Hospital                                       Eastman, GA
         Donalsonville Hospital                                      Donalsonville, GA
         Dorminy Medical Center                                      Fitzgerald, GA
+            f. Phoebe Dorminy Medical Center                        Fitzgerald, GA
         Dwight D. Eisenhower Army Medical Center                    Fort Eisenhower, GA
         East Central Regional Hospital Augusta                      Augusta, GA
         East Central Regional Hospital Gracewood                    Gracewood, GA
@@ -6424,9 +6558,12 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Emory Hillandale Hospital                                   Lithonia, GA
         Emory Johns Creek Hospital                                  Johns Creek, GA
         Emory Long Term Acute Care                                  Decatur, GA
+            f. DeKalb Medical Long Term Acute Care                  Decatur, GA
         Emory Saint Joseph's Hospital                               Atlanta, GA
+            f. Saint Joseph's Hospital of Atlanta                   Atlanta, GA
         Emory University Hospital                                   Atlanta, GA
         Emory University Hospital Midtown                           Atlanta, GA
+            f. Crawford W. Long Memorial Hospital                   Atlanta, GA
         Emory University Orthopaedics & Spine Hospital              Tucker, GA
         Emory Wesley Woods Hospital                                 Atlanta, GA
         Evans Memorial Hospital                                     Claxton, GA
@@ -6443,17 +6580,20 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Higgins General Hospital                                    Bremen, GA
         Hillside Hospital                                           Atlanta, GA
         Houston Healthcare - Houston Medical Center                 Warner Robins, GA
+            f. Houston County Hospital                              Warner Robins, GA
         Houston Healthcare - Perry Hospital                         Perry, GA
         Irwin County Hospital                                       Ocilla, GA
         Jasper Memorial Hospital                                    Monticello, GA
         Jeff Davis Hospital                                         Hazlehurst, GA
         Jefferson Hospital                                          Louisville, GA
         Jenkins County Medical Center                               Millen, GA
+            f. Optim Medical Center, Jenkins                        Millen, GA
         Kindred Hospital Atlanta                                    Atlanta, GA
         Landmark Hospital of Athens                                 Athens, GA
         Laurel Heights Hospital                                     Atlanta, GA
         Liberty Regional Medical Center                             Hinesville, GA
         LifeBrite Community Hospital of Early                       Blakely, GA
+            f. Pioneer Community Hospital of Early                  Blakely, GA
         Lighthouse Care Center of Augusta                           Augusta, GA
         Macon Behavioral Health System                              Macon, GA
         Martin Army Community Hospital                              Fort Moore, GA
@@ -6461,46 +6601,70 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Memorial Health University Medical Center                   Savannah, GA
         Memorial Hospital and Manor                                 Bainbridge, GA
         Memorial Satilla Health                                     Waycross, GA
+            f. Mayo Clinic Health System in Waycross                Waycross, GA
+            f. Satilla Regional Medical Center                      Waycross, GA
         Miller County Hospital                                      Colquitt, GA
         Monroe County Hospital                                      Forsyth, GA
         Morgan Medical Center                                       Madison, GA
+            f. Morgan Memorial Hospital                             Madison, GA
         Mountain Lakes Medical Center                               Clayton, GA
         Northeast Georgia Medical Center Barrow                     Winder, GA
+            f. Barrow Regional Medical Center                       Winder, GA
         Northeast Georgia Medical Center Braselton                  Braselton, GA
+            f. River Place Braselton                                Braselton, GA
         Northeast Georgia Medical Center Gainesville                Gainesville, GA
         Northeast Georgia Medical Center Lumpkin                    Dahlonega, GA
         Northridge Medical Center                                   Commerce, GA
         Northside Hospital Atlanta                                  Atlanta, GA
         Northside Hospital Cherokee                                 Canton, GA
         Northside Hospital Duluth                                   Duluth, GA
+            f. Gwinnett Medical Center, Duluth                      Duluth, GA
         Northside Hospital Forsyth                                  Cumming, GA
         Northside Hospital Gwinnett                                 Lawrenceville, GA
+            f. Gwinnett Medical Center, Lawrenceville               Lawrenceville, GA
         Optim Medical Center - Screven                              Sylvania, GA
         Optim Medical Center - Tattnall                             Reidsville, GA
+            f. Doctors Hospital of Tattnall                         Reidsville, GA
         Peachford Hospital                                          Atlanta, GA
         Phoebe Putney Memorial Hospital                             Albany, GA
         Phoebe Putney Memorial Hospital - North Campus              Albany, GA
+            f. Palmyra Medical Center                               Albany, GA
         Phoebe Sumter Medical Center                                Americus, GA
         Phoebe Worth Medical Center                                 Sylvester, GA
         Piedmont Athens Regional                                    Athens, GA
+            f. Athens Regional Medical Center                       Athens, GA
         Piedmont Atlanta Hospital                                   Atlanta, GA
         Piedmont Augusta                                            Augusta, GA
+            f. University Hospital                                  Augusta, GA
         Piedmont Augusta Summerville Campus                         Augusta, GA
+            f. Trinity Hospital of Augusta                          Augusta, GA
+            f. University Hospital Summerville                      Augusta, GA
         Piedmont Cartersville Medical Center                        Cartersville, GA
         Piedmont Columbus Regional - Midtown                        Columbus, GA
+            f. Midtown Medical Center                               Columbus, GA
         Piedmont Columbus Regional - Northside                      Columbus, GA
+            f. Hughston Hospital                                    Columbus, GA
         Piedmont Eastside Medical Center                            Snellville, GA
+            f. Eastside Medical Center                              Snellville, GA
         Piedmont Eastside South Campus                              Snellville, GA
         Piedmont Fayette Hospital                                   Fayetteville, GA
         Piedmont Henry Hospital                                     Stockbridge, GA
         Piedmont Macon Hospital                                     Macon, GA
+            f. Coliseum Medical Center                              Macon, GA
         Piedmont Macon North Hospital                               Macon, GA
+            f. Charter Medical Center                               Macon, GA
+            f. Coliseum Northside Hospital                          Macon, GA
         Piedmont McDuffie                                           Thomson, GA
+            f. McDuffie Regional Medical Center                     Thomson, GA
+            f. University Hospital McDuffie                         Thomson, GA
         Piedmont Mountainside Hospital                              Jasper, GA
         Piedmont Newnan                                             Newnan, GA
         Piedmont Newton                                             Covington, GA
+            f. Newton Medical Center                                Covington, GA
         Piedmont Rockdale                                           Conyers, GA
+            f. Rockdale Medical Center                              Conyers, Ga
         Piedmont Walton Hospital                                    Monroe, GA
+            f. Clearview Regional Medical Center                    Monroe, GA
         Putnam General Hospital                                     Eatonton, GA
         Regency Hospital of Central Georgia                         Macon, GA
         Regency Hospital of South Atlanta                           East Point, GA
@@ -6514,18 +6678,22 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Shepherd Center                                             Atlanta, GA
         South Georgia Medical Center                                Valdosta, GA
         South Georgia Medical Center Berrien                        Nashville, GA
+            f. Berrien County Hospital                              Nashville, GA
         South Georgia Medical Center Lanier                         Lakeland, GA
+            f. Louis Smith Memorial Hospital                        Lakeland, GA
         Southeast Georgia Health System Brunswick                   Brunswick, GA
         Southeast Georgia Health System Camden                      St. Marys, GA
         Southern Crescent Hospital for Specialty Care               Riverdale, GA
         Southern Regional Medical Center                            Riverdale, GA
         Southwell Medical Center                                    Adel, GA
+            f. Cook Medical Center                                  Adel, GA
         Southwell Tift Regional Medical Center                      Tifton, GA
         St. Francis Hospital                                        Columbus, GA
         St. Joseph's Hospital                                       Savannah, GA
         St. Mary's Good Samaritan Hospital                          Greensboro, GA
         St. Mary's Hospital                                         Athens, GA
         St. Mary's Sacred Heart Hospital                            Lavonia, GA
+            f. Ty Cobb Regional Medical Center                      Lavonia, GA
         Stephens County Hospital                                    Toccoa, GA
         SummitRidge Hospital                                        Lawrenceville, GA
         Talbott Recovery Atlanta                                    College Park, GA
@@ -6546,8 +6714,10 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Wellstar Douglas Hospital                                   Douglasville, GA
         Wellstar Kennestone Hospital                                Marietta, GA
         Wellstar North Fulton Hospital                              Roswell, GA
+            f. North Fulton Regional Hospital                       Roswell, GA
         Wellstar Paulding Hospital                                  Dallas, GA
         Wellstar Spalding Regional Hospital                         Griffin, GA
+            f. Spalding Regional Medical Center                     Griffin, GA
         Wellstar Sylvan Grove Hospital                              Jackson, GA
         Wellstar West Georgia Medical Center                        LaGrange, GA
         Wellstar Windy Hill Hospital                                Marietta, GA
@@ -6558,6 +6728,39 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Wills Memorial Hospital                                     Washington, GA
         Winn Army Community Hospital                                Fort Stewart, GA
         Youth Villages Inner Harbour Campus                         Douglasville, GA
+
+        Guam Memorial Hospital                                      Oka, GU
+        Guam Regional Medical City                                  Dededo, GU
+        United States Naval Hospital Guam                           Agana Heights, GU
+
+        Adventist Health Castle                                     Kailua, HI
+        Cancer Institute of Maui                                    Wailuku, HI
+        Hawaii State Hospital                                       Kaneohe, HI
+        Hilo Medical Center                                         Hilo, HI
+        Ka'u Hospital                                               Pahala, HI
+        Kahuku Medical Center,                                      Kahuku, HI
+        Kaiser Permanente Moanalua Medical Center                   Honolulu, HI
+        Kapi'olani Medical Center for Women & Children              Honolulu, HI
+        Kauai Veterans Memorial Hospital                            Waimea, HI
+        Kohala Hospital                                             Kapaau, HI
+        Kona Community Hospital                                     Kealakekua, HI
+        Kuakini Medical Center                                      Honolulu, HI
+        Kula Hospital                                               Kula, HI
+        Lanai Community Hospital                                    Lanai City, HI
+        Maui Memorial Medical Center                                Wailuku, HI
+        Molokai General Hospital                                    Kaunakakai, HI
+            f. Shingle Memorial Hospital                            Kaunakakai, HI
+        North Hawaii Community Hospital                             Waimea, HI
+        Pali Momi Medical Center                                    Aiea, HI
+        REHAB Hospital of the Pacific                               Honolulu, HI
+        Samuel Mahelona Memorial Hospital                           Kapaa, HI
+        Shriners Hospital for Children                              Honolulu, HI
+        Straub Clinic & Hospital                                    Honolulu, HI
+        The Queen's Medical Center                                  Honolulu, HI
+        The Queen's Medical Center West Oahu                        ʻEwa Beach, HI
+        Tripler Army Medical Center                                 Honolulu, HI
+        Wahiawa General Hospital                                    Wahiawa, HI
+        Wilcox Memorial Hospital                                    Lihue, HI
 
 
 ========== defunct ==========
@@ -6677,9 +6880,16 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Florida A&M Hospital                                        Tallahassee, FL
         Glades General Hospital                                     Belle Glade, FL
         Johnston's Hospital                                         Tallahassee, FL
+            f. Seventh Day Adventist Hospital                       Tallahassee, FL
+            f. Forsyth Hospital                                     Tallahassee, FL
         Pan American Hospital                                       Miami, FL
         Shands Lake Shore Regional Medical Center                   Lake City, FL
         ShorePoint Health Venice                                    Venice, FL
+            f. South Sarasota County Memorial Hospital              Venice, FL
+            f. Venice Memorial Hospital                             Venice, FL
+            f. Venice Hospital                                      Venice, FL
+            f. Bon Secours Venice Hospital                          Venice, FL
+            f. Venice Regional Bayfront Health                      Venice, FL
 
         Calhoun Memorial Hospital                                   Arlington, GA
         Charlton Memorial Hospital                                  Folkston, GA
@@ -6687,15 +6897,19 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Cook Medical Center                                         Adel, GA
         Emory Adventist Hospital                                    Smyrna, GA
         Emory Parkway Hospital                                      Lithia Springs, GA
+            f. Parkway General Hospital, Atlanta West               Lithia Springs, GA
         Hart County Hospital                                        Hartwell, GA
         Lower Oconee Community Hospital                             Glenwood, GA
         North Georgia Medical Center                                Ellijay, GA
         South Georgia Medical Center Smith Northview                Valdosta, GA
-        South Georgia Medical Center Smith Northview                Valdosta, GA
+            f. Smith Northview Hospital                             Valdosta, GA
         Southwest Atlanta Hospital                                  Atlanta, GA
         Southwest Georgia Regional Medical Center                   Cuthbert, GA
+            f. Patterson Hospital                                   Cuthbert, GA
         Stewart Webster Hospital                                    Richland, GA
         Wellstar Atlanta Medical Center                             Atlanta, GA
+            f. Georgia Baptist Hospital                             Atlanta, GA
         Wellstar Atlanta Medical Center South                       East Point, GA
+            f. South Fulton Medical Center                          East Point, GA
         West Paces Ferry Hospital                                   Atlanta, GA
         Woodstock Hospital                                          Woodstock, GA
