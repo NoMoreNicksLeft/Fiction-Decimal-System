@@ -6807,6 +6807,8 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Weiser Memorial Hospital                                    Weiser, ID
         West Valley Medical Center                                  Caldwell, ID
 
+
+
         Adams Memorial Hospital                                     Decatur, IN
         Ascension St. Vincent Kokomo                                Kokomo, IN
         Bedford Regional Medical Center                             Bedford, IN
@@ -7098,8 +7100,712 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Wayne County Hospital and Clinic System                     Corydon, IA
         Winneshiek Medical Center                                   Decorah, IA
 
+        AdventHealth Ottawa                                         Ottawa, KS
+            f. Ransom Memorial Hospital                             Ottawa, KS
+        AdventHealth Shawnee Mission                                Shawnee Mission, KS
+            f. Shawnee Mission Medical Center                       Shawnee Mission, KS
+        AdventHealth South Overland Park                            Overland Park, KS
+        Allen County Hospital                                       Iola, KS
+        Anderson County Hospital                                    Garnett, KS
+        Anthony Medical Center                                      Anthony, KS
+        Ascension Via Christi Behavioral Health Center              Wichita, KS
+        Ascension Via Christi Rehabilitation Hospital               Wichita, KS
+        Ascension Via Christi St. Francis                           Wichita, KS
+        Ascension Via Christi St. Joseph                            Wichita, KS
+        Ascension Via Christi St. Teresa                            Wichita, KS
+        Ashland Health Center                                       Ashland, KS
+        Associated Eye Surgical Center                              Wichita, KS
+        Atchison Hospital                                           Atchison, KS
+        Bob Wilson Memorial Grant County Hospital                   Ulysses, KS
+        Central Kansas Medical Center                               Great Bend, KS
+        Cheyenne County Hospital                                    Saint Francis, KS
+        Children's Mercy South                                      Overland Park, KS
+        Citizens Medical Center                                     Colby, KS
+        Clara Barton Hospital                                       Hoisington, KS
+        Clay County Medical Center                                  Clay Center, KS
+        Cloud County Health Center                                  Concordia, KS
+        Coffey County Hospital                                      Burlington, KS
+        Coffeyville Regional Medical Center                         Coffeyville, KS
+        Colmery-O'Neil VA Medical Center                            Topeka, KS
+        Comanche County Hospital                                    Coldwater, KS
+        Community HealthCare System                                 Onaga, KS
+        Community Memorial Hospital                                 Marysville, KS
+        Crawford County Hospital                                    Girard, KS
+        Cushing Memorial Hospital                                   Leavenworth, KS
+        Decatur Health Systems                                      Oberlin, KS
+        Derby Ambulatory Surgery Center                             Derby, KS
+        Dwight D. Eisenhower VA Medical Center                      Leavenworth, KS
+        Edwards County Hospital & Healthcare Center                 Kinsley, KS
+        Ellinwood District Hospital                                 Ellinwood, KS
+        Ellsworth County Medical Center                             Ellsworth, KS
+        Flint Hills Community Health Center                         Emporia, KS
+        Fredonia Regional Hospital                                  Fredonia, KS
+        Fry Eye Surgery Center                                      Garden City, KS
+        Geary Community Hospital                                    Junction City, KS
+        Goodland Regional Medical Center                            Goodland, KS
+        Gove County Medical Center                                  Quinter, KS
+        Graham County Hospital                                      Hill City, KS
+        Greeley County Hospital                                     Tribune, KS
+        Greenwood County Hospital                                   Eureka, KS
+        Grisell Memorial Hospital                                   Ransom, KS
+        Halstead Hospital                                           Halstead, KS
+        Hamilton County Hospital                                    Syracuse, KS
+        Hanover Hospital                                            Hanover, KS
+        Harper Hospital                                             Harper, KS
+        Hays Medical Center                                         Hays, KS
+        Heartland LASIK Center                                      Abilene, KS
+        Herington Municipal Hospital                                Herington, KS
+        Hiawatha Community Hospital                                 Hiawatha, KS
+        Hillsboro Community Medical Center                          Hillsboro, KS
+        Hodgeman County Health Center                               Jetmore, KS
+        Holton Community Hospital                                   Holton, KS
+        Hutchinson Regional Medical Center                          Hutchinson, KS
+        Jefferson County Memorial Hospital and Geriatric Center     Winchester, KS
+        Jewell County Hospital                                      Mankato, KS
+        Kansas City Orthopaedic Institute                           Leawood, KS
+        Kansas Heart Hospital                                       Wichita, KS
+        Kansas Neurological Institute                               Topeka, KS
+        Kansas Rehabilitation Hospital                              Topeka, KS
+        Kansas Spine Hospital                                       Wichita, KS
+        Kansas Surgery & Recovery Center                            Wichita, KS
+        Kansas Voice Center                                         Lawrence, KS
+        Kearny County Hospital                                      Lakin, KS
+        Kingman Community Hospital                                  Kingman, KS
+        Kiowa County Memorial Hospital                              Greensburg, KS
+        Kiowa District Hospital & Manor                             Kiowa, KS
+        KVC Psychiatric Hospital                                    Kansas City, KS
+        Labette Health                                              Parsons, KS
+        Lafene Health Center                                        Manhattan, KS
+        Lane County Hospital                                        Dighton, KS
+        Larned State Hospital                                       Larned, KS
+        Lawrence Memorial Hospital                                  Lawrence, KS
+        Lincoln County Hospital                                     Lincoln, KS
+        Lindsborg Community Hospital                                Lindsborg, KS
+        Logan County Hospital                                       Oakley, KS
+        Manhattan Surgical Center                                   Manhattan, KS
+        McPherson Hospital                                          McPherson, KS
+        Meade District Hospital                                     Meade, KS
+        Meadowbrook Rehabilitation Hospital                         Gardner, KS
+        Medical Specialists Ambulatory Surgery Center               Wichita, KS
+        Medicine Lodge Memorial Hospital                            Medicine Lodge, KS
+        Memorial Hospital                                           Abilene, KS
+        Menorah Medical Center                                      Overland Park, KS
+        Mercy Hospital                                              Moundridge, KS
+        Mercy Hospital Columbus                                     Columbus, KS
+        Mercy Regional Health Center                                Manhattan, KS
+        Miami County Medical Center                                 Paola, KS
+        Mid-America Rehabilitation Hospital                         Overland Park, KS
+        Minneola District Hospital                                  Minneola, KS
+        Mitchell County Hospital Health Systems                     Beloit, KS
+        Morris County Hospital                                      Council Grove, KS
+        Morton County Health System                                 Elkhart, KS
+        Munson Army Health Center                                   Fort Leavenworth, KS
+        NEK Center for Health and Wellness                          Horton, KS
+        Nemaha Valley Community Hospital                            Seneca, KS
+        Neosho Memorial Regional Medical Center                     Chanute, KS
+        Ness County District Hospital                               Ness City, KS
+        Newman Regional Health                                      Emporia, KS
+        Newton Medical Center                                       Newton, KS
+        Northeast Kansas Center for Health and Wellness             Horton, KS
+        Northwest Kansas Surgery Center                             Hays, KS
+        Norton County Hospital                                      Norton, KS
+        Olathe Medical Center                                       Olathe, KS
+        Osawatomie State Hospital                                   Osawatomie, KS
+        Osborne County Memorial Hospital                            Osborne, KS
+        Oswego Medical Center                                       Oswego, KS
+        Ottawa County Health Center                                 Minneapolis, KS
+        Overland Park Regional Medical Center                       Overland Park, KS
+        Parsons State Hospital & Training Center                    Parsons, KS
+        Phillips County Hospital                                    Phillipsburg, KS
+PPKM    Planned Parenthood of Kansas & Mid-Missouri                 Overland Park, KS
+        Plastic Surgery Center                                      Wichita, KS
+        Prairie View Psychiatric Hospital                           Newton, KS
+        Pratt Regional Medical Center                               Pratt, KS
+        Providence Medical Center                                   Kansas City, KS
+        Quinlan Eye Surgery & Laser Center                          Fort Scott, KS
+        Quinlan Eye Surgery & Laser Center                          Pittsburg, KS
+        Rawlins County Health Center                                Atwood, KS
+        Republic County Hospital                                    Belleville, KS
+        Rice County Hospital                                        Lyons, KS
+        Robert J. Dole VA Medical and Regional Office Center        Wichita, KS
+        Rooks County Health Center                                  Plainville, KS
+        Rush County Memorial Hospital                               La Crosse, KS
+        Russell Regional Hospital                                   Russell, KS
+        Sabetha Community Hospital                                  Sabetha, KS
+        Saint Catherine Hospital                                    Garden City, KS
+        Saint John Hospital                                         Leavenworth, KS
+        Saint Johns Maude Norton Memorial Hospital                  Columbus, KS
+        Saint Joseph Memorial Hospital                              Larned, KS
+        Saint Luke Hospital & Living Center                         Marion, KS
+        Saint Luke's South Hospital                                 Overland Park, KS
+        Salina Regional Health Center                               Salina, KS
+        Satanta District Hospital                                   Satanta, KS
+        Scott County Hospital                                       Scott City, KS
+        Sedan City Hospital                                         Sedan, KS
+        Select Specialty Hospital of Topeka                         Topeka, KS
+        Sheridan County Health Complex                              Hoxie, KS
+        Smith County Memorial Hospital                              Smith Center, KS
+        South Central Kansas Regional Medical Center                Arkansas City, KS
+        Southwest Medical Center                                    Liberal, KS
+        Specialty Hospital of Mid-America                           Overland Park, KS
+        St. Francis at Ellsworth                                    Ellsworth, KS
+        Stafford District Hospital                                  Stafford, KS
+        Stanton County Health Care Facility                         Johnson, KS
+        Stevens County Hospital                                     Hugoton, KS
+        Stormont Vail Health                                        Topeka, KS
+        Sumner County Hospital                                      Caldwell, KS
+        Sumner Regional Medical Center                              Wellington, KS
+        Surgery Center of Southwest Kansas                          Garden City, KS
+        Susan B. Allen Memorial Hospital                            El Dorado, KS
+        Team Vision Surgery Center West                             Wichita, KS
+        Trego County-Lemke Memorial Hospital                        WaKeeney, KS
+        University of Kansas Health System                          Kansas City, KS
+        University of Kansas Health System St. Francis Campus       Topeka, KS
+            f. St. Francis Health Center                            Topeka, KS
+        University of Kansas Medical Center                         Kansas City, KS
+        Via Christi Hospital, Pittsburg                             Pittsburg, KS
+        Wamego Health Center                                        Wamego, KS
+        Washington County Hospital                                  Washington, KS
+        Wesley Medical Center                                       Wichita, KS
+        Wesley Rehabilitation Hospital                              Wichita, KS
+        Western Plains Medical Complex                              Dodge City, KS
+        Wichita County Health Center                                Leoti, KS
+        Wichita Specialty Hospital                                  Wichita, KS
+        William Newton Memorial Hospital                            Winfield, KS
+        Wilson County Hospital                                      Neodesha, KS
 
+        AdventHealth Manchester                                     Manchester, KY
+            f. Manchester Memorial Hospital                         Manchester, KY
+        Albert B. Chandler Hospital                                 Lexington, KY
+        ARH Our Lady of the Way Hospital                            Martin, KY
+        Baptist Health Corbin                                       Corbin, KY
+        Baptist Health La Grange                                    La Grange, KY
+        Baptist Health Lexington                                    Lexington, KY
+        Baptist Health Louisville                                   Louisville, KY
+        Baptist Health Madisonville                                 Madisonville, KY
+        Baptist Health Paducah                                      Paducah, KY
+        Baptist Health Richmond                                     Richmond, KY
+        Blanchfield Army Community Hospital                         Fort Campbell, KY
+        Bluegrass Community Hospital                                Versailles, KY
+        Bourbon Community Hospital                                  Paris, KY
+        Breckinridge Memorial Hospital                              Hardinsburg, KY
+        Caldwell Medical Center                                     Princeton, KY
+        Cardinal Hill Rehabilitation Center                         Lexington, KY
+        Carroll County Memorial Hospital                            Carrollton, KY
+        Casey County Hospital                                       Liberty, KY
+        Caverna Memorial Hospital                                   Horse Cave, KY
+        Central State Hospital                                      Louisville, KY
+        Clark Regional Medical Center                               Winchester, KY
+        Clinton County Hospital                                     Albany, KY
+        Commonwealth Regional Specialty Hospital                    Bowling Green, KY
+        Crittenden County Hospital                                  Marion, KY
+        Cumberland County Hospital                                  Burkesville, KY
+        Cumberland Hall Hospital                                    Hopkinsville, KY
+        Deaconess Hospital                                          Henderson, KY
+        Deaconess Hospital Union County                             Morganfield, KY
+        Eastern State Hospital                                      Lexington, KY
+        Ephraim McDowell Fort Logan Hospital                        Stanford, KY
+        Ephraim McDowell Regional Medical Center                    Danville, KY
+        Flaget Memorial Hospital                                    Bardstown, KY
+        Fleming County Hospital                                     Flemingsburg, KY
+        Frankfort Regional Medical Center                           Frankfort, KY
+        Gateway Rehabilitation Hospital                             Florence, KY
+        Georgetown Community Hospital                               Georgetown, KY
+        Good Samaritan Hospital                                     Lexington, KY
+        Hardin Memorial Hospital                                    Elizabethtown, KY
+        Harlan ARH Hospital                                         Harlan, KY
+        Harrison Memorial Hospital                                  Cynthiana, KY
+        Hazard ARH Regional Medical Center                          Hazard, KY
+        HealthSouth Lakeview Rehabilitation Hospital                Elizabethtown, KY
+        HealthSouth Northern Kentucky Rehabilitation Hospital       Edgewood, KY
+        Highlands ARH Regional Medical Center                       Prestonsburg, KY
+        Ireland Army Community Hospital                             Fort Knox, KY
+        Jackson Purchase Medical Center                             Mayfield, KY
+        James B. Haggin Memorial Hospital                           Harrodsburg, KY
+        Jane Todd Crawford Memorial Hospital                        Greensburg, KY
+        Jennie Stuclosedart Medical Center                          Hopkinsville, KY
+        Kentucky River Medical Center                               Jackson, KY
+        Kindred Hospital Louisville                                 Louisville, KY
+        King's Daughters Medical Center                             Ashland, KY
+        Knox County Hospital                                        Barbourville, KY
+        Kosair Children's Hospital                                  Louisville, KY
+        Lake Cumberland Regional Hospital                           Somerset, KY
+        Lexington Shriners Hospital                                 Lexington, KY
+        Lexington VA Medical Center                                 Lexington, KY
+        Livingston Hospital and Health Services                     Salem, KY
+        Logan Memorial Hospital                                     Russellville, KY
+        Louisville Medical Center                                   Louisville, KY
+        Lourdes Hospital                                            Paducah, KY
+        Marcum and Wallace Memorial Hospital                        Irvine, KY
+        Marshall County Hospital                                    Benton, KY
+        Mary Breckinridge Hospital                                  Hyden, KY
+        McDowell ARH Hospital                                       McDowell, KY
+        Meadowview Regional Medical Center                          Maysville, KY
+        Medical Center, The                                         Bowling Green, KY
+        Medical Center, The                                         Franklin, KY
+        Medical Center, The                                         Scottsville, KY
+        Middlesboro ARH Hospital                                    Middlesboro, KY
+        Monroe County Medical Center                                Tompkinsville, KY
+        Morgan County ARH Hospital                                  West Liberty, KY
+        Muhlenberg Community Hospital                               Greenville, KY
+        Murray-Calloway County Hospital                             Murray, KY
+        New Horizons Medical Center                                 Owenton, KY
+        Nicholas County Hospital                                    Carlisle, KY
+        Norton Audubon Hospital                                     Louisville, KY
+        Norton Brownsboro Hospital                                  Louisville, KY
+        Norton Hospital                                             Louisville, KY
+        Norton Suburban Hospital                                    Louisville, KY
+        Ohio County Hospital                                        Hartford, KY
+        Owensboro Health Regional Hospital                          Owensboro, KY
+        Paintsville ARH Hospital                                    Paintsville, KY
+        Pikeville Medical Center                                    Pikeville, KY
+        Pineville Community Hospital                                Pineville, KY
+        River Valley Behavioral Health Hospital                     Owensboro, KY
+        Robley Rex VA Medical Center                                Louisville, KY
+        Rockcastle Regional Hospital                                Mount Vernon, KY
+        Russell County Hospital                                     Russell Springs, KY
+        Saint Claire Medical Center                                 Morehead, KY
+        Saint Elizabeth Edgewood                                    Edgewood, KY
+        Saint Elizabeth Florence                                    Florence, KY
+        Saint Elizabeth Fort Thomas                                 Fort Thomas, KY
+        Saint Elizabeth Hebron                                      Hebron, KY
+        Saint Joseph Berea                                          Berea, KY
+        Saint Joseph East                                           Lexington, KY
+        Saint Joseph Hospital                                       Lexington, KY
+        Saint Joseph London                                         London, KY
+        Saint Joseph Mount Sterling                                 Mount Sterling, KY
+        Select Specialty Hospital                                   Lexington, KY
+        Southern Kentucky Rehabilitation Hospital                   Bowling Green, KY
+        Spring View Hospital                                        Lebanon, KY
+        T.J. Samson Community Hospital                              Glasgow, KY
+        Taylor Regional Hospital                                    Campbellsville, KY
+        Ten Broeck Hospital                                         Louisville, KY
+        Three Rivers Medical Center                                 Louisa, KY
+        Trigg County Hospital                                       Cadiz, KY
+        TriStar Greenview Regional Hospital                         Bowling Green, KY
+        Twin Lakes Regional Medical Center                          Leitchfield, KY
+        University of Kentucky Children's Hospital                  Lexington, KY
+        University of Louisville Hospital                           Louisville, KY
+        UofL Health, Frazier Rehabilitation Institute               Louisville, KY
+        UofL Health, Jewish Hospital                                Louisville, KY
+        UofL Health, Mary and Elizabeth Hospital                    Louisville, KY
+        UofL Health, Medical Center South                           Hillview, KY
+        UofL Health, Peace Hospital                                 Louisville, KY
+        UofL Health, Shelbyville Hospital                           Shelbyville, KY
+        Wayne County Hospital                                       Monticello, KY
+        Western State Hospital                                      Hopkinsville, KY
+        Westlake Regional Hospital                                  Columbia, KY
+        Whitesburg ARH Hospital                                     Whitesburg, KY
+        Williamson ARH Hospital                                     South Williamson, KY
 
+        Abbeville General Hospital                                  Abbeville, LA
+        Acadia-St. Landry Hospital                                  Church Point, LA
+        Acadian Medical Center                                      Eunice, LA
+        Allen Parish Hospital                                       Kinder, LA
+        Assumption General Medical Center                           Napoleonville, LA
+        Avoyelles Hospital                                          Marksville, LA
+        Bastrop Rehabilitation Hospital                             Bastrop, LA
+        Baton Rouge General Medical Center, Bluebonnet              Baton Rouge, LA
+        Baton Rouge General Medical Center, Mid-City                Baton Rouge, LA
+        Bayne Jones Army Community Hospital                         Fort Polk, LA
+        Beauregard Memorial Hospital                                De Ridder, LA
+        Brentwood Hospital                                          Shreveport, LA
+        Byrd Regional Hospital                                      Leesville, LA
+        Central Louisiana Surgical Hospital                         Alexandria, LA
+        Children's Hospital of New Orleans                          New Orleans, LA
+        Christus Bossier Emergency Hospital                         Bossier City, LA
+        Christus Highland Medical Center                            Shreveport, LA
+        Christus St. Francis Cabrini Hospital                       Alexandria, LA
+        Christus St. Patrick Hospital                               Lake Charles, LA
+        Cypress Pointe Surgical Hospital                            Hammond, LA
+        East Jefferson General Hospital                             Metairie, LA
+        Glenwood Regional Medical Center                            West Monroe, LA
+        Hardtner Medical Center                                     Olla, LA
+        HealthSouth Rehabilitation Hospital of Lafayette            Lafayette, LA
+        Hood Memorial Hospital                                      Amite, LA
+        LaSalle General Hospital                                    Jena[1], LA
+        Huey P. Long Medical Center                                 Pineville, LA
+        Iberia Medical Center                                       New Iberia, LA
+        Iberia Medical Center, North                                New Iberia, LA
+        Lafayette General Medical Center                            Lafayette, LA
+        Lafayette General Southwest                                 Lafayette, LA
+        Lake Charles Memorial Hospital                              Lake Charles, LA
+        Lake Charles Memorial Hospital for Women                    Lake Charles, LA
+        Lakeview Regional Medical Center                            Covington, LA
+        Lallie Kemp Regional Medical Center                         Independence, LA
+        Lane Regional Medical Center                                Zachary, LA
+        Leonard J. Chabert Medical Center                           Houma, LA
+        Louisiana Heart Hospital                                    Lacombe, LA
+        Morehouse General Hospital                                  Bastrop, LA
+        New Orleans East Hospital                                   New Orleans, LA
+        North Oaks Medical Center                                   Hammond, LA
+        North Oaks Rehabilitation Hospital                          Hammond, LA
+        Northshore Psychiatric Hospital                             Slidell, LA
+        Oakdale Community Hospital                                  Oakdale, LA
+        Ochsner Baptist Medical Center                              New Orleans, LA
+            f. Memorial Medical Center                              New Orleans, LA
+        Ochsner LSU Health Shreveport, Academic Medical Center      Shreveport, LA
+        Ochsner LSU Health Shreveport, Monroe Medical Center        Monroe, LA
+            f. EA Conway Hospital                                   Monroe, LA
+        Ochsner LSU Health Shreveport, St. Mary Medical Center      Shreveport, LA
+            f. Christus Schumpert Medical Center                    Shreveport, LA
+        Ochsner Medical Center, Baton Rouge                         Baton Rouge, LA
+        Ochsner Medical Center                                      Jefferson, LA
+        Ochsner Medical Center, Kenner                              Kenner, LA
+            f. Kenner Regional Medical Center                       Kenner, LA
+        Ochsner Medical Center, West Bank                           Gretna, LA
+            f. Meadowcrest Hospital                                 Gretna, LA
+        Ochsner Medical Center, Northshore                          Slidell, LA
+        Ochsner Medical Complex, Iberville                          Plaquemine, LA
+        Ochsner St Anne General Hospital                            Raceland, LA
+        Opelousas General Hospital                                  Opelousas, LA
+        Our Lady of Angels Hospital (OLAH)                          Bogalusa, LA
+        Our Lady of Lourdes Regional Medical Center                 Lafayette, LA
+        Our Lady of the Lake Ascension                              Gonzales, LA
+            f. St. Elizabeth Hospital                               Gonzales, LA
+        Our Lady of the Lake Regional Medical Center                Baton Rouge, LA
+        Our Lady of the Sea Hospital                                Cut Off, LA
+        Overton Brooks VA Medical Center                            Shreveport, LA
+        P & S Surgery Center                                        Monroe, LA
+        Plaquemines Parish Medical Center                           Port Sulphur, LA
+        Pointe Coupee General Hospital                              New Roads, LA
+        Prairieville Family Hospital                                Prairieville, LA
+        Rapides Regional Medical Center                             Alexandria, LA
+        Riverside Medical Center                                    Franklinton, LA
+        Saint Francis Medical Center                                Monroe, LA
+        Saint Francis Specialty Hospital                            Monroe, LA
+        Savoy Medical Center                                        Mamou, LA
+        Shriners Hospital                                           Shreveport, LA
+        Slidell Memorial Hospital and Medical Center                Slidell, LA
+        South Cameron Memorial Hospital                             Creole, LA
+        St. Bernard Parish Hospital                                 Chalmette, LA
+        St. Charles Parish Hospital                                 Luling, LA
+        St. James Parish Hospital                                   Lutcher, LA
+        St. Tammany Parish Hospital                                 Covington, LA
+        Sterling Surgical Hospital                                  Slidell, LA
+        Surgical Specialty Center                                   Baton Rouge, LA
+        Teche Regional Medical Center                               Morgan City, LA
+        Terrebonne General Medical Center                           Houma, LA
+        The NeuroMedical Center                                     Baton Rouge, LA
+        Thibodaux Regional Medical Center                           Thibodaux, LA
+        Touro Infirmary                                             New Orleans, LA
+        Tulane University Medical Center                            New Orleans, LA
+        Tulane–Lakeside Hospital                                    Metairie, LA
+        University Medical Center                                   Lafayette, LA
+        University Medical Center New Orleans                       New Orleans, LA
+        VA Medical Center of New Orleans                            New Orleans, LA
+        Vista Surgical Hospital                                     Baton Rouge, LA
+        West Calcasieu Cameron Hospital                             Sulphur, LA
+        West Jefferson Medical Center                               Marrero, LA
+        Willis-Knighton Bossier Health Center                       Bossier City, LA
+        Willis-Knighton Medical Center                              Shreveport, LA
+        Willis-Knighton Pierremont Health Center                    Shreveport, LA
+        Willis-Knighton South & the Center for Women’s Health       Shreveport, LA
+        Winn Parish Medical Center                                  Winnfield, LA
+        Woman's Hospital                                            Baton Rouge, LA
+        Women and Children's Hospital                               Lake Charles, LA
+        Women's and Children's Hospital                             Lafayette, LA
+
+        Bridgton Hospital                                           Bridgton, ME
+            f. Northern Cumberland Memorial Hospital                Bridgton, ME
+        Calais Regional Hospital                                    Calais, ME
+        Cary Medical Center                                         Caribou, ME
+        Central Maine Medical Center                                Lewiston, ME
+        Dorothea Dix Psychiatric Center                             Bangor, ME
+            f. Bangor Mental Health Institute                       Bangor, ME
+        Down East Community Hospital                                Machias, ME
+        Franklin Memorial Hospital                                  Farmington, ME
+        Houlton Regional Hospital                                   Houlton, ME
+        LincolnHealth, Miles                                        Damariscotta, ME
+        Maine Medical Center                                        Portland, ME
+        MaineGeneral Medical Center, Alfond Center for Health       Augusta, ME
+        MaineGeneral Medical Center, Thayer Center for Health       Waterville, ME
+        Mid Coast Hospital                                          Brunswick, ME
+        Millinocket Regional Hospital                               Millinocket, ME
+        Mount Desert Island Hospital                                Bar Harbor, ME
+        Northern Light A.R. Gould Hospital                          Presque Isle, ME
+TAMC        f. The Aroostook Medical Center                         Presque Isle, ME
+        Northern Light Acadia Hospital                              Bangor, ME
+        Northern Light Blue Hill Hospital                           Blue Hill, ME
+        Northern Light C.A. Dean Hospital                           Greenville, ME
+        Northern Light Eastern Maine Medical Center                 Bangor, ME
+        Northern Light Inland Hospital                              Waterville, ME
+        Northern Light Maine Coast Hospital                         Ellsworth, ME
+        Northern Light Mayo Hospital                                Dover-Foxcroft, ME
+        Northern Light Mercy Hospital                               Portland, ME
+        Northern Light Sebasticook Valley Hospital                  Pittsfield, ME
+        Northern Maine Medical Center                               Fort Kent, ME
+        Penobscot Bay Medical Center                                Rockport, ME
+        Penobscot Valley Hospital                                   Lincoln, ME
+        Redington-Fairview General Hospital                         Skowhegan, ME
+        Riverview Psychiatric Center                                Augusta, ME
+            f. Augusta Mental Health Institute                      Augusta, ME
+        Rumford Community Hospital                                  Rumford, ME
+        Southern Maine Health Care                                  Biddeford, ME
+            f. Southern Maine Medical Center                        Biddeford, ME
+        Southern Maine Health Care                                  Sanford, ME
+        Spring Harbor Hospital                                      Westbrook, ME
+        St. Joseph Hospital                                         Bangor, ME
+        St. Mary's Regional Medical Center                          Lewiston, ME
+        Stephens Memorial Hospital                                  Norway, ME
+        Waldo County General Hospital                               Belfast, ME
+        York Hospital                                               York, ME
+
+        Adventist HealthCare Fort Washington Medical Center         Fort Washington, MD
+        Adventist HealthCare Rehabilitation                         Rockville, MD
+        Adventist HealthCare Shady Grove Medical Center             Rockville, MD
+        Adventist HealthCare White Oak Medical Center               Silver Spring, MD
+        Anne Arundel Medical Center                                 Annapolis, MD
+        Atlantic General Hospital                                   Berlin, MD
+        Baltimore VA Medical Center                                 Baltimore, MD
+        Brandenburg Center                                          Cumberland, MD
+        Brook Lane Psychiatric Center                               Hagerstown, MD
+        CalvertHealth Medical Center                                Prince Frederick, MD
+        Carroll Hospital                                            Westminster, MD
+        Deer's Head Center                                          Salisbury, MD
+        Doctors Community Hospital                                  Lanham, MD
+        Eastern Shore Hospital Center                               Cambridge, MD
+        Frederick Memorial Hospital                                 Frederick, MD
+        Garrett Regional Medical Center                             Oakland, MD
+        Gladys Spellman Specialty Hospital & Nursing Center         Cheverly, MD
+        Grace Medical Center                                        Baltimore, MD
+        Greater Baltimore Medical Center                            Towson, MD
+        HealthSouth Chesapeake Rehabilitation Hospital              Salisbury, MD
+        Holly Center                                                Salisbury, MD
+        Holy Cross Germantown Hospital                              Germantown, MD
+        Holy Cross Hospital                                         Silver Spring, MD
+        Howard County General Hospital                              Columbia, MD
+        Johns Hopkins Bayview Medical Center                        Baltimore, MD
+        Johns Hopkins Hospital                                      Baltimore, MD
+        Kennedy Krieger Institute                                   Baltimore, MD
+        Levindale Hebrew Geriatric Center and Hospital              Baltimore, MD
+        MedStar Franklin Square Hospital Center                     Rossville    , MD
+        MedStar Good Samaritan Hospital                             Baltimore, MD
+        MedStar Harbor Hospital                                     Baltimore, MD
+        MedStar Montgomery Medical Center                           Olney, MD
+        MedStar Southern Maryland Hospital Center                   Clinton, MD
+        MedStar St. Mary's Hospital                                 Leonardtown, MD
+        MedStar Union Memorial Hospital                             Baltimore, MD
+        Mercy Medical Center                                        Baltimore , MD
+        Meritus Medical Center                                      Hagerstown, MD
+        Mt. Washington Pediatric Hospital                           Baltimore, MD
+        Northwest Hospital                                          Randallstown, MD
+        R Adams Cowley Shock Trauma Center                          Baltimore, MD
+        Saint Luke Institute                                        Silver Spring, MD
+        Sheppard & Enoch Pratt Hospital, The                        Towson, MD
+        Sheppard Pratt at Ellicott City                             Ellicott City, MD
+        Sinai Hospital of Baltimore                                 Baltimore, MD
+        Spring Grove Hospital Center                                Catonsville, MD
+        Springfield Hospital Center                                 Sykesville, MD
+        St. Agnes Hospital                                          Baltimore, MD
+        Suburban Hospital                                           Bethesda, MD
+        Thomas B. Finan Center                                      Cumberland, MD
+        TidalHealth Peninsula Regional                              Salisbury, MD
+        Union Hospital                                              Elkton, MD
+        University of Maryland Baltimore Washington Medical Center  Glen Burnie, MD
+        University of Maryland Charles Regional Medical Center      La Plata, MD
+        University of Maryland Harford Memorial Hospital            Havre de Grace, MD
+        University of Maryland Laurel Medical Center                Laurel, MD
+        University of Maryland Medical Center                       Baltimore, MD
+        University of Maryland Medical Center Midtown Campus        Baltimore, MD
+        University of Maryland Prince George's Hospital Center      Cheverly, MD
+        University of Maryland Rehabilitation & Orthopaedic Inst    Baltimore, MD
+        University of Maryland Shore Medical Center at Cambridge    Cambridge, MD
+        University of Maryland Shore Medical Center at Chestertown  Chestertown, MD
+        University of Maryland Shore Medical Center at Easton       Easton, MD
+        University of Maryland St. Joseph Medical Center            Towson, MD
+        University of Maryland Upper Chesapeake Medical Center      Bel Air, MD
+        UPMC Western Maryland                                       Cumberland, MD
+        Walter Reed National Military Medical Center                Bethesda, MD
+            f. National Naval Medical Center                        Bethesda, MD
+        Warren Grant Magnuson Clinical Center, NIH                  Bethesda, MD
+        Western Maryland Hospital Center                            Hagerstown, MD
+
+        Adcare Hospital                                             Worcester, MA
+            f. Doctor's Hospital                                    Worcester, MA
+        Addison Gilbert Hospital                                    Gloucester, MA
+        Amesbury Health Center                                      Amesbury
+        Anna Jaques Hospital                                        Newburyport, MA
+        Arbour Hospital                                             Boston, MA
+        Arbour HRI                                                  Brookline, MA
+        Arbour-Fuller Hospital                                      South Attleboro
+        Athol Hospital                                              Athol
+        Austen Riggs Center                                         Stockbridge, MA
+        Baldpate Hospital                                           Georgetown, MA
+        BayRidge Hospital                                           Lynn, MA
+        Baystate Children's Hospital                                Springfield, MA
+        Baystate Mary Lane Hospital                                 Ware, MA
+        Baystate Medical Center                                     Springfield, MA
+        Baystate Noble Hospital                                     Westfield, MA
+        Baystate Wing Hospital                                      Palmer, MA
+        Bedford Veterans Affairs Medical Center                     Bedford
+        Berkshire Medical Center                                    North Adams, MA
+        Berkshire Medical Center                                    Pittsfield, MA
+        Beth Israel Deaconess Hospital, Milton                      Milton, MA
+            f. Milton Hospital                                      Milton, MA
+        Beth Israel Deaconess Hospital, Plymouth                    Plymouth, MA
+            f. Jordan Hospital                                      Plymouth, MA
+        Beth Israel Deaconess Medical Center                        Boston, MA
+        Beth Israel Deaconess Medical Center                        Needham, MA
+        Beverly Hospital                                            Beverly
+        Boston Center, The                                          Boston, MA
+        Boston Children's at Waltham                                Waltham, MA
+            f. Waltham/Weston Hospital                              Waltham, MA
+            f. Deaconess Waltham Hospital                           Waltham, MA
+            f. Sterling Medical Center                              Waltham, MA
+        Boston Children's Hospital                                  Boston, MA
+        Boston Children's North                                     Peabody, MA
+        Boston Medical Center                                       Boston, MA
+        Bournewood Hospital                                         Brookline, MA
+        Bridgewater State Hospital                                  Bridgewater, MA
+        Brigham and Women's / Mass General Health Care Center       Foxborough, MA
+        Brigham and Women's Faulkner Hospital                       Boston, MA
+            f. Faulkner Hospital                                    Boston, MA
+        Brigham and Women's Hospital                                Boston, MA
+        Burbank Hospital                                            Fitchburg, MA
+        Cambridge Hospital                                          Cambridge, MA
+        Cape Cod Hospital                                           Hyannis, MA
+        Carney Hospital, Dorchester                                 Boston, MA
+        CHA Everett Hospital                                        Everett, MA
+        Charles River Hospital                                      Wellesley, MA
+        Charlton Memorial Hospital                                  Fall River, MA
+        Chelsea Soldier's Home                                      Chelsea, MA
+        Clinton Hospital                                            Clinton, MA
+        Cooley Dickinson Hospital                                   Northampton, MA
+        Curahealth Hospital, Stoughton                              Stoughton, MA
+        Dana-Farber/Boston Children's Cancer & Blood Disorders Ctr  Boston, MA
+        Dana–Farber Cancer Institute                                Boston, MA
+        Dr. John C. Corrigan Mental Health Center                   Fall River, MA
+        DR. Solomon Carter Fuller Mental Health Center              Boston, MA
+        Emerson Hospital                                            Concord, MA
+        Encompass Health Rehabilitation Hospital of Braintree       Braintree, MA
+            f. Braintree Rehabilitation Hospital                    Braintree, MA
+        Encompass Health Rehabilitation Hospital of New England     Woburn, MA
+            f. New England Rehabilitation Hospital                  Woburn, MA
+        Encompass Health Rehabilitation Hospital of Western Mass    Ludlow, MA
+            f. HealthSouth Rehabilitation Hospital of Western Mass  Ludlow, MA
+        Fairlawn Rehabilitation Hospital                            Worcester, MA
+        Fairview Hospital                                           Great Barrington, MA
+        Falmouth Hospital                                           Falmouth, MA
+        Franciscan Hospital for Children                            Boston, MA
+        Franklin Medical Center                                     Greenfield, MA
+        Good Samaritan Medical Center                               Brockton, MA
+        Hahnemann Hospital                                          Worcester, MA
+        Hallmark Health System                                      Malden, MA
+        Harrington Memorial Hospital                                Southbridge, MA
+        Harrington Memorial Hospital                                Webster, MA
+            f. Hubbard Regional Hospital                            Webster, MA
+        HealthAlliance Hospital                                     Leominster, MA
+        Hebrew Rehabilitation Center for the Aged                   Boston, MA
+        Heywood Memorial Hospital                                   Gardner, MA
+        High Point Hospital                                         Middleborough, MA
+        High Point Treatment                                        Plymouth, MA
+        High Point Treatment Center                                 New Bedford, MA
+        Holy Family at Merrimack Valley Hospital                    Haverhill, MA
+            f. Hale Hospital                                        Haverhill, MA
+        Holy Family Hospital and Medical Center                     Methuen, MA
+        Holyoke Medical Center                                      Holyoke, MA
+        Homberg Infirmary                                           Cambridge, MA
+        Hunt Center                                                 Danvers, MA
+        Jewish Healthcare Center                                    Worcester, MA
+        Joslin Diabetes Center                                      Boston, MA
+        Kindred Park View Specialty Hospital of Springfield         Springfield, MA
+            f. Springfield Municipal Hospital                       Springfield, MA
+        L.F. Quigley Memorial Hospital                              Chelsea, MA
+        Lahey Clinic, North Shore                                   Peabody, MA
+        Lahey Hospital & Medical Center                             Burlington, MA
+        Lawrence General Hospital                                   Lawrence, MA
+        Lawrence Memorial Hospital                                  Medford, MA
+        Lemuel Shattuck Hospital                                    Boston, MA
+        Lindemann Mental Health Center                              Boston, MA
+        Lowell General Hospital                                     Lowell, MA
+        Lowell General Hospital, Saints Campus                      Lowell, MA
+            f. Saints Medical Center                                Lowell, MA
+        Marlborough Hospital                                        Marlborough, MA
+        Martha's Vineyard Hospital                                  Oak Bluffs, MA
+        Massachusetts Eye and Ear Infirmary                         Boston, MA
+        Massachusetts General Hospital                              Boston, MA
+        Massachusetts General Hospital                              Chelsea, MA
+        Massachusetts General Hospital                              Danvers, MA
+        Massachusetts General Hospital                              Revere, MA
+        Massachusetts General Hospital                              Waltham, MA
+        Massachusetts General Hospital for Children                 Boston, MA
+        Massachusetts Mental Health Center                          Boston, MA
+            f. Boston Psychopathic Hospital                         Boston, MA
+        Mattapan Community Health Center                            Boston, MA
+        McLean Hospital                                             Belmont
+        McLean Southeast                                            Middleborough, MA
+        Mediplex Rehabilitation Hospital                            New Bedford, MA
+        MelroseWakefield Hospital                                   Melrose, MA
+        Memorial Hospital                                           Worcester, MA
+        Mercy Medical Center                                        Springfield, MA
+        MetroWest Medical Center                                    Framingham, MA
+        Metrowest Medical Center                                    Natick, MA
+            f. Leonard Morse Hospital                               Natick, MA
+        Milford Regional Medical Center                             Milford, MA
+        MiraVista Behavioral Health Center                          Holyoke, MA
+        Morton Hospital and Medical Center                          Taunton, MA
+        Mount Auburn Hospital                                       Cambridge, MA
+        Nantucket Cottage Hospital                                  Nantucket, MA
+        Nashoba Valley Medical Center                               Ayer
+        New England Baptist Hospital                                Boston, MA
+        New England Recovery Center                                 Westborough, MA
+        New England Rehab Hospital At Lowell                        Lowell, MA
+        New England Rehab Hospital, Danvers                         Danvers, MA
+        New England Sinai Hospital                                  Stoughton, MA
+        Newton-Wellesley Hospital                                   Newton, MA
+        Northampton Veterans Affairs Medical Center                 Northampton, MA
+        Norwood Hospital                                            Norwood, MA
+        Pappas Rehabilitation Hospital for Children                 Canton, MA
+            f. Massachusetts Hospital School                        Canton, MA
+        Pembroke Hospital                                           Pembroke, MA
+        Providence Behavioral Health Hospital                       Holyoke, MA
+        Quabbin Retreat, The                                        Petersham, MA
+        Quincy Medical Center                                       Quincy, MA
+        Quincy Mental Health Center                                 Quincy, MA
+        Rehabilitation Hospital of the Cape and Islands             East Sandwich, MA
+        Saint Vincent Hospital                                      Worcester, MA
+        Salem Hospital                                              Salem, MA
+        Shriner's Hospital                                          Boston, MA
+        Shriners Hospitals for Children                             Springfield, MA
+        Signature Healthcare Brockton Hospital                      Brockton, MA
+        Soldiers' Home in Holyoke                                   Holyoke, MA
+        Somerville Hospital                                         Somerville, MA
+        South Shore Hospital                                        Weymouth, MA
+        Spaulding Hospital Cambridge                                Cambridge, MA
+            f. Youville Hospital and Rehabilitation Hospital        Cambridge, MA
+        Spaulding Rehabilitation Hospital                           Boston, MA
+        St. Anne's Hospital                                         Fall River, MA
+        St. Elizabeth's Medical Center                              Boston, MA
+        St. Luke's Hospital                                         New Bedford, MA
+        St. Margaret's Center for Women & Infants                   Brighton, MA
+        Stillman Infirmary                                          Cambridge, MA
+        Sturdy Memorial Hospital                                    Attleboro    
+        Taravista Behavioral hospital                               Devens, MA
+        Taunton State Hospital                                      Taunton, MA
+        Tewksbury State Hospital                                    Tewksbury, MA
+        The Whittier Pavilion Hospital                              Haverhill, MA
+        Tobey Hospital                                              Wareham, MA
+        Truesdale Hospital                                          Fall River, MA
+        Tufts Medical Center                                        Boston, MA
+        UMass Childrens Hospital                                    Worcester, MA
+        UMass Memorial Health Care                                  Worcester, MA
+        UMass Memorial Medical center, Hahnemann                    Worcester, MA
+        UMass Memorial Medical center, Memorial                     Worcester, MA
+        UMass Memorial Medical center, University                   Worcester, MA
+        Union Hospital, North Shore Medical Center                  Lynn, MA
+        VA Hospital Jamaica Plain                                   Boston, MA
+        VA Hospital West Roxbury                                    Boston, MA
+        VA Medical Center Brockton                                  Brockton, MA
+        Vibra Hospital of Southeastern Massachusetts                New Bedford, MA
+            f. Parkwood Hospital                                    New Bedford, MA
+            f. Union Hospital                                       New Bedford, MA
+        Walden Behavior Care                                        Waltham, MA
+        Westborough Behavioral Healthcare Hospital                  Westborough, MA
+        Western Massachusetts Hospital                              Westfield, MA
+        Whitter Rehabilitation Hospital                             Westborough, MA
+        Winchester Hospital                                         Winchester, MA
+        Worcester Recovery Center and Hospital                      Worcester, MA
 
         Aleda E. Lutz Veterans Affairs Medical Center               Saginaw, MI
         Apex Medical Center                                         Westland, MI
@@ -7357,7 +8063,76 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Walter P. Reuther Psychiatric Hospital                      Westland, MI
 
 
-
+        Barrett Hospital & HealthCare                               Dillon, MT
+        Beartooth Hospital and Health Center                        Red Lodge, MT
+        Benefis Health System                                       Great Falls, MT
+        Big Horn County Memorial Hospital                           Hardin, MT
+        Big Sandy Medical Center                                    Big Sandy, MT
+        Big Sky Medical Center                                      Big Sky, MT
+        Billings Clinic                                             Billings, MT
+        Bozeman Health Deaconess Hospital                           Bozeman, MT
+        Broadwater Health Center                                    Townsend, MT
+        Cabinet Peaks Medical Center                                Libby, MT
+        Central Montana Medical Center                              Lewistown, MT
+        Central Montana Surgical Hospital                           Great Falls, MT
+        Clark Fork Valley Hospital                                  Plains, MT
+        Community Hospital of Anaconda                              Anaconda, MT
+        Community Medical Center                                    Missoula, MT
+        Crow/Northern Cheyenne Hospital                             Crow Agency, MT
+        Dahl Memorial Healthcare Association                        Ekalaka, MT
+        Daniels Memorial Healthcare Center                          Scobey, MT
+        Fallon Medical Complex                                      Baker, MT
+        Fort Belknap U. S. Public Health Service Indian Hospital    Harlem, MT
+        Frances Mahon Deaconess Hospital                            Glasgow, MT
+        Garfield County Health Center                               Jordan, MT
+        Glendive Medical Center                                     Glendive, MT
+        Granite County Medical Center                               Philipsburg, MT
+        Health Center Northwest                                     Kalispell, MT
+        Holy Rosary Healthcare                                      Miles City, MT
+        Kalispell Regional Medical Center                           Kalispell, MT
+        Liberty County Hospital and Nursing Home                    Chester, MT
+        Livingston Healthcare                                       Livingston, MT
+        Logan Health, Shelby                                        Shelby, MT
+        Madison Valley Hospital                                     Ennis, MT
+        Marcus Daly Memorial Hospital                               Hamilton, MT
+        McCone County Health Center                                 Circle, MT
+        Mineral Community Hospital                                  Superior, MT
+        Missouri River Medical Center                               Fort Benton, MT
+        Montana Developmental Center                                Boulder, MT
+        Montana State Hospital                                      Warmsprings, MT
+        Montana State Prison Infirmary                              Deer Lodge, MT
+        Mountainview Medical Center                                 White Sulphur Springs, MT
+        North Valley Hospital                                       Whitefish, MT
+        Northern Montana Hospital                                   Havre, MT
+        Northern Rockies Medical Center                             Cut Bank, MT
+        Phillips County Hospital                                    Malta, MT
+        Pioneer Medical Center                                      Big Timber, MT
+        Pondera Medical Center                                      Conrad, MT
+        Poplar Community Hospital                                   Poplar, MT
+        Powell County Medical Center                                Deer Lodge, MT
+        Prairie Community Health Center                             Terry, MT
+        Roosevelt Memorial Medical Center                           Culbertson, MT
+        Rosebud Health Care Center                                  Forsyth, MT
+        Roundup Memorial Healthcare                                 Roundup, MT
+        Ruby Valley Hospital                                        Sheridan, MT
+        Sheridan Memorial Hospital                                  Plentywood, MT
+        Shodair Children's Hospital                                 Helena, MT
+        Sidney Health Center                                        Sidney, MT
+        St John's Lutheran Hospital                                 Libby, MT
+        St. James Healthcare                                        Butte, MT
+        St. Joseph Medical Center                                   Polson, MT
+        St. Luke Community Hospital                                 Ronan, MT
+        St. Patrick Hospital and Health Sciences Center             Missoula, MT
+        St. Peter's Hospital                                        Helena, MT
+        St. Vincent Healthcare                                      Billings, MT
+        Stillwater Billings Clinic                                  Columbus, MT
+        Student Health Service Montana State University             Bozeman, MT
+        Teton Medical Center                                        Choteau, MT
+        Trinity Hospital                                            Wolf Point, MT
+        U.S. Public Health Service Blackfeet Community Hospital     Saint Mary, MT
+        University of Montana Health Service                        Missoula, MT
+        Veterans Affairs Montana Health Care System                 Fort Harrison, MT
+        Wheatland Memorial Hospital                                 Harlowton, MT
 
 ========== defunct ==========
 
@@ -7514,7 +8289,70 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Mercy Covenant Clinics                                      Arlington, IA
         Xavier Hospital                                             Dubuque, IA
 
+        Mercy Health Center                                         Fort Scott, KS
+        Mercy Hospital                                              Independence, KS
+        Rainbow Mental Health Facility                              Kansas City, KS
 
+        Our Lady of Bellefonte Hospital                             Russell, KY
+
+        Children's Hospital                                         MD
+        Church Home and Hospital                                    Baltimore, MD
+        Crownsville Hospital Center                                 Crownsville, MD
+        Edward W. McCready Memorial Hospital                        MD
+        Fallston General Hospital                                   MD
+        Forest Haven                                                Laurel, MD
+        Fort Howard Veterans Hospital                               Fort Howard, MD
+        Glenn Dale Hospital                                         Glenn Dale, MD
+        Henryton State Hospital                                     Marriottsville, MD
+        Jarvis Hospital                                             Baltimore, MD
+        Liberty Medical Center                                      MD
+        Lutheran Hospital                                           MD
+        Memorial of Cumberland                                      Cumberland, MD
+        Pine Bluff State Hospital                                   Salisbury, MD
+        Rosewood Center                                             Owings Mills, MD
+        Sacred Heart                                                Cumberland, MD
+        University of Maryland Shore Medical Center at Dorchester   Baltimore, MD
+        University Specialty Hospital                               MD
+        Walter P Carter Center                                      Baltimore, MD
+        Washington County Hospital                                  Washington County, MD
+        Women's Hospital                                            Towson, MD
+
+        Barnstable County Hospital                                  Barnstable County, MA
+        Boston Emergency and General Hospital                       Boston, MA
+        Boston Regional Medical Center                              Stoneham, MA
+        Bristol County Tuberculosis Hospital                        Bristol County, MA
+        Charron Maternity Hospital                                  New Bedford, MA
+        Chelsea Marine Hospital                                     Chelsea, MA
+        Chelsea Memorial Hospital                                   Chelsea, MA
+        Chelsea Naval Hospital                                      Chelsea, MA
+        Choate Memorial Hospital                                    Woburn, MA
+        Cutler Army Community Hospital                              Devens, MA
+        Danvers State Hospital                                      Danvers, MA
+        Floating Hospital for Children                              Boston, MA
+        Free Hospital for Women                                     Brookline, MA
+        Gardner State Hospital                                      Gardner, MA
+        Lakeville State Hospital                                    Lakeville, MA
+        Lovell General Hospital                                     Devens, MA
+        Lowell Treatment Center                                     Lowell, MA
+        Medfield State Hospital                                     Medfield, MA
+        Metropolitan State Hospital                                 Waltham, MA
+        Murphy Army Hospital                                        Waltham, MA
+        North Adams Regional Hospital                               North Adams, MA
+        Olympus Specialty Hospital                                  Waltham, MA
+            f. Middlesex County Hospital                            Waltham, MA
+        Otis Air Force Base Hospital                                Falmouth, MA
+        Saugus General Hospital                                     Saugus, MA
+        Southwood Community Hospital                                Norfolk, MA
+            f. Pinewood Hospital                                    Norfolk, MA
+            f. Pondville State Hospital                             Norfolk, MA
+        St. John of God Hospital                                    Boston, MA
+        St. Luke's Hospital                                         Middleborough, MA
+            f. Cranberry Specialty Hospital                         Middleborough, MA
+        Tufts Children's Hospital                                   Boston, MA
+        Westborough State Hospital                                  Westborough, MA
+        Westwood Lodge Hospital                                     Westwood, MA
+        Worcester City Hospital                                     Worcester, MA
+        Worcester State Hospital                                    Worcester, MA
 
         Bixby Memorial Hospital                                     Adrian, MI
         Bronson Vicksburg Hospital                                  Vicksburg, MI
