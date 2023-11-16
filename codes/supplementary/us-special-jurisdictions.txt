@@ -6807,172 +6807,172 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Weiser Memorial Hospital                                    Weiser, ID
         West Valley Medical Center                                  Caldwell, ID
 
-    Adams Memorial Hospital                                         Decatur, IN
-    Ascension St. Vincent Kokomo                                    Kokomo, IN
-    Bedford Regional Medical Center                                 Bedford, IN
-    BHC Valle Vista Hospital                                        Greenwood, IN
-    Bloomington Hospital of Orange County                           Paoli, IN
-    Bloomington Meadows Hospital                                    Bloomington, IN
-    Bluffton Regional Medical Center                                Bluffton, IN
-    Cameron Memorial Community Hospital                             Angola, IN
-    Clark Memorial Health                                           Jeffersonville, IN
-    Columbus Regional Health                                        Columbus, IN
-    Community Hospital                                              Munster, IN
-    Community Hospital, Anderson and Madison County                 Anderson, IN
-    Community Hospital, Bremen                                      Bremen, IN
-    Community Hospital East                                         Indianapolis, IN
-    Community Hospital North                                        Indianapolis, IN
-    Community Hospital South                                        Indianapolis, IN
-    Community Howard Regional Health                                Kokomo, IN
-    Community Mental Health Center                                  Lawrenceburg, IN
-    Daviess Community Hospital                                      Washington, IN
-    Deaconess Cross Pointe Center                                   Evansville, IN
-    Deaconess Gateway and Women's Hospital                          Newburgh, IN
-    Deaconess Hospital                                              Evansville, IN
-    Dearborn County Hospital                                        Lawrenceburg, IN
-    Decatur County Memorial Hospital                                Greensburg, IN
-    DeKalb Memorial Hospital                                        Auburn, IN
-    Dukes Memorial Hospital                                         Peru, IN
-    Dunn Memorial Hospital                                          Bedford, IN
-    Dupont Hospital                                                 Fort Wayne, IN
-    Elkhart General Hospital                                        Elkhart, IN
-    Evansville Psychiatric Children's Center                        Evansville, IN
-    Fayette Memorial Hospital Association                           Connersville, IN
-    Floyd Memorial Hospital and Health Services                     New Albany, IN
-    Four County Counseling Center                                   Logansport, IN
-    Franciscan Health, Carmel                                       Carmel, IN
-    Franciscan Health, Crawfordsville                               Crawfordsville, IN
-    Franciscan Health, Crown Point                                  Crown Point, IN
-    Franciscan Health, Dyer                                         Dyer, IN
-    Franciscan Health, Hammond                                      Hammond, IN
-    Franciscan Health, Indianapolis                                 Indianapolis, IN
-    Franciscan Health, Lafayette Central                            Lafayette, IN
-    Franciscan Health, Lafayette East                               Lafayette, IN
-    Franciscan Health, Michigan City                                Michigan City, IN
-    Franciscan Health, Mooresville                                  Mooresville, IN
-    Franciscan Health, Munster                                      Munster, IN
-    Franciscan Health, Rensselaer                                   Rensselaer, IN
-    Gibson General Hospital                                         Princeton, IN
-    Greene County General Hospital                                  Linton, IN
-    Good Samaritan Hospital                                         Vincennes, IN
-    Goshen General Hospital                                         Goshen, IN
-    Grant-Blackford Mental Health                                   Marion, IN
-    Greene County General Hospital                                  Linton, IN
-    Hamilton Center                                                 Terre Haute, IN
-    Hancock Regional Hospital                                       Greenfield, IN
-    Harrison County Hospital                                        Corydon, IN
-    HealthSouth Deaconess Rehabilitation Hospital                   Evansville, IN
-    HealthSouth Hospital of Terre Haute                             Terre Haute, IN
-    Heart Center of Indiana                                         Indianapolis, IN
-    Hendricks Regional Health                                       Danville, IN
-    Henry County Memorial Hospital                                  New Castle, IN
-    Hind General Hospital                                           Hobart, IN
-    Indiana University Health, Arnett Hospital                      Lafayette, IN
-    Indiana University Health, Ball Memorial Hospital               Muncie, IN
-    Indiana University Health, Blackford Hospital                   Hartford City, IN
-    Indiana University Health, Bloomington Hospital                 Bloomington, IN
-    Indiana University Health, La Porte Hospital                    La Porte, IN
-    Indiana University Health, Methodist Hospital                   Indianapolis, IN
-    Indiana University Health, North Hospital                       Carmel, IN
-    Indiana University Health, Saxony Hospital                      Fishers, IN
-    Indiana University Health, Jay Hospital                         Portland, IN
-    Indiana University Health, Starke Hospital                      Knox, IN
-    Indiana University Health, Tipton Hospital                      Tipton, IN
-    Indiana University Health, West Hospital                        Avon, IN
-    Indiana University Health, University Hospital                  Indianapolis, IN
-    Johnson Memorial Hospital                                       Franklin, IN
-    Kindred Hospital                                                Indianapolis, IN
-    King's Daughters Hospital and Health Services                   Madison, IN
-    Kosciusko Community Hospital                                    Warsaw, IN
-    Larue D. Carter Memorial Hospital                               Indianapolis, IN
-    Logansport Memorial Hospital                                    Logansport, IN
-    Logansport State Hospital                                       Logansport, IN
-    Lutheran Hospital of Indiana                                    Fort Wayne, IN
-    Madison State Hospital                                          Madison, IN
-    Major Hospital                                                  Shelbyville, IN
-    Margaret Mary Community Hospital                                Batesville, IN
-    Marion General Hospital                                         Marion, IN
-    Medical Behavioral Hospital, Mishawaka                          Mishawaka, IN
-    Medical Center of Southern Indiana                              Charlestown, IN
-    Memorial Hospital and Health Care Center                        Jasper, IN
-    Memorial Hospital of South Bend                                 South Bend, IN
-    Methodist Hospital                                              Gary, IN
-    Methodist Hospital                                              Merrillville, IN
-    Michiana Behavioral Health Center                               Plymouth, IN
-    Morgan Hospital & Medical Center                                Martinsville, IN
-    NeuroDiagnostic Institute                                       Indianapolis, IN
-    Northeastern Center                                             Auburn, IN
-    Oaklawn Psychiatric Center                                      Goshen, IN
-    OrthoIndy Hospital                                              Indianapolis, IN
-    Otis R. Bowen Center for Human Services                         Warsaw, IN
-    Our Lady of Peace Hospital                                      South Bend, IN
-    Parkview Hospital Randallia                                     Fort Wayne, IN
-    Parkview Huntington Hospital                                    Huntington, IN
-    Parkview LaGrange Hospital                                      LaGrange, IN
-    Parkview Noble Hospital                                         Kendallville, IN
-    Parkview Regional Medical Center                                Fort Wayne, IN
-    Parkview Whitley Hospital                                       Columbia City, IN
-    Perry County Memorial Hospital                                  Tell City, IN
-    Pinnacle Hospital                                               Crown Point, IN
-    Portage Hospital                                                Portage, IN
-    Porter Regional Hospital                                        Valparaiso, IN
-    Pulaski Memorial Hospital                                       Winamac, IN
-    Putnam County Hospital                                          Greencastle, IN
-    Regency Hospital of Northwest Indiana                           East Chicago, IN
-    Rehabilitation Hospital of Fort Wayne                           Fort Wayne, IN
-    Rehabilitation Hospital of Indiana                              Indianapolis, IN
-    Reid Hospital and Health Care Services                          Richmond, IN
-    Richmond State Hospital                                         Richmond, IN
-    Riley Hospital for Children                                     Indianapolis, IN
-    Riverside Hospital Corporation                                  South Bend, IN
-    Riverview Hospital                                              Noblesville, IN
-    Rush Memorial Hospital                                          Rushville, IN
-    Saint John's Health System                                      Anderson, IN
-    Schneck Medical Center                                          Seymour, IN
-    Scott County Memorial Hospital                                  Scottsburg, IN
-    Select Specialty Hospital, Beech Grove                          Beech Grove, IN
-    Select Specialty Hospital, Bloomington                          Bloomington, IN
-    Select Specialty Hospital, Evansville                           Evansville, IN
-    Select Specialty Hospital, Fort Wayne                           Fort Wayne, IN
-    Select Specialty Hospital, Indianapolis                         Indianapolis, IN
-    Select Specialty Hospital, Northwest Indiana                    Hammond, IN
-    Sidney & Lois Eskenazi Hospital                                 Indianapolis, IN
-    Southern Indiana Rehabilitation Hospital                        New Albany, IN
-    Southlake Center for Mental Health                              Merrillville, IN
-    St. Catherine Hospital                                          East Chicago, IN
-    St. Elizabeth Ann Seton Hospital, Carmel                        Carmel, IN
-    St. Elizabeth Ann Seton Hospital, Indianapolis                  Indianapolis, IN
-    St. Elizabeth Ann Seton Hospital, Kokomo                        Kokomo, IN
-    St. Joseph Hospital                                             Fort Wayne, IN
-    St. Joseph Hospital and Health Center                           Kokomo, IN
-    St. Joseph Regional Medical Center                              Mishawaka, IN
-    St. Joseph's Hospital, Huntingburg                              Huntingburg, IN
-    St. Joseph's Regional Medical Center                            Plymouth, IN
-    St. Mary Medical Center                                         Hobart, IN
-    St. Mary's Warrick Hospital                                     Boonville, IN
-    St. Vincent Anderson Regional Hospital                          Anderson, IN
-    St. Vincent Carmel Hospital                                     Carmel, IN
-    St. Vincent Clay Hospital                                       Brazil, IN
-    St. Vincent Evansville                                          Evansville, IN
-    St. Vincent Fishers Hospital                                    Fishers, IN
-    St. Vincent Frankfort Hospital                                  Frankfort, IN
-    St. Vincent Indianapolis Hospital                               Indianapolis, IN
-    St. Vincent Jennings Hospital                                   North Vernon, IN
-    St. Vincent Mercy Hospital                                      Elwood, IN
-    St. Vincent Pediatric Rehabilitation Center                     Indianapolis, IN
-    St. Vincent Randolph Hospital                                   Winchester, IN
-    St. Vincent Williamsport Hospital                               Williamsport, IN
-    Sullivan County Community Hospital                              Sullivan, IN
-    Terre Haute Regional Hospital                                   Terre Haute, IN
-    Union Hospital                                                  Terre Haute, IN
-    Wabash County Hospital                                          Wabash, IN
-    Wabash Valley Hospital                                          West Lafayette, IN
-    Washington County Memorial Hospital                             Salem, IN
-    Wellstone Regional Hospital                                     Jeffersonville, IN
-    West Central Community Hospital                                 Clinton, IN
-    White County Memorial Hospital                                  Monticello, IN
-    Witham Health Services                                          Lebanon, IN
-    Woodlawn Hospital                                               Rochester, IN
+        Adams Memorial Hospital                                     Decatur, IN
+        Ascension St. Vincent Kokomo                                Kokomo, IN
+        Bedford Regional Medical Center                             Bedford, IN
+        BHC Valle Vista Hospital                                    Greenwood, IN
+        Bloomington Hospital of Orange County                       Paoli, IN
+        Bloomington Meadows Hospital                                Bloomington, IN
+        Bluffton Regional Medical Center                            Bluffton, IN
+        Cameron Memorial Community Hospital                         Angola, IN
+        Clark Memorial Health                                       Jeffersonville, IN
+        Columbus Regional Health                                    Columbus, IN
+        Community Hospital                                          Munster, IN
+        Community Hospital, Anderson and Madison County             Anderson, IN
+        Community Hospital, Bremen                                  Bremen, IN
+        Community Hospital East                                     Indianapolis, IN
+        Community Hospital North                                    Indianapolis, IN
+        Community Hospital South                                    Indianapolis, IN
+        Community Howard Regional Health                            Kokomo, IN
+        Community Mental Health Center                              Lawrenceburg, IN
+        Daviess Community Hospital                                  Washington, IN
+        Deaconess Cross Pointe Center                               Evansville, IN
+        Deaconess Gateway and Women's Hospital                      Newburgh, IN
+        Deaconess Hospital                                          Evansville, IN
+        Dearborn County Hospital                                    Lawrenceburg, IN
+        Decatur County Memorial Hospital                            Greensburg, IN
+        DeKalb Memorial Hospital                                    Auburn, IN
+        Dukes Memorial Hospital                                     Peru, IN
+        Dunn Memorial Hospital                                      Bedford, IN
+        Dupont Hospital                                             Fort Wayne, IN
+        Elkhart General Hospital                                    Elkhart, IN
+        Evansville Psychiatric Children's Center                    Evansville, IN
+        Fayette Memorial Hospital Association                       Connersville, IN
+        Floyd Memorial Hospital and Health Services                 New Albany, IN
+        Four County Counseling Center                               Logansport, IN
+        Franciscan Health, Carmel                                   Carmel, IN
+        Franciscan Health, Crawfordsville                           Crawfordsville, IN
+        Franciscan Health, Crown Point                              Crown Point, IN
+        Franciscan Health, Dyer                                     Dyer, IN
+        Franciscan Health, Hammond                                  Hammond, IN
+        Franciscan Health, Indianapolis                             Indianapolis, IN
+        Franciscan Health, Lafayette Central                        Lafayette, IN
+        Franciscan Health, Lafayette East                           Lafayette, IN
+        Franciscan Health, Michigan City                            Michigan City, IN
+        Franciscan Health, Mooresville                              Mooresville, IN
+        Franciscan Health, Munster                                  Munster, IN
+        Franciscan Health, Rensselaer                               Rensselaer, IN
+        Gibson General Hospital                                     Princeton, IN
+        Greene County General Hospital                              Linton, IN
+        Good Samaritan Hospital                                     Vincennes, IN
+        Goshen General Hospital                                     Goshen, IN
+        Grant-Blackford Mental Health                               Marion, IN
+        Greene County General Hospital                              Linton, IN
+        Hamilton Center                                             Terre Haute, IN
+        Hancock Regional Hospital                                   Greenfield, IN
+        Harrison County Hospital                                    Corydon, IN
+        HealthSouth Deaconess Rehabilitation Hospital               Evansville, IN
+        HealthSouth Hospital of Terre Haute                         Terre Haute, IN
+        Heart Center of Indiana                                     Indianapolis, IN
+        Hendricks Regional Health                                   Danville, IN
+        Henry County Memorial Hospital                              New Castle, IN
+        Hind General Hospital                                       Hobart, IN
+        Indiana University Health, Arnett Hospital                  Lafayette, IN
+        Indiana University Health, Ball Memorial Hospital           Muncie, IN
+        Indiana University Health, Blackford Hospital               Hartford City, IN
+        Indiana University Health, Bloomington Hospital             Bloomington, IN
+        Indiana University Health, La Porte Hospital                La Porte, IN
+        Indiana University Health, Methodist Hospital               Indianapolis, IN
+        Indiana University Health, North Hospital                   Carmel, IN
+        Indiana University Health, Saxony Hospital                  Fishers, IN
+        Indiana University Health, Jay Hospital                     Portland, IN
+        Indiana University Health, Starke Hospital                  Knox, IN
+        Indiana University Health, Tipton Hospital                  Tipton, IN
+        Indiana University Health, West Hospital                    Avon, IN
+        Indiana University Health, University Hospital              Indianapolis, IN
+        Johnson Memorial Hospital                                   Franklin, IN
+        Kindred Hospital                                            Indianapolis, IN
+        King's Daughters Hospital and Health Services               Madison, IN
+        Kosciusko Community Hospital                                Warsaw, IN
+        Larue D. Carter Memorial Hospital                           Indianapolis, IN
+        Logansport Memorial Hospital                                Logansport, IN
+        Logansport State Hospital                                   Logansport, IN
+        Lutheran Hospital of Indiana                                Fort Wayne, IN
+        Madison State Hospital                                      Madison, IN
+        Major Hospital                                              Shelbyville, IN
+        Margaret Mary Community Hospital                            Batesville, IN
+        Marion General Hospital                                     Marion, IN
+        Medical Behavioral Hospital, Mishawaka                      Mishawaka, IN
+        Medical Center of Southern Indiana                          Charlestown, IN
+        Memorial Hospital and Health Care Center                    Jasper, IN
+        Memorial Hospital of South Bend                             South Bend, IN
+        Methodist Hospital                                          Gary, IN
+        Methodist Hospital                                          Merrillville, IN
+        Michiana Behavioral Health Center                           Plymouth, IN
+        Morgan Hospital & Medical Center                            Martinsville, IN
+        NeuroDiagnostic Institute                                   Indianapolis, IN
+        Northeastern Center                                         Auburn, IN
+        Oaklawn Psychiatric Center                                  Goshen, IN
+        OrthoIndy Hospital                                          Indianapolis, IN
+        Otis R. Bowen Center for Human Services                     Warsaw, IN
+        Our Lady of Peace Hospital                                  South Bend, IN
+        Parkview Hospital Randallia                                 Fort Wayne, IN
+        Parkview Huntington Hospital                                Huntington, IN
+        Parkview LaGrange Hospital                                  LaGrange, IN
+        Parkview Noble Hospital                                     Kendallville, IN
+        Parkview Regional Medical Center                            Fort Wayne, IN
+        Parkview Whitley Hospital                                   Columbia City, IN
+        Perry County Memorial Hospital                              Tell City, IN
+        Pinnacle Hospital                                           Crown Point, IN
+        Portage Hospital                                            Portage, IN
+        Porter Regional Hospital                                    Valparaiso, IN
+        Pulaski Memorial Hospital                                   Winamac, IN
+        Putnam County Hospital                                      Greencastle, IN
+        Regency Hospital of Northwest Indiana                       East Chicago, IN
+        Rehabilitation Hospital of Fort Wayne                       Fort Wayne, IN
+        Rehabilitation Hospital of Indiana                          Indianapolis, IN
+        Reid Hospital and Health Care Services                      Richmond, IN
+        Richmond State Hospital                                     Richmond, IN
+        Riley Hospital for Children                                 Indianapolis, IN
+        Riverside Hospital Corporation                              South Bend, IN
+        Riverview Hospital                                          Noblesville, IN
+        Rush Memorial Hospital                                      Rushville, IN
+        Saint John's Health System                                  Anderson, IN
+        Schneck Medical Center                                      Seymour, IN
+        Scott County Memorial Hospital                              Scottsburg, IN
+        Select Specialty Hospital, Beech Grove                      Beech Grove, IN
+        Select Specialty Hospital, Bloomington                      Bloomington, IN
+        Select Specialty Hospital, Evansville                       Evansville, IN
+        Select Specialty Hospital, Fort Wayne                       Fort Wayne, IN
+        Select Specialty Hospital, Indianapolis                     Indianapolis, IN
+        Select Specialty Hospital, Northwest Indiana                Hammond, IN
+        Sidney & Lois Eskenazi Hospital                             Indianapolis, IN
+        Southern Indiana Rehabilitation Hospital                    New Albany, IN
+        Southlake Center for Mental Health                          Merrillville, IN
+        St. Catherine Hospital                                      East Chicago, IN
+        St. Elizabeth Ann Seton Hospital, Carmel                    Carmel, IN
+        St. Elizabeth Ann Seton Hospital, Indianapolis              Indianapolis, IN
+        St. Elizabeth Ann Seton Hospital, Kokomo                    Kokomo, IN
+        St. Joseph Hospital                                         Fort Wayne, IN
+        St. Joseph Hospital and Health Center                       Kokomo, IN
+        St. Joseph Regional Medical Center                          Mishawaka, IN
+        St. Joseph's Hospital, Huntingburg                          Huntingburg, IN
+        St. Joseph's Regional Medical Center                        Plymouth, IN
+        St. Mary Medical Center                                     Hobart, IN
+        St. Mary's Warrick Hospital                                 Boonville, IN
+        St. Vincent Anderson Regional Hospital                      Anderson, IN
+        St. Vincent Carmel Hospital                                 Carmel, IN
+        St. Vincent Clay Hospital                                   Brazil, IN
+        St. Vincent Evansville                                      Evansville, IN
+        St. Vincent Fishers Hospital                                Fishers, IN
+        St. Vincent Frankfort Hospital                              Frankfort, IN
+        St. Vincent Indianapolis Hospital                           Indianapolis, IN
+        St. Vincent Jennings Hospital                               North Vernon, IN
+        St. Vincent Mercy Hospital                                  Elwood, IN
+        St. Vincent Pediatric Rehabilitation Center                 Indianapolis, IN
+        St. Vincent Randolph Hospital                               Winchester, IN
+        St. Vincent Williamsport Hospital                           Williamsport, IN
+        Sullivan County Community Hospital                          Sullivan, IN
+        Terre Haute Regional Hospital                               Terre Haute, IN
+        Union Hospital                                              Terre Haute, IN
+        Wabash County Hospital                                      Wabash, IN
+        Wabash Valley Hospital                                      West Lafayette, IN
+        Washington County Memorial Hospital                         Salem, IN
+        Wellstone Regional Hospital                                 Jeffersonville, IN
+        West Central Community Hospital                             Clinton, IN
+        White County Memorial Hospital                              Monticello, IN
+        Witham Health Services                                      Lebanon, IN
+        Woodlawn Hospital                                           Rochester, IN
 
         Adair County Health System                                  Greenfield, IA
         Alegent Health Mercy Hospital                               Council Bluffs, IA
@@ -7097,6 +7097,267 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Waverly Health Center                                       Waverly, IA
         Wayne County Hospital and Clinic System                     Corydon, IA
         Winneshiek Medical Center                                   Decorah, IA
+
+
+
+
+        Aleda E. Lutz Veterans Affairs Medical Center               Saginaw, MI
+        Apex Medical Center                                         Westland, MI
+        Ascension Borgess Allegan Hospital                          Allegan, MI
+            f. Allegan General Hospital                             Allegan, MI
+        Ascension Borgess Hospital                                  Kalamazoo, MI
+            f. Borgess Memorial Hospital                            Kalamazoo, MI
+        Ascension Borgess Lee Hospital                              Dowagiac, MI
+            f. Lee Memorial Hospital                                Dowagiac, MI
+        Ascension Borgess, Pipp Hospital                            Plainwell, MI
+        Ascension Genesys Hospital                                  Grand Blanc, MI
+        Ascension Macomb-Oakland Hospital                           Madison Heights, MI
+        Ascension Macomb-Oakland Hospital, Warren                   Warren, MI
+            f. St. John Macomb-Oakland Hospital                     Warren, MI
+        Ascension Providence Hospital, Novi Campus                  Novi, MI
+        Ascension Providence Hospital, Southfield                   Southfield, MI
+            f. Providence Hospital                                  Southfield, MI
+        Ascension Providence Rochester Hospital                     Rochester, MI
+            f. Ascension Crittenton Hospital                        Rochester, MI
+        Ascension River District Hospital                           East China, MI
+            f. St. John River District Hospital                     East China, MI
+        Ascension St. John Hospital                                 Detroit, MI
+        Ascension St. Joseph Hospital                               Tawas City, MI
+        Ascension St. Mary's Hospital                               Saginaw, MI
+            f. St. Mary's of Michigan Medical Center                Saginaw, MI
+        Ascension Standish Hospital                                 Standish, MI
+            f. St. Mary's of Michigan Standish Hospital             Standish, MI
+        Aspirus Iron River Hospital                                 Iron River, MI
+            f. Northstar Hospital                                   Iron River, MI
+        Aspirus Ironwood Hospital                                   Ironwood, MI
+            f. Grandview Hospital                                   Ironwood, MI
+        Aspirus Keweenaw Hospital                                   Laurium, MI
+            f. Keweenaw Memorial Medical Center                     Laurium, MI
+        Aspirus Ontonagon Hospital                                  Ontonagon, MI
+            f. Ontonagon Memorial Hospital                          Ontonagon, MI
+        Baraga County Memorial Hospital                             L'Anse, MI
+        Beaumont Hospital, Dearborn                                 Dearborn, MI
+            f. Oakwood Hospital, Dearborn                           Dearborn, MI
+        Beaumont Hospital, Farmington Hills                         Farmington Hills, MI
+            f. Botsford General Hospital                            Farmington Hills, MI
+        Beaumont Hospital, Grosse Pointe                            Grosse Pointe, MI
+            f. Bon Secours Hospital                                 Grosse Pointe, MI
+        Beaumont Hospital, Royal Oak                                Royal Oak, MI
+        Beaumont Hospital, Taylor                                   Taylor, MI
+            f. Oakwood Heritage Hospital                            Taylor, MI
+        Beaumont Hospital, Trenton                                  Trenton, MI
+            f. Oakwood Southshore Hospital                          Trenton, MI
+        Beaumont Hospital, Troy                                     Troy, MI
+        Beaumont Hospital, Wayne                                    Wayne, MI
+            f. Oakwood Annapolis Hospital                           Wayne, MI
+        Brighton Hospital                                           Brighton, MI
+        Bronson Battle Creek Hospital                               Battle Creek, MI
+        Bronson LakeView Hospital                                   Paw Paw, MI
+        Bronson Methodist Hospital                                  Kalamazoo, MI
+        Bronson South Haven Hospital                                South Haven, MI
+            f. South Haven Community Hospital                       South Haven, MI
+        C.S. Mott Children's Hospital                               Ann Arbor, MI
+        Caro Center                                                 Caro, MI
+        Chelsea Hospital                                            Chelsea, MI
+            f. St. Joseph Mercy Chelsea Hospital                    Chelsea, MI
+        Children's Hospital of Michigan                             Detroit, MI
+        Covenant Medical Center                                     Saginaw, MI
+        Deckerville Community Hospital                              Deckerville, MI
+        Detroit Receiving Hospital                                  Detroit, MI
+        Duane L. Waters Hospital                                    Jackson, MI
+        E.W. Sparrow Hospital St. Lawrence                          Lansing, MI
+            f. St. Lawrence Hospital                                Lansing, MI
+        Eaton Rapids Medical Center                                 Eaton Rapids, MI
+            f. Eaton Rapids Community Hospital                      Eaton Rapids, MI
+        Edward W. Sparrow Hospital                                  Lansing, MI
+        Forest Health Medical Center                                Ypsilanti, MI
+        Forest View Hospital                                        Grand Rapids, MI
+        Fresenius Medical Care at Carelink of Jackson               Jackson, MI
+        Garden City Hospital                                        Garden City, MI
+        Harbor Beach Community Hospital                             Harbor Beach, MI
+        Harbor Oaks Hospital                                        New Baltimore, MI
+        Harper University Hospital                                  Detroit, MI
+        Havenwyck Hospital                                          Auburn Hills, MI
+        Hawthorn Center                                             Northville, MI
+        HealthSource Saginaw                                        Saginaw, MI
+        Helen DeVos Children's Hospital                             Grand Rapids, MI
+        Helen Newberry Joy Hospital                                 Newberry, MI
+        Henry Ford Cottage Hospital                                 Grosse Pointe Farms, MI
+        Henry Ford Hospital                                         Detroit, MI
+        Henry Ford Jackson Hospital                                 Jackson, MI
+            f. Allegiance Health                                    Jackson, MI
+            f. Foote Hospital                                       Jackson, MI
+        Henry Ford Kingswood Hospital                               Ferndale, MI
+        Henry Ford Macomb Hospital                                  Clinton, MI
+        Henry Ford West Bloomfield Hospital                         West Bloomfield, MI
+        Henry Ford Wyandotte Hospital                               Wyandotte, MI
+        Hills & Dales General Hospital                              Cass City, MI
+        Hillsdale Hospital                                          Hillsdale, MI
+            f. Hillsdale Community Health Center                    Hillsdale, MI
+        Holland Hospital                                            Holland, MI
+        Hurley Medical Center                                       Flint, MI
+        Huron Valley-Sinai Hospital                                 Commerce, MI
+        Hutzel Women's Hospital                                     Detroit, MI
+        Insight Surgical Hospital                                   Warren, MI
+            f. Southeast Michigan Surgical Hospital                 Warren, MI
+        John D. Dingell Veterans Affairs Medical Center             Detroit, MI
+        Kalamazoo Psychiatric Hospital                              Kalamazoo, MI
+        Kalkaska Memorial Health Center                             Kalkaska, MI
+        Karmanos Cancer Center                                      Detroit, MI
+        Kresge Eye Institute                                        Detroit, MI
+        Mackinac Straits Hospital                                   Saint Ignace, MI
+        Marlette Regional Hospital                                  Marlette, MI
+            f. Marlette Community Hospital                          Marlette, MI
+        Marshfield Medical Center-Dickinson                         Iron Mountain, MI
+            f. Dickinson County Healthcare                          Iron Mountain, MI
+        Mary Free Bed Rehabilitation Hospital                       Grand Rapids, MI
+        McKenzie Memorial Hospital                                  Sandusky, MI
+        McLaren Bay Region                                          Bay City, MI
+            f. Bay Regional Medical Center                          Bay City, MI
+        McLaren Bay Special Care Hospital                           Bay City, MI
+        McLaren Caro Region                                         Caro, MI
+            f. Caro Community Hospital                              Caro, MI
+        McLaren Central Michigan                                    Mount Pleasant, MI
+            f. Central Michigan Community Hospital (CMCH)           Mount Pleasant, MI
+        McLaren Flint                                               Flint, MI
+            f. McLaren Regional Medical Center                      Flint, MI
+        McLaren Greater Lansing Hospital                            Lansing, MI
+            f. Ingham Regional Medical Center                       Lansing, MI
+        McLaren Lapeer Region                                       Lapeer, MI
+        McLaren Macomb                                              Mount Clemens, MI
+            f. Mount Clemens General Hospital (MCGH)                Mount Clemens, MI
+        McLaren Northern Michigan                                   Petoskey, MI
+            f. Northern Michigan Regional Hospital                  Petoskey, MI
+        McLaren Northern Michigan, Cheboygan                        Cheboygan, MI
+            f. Cheboygan Memorial Hospital                          Cheboygan, MI
+        McLaren Oakland                                             Pontiac, MI
+            f. Pontiac Osteopathic Hospital (POH)                   Pontiac, MI
+        McLaren Port Huron Hospital                                 Port Huron, MI
+        McLaren Thumb Region                                        Bad Axe, MI
+            f. Huron Medical Center                                 Bad Axe, MI
+        Memorial Healthcare                                         Owosso, MI
+        Munising Memorial Hospital                                  Munising, MI
+        Munson Healthcare Cadillac Hospital                         Cadillac, MI
+            f. Mercy Hospital, Cadillac                             Cadillac, MI
+        Munson Healthcare Charlevoix Hospital                       Charlevoix, MI
+        Munson Healthcare Grayling Hospital                         Grayling, MI
+            f. Mercy Hospital Grayling                              Grayling, MI
+        Munson Healthcare Manistee Hospital                         Manistee, MI
+            f. West Shore Medical Center                            Manistee, MI
+        Munson Healthcare Otsego Memorial Hospital                  Gaylord, MI
+        Munson Medical Center                                       Traverse City, MI
+        MyMichigan Medical Center Alma                              Alma, MI
+            f. MidMichigan Medical Center, Gratiot                  Alma, MI
+        MyMichigan Medical Center Alpena                            Alpena, MI
+            f. Alpena Regional Medical Center                       Alpena, MI
+        MyMichigan Medical Center Clare                             Clare, MI
+            f. MidMichigan Medical Center, Clare                    Clare, MI
+        MyMichigan Medical Center Gladwin                           Gladwin, MI
+            f. MidMichigan Medical Center, Gladwin                  Gladwin, MI
+        MyMichigan Medical Center Sault                             Sault Ste. Marie, MI
+            f. War Memorial Hospital                                Sault Ste. Marie, MI
+        MyMichigan Medical Center West Branch                       West Branch, MI
+            f. West Branch Regional Medical Center                  West Branch, MI
+        MyMichigan Medical Center, Midland                          Midland, MI
+            f. MidMichigan Medical Center, Midland                  Midland, MI
+        Oaklawn Hospital                                            Marshall, MI
+        OSF HealthCare St. Francis Hospital                         Escanaba, MI
+            f. Delta County Hospital                                Escanaba, MI
+            f. St. Francis Hospital                                 Escanaba, MI
+        Paul Oliver Memorial Hospital                               Frankfort, MI
+        Pine Rest Christian Mental Health Services                  Cutlerville, MI
+        Pine Rest Christian Mental Health Services                  Grand Rapids, MI
+        Pontiac General Hospital                                    Pontiac, MI
+            f. North Oakland Medical Center                         Pontiac, MI
+            f. Oakland Physicians Medical Center                    Pontiac, MI
+        ProMedica Charles and Virginia Hickman Hospital             Adrian, MI
+        ProMedica Coldwater Regional Hospital                       Coldwater, MI
+            f. Community Health Care of Branch County               Coldwater, MI
+        ProMedica Monroe Regional Hospital                          Monroe, MI
+            f. Mercy Memorial Hospital                              Monroe, MI
+        Rehabilitation Institute of Michigan                        Detroit, MI
+        Scheurer Hospital                                           Pigeon, MI
+        Schoolcraft Memorial Hospital                               Manistique, MI
+        Select Specialty Hospital, Ann Arbor                        Ypsilanti, MI
+        Select Specialty Hospital, Battle Creek                     Battle Creek, MI
+        Select Specialty Hospital, Downriver                        Taylor, MI
+        Select Specialty Hospital, Flint                            Flint, MI
+        Select Specialty Hospital, Grosse Pointe                    Grosse Pointe Farms, MI
+        Select Specialty Hospital, Macomb County                    Mount Clemens, MI
+        Select Specialty Hospital, Northwest Detroit                Detroit, MI
+        Select Specialty Hospital, Pontiac                          Pontiac, MI
+        Select Specialty Hospital, Saginaw                          Saginaw, MI
+        Sheridan Community Hospital                                 Sheridan, MI
+        Sinai-Grace Hospital                                        Detroit, MI
+        Southwest Regional Rehabilitation Center                    Battle Creek, MI
+        Sparrow Carson Hospital                                     Carson City, MI
+            f. Carson City Hospital                                 Carson City, MI
+        Sparrow Clinton Hospital                                    Saint Johns, MI
+        Sparrow Eaton Hospital                                      Charlotte, MI
+            f. Hayes Green Beach Memorial Hospital                  Charlotte, MI
+        Sparrow Ionia Hospital                                      Ionia, MI
+        Sparrow Specialty Hospital                                  Lansing, MI
+        Spectrum Health Big Rapids Hospital                         Big Rapids, MI
+            f. Mecosta County Medical Center                        Big Rapids, MI
+        Spectrum Health Blodgett Hospital                           Grand Rapids, MI
+        Spectrum Health Butterworth Hospital                        Grand Rapids, MI
+        Spectrum Health Gerber Memorial                             Fremont, MI
+            f. Gerber Memorial Hospital                             Fremont, MI
+        Spectrum Health Kent Community Campus                       Grand Rapids, MI
+        Spectrum Health Lakeland, St. Joseph Hospital               Saint Joseph, MI
+        Spectrum Health Ludington Hospital                          Ludington, MI
+        Spectrum Health Pennock                                     Hastings, MI
+            f. Pennock Hospital                                     Hastings, MI
+        Spectrum Health Reed City Hospital                          Reed City, MI
+        Spectrum Health United Hospital                             Greenville, MI
+            f. United Memorial Hospital                             Greenville, MI
+        Spectrum Health Zeeland Hospital                            Zeeland, MI
+            f. Zeeland Community Hospital                           Zeeland, MI
+        Straith Hospital for Special Surgery                        Southfield, MI
+        Sturgis Hospital                                            Sturgis, MI
+        Surgeons Choice Medical Center                              Southfield, MI
+            f. Oakland Regional Hospital                            Southfield, MI
+        Three Rivers Health Hospital                                Three Rivers, MI
+        Trinity Health Ann Arbor Hospital                           Ypsilanti, MI
+            f. St. Joseph Mercy Ann Arbor                           Ypsilanti, MI
+        Trinity Health Grand Haven Hospital                         Grand Haven, MI
+            f. North Ottawa Community Hospital                      Grand Haven, MI
+        Trinity Health Grand Rapids Hospital                        Grand Rapids, MI
+            f. Mercy Health St. Mary's                              Grand Rapids, MI
+            f. St. Mary's Hospital                                  Grand Rapids, MI
+        Trinity Health Livingston Hospital                          Howell, MI
+            f. St. Joseph Mercy Livingston Hospital                 Howell, MI
+            f. McPherson Community Health Center                    Howell, MI
+        Trinity Health Livonia                                      Livonia, MI
+            f. St. Mary Mercy Hospital                              Livonia, MI
+        Trinity Health Muskegon Hospital                            Muskegon, MI
+            f. Mercy Health Muskegon                                Muskegon, MI
+        Trinity Health Oakland Hospital                             Pontiac, MI
+            f. Joseph Mercy Oakland Hospital                        Pontiac, MI
+        Trinity Health Shelby Hospital                              Shelby, MI
+            f. Mercy Health Partners, Lakeshore Campus              Shelby, MI
+        University of Michigan Health, West                         Wyoming, MI
+            f. Metro Health Hospital                                Wyoming, MI
+        University of Michigan Health, West                         Wyoming, MI
+            f. Metro Health Hospital                                Wyoming, MI
+            f. Metro Hospital                                       Wyoming, MI
+            f. Metropolitan Hospital                                Wyoming, MI
+            f. Grand Rapids Osteopathic Hospital                    Wyoming, MI
+        University of Michigan Hospital                             Ann Arbor, MI
+        UP Health System, Bell                                      Ishpeming, MI
+            f. Bell Memorial Hospital                               Ishpeming, MI
+        UP Health System, Marquette                                 Marquette, MI
+        UP Health System, Portage                                   Hancock, MI
+        VA Medical Center                                           Battle Creek, MI
+        Veterans Affairs Ann Arbor Healthcare System                Ann Arbor, MI
+        Veterans Affairs Medical Center                             Iron Mountain, MI
+        Vibra Hospital of Southeastern Michigan                     Lincoln Park, MI
+            f. Kindred Hospital, Detroit                            Lincoln Park, MI
+        Von Voigtlander Women's Hospital                            Ann Arbor, MI
+        Walter P. Reuther Psychiatric Hospital                      Westland, MI
+
+
+
 
 ========== defunct ==========
 
@@ -7252,3 +7513,31 @@ SFDPH   San Francisco General Hospital                              San Francisc
         Mercy Capitol Hospital                                      Des Moines, IA
         Mercy Covenant Clinics                                      Arlington, IA
         Xavier Hospital                                             Dubuque, IA
+
+
+
+        Bixby Memorial Hospital                                     Adrian, MI
+        Bronson Vicksburg Hospital                                  Vicksburg, MI
+        Detroit Hope Hospital                                       Detroit, MI
+        Genesys Regional Medical Center, Wheelock                   Goodrich, MI
+            f. Wheelock Memorial Hospital                           Goodrich, MI
+        Goodrich General Hospital                                   Goodrich, MI
+        Herrick Medical Center                                      Tecumseh, MI
+        Lynn Hospital                                               Lincoln Park, MI
+        McLaren–Orthopedic Hospital                                 Lansing, MI
+            f. Ingham Regional Orthopedic Hospital                  Lansing, MI
+        Mercy Health Partners, Muskegon                             Muskegon, MI
+            f. Muskegon General Hospital                            Muskegon, MI
+        Outer Drive Hospital                                        Lincoln Park, MI
+        Riverside Osteopathic Hospital                              Trenton, MI
+        Rogers City Hospital                                        Rogers City, MI
+        Select Specialty Hospital, Battle Creek                     Battle Creek, MI
+        Select Specialty Hospital, Western Michigan                 Muskegon, MI
+        Spectrum Health Kelsey Hospital                             Lakeview, MI
+        St. John Detroit Riverview Hospital, Northeast              Detroit, MI
+        St. John North Shores Hospital                              Harrison, MI
+        Trillium Hospital                                           Albion, MI
+        Trinity Health Medical Center, Hackley                      Muskegon, MI
+            f. Hackley Hospital                                     Muskegon, MI
+        United Community Hospital                                   Detroit, MI
+        Yale Community Hospital                                     Yale, MI
