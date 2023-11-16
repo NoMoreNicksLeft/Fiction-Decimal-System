@@ -8062,6 +8062,149 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
         Von Voigtlander Women's Hospital                            Ann Arbor, MI
         Walter P. Reuther Psychiatric Hospital                      Westland, MI
 
+        Abbott Northwestern Hospital                                Minneapolis, MN
+        Aitkin Hospital                                             Aitkin, MN
+        Allina Health Faribault Medical Center                      Faribault, MN
+        Alomere Health Hospital                                     Alexandria, MN
+        Appleton Municipal Hospital                                 Appleton, MN
+        Austin Hospital and Clinic                                  Austin, MN
+        Bagley Medical Center                                       Bagley, MN
+        Bemidji Medical Center                                      Bemidji, MN
+        Bethesda Hospital                                           St. Paul, MN
+        Bigfork Valley Hospital                                     Bigfork, MN
+        Buffalo Hospital                                            Buffalo, MN
+        Cambridge Medical Center                                    Cambridge, MN
+        Canby Medical Center                                        Canby, MN
+        Cannon Falls Hospital and Clinic                            Cannon Falls, MN
+        Cass Lake Hospital                                          Cass Lake, MN
+        Children's Minnesota, Minneapolis Hospital                  Minneapolis, MN
+        Children's Minnesota, St. Paul Hospital                     St. Paul, MN
+        Chippewa City Montevideo Hospital                           Montevideo, MN
+        Community Memorial Hospital                                 Cloquet, MN
+        Cook Hospital                                               Cook, MN
+        Cuyuna Regional Medical Center                              Crosby, MN
+        Deer River Health Care Center                               Deer River, MN
+        Elbow Lake Medical Center                                   Elbow Lake, MN
+        Ely-Bloomenson Community Hospital                           Ely, MN
+        Essentia Health, Ada                                        Ada, MN
+        Essentia Health, Duluth                                     Duluth, MN
+        Essentia Health, Fosston                                    Fosston, MN
+        Essentia Health, Holy Trinity Hospital                      Graceville, MN
+        Essentia Health, Northern Pines                             Aurora, MN
+        Essentia Health, St. Joseph's Medical Center                Brainerd, MN
+        Fairmont Hospital and Clinic                                Fairmont, MN
+        Fairview Range Medical Center                               Hibbing, MN
+        Federal Correction Institution Hospital                     Sandstone, MN
+        Federal Medical Center, Rochester - Prison                  Rochester, MN
+        Gillette Children's Specialty Healthcare                    St. Paul, MN
+            f. St. Paul Hospital                                    St. Paul, MN
+        Glacial Ridge Hospital                                      Glenwood, MN
+        Glencoe Regional Health Services                            Glencoe, MN
+        Grand Itasca Clinic and Hospital                            Grand Rapids, MN
+        Hendricks Community Hospital                                Hendricks, MN
+        Hennepin County Medical Center                              Minneapolis, MN
+        Hutchinson Health Hospital                                  Hutchinson, MN
+        Jackson Medical Center                                      Jackson, MN
+        Johnson Memorial Hospital and Home                          Dawson, MN
+        Kittson Memorial Hospital                                   Hallock, MN
+        Lake City Hospital and Clinic                               Lake City, MN
+        Lake Region Hospital                                        Fergus Falls, MN
+        Lake View Memorial Hospital                                 Two Harbors, MN
+        Lakes Medical Center                                        Wyoming, MN
+        Lakeview Hospital                                           Stillwater, MN
+        LakeWood Health Center                                      Baudette, MN
+        Lakewood Health System Critical Care Hospital               Staples, MN
+        LifeCare Medical Center                                     Roseau, MN
+        Long Prairie Memorial Hospital and Home                     Long Prairie, MN
+        Luverne Medical Center                                      Luverne, MN
+        M Health Fairview Ridges Hospital                           Burnsville, MN
+        M Health Fairview Southdale Hospital                        Edina, MN
+        M Health Fairview UMinn Masonic Children's Hospital         Minneapolis, MN
+        M Health Fairview UMinn Medical Center                      Minneapolis, MN
+        M Health Fairview UMinn Medical Center, West Bank Center    Minneapolis, MN
+        Madelia Community Hospital                                  Madelia, MN
+        Madison Hospital                                            Madison, MN
+        Mahnomen Health Center                                      Mahnomen, MN
+        Maple Grove Hospital                                        Maple Grove, MN
+        Marshall Regional Medical Center                            Marshall, MN
+        Mayo Clinic Health System, Mankato Hospital and Clinic      Mankato, MN
+        Mayo Clinic Hospital, Rochester, Methodist                  Rochester, MN
+        Mayo Clinic Hospital, Rochester, Saint Marys                Rochester, MN
+        Meeker Memorial Hospital                                    Litchfield, MN
+        Melrose Area Hospital                                       Melrose, MN
+        Mercy Hospital                                              Moose Lake, MN
+        Mercy Hospital, Unity                                       Fridley, MN
+        Mercy Hospital of Coon Rapids                               Coon Rapids, MN
+        Mille Lacs Health System Onamia Hospital                    Onamia, MN
+        Minneapolis VA Health Care System                           Minneapolis, MN
+        Monticello Hospital                                         Monticello, MN
+        Municipal Hospital and Granite Manor                        Granite Falls, MN
+        Murray County Medical Center                                Slayton, MN
+        New Prague Hospital                                         New Prague, MN
+        New Ulm Medical Center                                      New Ulm, MN
+        North Memorial Health Hospital                              Robbinsdale, MN
+        North Shore Health                                          Grand Marais, MN
+        North Valley Health Center                                  Warren, MN
+        Northfield City Hospital                                    Northfield, MN
+        Northland Medical Center                                    Princeton, MN
+        Northwest Medical Center                                    Thief River Falls, MN
+        Olivia Hospital and Clinics                                 Olivia, MN
+        Olmsted Medical Center                                      Rochester, MN
+        Ortonville Hospital                                         Ortonville, MN
+        Owatonna Clinic                                             Owatonna, MN
+        Owatonna Hospital                                           Owatonna, MN
+        Park Nicollet Methodist Hospital                            St. Louis Park, MN
+        Paynesville Hospital                                        Paynesville, MN
+        Perham Health Hospital                                      Perham, MN
+        Phillips Eye Institute                                      Buffalo, MN
+        Phillips Eye Institute                                      Minneapolis, MN
+        Pipestone County Medical Center                             Pipestone, MN
+        Rainy Lake Medical Center                                   International Falls, MN
+        Red Lake Indian Health Services Hospital                    Red Lake, MN
+        Red Wing Hospital and Clinic                                Red Wing, MN
+        Redwood LLC                                                 Redwood Falls, MN
+        Regency Hospital of Minneapolis                             Golden Valley, MN
+        Regions Hospital                                            St. Paul, MN
+        Rice Memorial Hospital                                      Willmar, MN
+        Ridgeview Le Sueur Medical Center                           Le Sueur, MN
+        Ridgeview Medical Center                                    Waconia, MN
+        Ridgeview Sibley Medical Center                             Arlington, MN
+        River's Edge Hospital                                       St. Peter, MN
+        RiverView Health Clinic                                     Crookston, MN
+        Sandstone Critical Access Hospital                          Sandstone, MN
+            f. Pine Medical Center                                  Sandstone, MN
+        Sauk Centre Hospital                                        Sauk Centre, MN
+        Shriners Children's Twin Cities                             Woodbury, MN
+        Sleepy Eye Medical Center                                   Sleepy Eye, MN
+        St. Cloud Hospital                                          St. Cloud, MN
+        St. Cloud VA Health Care System                             St. Cloud, MN
+        St. Elizabeths Medical Center                               Wabasha, MN
+        St. Francis Medical Center                                  Breckenridge, MN
+        St. Francis Regional Medical Center                         Shakopee, MN
+        St. Gabriel Hospital                                        Little Falls, MN
+        St. James Hospital and Clinic                               St. James, MN
+        St. John's Hospital                                         Maplewood, MN
+        St. Josephs Area Health Services                            Park Rapids, MN
+        St. Luke's Hospital                                         Duluth, MN
+        St. Mary's Hospital                                         Detroit Lakes, MN
+        St. Mary's Medical Center                                   Duluth, MN
+        Steven Community Medical Center                             Morris, MN
+        Swift County Benson Health Services                         Benson, MN
+        Tracy Medical Center                                        Tracy, MN
+        Tyler Hospital                                              Tyler, MN
+        United Hospital                                             St. Paul, MN
+        United Hospital, Regina Hastings                            Hastings, MN
+        United Hospital District Hospital                           Blue Earth, MN
+        Virginia Hospital                                           Virginia, MN
+        Wadena Clinic                                               Wadena, MN
+        Waseca Hospital and Clinic                                  Waseca, MN
+        Welia Health (FirstLight) Mora Hospital                     Mora, MN
+        Westbrook Medical Center                                    Westbrook, MN
+        Wheaton Medical Center                                      Wheaton, MN
+        Windom Area Hospital                                        Windom, MN
+        Winona Community Memorial Hospital                          Winona, MN
+        Woodwinds Health                                            Woodbury, MN
+        Worthington Medical Center                                  Worthington, MN
 
         Barrett Hospital & HealthCare                               Dillon, MT
         Beartooth Hospital and Health Center                        Red Lodge, MT
