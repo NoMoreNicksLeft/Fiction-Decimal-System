@@ -8206,6 +8206,174 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
         Woodwinds Health                                            Woodbury, MN
         Worthington Medical Center                                  Worthington, MN
 
+        Allegiance Specialty Hospital of Greenville                 Greenville, MS
+        Alliance Health Center                                      Meridian, MS
+            f. Sisters of St. Joseph Hospital                       Meridian, MS
+        Alliance Hospital                                           Holly Springs, MS
+        Anderson Regional Medical Center                            Meridian, MS
+        Anderson Regional Medical Center, South                     Meridian, MS
+            f. Riley Memorial Hospital                              Meridian, MS
+        Baptist Memorial Hospital, Attala                           Kosciusko, MS
+            f. Montfort Jones Memorial Hospital                     Kosciusko, MS
+        Baptist Memorial Hospital, Booneville                       Booneville, MS
+        Baptist Memorial Hospital, Calhoun                          Calhoun City, MS
+        Baptist Memorial Hospital, DeSoto                           Southaven, MS
+        Baptist Memorial Hospital, Golden Triangle                  Columbus, MS
+        Baptist Memorial Hospital, Leake                            Carthage, MS
+            f. Leake Memorial Hospital                              Carthage, MS
+        Baptist Memorial Hospital, North Mississippi                Oxford, MS
+        Baptist Memorial Hospital, Union County                     New Albany, MS
+            f. Union County General Hospital                        New Albany, MS
+        Baptist Memorial Hospital, Yazoo                            Yazoo City, MS
+            f. King's Daughters Hospital                            Yazoo City, MS
+        Batson Children's Hospital                                  Jackson, MS
+        Beacham Memorial Hospital                                   Magnolia, MS
+        Bolivar Medical Center                                      Cleveland, MS
+        Brentwood Behavioral Healthcare of Mississippi              Flowood, MS
+        Central Mississippi Residential Center                      Newton, MS
+        Choctaw Health Center                                       Philadelphia, MS
+        Choctaw Regional Medical Center                             Ackerman, MS
+        Claiborne County Medical Center                             Port Gibson, MS
+        Conerly Critical Care Hospital                              Jackson, MS
+        Copiah County Medical Center                                Hazlehurst, MS
+            f. Hardy Wilson Memorial Hospital                       Hazlehurst, MS
+        Covington County Hospital                                   Collins, MS
+        CrossRoads Behavioral Health                                Batesville, MS
+        Delta Regional Medical Center                               Greenville, MS
+        Delta Regional Medical Center, West                         Greenville, MS
+            f. King's Daughters Hospital                            Greenville, MS
+        Diamond Grove Center                                        Louisville, MS
+        East Mississippi State Hospital                             Meridian, MS
+        Encompass Health Rehabilitation Hospital                    Gulfport, MS
+        Field Memorial Community Hospital                           Centreville, MS
+        Forrest General Hospital                                    Hattiesburg, MS
+        Franklin County Memorial Hospital                           Meadville, MS
+        G. V. (Sonny) Montgomery VA Medical Center                  Jackson, MS
+        George Regional Hospital                                    Lucedale, MS
+        Greene County Hospital                                      Leakesville, MS
+        Greenwood Leflore Hospital                                  Greenwood, MS
+        Gulf Coast Veterans Health Care System                      Biloxi, MS
+        Gulfport Behavioral Health System                           Gulfport, MS
+        H. C. Watkins Memorial Hospital                             Quitman, MS
+        Highland Community Hospital                                 Picayune, MS
+            f. L. O. Crosby Memorial Hospital                       Picayune, MS
+        Jasper General Hospital                                     Bay Springs, MS
+        Jefferson Comprehensive Health Center                       Fayette, MS
+        Jefferson Davis Community Hospital                          Prentiss, MS
+            f. Prentiss Regional Hospital                           Prentiss, MS
+        John C. Stennis Memorial Hospital                           DeKalb, MS
+        Keesler Medical Center                                      Biloxi, MS
+        King's Daughters Medical Center                             Brookhaven, MS
+        KPC Promise of Vicksburg                                    Vicksburg, MS
+            f. Promise Specialty Hospital of Vicksburg              Vicksburg, MS
+        Lackey Memorial Hospital                                    Forest, MS
+        Laird Hospital                                              Union, MS
+        Lawrence County Hospital                                    Monticello, MS
+        Magee General Hospital                                      Magee, MS
+        Magnolia Regional Health Center                             Corinth, MS
+        Marion General Hospital                                     Columbia, MS
+        Memorial Hospital at Gulfport                               Gulfport, MS
+        Memorial Hospital at Stone County                           Wiggins, MS
+            f. Stone County Hospital                                Wiggins, MS
+        Merit Health Biloxi                                         Biloxi, MS
+            f. Howard Memorial Hospital                             Biloxi, MS
+        Merit Health Central                                        Jackson, MS
+            f. Central Mississippi Medical Center                   Jackson, MS
+        Merit Health Madison                                        Canton, MS
+            f. King's Daughters Hospital                            Canton, MS
+        Merit Health Natchez                                        Natchez, MS
+            f. Natchez Regional Medical Center                      Natchez, MS
+        Merit Health Rankin                                         Brandon, MS
+            f. Rankin General Hospital                              Brandon, MS
+        Merit Health River Oaks                                     Flowood, MS
+            f. River Oaks Hospital                                  Flowood, MS
+        Merit Health River Region                                   Vicksburg, MS
+            f. River Region Medical Center                          Vicksburg, MS
+        Merit Health Wesley                                         Hattiesburg, MS
+            f. Ross Sanitarium                                      Hattiesburg, MS
+        Merit Health Woman's Hospital                               Flowood, MS
+            f. Woman's Hospital                                     Flowood, MS
+        Methodist Olive Branch Hospital                             Olive Branch, MS
+        Methodist Rehabilitation Center                             Jackson, MS
+        Mississippi Baptist Medical Center                          Jackson, MS
+        Mississippi State Hospital                                  Whitfield, MS
+        Monroe Regional Hospital                                    Aberdeen, MS
+            f. Aberdeen-Monroe County Hospital                      Aberdeen, MS
+        Neshoba County General Hospital                             Philadelphia, MS
+        North Mississippi Medical Center Gilmore, Amory             Amory, MS
+            f. Gilmore Memorial Hospital                            Amory, MS
+        North Mississippi Medical Center, Eupora                    Eupora, MS
+            f. Webster Hospital                                     Eupora, MS
+        North Mississippi Medical Center, Iuka                      Iuka, MS
+            f. Iuka Hospital                                        Iuka, mS
+        North Mississippi Medical Center, Pontotoc                  Pontotoc, MS
+            f. Pontotoc Community Hospital                          Pontotoc, MS
+        North Mississippi Medical Center, Tupelo                    Tupelo, MS
+            f. North Mississippi Community Hospital                 Tupelo, MS
+        North Mississippi Medical Center, West Point                West Point, MS
+            f. Ivy Memorial Hospital                                West Point, MS
+            f. Clay County Medical Center                           West Point, MS
+        North Mississippi State Hospital                            Tupelo, MS
+        North Sunflower Medical Center                              Ruleville, MS
+            f. North Sunflower County Hospital                      Ruleville, MS
+        Northwest Mississippi Medical Center                        Clarksdale, MS
+        Noxubee General Hospital                                    Macon, MS
+            f. Noxubee County Hospital                              Macon, MS
+        Ocean Springs Hospital                                      Ocean Springs, MS
+        Oceans Behavioral Hospital Biloxi                           Biloxi, MS
+            f. Merit Health Gulf Oaks                               Biloxi, MS
+        OCH Regional Medical Center                                 Starkville, MS
+        Ochsner Medical Center, Hancock                             Bay St. Louis, MS
+            f. Hancock General Hospital                             Bay St. Louis, MS
+        Ochsner Rush Health                                         Meridian, MS
+            f. Rush Infirmary                                       Meridian, MS
+            f. Rush Memorial Hospital                               Meridian, MS
+            f. Rush Foundation Hospital                             Meridian, MS
+        Panola Medical Center                                       Batesville, MS
+        Parkwood Behavioral Health System                           Olive Branch, MS
+        Pascagoula Hospital                                         Pascagoula, MS
+            f. Jackson County Hospital                              Pascagoula, MS
+            f. Singing River Hospital                               Pascagoula, MS
+        Patient's Choice Medical Center of Smith County             Raleigh, MS
+        Pearl River County Hospital                                 Poplarville, MS
+        Perry County General Hospital                               Richton, MS
+        Regency Meridian                                            Meridian, MS
+        Scott Regional Hospital                                     Morton, MS
+        Select Specialty Hospital, Belhaven                         Jackson, MS
+        Select Specialty Hospital, Gulfport                         Gulfport, MS
+        Select Specialty Hospital, Jackson                          Jackson, MS
+        Sharkey Issaquena Community Hospital                        Rolling Fork, MS
+        Simpson General Hospital                                    Mendenhall, MS
+        Singing River Gulfport                                      Gulfport, MS
+            f. Garden Park Medical Center                           Gulfport, MS
+        South Central Regional Medical Center                       Laurel, MS
+        South Mississippi State Hospital                            Purvis, MS
+        South Sunflower County Hospital                             Indianola, MS
+        Southwest Mississippi Regional Medical Center               McComb, MS
+        St. Dominic Hospital                                        Jackson, MS
+            f. Jackson Infirmary                                    Jackson, MS
+            f. Jackson Sanitarium                                   Jackson, MS
+        Tallahatchie General Hospital                               Charleston, MS
+            f. Tallahatchie County Hospital                         Charleston, MS
+        The Specialty Hospital of Meridian                          Meridian, MS
+        Tippah County Hospital                                      Ripley, MS
+        Trace Regional Hospital                                     Houston, MS
+        Turning Point Mature Adult Care Unit                        Louisville, MS
+        Tyler Holmes Memorial Hospital                              Winona, MS
+        UMMC Grenada                                                Grenada, MS
+            f. Grenada Hospital                                     Grenada, MS
+        UMMC Holmes County                                          Lexington, MS
+            f. Holmes County Community Hospital                     Lexington, MS
+            f. Holmes County Hospital                               Lexington, MS
+        University of Mississippi Medical Center                    Jackson, MS
+        Walthall County General Hospital                            Tylertown, MS
+        Wayne General Hospital                                      Waynesboro, MS
+        Whitfield Medical Surgical Hospital                         Whitfield, MS
+        Winston Medical Center                                      Louisville, MS
+            f. Winston County Community Hospital                    Louisville, MS
+        Wiser Hospital for Women and Infants                        Jackson, MS
+        Yalobusha General Hospital                                  Water Valley, MS
+
         Barrett Hospital & HealthCare                               Dillon, MT
         Beartooth Hospital and Health Center                        Red Lodge, MT
         Benefis Health System                                       Great Falls, MT
@@ -8522,3 +8690,46 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
             f. Hackley Hospital                                     Muskegon, MI
         United Community Hospital                                   Detroit, MI
         Yale Community Hospital                                     Yale, MI
+
+        Abbott Hospital                                             Minneapolis, MN
+        Albany Area Hospital and Medical Center                     Albany, MN
+        Albert Lea Hospital and Clinic                              Albert Lea, MN
+        Asbury Hospital                                             Minneapolis, MN
+        Dr. E.P. Hawkins Clinic, Hospital, and House                Montrose, MN
+        Eitel Hospital                                              Minneapolis, MN
+        Fergus Falls Regional Treatment Center                      Fergus Falls, MN
+        Glen Lake Sanatorium                                        Minnetonka, MN
+        Lakeside Medical Center                                     Pine City, MN
+        Mayo Clinic Health System Springfield                       Springfield, MN
+        Metropolitan Medical Center                                 Minneapolis, MN
+        Midway Hospital                                             St. Paul, MN
+        Minnesota State Sanatorium for Consumptives                 Walker, MN
+        Mount Sinai Hospital                                        Minneapolis, MN
+        Ripley Memorial Hospital                                    Minneapolis, MN
+        Rudolph Latto House                                         Hastings, MN
+        St. Ansgar Hospital                                         Moorhead, MN
+        St. Joseph's Hospital                                       St. Paul, MN
+        St. Mary’s Hospital                                         Winstead, MN
+        Tanner's Hospital                                           Ely, MN
+        Thompson–Fasbender House                                    Hastings, MN
+
+        Afro-American Sons and Daughters Hospital                   Yazoo City, MS
+        Baldwyn Satellite Hospital                                  Baldwyn, MS
+        Cosby Clinic and Hospital                                   Iuka, MS
+        Gulf Coast Medical Center                                   Biloxi, MS
+        Itawamba County Hospital                                    Fulton, MS
+        Kilmichael Hospital                                         Kilmichael, MS
+        Kuhn Memorial State Hospital                                Vicksburg, MS
+        Matty Hersee Hospital                                       Meridian, MS
+        Mercy Hospital                                              Vicksburg, MS
+        Natchez Community Hospital                                  Natchez, MS
+        North Oak Regional Medical Center                           Senatobia, MS
+        Okolona Community Hospital                                  Okolona, MS
+        Patient's Choice Medical Center of Humphreys County         Belzoni, MS
+        Pioneer Community Hospital of Newton                        Newton, MS
+        Quitman County Hospital                                     Marks, MS
+        Regency Hospital of Jackson                                 Jackson, MS
+        Riley Memorial Hospital                                     Meridian, MS
+        St. Joseph's Hospital                                       Meridian, MS
+        Taborian Hospital                                           Mound Bayou, MS
+        Turner Hospital                                             Meridian , MS
