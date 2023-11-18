@@ -9250,7 +9250,7 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
 
         All Souls Hospital                                          Morristown, NJ
         Barnert Hospital                                            Paterson, NJ
-        Beacon                                                      Jersey City, NJ
+        Beacon, The                                                 Jersey City, NJ
             f. Jersey City Medical Center                           Jersey City, NJ
         Capital Health System, Mercer                               Trenton, NJ
         Essex County Hospital Center                                Cedar Grove, NJ
