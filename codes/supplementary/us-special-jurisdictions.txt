@@ -8715,6 +8715,240 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
         Winnebago Indian Health Services                            Winnebago, NE
         York General Hospital                                       York, NE
 
+        AMG Specialty Hospital                                      Las Vegas, NV
+        Banner Churchill Community Hospital                         Fallon, NV
+        Battle Mountain General Hospital                            Battle Mountain, NV
+        Boulder City Hospital                                       Boulder City, NV
+        Carson Rehabilitation Center                                Carson City, NV
+        Carson Tahoe Cancer Center                                  Carson City, NV
+        Carson Tahoe Continuing Care Hospital                       Carson City, NV
+        Carson Tahoe Health Minden Medical Center                   Minden, NV
+        Carson Tahoe Regional Medical Center                        Carson City, NV
+        Carson Tahoe Specialty Medical Center                       Carson City, NV
+        Carson Tahoe Urgent Care                                    Carson City, NV
+        Carson Valley Medical Center                                Gardnerville, NV
+        Carson Valley Medical Center Urgent Care                    Minden, NV
+        Centennial Hills Hospital                                   Las Vegas, NV
+        Desert Springs Hospital                                     Las Vegas, NV
+        Desert View Regional Medical Center                         Pahrump, NV
+        Desert Willow Treatment Center                              Las Vegas, NV
+        Elite Medical Center                                        Las Vegas, NV
+        Golden Valley Medical Center                                Winnemucca, NV
+        Grover C. Dils Medical Center                               Caliente, NV
+        Harmon Medical and Rehabilitation Hospital                  Las Vegas, NV
+        Healthsouth Rehabilitation Hospital, Henderson              Henderson, NV
+        Healthsouth Rehabilitation Hospital, Las Vegas              Las Vegas, NV
+        Henderson Hospital                                          Henderson, NV
+        Horizon Specialty Hospital                                  Las Vegas, NV
+        Humboldt General Hospital                                   Winnemucca, NV
+        Incline Village Community Hospital                          Incline Village, NV
+        Kindred Hospital Las Vegas, Desert Springs                  Las Vegas, NV
+        Kindred Hospital Las Vegas, Sahara                          Las Vegas, NV
+        Lifecare Complex Care Hospital at Tenaya                    Las Vegas, NV
+        Mesa View Regional Hospital                                 Mesquite, NV
+        Mike O'Callaghan Military Medical Center                    Nellis AFB, NV
+        Mount Grant General Hospital                                Hawthorne, NV
+        Mountain View Hospital                                      Las Vegas, NV
+        Nevada Cancer Institute                                     Las Vegas, NV
+        North Vista Hospital                                        Las Vegas, NV
+        North Vista Hospital                                        North Las Vegas, NV
+        Northeastern Nevada Regional Hospital                       Elko, NV
+        Northern Nevada Adult Mental Health Services                Sparks, NV
+        Northern Nevada Medical Center                              Sparks, NV
+        Owyhee Community Health Facility                            Owyhee, NV
+        Pershing General Hospital                                   Lovelock, NV
+        Rawson-Neal Hospital                                        Las Vegas, NV
+        Reno Orthopaedic Clinic (ROC) Express                       Carson City, NV
+        Reno Orthopaedic Clinic (ROC) Express                       Reno, NV
+        Reno Orthopaedic Clinic (ROC) Express                       Sparks, NV
+        Renown Regional Medical Center                              Reno, NV
+        Renown Rehabilitation Hospital                              Reno, NV
+        Renown South Meadows Medical Center                         Reno, NV
+        Renown Urgent Care                                          Carson City, NV
+        Saint Mary's Regional Medical Center                        Reno, NV
+        Sierra Surgery Hospital                                     Carson City, NV
+        South Lyon Medical Center                                   Yerington, NV
+        Southern Hills Hospital & Medical Center                    Las Vegas, NV
+        Southern Nevada Adult Mental Health Services                Las Vegas, NV
+        Spring Mountain Treatment Center                            Las Vegas, NV
+        Spring Valley Hospital                                      Las Vegas, NV
+        St. Rose Dominican Hospital, Rose de Lima                   Henderson, NV
+        St. Rose Dominican Hospital, San Martín                     Las Vegas, NV
+        St. Rose Dominican Hospital, Siena                          Henderson, NV
+        Summerlin Hospital                                          Las Vegas, NV
+        Sunrise Hospital & Medical Center                           Las Vegas, NV
+        Tahoe Fracture Quick Care                                   Gardnerville, NV
+        Tahoe Pacific Hospitals                                     Reno, NV
+        University Medical Center of Southern Nevada                Las Vegas, NV
+        VA Southern Nevada Healthcare System                        North Las Vegas, NV
+        Valley Hospital Medical Center                              Las Vegas, NV
+        Vegas Valley Rehabilitation Hospital                        Las Vegas, NV
+        Veterans Affairs Sierra Nevada Health Care System           Reno, NV
+        West Henderson Hospital                                     Henderson, NV
+        West Hills Hospital                                         Reno, NV
+        William Bee Ririe Hospital                                  Ely, NV
+        Willow Springs Center                                       Reno, NV
+
+        Alice Peck Day Hospital                                     Lebanon, NH
+        Androscoggin Valley Hospital                                Berlin, NH
+        Catholic Medical Center                                     Manchester, NH
+        Cheshire Medical Center                                     Keene, NH
+        Concord Hospital                                            Concord, NH
+        Concord Hospital, Franklin                                  Franklin, NH
+            f. Franklin Regional Hospital                           Franklin, NH
+        Concord Hospital, Laconia                                   Laconia, NH
+            f. Lakes Region General Hospital                        Laconia, NH
+        Cottage Hospital                                            Woodsville, NH
+        Dartmouth-Hitchcock Medical Center                          Lebanon, NH
+        Elliot Hospital                                             Manchester, NH
+        Encompass Health Rehabilitation Hospital of Concord         Concord, NH
+        Exeter Hospital                                             Exeter, NH
+        Frisbie Memorial Hospital                                   Rochester, NH
+        Hampstead Hospital                                          Hampstead, NH
+        Huggins Hospital                                            Wolfeboro, NH
+        Littleton Regional Hospital                                 Littleton, NH
+        Memorial Hospital                                           North Conway, NH
+        Milford Medical Center                                      Milford, NH
+        Monadnock Community Hospital                                Peterborough, NH
+        New Hampshire Hospital                                      Concord, NH
+        New London Hospital                                         New London, NH
+        Northeast Rehabilitation Hospital                           Salem, NH
+        Parkland Medical Center                                     Derry, NH
+        Portsmouth Regional Hospital                                Portsmouth, NH
+        Southern New Hampshire Medical Center                       Nashua, NH
+        Speare Memorial Hospital                                    Plymouth, NH
+        St. Joseph Hospital                                         Nashua, NH
+        Upper Connecticut Valley Hospital                           Colebrook, NH
+        VA Medical Center                                           Manchester, NH
+        Valley Regional Hospital                                    Claremont, NH
+        Weeks Medical Center                                        Lancaster, NH
+        Wentworth-Douglass Hospital                                 Dover, NH
+
+        Ancora Psychiatric Hospital                                 Ancora, NJ
+        Ann Klein Forensic Center                                   Trenton, NJ
+        Astra Health Center                                         Hoboken, NJ
+        Atlantic Rehabilitation Institute                           Morristown, NJ
+        AtlantiCare Regional Medical Center, Atlantic City          Atlantic City, NJ
+        AtlantiCare Regional Medical Center, Mainland               Pomona, NJ
+        Bacharach Institute for Rehabilitation                      Pomona, NJ
+        Bayonne Medical Center                                      Bayonne, NJ
+        Bayshore Community Hospital                                 Holmdel, NJ
+        Bristol-Myers Squibb Children's Hospital                    New Brunswick, NJ
+        Cape Regional Medical Center                                Cape May Court House, NJ
+        Capital Health System (Fuld Campus)                         Trenton, NJ
+        Capital Health System (Hopewell Campus)                     Hopewell, NJ
+        Care One at Raritan Bay Medical Center                      Perth Amboy, NJ
+        Carrier Clinic                                              Belle Mead, NJ
+        CentraState Healthcare System                               Freehold, NJ
+        Chilton Memorial Hospital                                   Pompton Plains, NJ
+        Christ Hospital                                             Jersey City, NJ
+        Christian Health Care Center                                Wyckoff, NJ
+        Clara Maass Medical Center                                  Belleville, NJ
+        Community Medical Center                                    Toms River, NJ
+        Cooper University Hospital                                  Camden, NJ
+        Deborah Heart and Lung Center                               Browns Mills, NJ
+        East Mountain Hospital                                      Belle Mead, NJ
+        East Orange General Hospital                                East Orange, NJ
+        East Orange VA Medical Center                               East Orange, NJ
+        Englewood Hospital and Medical Center                       Englewood, NJ
+        Essex County Hospital                                       Cedar Grove, NJ
+        Greystone Park Psychiatric Hospital                         Parsippany, NJ
+        Hackensack University Medical Center                        Hackensack, NJ
+        Hackettstown Medical Center                                 Hackettstown, NJ
+        Hampton Behavioral Health Center                            Westampton, NJ
+        HealthSouth - Rehabilitation Hospital of Toms River         Toms River, NJ
+        HealthSouth - Specialty Hospital of Union                   Union, NJ
+        Hoboken University Medical Center                           Hoboken, NJ
+            f. St. Mary Hospital                                    Hoboken, NJ
+        Holy Name Medical Center                                    Teaneck, NJ
+        Hudson County Meadowview Hospital                           Secaucus, NJ
+        Hunterdon Medical Center                                    Flemington, NJ
+        Inspira Medical Center Elmer                                Elmer, NJ
+        Inspira Medical Center Mullica Hill                         Mullica Hill, NJ
+        Inspira Medical Center Vineland                             Vineland, NJ
+        Inspira Medical Center Woodbury                             Woodbury, NJ
+        Jefferson Cherry Hill Hospital                              Cherry Hill, NJ
+            f. Kennedy Health Cherry Hill Hospital                  Cherry Hill, NJ
+        Jefferson Stratford Hospital                                Stratford, NJ
+            f. Kennedy Health Stratford Hospital                    Stratford, NJ
+        Jefferson Washington Township Hospital                      Washington, NJ
+            f. Kennedy Health Washington Township Hospital          Washington, NJ
+        Jersey City Medical Center                                  Jersey City, NJ
+        Jersey Shore University Medical Center                      Neptune Township, NJ
+        JFK Johnson Rehabilitation Institute                        Edison, NJ
+        JFK Medical Center                                          Edison, NJ
+        Kessler Institute for Rehabilitation                        Chester Township, NJ
+        Kessler Institute for Rehabilitation                        Saddle Brook, NJ
+        Kessler Institute for Rehabilitation                        West Orange, NJ
+        Kindred Hospital at Morris                                  Dover, NJ
+        Kindred Hospital at Rahway                                  Rahway, NJ
+        Kindred Hospital at Wayne                                   Wayne, NJ
+        Lourdes Medical Center of Burlington County                 Willingboro, NJ
+        Lourdes Specialty Hospital                                  Willingboro, NJ
+        Lyons VA Medical Center                                     Lyons, NJ
+        Marlton Rehabilitation Hospital                             Marlton, NJ
+        Matheny Medical and Educational Center                      Peapack, NJ
+        Meadowlands Hospital Medical Center                         Secaucus, NJ
+        Meadowview Psychiatric Hospital                             Secaucus, NJ
+        Monmouth Medical Center                                     Long Branch, NJ
+        Monmouth Medical Center Southern Campus                     Lakewood, NJ
+            f. Kimball Medical Center                               Lakewood, NJ
+        Morristown Medical Center                                   Morristown, NJ
+        Mountainside Hospital                                       Glen Ridge, NJ
+        New Bridge Medical Center                                   Paramus, NJ
+        Newark Beth Israel Medical Center                           Newark, NJ
+        Newton Medical Center                                       Newton, NJ
+        Ocean Medical Center                                        Brick, NJ
+        Overlook Medical Center                                     Summit, NJ
+        Palisades Medical Center                                    North Bergen, NJ
+        Pascack Valley Medical Center                               Westwood, NJ
+        Penn Medicine Princeton Medical Center                      Plainsboro, NJ
+        PSE&G Children's Specialized Hospital                       New Brunswick, NJ
+        Raritan Bay Medical Center                                  Perth Amboy, NJ
+        Raritan Bay Medical Center, Old Bridge                      Old Bridge, NJ
+        Rehabilitation Hospital of South Jersey                     Vineland, NJ
+        Riverview Medical Center                                    Red Bank, NJ
+        Robert Wood Johnson University Hospital                     New Brunswick, NJ
+        Robert Wood Johnson University Hospital at Hamilton         Hamilton, NJ
+        Robert Wood Johnson University Hospital at Rahway           Rahway, NJ
+        Robert Wood Johnson University Hospital Somerset            Somerville, NJ
+        Runnells Specialized Hospital                               Berkeley Heights, NJ
+        Saint Barnabas Behavioral Health Center                     Toms River, NJ
+        Saint Barnabas Medical Center                               Livingston, NJ
+        Saint Clare's Hospital at Boonton Township                  Boonton, NJ
+        Saint Clare's Hospital at Denville                          Denville, NJ
+        Saint Clare's Hospital at Dover                             Dover, NJ
+        Saint Clare's Hospital at Sussex                            Sussex, NJ
+        Saint Francis Medical Center                                Jersey City, NJ
+        Saint James Hospital                                        Newark, NJ
+        Saint Michael's Medical Center                              Newark, NJ
+        Saint Peter's University Hospital                           New Brunswick, NJ
+        Select at Belleville                                        Belleville, NJ
+        Shore Memorial Hospital                                     Somers Point, NJ
+        Southern Ocean Medical Center                               Manahawkin, NJ
+        Specialty Hospital at Kimball                               Lakewood, NJ
+        Specialty Hospital at Monmouth                              Long Branch, NJ
+        St. Francis Medical Center                                  Trenton, NJ
+        St. Joseph's Regional Medical Center                        Paterson, NJ
+        St. Joseph's Wayne Hospital                                 Wayne, NJ
+        St. Lawrence Rehabilitation Center                          Lawrenceville, NJ
+        St. Luke's Warren Hospital                                  Phillipsburg, NJ
+        St. Mary Hospital                                           Hoboken, NJ
+        St. Mary's Hospital                                         Passaic, NJ
+        Summit Oaks Hospital                                        Summit, NJ
+        The Memorial Hospital of Salem County                       Salem, NJ
+        The Rehabilitation Hospital of Tinton Falls                 Tinton Falls, NJ
+        The Valley Hospital                                         Ridgewood, NJ
+        Trenton Psychiatric Hospital                                West Trenton, NJ
+        Trinitas Hospital                                           Elizabeth, NJ
+        University Behavioral HealthCare                            Piscataway, NJ
+        University Hospital                                         Newark, NJ
+        Virtua Berlin                                               Berlin, NJ
+        Virtua Marlton                                              Marlton, NJ
+        Virtua Mt Holly                                             Mount Holly, NJ
+        Virtua Our Lady of Lourdes Medical Center                   Camden, NJ
+        Virtua Voorhees                                             Voorhees, NJ
+        Weisman Children's Rehabilitation Hospital                  Marlton, NJ
 
 ========== defunct ==========
 
@@ -9004,3 +9238,38 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
         St. Joseph's Hospital                                       Meridian, MS
         Taborian Hospital                                           Mound Bayou, MS
         Turner Hospital                                             Meridian , MS
+
+        Nye Regional Medical Center                                 Tonopah, NV
+
+        Cheshire County Hospital                                    Westmoreland, NH
+        Elliot Community Hospital                                   Keene, NH
+        New Hampshire State Hospital                                Concord, NH
+        Newport Hospital                                            Newport, NH
+        Portsmouth Cottage Hospital                                 Portsmouth, NH
+        Sacred Heart Hospital                                       Manchester, NH
+
+        All Souls Hospital                                          Morristown, NJ
+        Barnert Hospital                                            Paterson, NJ
+        Beacon                                                      Jersey City, NJ
+            f. Jersey City Medical Center                           Jersey City, NJ
+        Capital Health System, Mercer                               Trenton, NJ
+        Essex County Hospital Center                                Cedar Grove, NJ
+            f. Overbrook Asylum                                     Cedar Grove, NJ
+        Irvington General Hospital                                  Irvington, NJ
+        Kenney Memorial Hospital                                    Newark, NJ
+        Marlboro Psychiatric Hospital                               Marlboro, NJ
+        Montclair Community Hospital                                Montclair, NJ
+        Muhlenberg Regional Medical Center                          Plainfield, NJ
+        North Hudson Hospital                                       Weehawken, NJ
+        Northern Community Hospital                                 Oradell, NJ
+        Orange General Hospital                                     Orange, NJ
+        Pascack Valley Hospital                                     Westwood, NJ
+        PBI Regional Medical Center                                 Passaic, NJ
+        Raritan Valley Hospital                                     Green Brook, NJ
+        Riverdell Hospital                                          Oradell, NJ
+        Senator Garrett W. Hagedorn Psychiatric Hospital            Lebanon, NJ
+        South Amboy Medical Center                                  South Amboy, NJ
+        Union Hospital                                              Union, NJ
+        United Children's Medical Center                            Newark, NJ
+        United Hospital Medical Center                              Newark, NJ
+        William B. Kessler Memorial Hospital                        Hammonton, NJ
