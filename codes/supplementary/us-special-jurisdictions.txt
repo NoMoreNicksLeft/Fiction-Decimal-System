@@ -8374,6 +8374,181 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
         Wiser Hospital for Women and Infants                        Jackson, MS
         Yalobusha General Hospital                                  Water Valley, MS
 
+        Alvin J. Siteman Cancer Center                              St. Louis, MO
+        Audrain Medical Center                                      Mexico, MO
+        Barnes-Jewish Hospital                                      St. Louis, MO
+        Barnes-Jewish Saint Peters Hospital                         Saint Peters, MO
+        Barnes-Jewish West County Hospital                          Creve Coeur, MO
+        Barton County Memorial Hospital                             Lamar, MO
+        Bates County Memorial Hospital                              Butler, MO
+        Boone Hospital Center                                       Columbia, MO
+        Bothwell Regional Health Center                             Sedalia, MO
+        Cameron Regional Medical Center                             Cameron, MO
+        Capital Region Medical Center                               Jefferson City, MO
+        Carondelet Health                                           Blue Springs, MO
+        Carondelet Health                                           Kansas City, MO
+        Cass Medical Center                                         Harrisonville, MO
+        Cedar County Memorial Hospital                              Cedar County, MO
+        Cedar County Memorial Hospital                              El Dorado Springs, MO
+        Centerpoint Medical Center                                  Independence, MO
+        CenterPointe Hospital                                       Saint Charles, MO
+        Children's Mercy Hospital                                   Kansas City, MO
+        Children's Mercy Northland                                  Kansas City, MO
+        Christian Hospital                                          Florissant, MO
+        Christian Hospital                                          St. Louis, MO
+        Citizens Memorial Healthcare                                Bolivar, MO
+        Columbia Regional Hospital                                  Columbia, MO
+        Cooper County Memorial Hospital                             Boonville, MO
+        Cox Branson                                                 Branson, MO
+        Cox Monett                                                  Monett, MO
+        Cox North                                                   Springfield, MO
+        Cox South                                                   Springfield, MO
+        Cox Walnut Lawn                                             Springfield, MO
+        CoxHealth                                                   Springfield, MO
+        Crittenton Behavioral Health                                Kansas City, MO
+        Crossroads Regional Medical Center                          Wentzville, MO
+        Deaconess Incarnate Word Health System                      St. Louis, MO
+        Doctors Hospital of Springfield                             Springfield, MO
+        Eastern Missouri State Hospital                             Florissant, MO
+        Ellett Memorial Hospital                                    Appleton City, MO
+        Ellis Fischel Cancer Center                                 Columbia, MO
+        Excelsior Springs Medical Center                            Excelsior Springs, MO
+        Fitzgibbon Hospital                                         Marshall, MO
+        Freeman Cancer Institute                                    Joplin, MO
+        Freeman Health System                                       Joplin, MO
+        Freeman Heart Institute                                     Joplin, MO
+        Freeman Neosho Hospital                                     Neosho, MO
+        Freeman Orthopaedics & Sports Medicine                      Joplin, MO
+        Fulton Medical Center                                       Fulton, MO
+        Fulton State Hospital                                       Fulton, MO
+        General Leonard Wood Army Community Hospital                Fort Leonard Wood, MO
+        Golden Valley Memorial Hospital                             Clinton, MO
+        Hannibal Regional Hospital                                  Hannibal, MO
+        Harry S. Truman Memorial Veterans' Hospital                 Columbia, MO
+        Hawthorn Children's Psychiatric Hospital                    St. Louis, MO
+        HCA Midwest Division                                        Kansas City, MO
+        Heartland Behavioral Health Services                        Nevada, MO
+        Heartland Regional Medical Center                           St. Joseph, MO
+        Hedrick Medical Center                                      Chillicothe, MO
+        Hermann Area District Hospital                              Hermann, MO
+        I-70 Community Hospital                                     Sweet Springs, MO
+        Jefferson Memorial Hospital                                 Crystal City, MO
+        John J. Pershing VA Medical Center                          Poplar Bluff, MO
+        Kansas City VA Medical Center                               Kansas City, MO
+        Kindred Hospital, Kansas City                               Kansas City, MO
+        Kindred Hospital, St. Louis                                 St. Louis, MO
+        Lafayette Regional Health Center                            Lexington, MO
+        Lake Regional Health System                                 Osage Beach, MO
+        Lakeland Regional Hospital                                  Springfield, MO
+        Lee's Summit Hospital                                       Lee's Summit, MO
+        Liberty Hospital                                            Liberty, MO
+        Madison Medical Center                                      Fredericktown, MO
+        Mercy Hospital Joplin                                       Joplin, MO
+            f. St. John's Regional Medical Center                   Joplin, MO
+        Mercy Hospital South,                                       Sappington, MO
+            f. St. Anthony's Medical Center                         Sappington, MO
+        Mercy hospital springfield                                  Springfield, MO
+        Mercy Hospital St. John's                                   Aurora, MO
+            f. Aurora Hospital                                      Aurora, MO
+        Mercy Hospital St. Louis                                    Creve Coeur, MO
+        Mercy Hospital Washington                                   Washington, MO
+        Mercy McCune-Brooks Hospital                                Carthage, MO
+            f. McCune-Brooks Regional Hospital                      Carthage, MO
+        Metropolitan Saint Louis Psychiatric Center                 St. Louis, MO
+        Mid Missouri Mental Health Center                           Columbia, MO
+        Mineral Area Regional Medical Center                        Farmington, MO
+        Missouri Baptist Hospital-Sullivan                          Sullivan, MO
+        Missouri Baptist Medical Center                             Town and Country, MO
+        Missouri Delta Medical Center                               Sikeston, MO
+        Missouri Rehabilitation Center                              Mount Vernon, MO
+        Missouri Southern Healthcare                                Sikeston, MO
+        Moberly Regional Medical Center                             Moberly, MO
+        Nevada Regional Medical Center                              Nevada, MO
+        North Kansas City Hospital                                  North Kansas City, MO
+        Northeast Missouri Rural Health Network (NMRHN)             Kirksville, MO
+        Northeast Regional Medical Center                           Kirksville, MO
+        Northwest Medical Center                                    Albany, MO
+        Ozarks Community Hospital                                   Springfield, MO
+        Ozarks Medical Center                                       West Plains, MO
+        Parkland Health Center                                      Bonne Terre, MO
+        Parkland Health Center                                      Farmington, MO
+        Pemiscot Memorial Health Systems                            Hayti, MO
+        Perry County Memorial Hospital                              Perryville, MO
+        Pershing Memorial Hospital                                  Brookfield, MO
+        Phelps Health                                               Rolla, MO
+            f. Phelps County Regional Medical Center                Rolla, MO
+        Pike County Memorial Hospital                               Louisiana, MO
+        Progress West Hospital                                      O'Fallon, MO
+        Putnam County Memorial Hospital                             Unionville, MO
+        Ranken Jordan Pediatric Specialty Hospital                  Maryland Heights, MO
+        Ray County Memorial Hospital                                Richmond, MO
+        Research Belton Hospital                                    Belton, MO
+        Research Medical Center                                     Kansas City, MO
+        Research Medical Center, Brookside                          Kansas City, MO
+        Research Psychiatric Center                                 Kansas City, MO
+        Reynolds County General Memorial Hospital                   Ellington, MO
+        Ripley County Memorial Hospital                             Doniphan, MO
+        Rusk Rehabilitation Center                                  Columbia, MO
+        Sac-Osage Hospital                                          Osceola, MO
+        Saint Alexius Hospital                                      St. Louis, MO
+        Saint Francis Hospital & Health Services                    Maryville, MO
+        Saint Francis Medical Center                                Cape Girardeau, MO
+        Saint John's Aurora Community Hospital                      Aurora, MO
+        Saint John's Breech Regional Medical Center                 Lebanon, MO
+        Saint John's Health System                                  Springfield, MO
+        Saint John's Hospital, Cassville                            Cassville, MO
+        Saint John's Regional Health Center                         Springfield, MO
+        Saint John's Saint Francis Hospital                         Mountain View, MO
+        Saint Joseph Health Center                                  Saint Charles, MO
+        Saint Joseph Hospital of Kirkwood                           Kirkwood, MO
+        Saint Joseph Hospital West                                  Lake St. Louis, MO
+        Saint Louis University Health Science Center                St. Louis, MO
+        Saint Louis University Hospital                             St. Louis, MO
+        Saint Luke's East Hospital                                  Lee's Summit, MO
+        Saint Luke's Health System                                  Kansas City, MO
+        Saint Luke's Hospital                                       Kansas City, MO
+        Saint Luke's North Hospital–Barry Road                      Kansas City, MO
+        Saint Luke's North Hospital–Smithville                      Smithville, MO
+        Saint Mary's Health Center                                  Jefferson City, MO
+        Saint Mary's Hospital of Blue Springs                       Blue Springs, MO
+        Sainte Genevieve County Memorial Hospital                   Sainte Genevieve, MO
+        Salem Memorial District Hospital                            Salem, MO
+        Samaritan Hospital                                          Macon, MO
+        Scotland County Memorial Hospital                           Memphis, MO
+        Select Specialty Hospital                                   St. Louis, MO
+        Shriners Hospitals for Children                             St. Louis, MO
+        Southeast Missouri Community Treatment Center               Farmington, MO
+        Southeast Missouri Hospital                                 Cape Girardeau, MO
+        SouthPointe Hospital                                        St. Louis, MO
+        SSM DePaul Health Center                                    Bridgeton, MO
+        SSM Health Cardinal Glennon Children's Hospital             St. Louis, MO
+        SSM Health Care                                             St. Louis, MO
+        SSM Rehab                                                   St. Louis, MO
+        SSM Saint Mary's Health Center                              Richmond Heights, MO
+        St. Joseph Medical Center                                   Kansas City, MO
+        St. Louis Behavioral Medicine Institute                     St. Louis, MO
+        St. Louis Children's Hospital                               St. Louis, MO
+        St. Louis VA Medical Center                                 St. Louis, MO
+        St. Luke's Hospital                                         Chesterfield, MO
+        St. Lukes Des Peres Hospital                                Des Peres, MO
+        Sullivan County Memorial Hospital                           Milan, MO
+        Tenet St. Louis                                             St. Louis, MO
+        Texas County Memorial Hospital                              Houston, MO
+        The Rehabilitation Institute                                Kansas City, MO
+        The Rehabilitation Institute of St. Louis                   St. Louis, MO
+        Three Rivers Healthcare                                     Poplar Bluff, MO
+        Two Rivers Psychiatric Hospital                             Kansas City, MO
+        University Health Lakewood Medical Center                   Kansas City, MO
+        University Health Truman Medical Center                     Kansas City, MO
+        University Hospital                                         Columbia, MO
+        University of Missouri Children's Hospital                  Columbia, MO
+        University of Missouri Health Care                          Columbia, MO
+        Washington County Memorial Hospital                         Potosi, MO
+        Washington University Medical Center                        St. Louis, MO
+        Western Missouri Medical Center                             Warrensburg, MO
+        Western Missouri Mental Health Center                       Kansas City, MO
+        Wright Memorial Hospital                                    Trenton, MO
+
         Barrett Hospital & HealthCare                               Dillon, MT
         Beartooth Hospital and Health Center                        Red Lodge, MT
         Benefis Health System                                       Great Falls, MT
@@ -8444,6 +8619,102 @@ TAMC        f. The Aroostook Medical Center                         Presque Isle
         University of Montana Health Service                        Missoula, MT
         Veterans Affairs Montana Health Care System                 Fort Harrison, MT
         Wheatland Memorial Hospital                                 Harlowton, MT
+
+        Annie Jeffrey Health Center                                 Osceola, NE
+        Antelope Memorial Hospital                                  Neligh, NE
+        Avera Creighton Hospital                                    Creighton, NE
+        Beatrice Community Hospital                                 Beatrice, NE
+        Bellevue Medical Center                                     Bellevue, NE
+        Boone County Community Hospital                             Albion, NE
+        Box Butte General Hospital                                  Alliance, NE
+        Boys Town National Research Hospital                        Omaha, NE
+        Brodstone Memorial Hospital                                 Superior, NE
+        Brown County Hospital                                       Ainsworth, NE
+        Bryan Medical Center, East                                  Lincoln, NE
+        Bryan Medical Center, West                                  Lincoln, NE
+        Butler County Health Care Center                            David City, NE
+        Callaway District Hospital                                  Callaway, NE
+        Chadron Community Hospital                                  Chadron, NE
+        Chase County Community Hospital                             Imperial, NE
+        Cherry County Hospital                                      Valentine, NE
+        Children's Hospital & Medical Center                        Omaha, NE
+        Columbus Community Hospital                                 Columbus, NE
+        Community Hospital                                          McCook, NE
+        Community Medical Center                                    Falls City, NE
+        Community Memorial Hospital                                 Syracuse, NE
+        Cozard Community Hospital                                   Cozad, NE
+        Creighton University Medical Center, Bergan Mercy           Omaha, NE
+        Creighton University Medical Center, University Campus      Omaha, NE
+        Crete Area Medical Center                                   Crete, NE
+        Dundy County Hospital                                       Benkelman, NE
+        Faith Regional Medical Center                               Norfolk, NE
+        Fillmore County Hospital                                    Geneva, NE
+        Franklin County Memorial Hospital                           Franklin, NE
+        Garden County Hospital                                      Oshkosh, NE
+        Genoa Community Hospital                                    Genoa, NE
+        Good Samaritan Hospital                                     Kearney, NE
+        Gordon Memorial Hospital                                    Gordon, NE
+        Gothenburg Memorial Hospital                                Gothenburg, NE
+        Grand Island Regional Medical Center                        Grand Island, NE
+        Grand Island VA Medical Center                              Grand Island, NE
+        Great Plains Regional Medical Center                        North Platte, NE
+        Harlan County Community Hospital                            Alma, NE
+        Howard County Community Hospital and Medical Center         Saint Paul, NE
+        Immanuel Medical Center                                     Omaha, NE
+        Jefferson County Memorial Hospital                          Fairbury, NE
+        Jennie Melham Medical Center                                Broken Bow, NE
+        Johnson County Hospital                                     Tecumseh, NE
+        Kearney County Community Hospital                           Minden, NE
+        Kearney Regional Medical Center                             Kearney, NE
+        Kimball County Hospital                                     Kimball, NE
+        Lakeside Medical Center                                     Omaha, NE
+        Madonna Rehabilitation Hospital                             Omaha, NE
+        Mary Lanning Memorial Hospital                              Hastings, NE
+        Memorial Community Hospital                                 Blair, NE
+        Memorial Hospital                                           Aurora, NE
+        Memorial Hospital                                           Seward, NE
+        Merrick Medical Center                                      Central City, NE
+        Methodist Fremont Health                                    Fremont, NE
+        Methodist Hospital, Main Campus                             Omaha, NE
+        Methodist Women's Hospital                                  Omaha, NE
+        Midlands Community Hospital                                 Papillion, NE
+        Morrill County Community Hospital                           Bridgeport, NE
+        Nebraska Heart Hospital                                     Lincoln, NE
+        Nebraska Orthopaedic Hospital                               Omaha, NE
+        Nemaha County Hospital                                      Auburn, NE
+        Niobrara Valley Hospital                                    Lynch, NE
+        Norfolk Regional Center                                     Norfolk, NE
+        Ogallala Community Hospital                                 Ogallala, NE
+        Osmond General Hospital                                     Osmond, NE
+        Pawnee County Memorial Hospital                             Pawnee City, NE
+        Pender Community Hospital                                   Pender, NE
+        Perkins County Health Services                              Grant, NE
+        Phelps Memorial Health Center                               Holdrege, NE
+        Plainview Public Hospital                                   Plainview, NE
+        Providence Medical Center                                   Wayne, NE
+        Regional West Medical Center                                Scottsbluff, NE
+        Rock County Hospital                                        Bassett, NE
+        Saint Francis Memorial Hospital                             West Point, NE
+        Saunders County Community Hospital                          Wahoo, NE
+        Schuyler Memorial Hospital                                  Schuyler, NE
+        Sidney Regional Medical Center                              Sidney, NE
+        St. Anthony's Hospital                                      O'Neill, NE
+        St. Elizabeth Regional Medical Center                       Lincoln, NE
+        St. Francis Hospital                                        Grand Island, NE
+        St. Mary's Hospital                                         Nebraska City, NE
+        Thayer County Hospital                                      Hebron, NE
+        Tri County Area Hospital                                    Lexington, NE
+        Tri Valley Health Systems                                   Cambridge, NE
+        University of Nebraska Medical Center                       Omaha, NE
+        VA Medical Center                                           Lincoln, NE
+        VA Medical Center                                           Omaha, NE
+        Valley County Hospital                                      Ord, NE
+        Warren Memorial Hospital                                    Friend, NE
+        Webster County Community Hospital                           Red Cloud, NE
+        West Holt Memorial Hospital                                 Atkinson, NE
+        Winnebago Indian Health Services                            Winnebago, NE
+        York General Hospital                                       York, NE
+
 
 ========== defunct ==========
 
