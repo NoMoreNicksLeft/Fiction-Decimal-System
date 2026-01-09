@@ -26,7 +26,7 @@ There are many ways for a country to cease to effectively exist. Defining these 
 * **Conquest** - **
 * **Annexation** - *Peaceful joining to a larger or more powerful country.*
 * **Unification** - *Peaceful and consensual joining of approximate equals.*
-* **Revolt** - **
+* **Revolt** - *Not so peaceful form of protests.*
 
 ### Index
 
@@ -36,9 +36,9 @@ There are many ways for a country to cease to effectively exist. Defining these 
 |num-4|alpah-4|English|endonym|date|government|demise|
 |:--|:--|--|--|--|--|--:|
 ||`LATL`|Latin League|||||
-||`ROMK`|Roman Kingdom|REGNVM ROMANVM||||
-||`SPQR`|Roman Republic|SENATVS POPVLVS QVE ROMANVS||||
-||`ROME`|Roman Empire|IMPERIVM ROMANUM||||
+||`ROMK`|Roman Kingdom|REGNVM ROMANVM|509 BC|Monarchy|Coup d'état|
+||`SPQR`|Roman Republic|SENATVS POPVLVS QVE ROMANVS|27 BC|Republic||
+||`ROME`|Roman Empire|IMPERIVM ROMANUM|476 AD|Monarchy|Collapse|
 ||`WROM`|Western Roman Empire|||||
 ||`BYZA`|Byzantine Empire|Βασιλεία Ῥωμαίων||||
 ||`NICE`|Empire of Nicea|||||
@@ -59,10 +59,28 @@ There are many ways for a country to cease to effectively exist. Defining these 
 ||`SATH`|Second Athenian Empire|||||
 ||`CORL`|League of Corinth|||||
 
-**Greek Poleis (City-States)*
+*Greek Poleis (City-States)*
 
 Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
 
 |num-4|alpah-4|English|endonym|date|government|demise|Geo|
 |:--|:--|--|--|--|--|--:|--|
 |||||||||
+
+*North america*
+
+| num-4 | alpha-4 | English         | endonym       | date       | government | demise   |
+|:-----:|:-------:|-----------------|---------------|------------|------------|----------|
+|       | `IRQL`  | Iroquois League | Haudenosaunee | 18??-??-?? | Republic   | Conquest |
+|       | `CHER`  | Cherokee Nation | Tsalagi       | 1836-??-?? | Republic   | Conquest |
+
+
+
+*Europe*
+
+
+|num-4|alpah-4|English|endonym|date|government|demise|
+|:--|:--|--|--|--|--|--:|
+||`DEKA`|German empire|Kaiserreich|November 9, 1918|Monarchy|Collapse|
+||`ATHU`|Austro-hungarian empire|Österreichisch-Ungarische Monarchie/Osztrák–Magyar Monarchia|November 13, 1918|Monarchy|Collapse|
+||`ATHU`|Ottoman empire|دولت عليه عثمانیه|October 29, 1923|Monarchy|Collapse|
